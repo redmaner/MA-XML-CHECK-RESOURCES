@@ -14,6 +14,6 @@ What information is used
 
 Example
 -------------------------------------------------------------------------------------
-<i><enabled="yes" name="Dutch" iso="nl" url="https://github.com/Redmaner/MA-XML-5.0-DUTCH.git" git="git@github.com:Redmaner/MA-XML-5.0-DUTCH.git" branch="master"/></i><br>
+<script><enabled="yes" name="Dutch" iso="nl" url="https://github.com/Redmaner/MA-XML-5.0-DUTCH.git" git="git@github.com:Redmaner/MA-XML-5.0-DUTCH.git" branch="master"/></script><br>
 Note: all information must be on one line!<br>
 MA-XML-CHECK will pull languages.xml regulary so that languages can be added/disabled/enabled fast and easy.<br>
