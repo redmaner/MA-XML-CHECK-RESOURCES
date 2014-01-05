@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<languages>
+	<enabled="yes" name="Arabic" iso="ar" url="https://github.com/MIUI-Palestine/MIUIPalestine_V5_Arabic_XML" git="git@github.com:MIUI-Palestine/MIUIPalestine_V5_Arabic_XML.git" branch="master"/>
+	<enabled="yes" name="Brazilian-Portuguese" iso="pt-rBR" url="https://bitbucket.org/miuibrasil/ma-xml-5.0-portuguese-brazilian" git="git@bitbucket.org:miuibrasil/ma-xml-5.0-portuguese-brazilian.git"  branch="master"/>
+	<enabled="yes" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-5.0-BULGARIAN" git="git@github.com:ingbrzy/MA-XML-5.0-BULGARIAN.git" branch="master"/>
+	<enabled="no" name="Chuvash" iso="cv" url="https://github.com/ingbrzy/MA-XML-5.0-CHUVASH" git="git@github.com:ingbrzy/MA-XML-5.0-CHUVASH.git" branch="master"/>
+	<enabled="yes" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-5.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-5.0-CZECH.git" branch="master"/>
+	<enabled="yes" name="Danish" iso="da" url="https://github.com/1982Strand/XML_MIUI-v5_Danish" git="git@github.com:1982Strand/XML_MIUI-v5_Danish.git" branch="master"/>
+	<enabled="yes" name="Dutch" iso="nl" url="https://github.com/Redmaner/MA-XML-5.0-DUTCH.git" git="git@github.com:Redmaner/MA-XML-5.0-DUTCH.git" branch="master"/>
+	<enabled="yes" name="English" iso="en" url="https://github.com/iBotPeaches/MIUIAndroid_XML_v5" git="git@github.com:iBotPeaches/MIUIAndroid_XML_v5.git" branch="master"/>
+	<enabled="yes" name="Finnish" iso="fi" url="https://github.com/ingbrzy/MA-XML-5.0-FINNISH" git="git@github.com:ingbrzy/MA-XML-5.0-FINNISH.git" branch="master"/>
+	<enabled="yes" name="French" iso="fr" url="https://github.com/ingbrzy/ma-xml-5.0-FRENCH" git="git@github.com:ingbrzy/ma-xml-5.0-FRENCH.git" branch="master"/>
+	<enabled="yes" name="German" iso="de" url="https://github.com/Bitti09/ma-xml-5.0-german" git="git@github.com:Bitti09/ma-xml-5.0-german.git" branch="master"/>
+	<enabled="yes" name="Greek" iso="el" url="https://bitbucket.org/finner/ma-xml-5.0-greek" git="git@bitbucket.org:finner/ma-xml-5.0-greek.git" branch="master"/>
+	<enabled="yes" name="Hebrew" iso="iw" url="https://github.com/HebMIUI/HebMIUI_XML_v5/" git="git@github.com:HebMIUI/HebMIUI_XML_v5.git" branch="master"/>
+	<enabled="yes" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v5-hungarian-translation-for-miuiandroid" git="git@github.com:vagyula1/miui-v5-hungarian-translation-for-miuiandroid.git" branch="master"/>
+	<enabled="yes" name="Indonesian" iso="in" url="https://github.com/ingbrzy/MA-XML-5.0-INDONESIAN" git="git@github.com:ingbrzy/MA-XML-5.0-INDONESIAN.git" branch="master"/>
+	<enabled="yes" name="Italian" iso="it" url="https://bitbucket.org/Mish/miui_v5_italy" git="git@bitbucket.org:Mish/miui_v5_italy.git" branch="master"/>
+	<enabled="no" name="Japanese" iso="ja" url="https://github.com/ingbrzy/MA-XML-5.0-JAPANESE" git="git@github.com:ingbrzy/MA-XML-5.0-JAPANESE.git" branch="master"/>
+	<enabled="yes" name="Korean" iso="ko" url="https://github.com/nosoy1/ma-xml-5.0-korean" git="git@github.com:nosoy1/ma-xml-5.0-korean.git" branch="master"/>
+	<enabled="no" name="Kurdish" iso="ku" url="https://github.com/ingbrzy/MA-XML-5.0-KURDISH" git="git@github.com:ingbrzy/MA-XML-5.0-KURDISH.git" branch="master"/>
+	<enabled="yes" name="Malaysian" iso="ms-rMY" url="https://github.com/ingbrzy/MA-XML-5.0-MALAY" git="git@github.com:ingbrzy/MA-XML-5.0-MALAY.git" branch="master"/>
+	<enabled="yes" name="Norwegian" iso="nb" url="https://github.com/ingbrzy/MA-XML-5.0-NORWEGIAN" git="git@github.com:ingbrzy/MA-XML-5.0-NORWEGIAN.git" branch="master"/>
+	<enabled="yes" name="Polish" iso="pl" url="https://github.com/Acid-miuipolskapl/XML_MIUI-v5" git="git@github.com:Acid-miuipolskapl/XML_MIUI-v5.git" branch="master"/>
+	<enabled="yes" name="Romanian" iso="ro" url="https://github.com/ingbrzy/MA-XML-5.0-ROMANIAN" git="git@github.com:ingbrzy/MA-XML-5.0-ROMANIAN.git" branch="master"/>
+	<enabled="yes" name="Russian" iso="ru" url="https://github.com/KDGDev/miui-v5-russian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v5-russian-translation-for-miuiandroid.git" branch="master"/>
+	<enabled="yes" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-5.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-5.0-SLOVAK.git" branch="master"/>
+	<enabled="yes" name="Spanish" iso="es" url="https://github.com/ingbrzy/MA-XML-5.0-SPANISH" git="git@github.com:ingbrzy/MA-XML-5.0-SPANISH.git" branch="master"/>
+	<enabled="yes" name="Swedish" iso="sv" url="https://github.com/ingbrzy/ma-xml-5.0-SWEDISH" git="git@github.com:ingbrzy/ma-xml-5.0-SWEDISH.git" branch="master"/>
+	<enabled="yes" name="Thai" iso="th" url="https://github.com/rcset/MIUIAndroid_XML_v5_TH" git="git@github.com:rcset/MIUIAndroid_XML_v5_TH.git" branch="master"/>
+	<enabled="yes" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-5.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-5.0-TURKISH.git" branch="master"/>
+	<enabled="yes" name="Ukrainian" iso="uk" url="https://github.com/KDGDev/miui-v5-ukrainian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v5-ukrainian-translation-for-miuiandroid.git" branch="master"/>
+	<enabled="yes" name="Vietnamese" iso="vi" url="https://github.com/HoangTuBot/MA-xml-v5-vietnam" git="git@github.com:HoangTuBot/MA-xml-v5-vietnam.git" branch="master"/>
+</languages>
