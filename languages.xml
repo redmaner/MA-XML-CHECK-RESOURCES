@@ -32,5 +32,5 @@
 	<language enabled="yes" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-5.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-5.0-TURKISH.git" branch="master"/>
 	<language enabled="yes" name="Ukrainian" iso="uk" url="https://github.com/KDGDev/miui-v5-ukrainian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v5-ukrainian-translation-for-miuiandroid.git" branch="master"/>
 	<language enabled="yes" name="Vietnamese" iso="vi" url="https://github.com/HoangTuBot/MA-xml-v5-vietnam" git="git@github.com:HoangTuBot/MA-xml-v5-vietnam.git" branch="master"/>
-	<language enabled="yes" name="i18n_miui" iso="i18n" url="https://github.com/micode/i18n_miui" git="git@github.com:MiCode/i18n_miui.git" branch="master"/>
+	<language enabled="no" name="i18n_miui" iso="i18n" url="https://github.com/micode/i18n_miui" git="git@github.com:MiCode/i18n_miui.git" branch="master"/>
 </languages>
