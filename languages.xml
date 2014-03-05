@@ -36,6 +36,7 @@
 	<language enabled="no" miui="v5" name="i18n_miui" iso="i18n" url="https://github.com/micode/i18n_miui" git="git@github.com:MiCode/i18n_miui.git" branch="master"/>
 
 	<!-- MIUIv6 repo's - Alfabetical order-->
+	<language enabled="yes" miui="v6" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-6.0-BULGARIAN" git="git@github.com:ingbrzy/MA-XML-6.0-BULGARIAN.git" branch="master"/>	
 	<language enabled="yes" miui="v6" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-CZECH.git" branch="master"/>	
 	<language enabled="yes" miui="v6" name="Dutch" iso="nl" url="https://github.com/Redmaner/MIUIv6-XML-DUTCH" git="git@github.com:Redmaner/MIUIv6-XML-DUTCH.git" branch="master"/>	
 	<language enabled="yes" miui="v6" name="Polish" iso="pl" url="https://github.com/Acid-miuipolskapl/XML_MIUI-v6" git="git@github.com:Acid-miuipolskapl/XML_MIUI-v6.git" branch="master"/>
