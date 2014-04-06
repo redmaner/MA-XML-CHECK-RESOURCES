@@ -13,7 +13,7 @@
 	<item application="AntiSpam.apk" file="arrays.xml" name="st_block_settings"/>
 	<item application="Bluetooth.apk" file="strings.xml" name="bluetooth_share_file_name"/>
 	<item application="Bluetooth.apk" file="strings.xml" name="sharedUserId"/>
-
+	<item application="Bluetooth.apk" file="strings.xml" name="process"/>
 	<item application="Browser.apk" file="arrays.xml" name="baidu_in_list"/>
 	<item application="Browser.apk" file="arrays.xml" name="bing_in_list"/>
 	<item application="Browser.apk" file="arrays.xml" name="bing_zh_CN_in_list"/>
@@ -41,7 +41,22 @@
 	<item application="Browser.apk" file="arrays.xml" name="tupian_in_list"/>
 	<item application="Browser.apk" file="arrays.xml" name="yahoo_in_list"/>
 	<item application="Browser.apk" file="arrays.xml" name="yicha_in_list"/>
-	
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_default_value"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_never"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_default_value"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_value_never"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_value_wifi_only"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_value_always"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_link_prefetch_default_value"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_never"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_value_never"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_value_wifi_only"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_value_always"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_default_value"/>
 	<item application="Browser.apk" file="strings.xml" name="pref_ua_mione_value"/>
 	<item application="Browser.apk" file="strings.xml" name="webapp_autohority"/>
 	<item application="Browser.apk" file="strings.xml" name="webapp_app0"/>
