@@ -11,20 +11,202 @@
 	Please keep the applications and file types in alfabetical order, to keep the overview. -->
 <resources>
 	<item application="AntiSpam.apk" file="arrays.xml" name="st_block_settings"/>
+	<item application="Bluetooth.apk" file="strings.xml" name="bluetooth_share_file_name"/>
+	<item application="Bluetooth.apk" file="strings.xml" name="sharedUserId"/>
+	<item application="Bluetooth.apk" file="strings.xml" name="process"/>
+	<item application="Browser.apk" file="arrays.xml" name="baidu_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="bing_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="bing_zh_CN_in_list"/>
 	<item application="Browser.apk" file="arrays.xml" name="bookmark_preloads"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_data_preload_values"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_link_prefetch_values"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_video_preload_values"/>
 	<item application="Browser.apk" file="arrays.xml" name="bookmark_preloads_zh"/>
+	<item application="Browser.apk" file="arrays.xml" name="bookmarks_zh"/>
+	<item application="Browser.apk" file="arrays.xml" name="dianping_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="easou_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="google_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="pref_data_preload_values"/>
+	<item application="Browser.apk" file="arrays.xml" name="pref_fling_on_border_values"/>
 	<item application="Browser.apk" file="arrays.xml" name="pref_images_preload_values"/>
+	<item application="Browser.apk" file="arrays.xml" name="pref_link_prefetch_values"/>
+	<item application="Browser.apk" file="arrays.xml" name="pref_ua_values"/>
+	<item application="Browser.apk" file="arrays.xml" name="pref_video_preload_values"/>
+	<item application="Browser.apk" file="arrays.xml" name="pref_volume_key_values"/>
+	<item application="Browser.apk" file="arrays.xml" name="readmode_content_font_size"/>
+	<item application="Browser.apk" file="arrays.xml" name="readmode_theme_bgcolors"/>
+	<item application="Browser.apk" file="arrays.xml" name="readmode_theme_fontcolors"/>
+	<item application="Browser.apk" file="arrays.xml" name="readmode_title_font_size"/>
+	<item application="Browser.apk" file="arrays.xml" name="s139_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="shipin_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="sogou_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="taobao_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="tupian_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="yahoo_in_list"/>
+	<item application="Browser.apk" file="arrays.xml" name="yicha_in_list"/>
 	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_default_value"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_never"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
 	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_default_value"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_value_never"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_value_wifi_only"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_value_always"/>
 	<item application="Browser.apk" file="strings.xml" name="pref_link_prefetch_default_value"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_never"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_value_never"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_value_wifi_only"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_value_always"/>
 	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_default_value"/>
+	<item application="Browser.apk" file="strings.xml" name="pref_ua_mione_value"/>
+	<item application="Browser.apk" file="strings.xml" name="webapp_autohority"/>
+	<item application="Browser.apk" file="strings.xml" name="webapp_app0"/>
+	<item application="Browser.apk" file="strings.xml" name="webapp_app1"/>
+	<item application="Browser.apk" file="strings.xml" name="webapp_app2"/>
+	<item application="Browser.apk" file="strings.xml" name="webapp_app3"/>
+	<item application="Browser.apk" file="strings.xml" name="webapp_app4"/>
+	<item application="Browser.apk" file="strings.xml" name="webapp_app5"/>
+	<item application="Browser.apk" file="strings.xml" name="webapp_pref_addtodesktop_popover"/>
+	<item application="Calendar.apk" file="arrays.xml" name="reminder_methods_values"/>
+	<item application="Calendar.apk" file="arrays.xml" name="reminder_minutes_values"/>
+	<item application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_values"/>
+	<item application="Calendar.apk" file="arrays.xml" name="preferences_week_start_day_values"/>
+	<item application="Calendar.apk" file="arrays.xml" name="timezone_values"/>
+	<item application="Calendar.apk" file="arrays.xml" name="availability_values"/>
+	<item application="Calendar.apk" file="arrays.xml" name="delete_repeating_values"/>
+	<item application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
 	<item application="Calendar.apk" file="strings.xml" name="birthday_event_title"/>
+	<item application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
+	<item application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
+	<item application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
 	<item application="Contacts.apk" file="arrays.xml" name="callrecordview_menu_show_values"/>
 	<item application="Contacts.apk" file="arrays.xml" name="preference_dial_pad_touch_tone_entries"/>
 	<item application="Contacts.apk" file="arrays.xml" name="auto_answer_phone_operator_bluetooth_select"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_id_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_recordlocation_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_sound_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_sound_entryvalue_off"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_sound_entryvalue_on"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_captrue_mirror_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_captrue_mirror_value_off"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_captrue_mirror_value_on"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_video_quality_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_mtk_video_quality_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_video_time_lapse_frame_interval_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_jpegquality_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_size_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_size_default_hm2a"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm2a"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_size_default_hm2"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm2"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm2s"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm3"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_m4w"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_format_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_format_value_jpeg"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_format_value_raw"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_histogram_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_histogram_value_enable"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_histogram_value_disable"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_focusmode_value_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_flashmode_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_skin_beautify_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_video_flashmode_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_auto"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_incandescent"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_daylight"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_fluorescent"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_cloudy"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_manual"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_measure"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_coloreffect_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_touchafaec_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_contrast_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_mtk_camera_contrast_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_saturation_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_mtk_camera_saturation_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_sharpness_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_mtk_camera_sharpness_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_scenemode_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_scenedetect_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_exposure_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_denoise_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_antibanding_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_antibanding_60"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_auto"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso100"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso200"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso400"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso800"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso1600"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso3200"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_off"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_2x"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_3x"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_4x"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_video_speed_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_video_speed_value_normal"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_video_speed_value_fast"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_video_speed_value_slow"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_video_effect_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_value_frameaverage"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_value_centerweighted"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_value_spotmetering"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_videoencoder_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_audioencoder_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_video_duration_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_auto"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_enable"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_disable"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_zsl_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_selectablezoneaf_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_zsl_value_off"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_zsl_value_on"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_facedetection_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_powermode_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_redeyereduction_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_ae_bracket_hdr_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_referenceline_entryvalue_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_referenceline_entryvalue_off"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_referenceline_entryvalue_on"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_volume"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_shutter"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_zoom"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_exposure"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_long_pressing_burst_shooting_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_movie_solid_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_movie_solid_value_off"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_movie_solid_value_on"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_watermark_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_watermark_entryvalue_off"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_watermark_entryvalue_on"/>
+	<!-- translatable ?
+	<item application="Camera.apk" file="strings.xml" name="accessibility_flash_mode_button"/>
+	<item application="Camera.apk" file="strings.xml" name="accessibility_skin_beautify_button"/>
+	<item application="Camera.apk" file="strings.xml" name="accessibility_scroll_button_slider"/>
+	<item application="Camera.apk" file="strings.xml" name="accessibility_show_setting_panel_button"/>
+	-->
+	<item application="Camera.apk" file="strings.xml" name="pref_scan_qrcode_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_scan_qrcode_value_off"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_scan_qrcode_value_on"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_exposuretime_default"/>
+	<item application="Camera.apk" file="strings.xml" name="camera_face_beauty_default"/>
+	<item application="Camera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
+	<item application="Camera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_show_gender_age_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_multiple_face_beauty_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_multiple_face_beauty_values_off"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_multiple_face_beauty_values_on"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_hdr_type_entryvalue_normal"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_hdr_type_entryvalue_default"/>
+	<item application="Camera.apk" file="strings.xml" name="pref_camera_hdr_type_entryvalue_live"/>
 	<item application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_entries"/>
 	<item application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_entries_push"/>
 	<item application="Email.apk" file="arrays.xml" name="account_settings_mail_window_entries"/>
@@ -46,8 +228,8 @@
 	<item application="MiuiGallery.apk" file="arrays.xml" name="count_entryValues"/>
 	<item application="MiuiGallery.apk" file="arrays.xml" name="color_picker_colors"/>
 	<item application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entryValues"/>
-	<item application="Music.apk" file="arrays.xml" name="dirac_equalizer_preset_names"/>	
-	<item application="Music.apk" file="arrays.xml" name="music_quality"/>	
+	<item application="Music.apk" file="arrays.xml" name="dirac_equalizer_preset_names"/>
+	<item application="Music.apk" file="arrays.xml" name="music_quality"/>
 	<item application="Notes.apk" file="arrays.xml" name="count_values"/>
 	<item application="PackageInstaller.apk" file="arrays.xml" name="permission_grps"/>
 	<item application="PackageInstaller.apk" file="arrays.xml" name="perimission_action_entries"/>
