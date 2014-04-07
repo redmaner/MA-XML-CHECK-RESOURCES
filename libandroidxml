@@ -20,7 +20,7 @@ case `uname -s` in
 esac
 
 # Global variables
-LIB_VERSION=0.1
+LIB_VERSION=0.2
 
 #########################################################################################################
 # arrays.xml
@@ -90,13 +90,21 @@ esac
 strings_parse () {
 TARGET_STRING=$1
 TARGET_FILE=$2
-sed -e '/'"$TARGET_STRING"'/,/string/!d' $TARGET_FILE
+if [ $(grep ''$TARGET_STRING'' $TARGET_FILE | grep '</string>' | wc -l) == 0 ]; then
+	sed -e '/'$TARGET_STRING'/,/string/!d' $TARGET_FILE
+else 
+	grep ''$TARGET_STRING'' $TARGET_FILE
+fi
 }
 
 strings_remove () {
 TARGET_STRING=$1
 TARGET_FILE=$2
-sed -i '/'"$TARGET_STRING"'/,/string/d' $TARGET_FILE
+if [ $(grep ''$TARGET_STRING'' $TARGET_FILE | grep '</string>' | wc -l) == 0 ]; then
+	sed -i '/'$TARGET_STRING'/,/string/d' $TARGET_FILE
+else
+	sed -i '/'$TARGET_STRING'/d' $TARGET_FILE
+fi
 }
 
 #########################################################################################################
