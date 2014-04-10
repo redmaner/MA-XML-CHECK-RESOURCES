@@ -39,12 +39,12 @@ if [ -d $TARGET_DIR ]; then
 		find $apk_target -iname "arrays.xml" | while read array_target; do
 			cat $array_target | grep "<string-array name=" | while read all_line; do
 				string_array=$(echo $all_line | cut -d'"' -f2 | cut -d'>' -f1)
-				item_count=$(sed -e '/name="'$TARGET_ARRAY'"/,/string-array/!d' $array_target | grep '<item>' | wc -l)
+				item_count=$(sed -e '/name="'$string_array'"/,/string-array/!d' $array_target | grep '<item>' | wc -l)
 				echo '      <item application="'$APK'" name="'$string_array'" count="'$item_count'"/>'
 			done >> $ARRAY_COUNT_DIR_XML
 			cat $array_target | grep "<array name=" | while read all_line; do
 				string_array=$(echo $all_line | cut -d'"' -f2 | cut -d'>' -f1)
-				item_count=$(sed -e '/name="'$TARGET_ARRAY'"/,/array/!d' $array_target | grep '<item>' | wc -l)
+				item_count=$(sed -e '/name="'$string_array'"/,/array/!d' $array_target | grep '<item>' | wc -l)
 				echo '      <item application="'$APK'" name="'$string_array'" count="'$item_count'"/>'
 			done >> $ARRAY_COUNT_DIR_XML
 		done

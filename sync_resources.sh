@@ -39,6 +39,6 @@ else
 	git clone git@github.com:Redmaner/MIUI-XML-DEV.git -b MIUIv5 MIUIv5-XML-DEV
 fi
 
-source libandroidxml
+source array_tools.sh
 arrays_count_items_directory MIUIv6-XML-DEV/Dev MIUIv6_arrays_items.xml
 arrays_count_items_directory MIUIv5-XML-DEV/Dev MIUIv5_arrays_items.xml
