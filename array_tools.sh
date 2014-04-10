@@ -39,12 +39,12 @@ if [ -d $TARGET_DIR ]; then
 		find $apk_target -iname "arrays.xml" | while read array_target; do
 			cat $array_target | grep "<string-array name=" | while read all_line; do
 				string_array=$(echo $all_line | cut -d'"' -f2 | cut -d'>' -f1)
-				item_count=$(sed -e '/'"$string_array"'/,/string-array/!d' $array_target | grep '<item>' | wc -l)
+				item_count=$(sed -e '/name="'$TARGET_ARRAY'"/,/string-array/!d' $array_target | grep '<item>' | wc -l)
 				echo '      <item application="'$APK'" name="'$string_array'" count="'$item_count'"/>'
 			done >> $ARRAY_COUNT_DIR_XML
 			cat $array_target | grep "<array name=" | while read all_line; do
 				string_array=$(echo $all_line | cut -d'"' -f2 | cut -d'>' -f1)
-				item_count=$(sed -e '/'"$string_array"'/,/array/!d' $array_target | grep '<item>' | wc -l)
+				item_count=$(sed -e '/name="'$TARGET_ARRAY'"/,/array/!d' $array_target | grep '<item>' | wc -l)
 				echo '      <item application="'$APK'" name="'$string_array'" count="'$item_count'"/>'
 			done >> $ARRAY_COUNT_DIR_XML
 		done
@@ -58,8 +58,8 @@ TARGET_ARRAY=$1
 TARGET_ARRAY_TYPE=$2
 TARGET_FILE=$3
 case "$TARGET_ARRAY_TYPE" in
-	string-array) sed -e '/'"$TARGET_ARRAY"'/,/string-array/!d' $TARGET_FILE | grep '<item>' | wc -l;;
-	array) sed -e '/'"$TARGET_ARRAY"'/,/array/!d' $TARGET_FILE | grep '<item>' | wc -l;;
+	string-array) sed -e '/name="'$TARGET_ARRAY'"/,/string-array/!d' $TARGET_FILE | grep '<item>' | wc -l;;
+	array) sed -e '/name="'$TARGET_ARRAY'"/,/array/!d' $TARGET_FILE | grep '<item>' | wc -l;;
 esac
 }
 
@@ -68,7 +68,7 @@ TARGET_ARRAY=$1
 TARGET_ARRAY_TYPE=$2
 TARGET_FILE=$3
 case "$TARGET_ARRAY_TYPE" in
-	string-array) sed -e '/'"$TARGET_ARRAY"'/,/string-array/!d' $TARGET_FILE;;
-	array) sed -e '/'"$TARGET_ARRAY"'/,/array/!d' $TARGET_FILE;;
+	string-array) sed -e '/name="'$TARGET_ARRAY'"/,/string-array/!d' $TARGET_FILE;;
+	array) sed -e '/name="'$TARGET_ARRAY'"/,/array/!d' $TARGET_FILE;;
 esac
 }
