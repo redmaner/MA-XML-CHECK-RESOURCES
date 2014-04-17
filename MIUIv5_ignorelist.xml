@@ -216,6 +216,20 @@
 	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_all_unread"/>
 	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_starred"/>
  	<item application="Email.apk" file="strings.xml" name="wait_help_context"/>
+  	<item application="Email.apk" file="strings.xml" name="mock_content_provider"/>
+	<item application="Email.apk" file="strings.xml" name="conversation_content_provider"/>
+	<item application="Email.apk" file="strings.xml" name="account_cache_provider"/>
+	<item application="Email.apk" file="strings.xml" name="reply_subject_label"/>
+	<item application="Email.apk" file="strings.xml" name="forward_subject_label"/>
+	<item application="Email.apk" file="strings.xml" name="report_rendering_problem"/>
+	<item application="Email.apk" file="strings.xml" name="report_rendering_improvement"/>
+	<item application="Email.apk" file="strings.xml" name="report_rendering_problem_desc"/>
+ 	<item application="Email.apk" file="strings.xml" name="report_rendering_improvement_desc"/>
+  	<item application="Email.apk" file="strings.xml" name="prefDefault_autoAdvance"/>
+	<item application="Email.apk" file="strings.xml" name="prefDefault_removal_action"/>
+	<item application="Email.apk" file="strings.xml" name="eml_attachment_provider"/>
+	<item application="Email.apk" file="strings.xml" name="widget_provider"/>
+	<item application="Email.apk" file="strings.xml" name="compose_help_context"/>
 	<item application="Exchange2.apk" file="arrays.xml" name="account_settings_mail_window_entries"/>
 	<item application="LiveWallpapers.apk" file="arrays.xml" name="polar_clock_palette_names"/>
 	<item application="MiuiGallery.apk" file="arrays.xml" name="thumb_date_entryValues"/>
