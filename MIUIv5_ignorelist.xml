@@ -10,390 +10,390 @@
 
 	Please keep the applications and file types in alfabetical order, to keep the overview. -->
 <resources>
-	<item application="AntiSpam.apk" file="arrays.xml" name="st_block_settings"/>
-	<item application="Browser.apk" file="arrays.xml" name="baidu_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="bing_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="bing_zh_CN_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="bookmark_preloads"/>
-	<item application="Browser.apk" file="arrays.xml" name="bookmark_preloads_zh"/>
-	<item application="Browser.apk" file="arrays.xml" name="bookmarks_zh"/>
-	<item application="Browser.apk" file="arrays.xml" name="dianping_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="easou_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="google_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_data_preload_values"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_fling_on_border_values"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_images_preload_values"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_link_prefetch_values"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_ua_values"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_video_preload_values"/>
-	<item application="Browser.apk" file="arrays.xml" name="pref_volume_key_values"/>
-	<item application="Browser.apk" file="arrays.xml" name="readmode_content_font_size"/>
-	<item application="Browser.apk" file="arrays.xml" name="readmode_theme_bgcolors"/>
-	<item application="Browser.apk" file="arrays.xml" name="readmode_theme_fontcolors"/>
-	<item application="Browser.apk" file="arrays.xml" name="readmode_title_font_size"/>
-	<item application="Browser.apk" file="arrays.xml" name="s139_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="shipin_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="sogou_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="taobao_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="tupian_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="yahoo_in_list"/>
-	<item application="Browser.apk" file="arrays.xml" name="yicha_in_list"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_default_value"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_never"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_default_value"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_value_never"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_value_wifi_only"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_images_preload_value_always"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_link_prefetch_default_value"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_never"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_value_never"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_value_wifi_only"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_value_always"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_video_preload_default_value"/>
-	<item application="Browser.apk" file="strings.xml" name="pref_ua_mione_value"/>
-	<item application="Browser.apk" file="strings.xml" name="webapp_autohority"/>
-	<item application="Browser.apk" file="strings.xml" name="webapp_app0"/>
-	<item application="Browser.apk" file="strings.xml" name="webapp_app1"/>
-	<item application="Browser.apk" file="strings.xml" name="webapp_app2"/>
-	<item application="Browser.apk" file="strings.xml" name="webapp_app3"/>
-	<item application="Browser.apk" file="strings.xml" name="webapp_app4"/>
-	<item application="Browser.apk" file="strings.xml" name="webapp_app5"/>
-	<item application="Browser.apk" file="strings.xml" name="webapp_pref_addtodesktop_popover"/>
-	<item application="Calendar.apk" file="arrays.xml" name="reminder_methods_values"/>
-	<item application="Calendar.apk" file="arrays.xml" name="reminder_minutes_values"/>
-	<item application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_values"/>
-	<item application="Calendar.apk" file="arrays.xml" name="preferences_week_start_day_values"/>
-	<item application="Calendar.apk" file="arrays.xml" name="timezone_values"/>
-	<item application="Calendar.apk" file="arrays.xml" name="availability_values"/>
-	<item application="Calendar.apk" file="arrays.xml" name="delete_repeating_values"/>
-	<item application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
-	<item application="Calendar.apk" file="strings.xml" name="birthday_event_title"/>
-	<item application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
-	<item application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
-	<item application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
-	<item application="Contacts.apk" file="arrays.xml" name="callrecordview_menu_show_values"/>
-	<item application="Contacts.apk" file="arrays.xml" name="preference_dial_pad_touch_tone_entries"/>
-	<item application="Contacts.apk" file="arrays.xml" name="auto_answer_phone_operator_bluetooth_select"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_id_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_recordlocation_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_sound_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_sound_entryvalue_off"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_sound_entryvalue_on"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_captrue_mirror_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_captrue_mirror_value_off"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_captrue_mirror_value_on"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_video_quality_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_mtk_video_quality_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_video_time_lapse_frame_interval_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_jpegquality_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_size_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_size_default_hm2a"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm2a"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_size_default_hm2"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm2"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm2s"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm3"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_m4w"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_format_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_format_value_jpeg"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_picture_format_value_raw"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_histogram_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_histogram_value_enable"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_histogram_value_disable"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_focusmode_value_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_flashmode_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_skin_beautify_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_video_flashmode_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_auto"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_incandescent"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_daylight"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_fluorescent"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_cloudy"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_manual"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_measure"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_coloreffect_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_touchafaec_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_contrast_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_mtk_camera_contrast_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_saturation_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_mtk_camera_saturation_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_sharpness_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_mtk_camera_sharpness_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_scenemode_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_scenedetect_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_exposure_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_denoise_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_antibanding_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_antibanding_60"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_auto"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso100"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso200"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso400"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso800"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso1600"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso3200"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_off"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_2x"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_3x"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_4x"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_video_speed_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_video_speed_value_normal"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_video_speed_value_fast"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_video_speed_value_slow"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_video_effect_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_value_frameaverage"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_value_centerweighted"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_value_spotmetering"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_videoencoder_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_audioencoder_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_video_duration_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_auto"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_enable"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_disable"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_zsl_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_selectablezoneaf_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_zsl_value_off"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_zsl_value_on"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_facedetection_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_powermode_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_redeyereduction_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_ae_bracket_hdr_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_referenceline_entryvalue_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_referenceline_entryvalue_off"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_referenceline_entryvalue_on"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_volume"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_shutter"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_zoom"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_exposure"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_long_pressing_burst_shooting_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_movie_solid_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_movie_solid_value_off"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_movie_solid_value_on"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_watermark_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_watermark_entryvalue_off"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_watermark_entryvalue_on"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_scan_qrcode_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_scan_qrcode_value_off"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_scan_qrcode_value_on"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_exposuretime_default"/>
-	<item application="Camera.apk" file="strings.xml" name="camera_face_beauty_default"/>
-	<item application="Camera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
-	<item application="Camera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_show_gender_age_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_multiple_face_beauty_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_multiple_face_beauty_values_off"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_multiple_face_beauty_values_on"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_hdr_type_entryvalue_normal"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_hdr_type_entryvalue_default"/>
-	<item application="Camera.apk" file="strings.xml" name="pref_camera_hdr_type_entryvalue_live"/>
-	<item application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_entries"/>
-	<item application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_entries_push"/>
-	<item application="Email.apk" file="arrays.xml" name="account_settings_mail_window_entries"/>
-	<item application="Email.apk" file="arrays.xml" name="account_settings_mail_window_entries_with_default"/>
-	<item application="Email.apk" file="arrays.xml" name="general_preference_auto_advance_entries"/>
-	<item application="Email.apk" file="arrays.xml" name="general_preference_text_zoom_entries"/>
-	<item application="Email.apk" file="arrays.xml" name="mailbox_display_names"/>
-	<item application="Email.apk" file="arrays.xml" name="mailbox_display_icons"/>
-	<item application="Email.apk" file="arrays.xml" name="combined_view_account_colors"/>
-	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_drafts"/>
-	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_inbox"/>
-	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_junk"/>
-	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_outbox"/>
-	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_sent"/>
-	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_trash"/>
-	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_all_unread"/>
-	<item application="Email.apk" file="strings.xml" name="mailbox_name_server_starred"/>
- 	<item application="Email.apk" file="strings.xml" name="wait_help_context"/>
-  	<item application="Email.apk" file="strings.xml" name="mock_content_provider"/>
-	<item application="Email.apk" file="strings.xml" name="conversation_content_provider"/>
-	<item application="Email.apk" file="strings.xml" name="account_cache_provider"/>
-	<item application="Email.apk" file="strings.xml" name="reply_subject_label"/>
-	<item application="Email.apk" file="strings.xml" name="forward_subject_label"/>
-	<item application="Email.apk" file="strings.xml" name="report_rendering_problem"/>
-	<item application="Email.apk" file="strings.xml" name="report_rendering_improvement"/>
-	<item application="Email.apk" file="strings.xml" name="report_rendering_problem_desc"/>
- 	<item application="Email.apk" file="strings.xml" name="report_rendering_improvement_desc"/>
-  	<item application="Email.apk" file="strings.xml" name="prefDefault_autoAdvance"/>
-	<item application="Email.apk" file="strings.xml" name="prefDefault_removal_action"/>
-	<item application="Email.apk" file="strings.xml" name="eml_attachment_provider"/>
-	<item application="Email.apk" file="strings.xml" name="widget_provider"/>
-	<item application="Email.apk" file="strings.xml" name="compose_help_context"/>
-	<item application="Exchange2.apk" file="arrays.xml" name="account_settings_mail_window_entries"/>
-	<item application="LiveWallpapers.apk" file="arrays.xml" name="polar_clock_palette_names"/>
-	<item application="MiuiGallery.apk" file="arrays.xml" name="thumb_date_entryValues"/>
-	<item application="MiuiGallery.apk" file="arrays.xml" name="count_entryValues"/>
-	<item application="MiuiGallery.apk" file="arrays.xml" name="color_picker_colors"/>
-	<item application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entryValues"/>
-	<item application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
-	<item application="Music.apk" file="arrays.xml" name="dirac_equalizer_preset_names"/>
-	<item application="Music.apk" file="arrays.xml" name="music_quality"/>
-	<item application="Notes.apk" file="arrays.xml" name="count_values"/>
-	<item application="PackageInstaller.apk" file="arrays.xml" name="permission_grps"/>
-	<item application="PackageInstaller.apk" file="arrays.xml" name="perimission_action_entries"/>
-	<item application="Phone.apk" file="arrays.xml" name="sip_call_options_entries"/>
-	<item application="Phone.apk" file="arrays.xml" name="sip_call_options_wifi_only_entries"/>
-	<item application="Phone.apk" file="arrays.xml" name="sip_call_options_values"/>
-	<item application="Phone.apk" file="arrays.xml" name="phone_type_values"/>
-	<item application="Phone.apk" file="arrays.xml" name="sip_send_keepalive_options"/>
-	<item application="Phone.apk" file="arrays.xml" name="incoming_call_widget_3way_targets"/>
-	<item application="Phone.apk" file="arrays.xml" name="incoming_call_widget_3way_target_descriptions"/>
-	<item application="Phone.apk" file="arrays.xml" name="incoming_call_widget_3way_direction_descriptions"/>
-	<item application="Phone.apk" file="arrays.xml" name="incoming_call_widget_2way_targets"/>
-	<item application="Phone.apk" file="arrays.xml" name="incoming_call_widget_2way_target_descriptions"/>
-	<item application="Phone.apk" file="arrays.xml" name="incoming_call_widget_2way_direction_descriptions"/>
-	<item application="Phone.apk" file="arrays.xml" name="answer_widget_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="connect_disconnect_vibrate_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="voice_quality_ui_values_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="cdma_call_waiting_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_targets_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_targets_light_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_target_descriptions_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_direction_descriptions_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_2way_targets_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_2way_target_descriptions_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_2way_direction_descriptions_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="auto_answer_delay_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="auto_answer_scenario_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="auto_record_scenario_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="umts_gsm_preferred_network_type_pref_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="cdma_preferred_network_type_pref_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="cdma_system_select_choices_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="clir_choices_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="tty_mode_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="dtmf_tone_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="call_waiting_tone_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="missed_call_notify_times_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="t9_indexing_method_entries_miui"/>
-	<item application="Phone.apk" file="arrays.xml" name="absent_num"/>
-	<item application="Phone.apk" file="arrays.xml" name="clir_values"/>
-	<item application="Phone.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
-	<item application="Phone.apk" file="strings.xml" name="sip_always"/>
-	<item application="Phone.apk" file="strings.xml" name="sip_address_only"/>
-	<item application="Phone.apk" file="strings.xml" name="sip_ask_me_each_time"/>
-	<item application="Phone.apk" file="strings.xml" name="domain_address"/>
-	<item application="Phone.apk" file="strings.xml" name="username"/>
-	<item application="Phone.apk" file="strings.xml" name="password"/>
-	<item application="Phone.apk" file="strings.xml" name="display_name"/>
-	<item application="Phone.apk" file="strings.xml" name="proxy_address"/>
-	<item application="Phone.apk" file="strings.xml" name="port"/>
-	<item application="Phone.apk" file="strings.xml" name="transport"/>
-	<item application="Phone.apk" file="strings.xml" name="send_keepalive"/>
-	<item application="Phone.apk" file="strings.xml" name="advanced_settings_container"/>
-	<item application="Phone.apk" file="strings.xml" name="auth_username"/>
-	<item application="Settings.apk" file="arrays.xml" name="opt_score_entryValues"/>
-	<item application="Settings.apk" file="arrays.xml" name="opt_score_entryValues_small"/>
-	<item application="Settings.apk" file="arrays.xml" name="wifi_security_no_eap"/>
-	<item application="Settings.apk" file="arrays.xml" name="input_method_selector_titles"/>
-	<item application="Settings.apk" file="arrays.xml" name="input_method_selector_values"/>
-	<item application="Settings.apk" file="arrays.xml" name="mi2_wifi_security"/>
-	<item application="Settings.apk" file="arrays.xml" name="font_size_title"/>
-	<item application="Settings.apk" file="arrays.xml" name="dolby_mode_entries"/>
-	<item application="Settings.apk" file="arrays.xml" name="dolby_equalizer_preset_names"/>
-	<item application="Settings.apk" file="arrays.xml" name="dndm_vip_list_group_array"/>
-	<item application="Settings.apk" file="arrays.xml" name="dndm_auto_time_trun_on_off"/>
-	<item application="Settings.apk" file="strings.xml" name="battery_stats_last_duration"/>
-	<item application="Settings.apk" file="strings.xml" name="wifi_security_psk_generic"/>
-	<item application="Settings.apk" file="strings.xml" name="wifi_security_short_psk_generic"/>
-	<item application="SoundRecorder.apk" file="arrays.xml" name="duration_entryValues"/>
-	<item application="TelephonyProvider.apk" file="arrays.xml" name="default_antispam_category"/>
-	<item application="Transfer.apk" file="arrays.xml" name="share_filters"/>
-	<item application="framework-miui-res.apk" file="arrays.xml" name="android_common_nicknames"/>
-	<item application="framework-miui-res.apk" file="arrays.xml" name="android_config_keyboardTapVibePattern"/>
-	<item application="framework-miui-res.apk" file="arrays.xml" name="android_config_longPressVibePattern"/>
-	<item application="framework-miui-res.apk" file="arrays.xml" name="android_config_mobile_hotspot_provision_app"/>
-	<item application="framework-miui-res.apk" file="arrays.xml" name="android_config_virtualKeyVibePattern"/>
-	<item application="framework-miui-res.apk" file="arrays.xml" name="android_special_locale_codes"/>
-	<item application="framework-miui-res.apk" file="arrays.xml" name="android_special_locale_names"/>
-	<item application="framework-miui-res.apk" file="arrays.xml" name="v5_number_progress_numbers"/>
-	<item application="framework-miui-res.apk" file="arrays.xml" name="preloaded_drawables"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_PinMmi"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_action_bar_up_description"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_add_account_label"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_allow"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_byteShort"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_capital_off"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_capital_on"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_choose_account_label"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_common_last_name_prefixes"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_common_name_conjunctions"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_common_name_prefixes"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_common_name_suffixes"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_default_audio_route_name_headphones"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_deny"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_factorytest_reboot"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_fast_scroll_alphabet"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_fileSizeSuffix"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_gigabyteShort"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_global_action_power_off"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_global_actions_airplane_mode_off_status"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_global_actions_airplane_mode_on_status"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_global_actions_toggle_airplane_mode"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_grant_permissions_header_text"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_kilobyteShort"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_cell_added"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_cleared"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_detected"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_start"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_emergency_call"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_checking_password"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_forgot_pattern"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_invalid_input"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_password_hint"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_submit_button"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_too_many_attempts"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_missing_sim_message_short"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_too_many_failed_attempts_countdown"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_megabyteShort"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_petabyteShort"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_phoneTypeMms"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_power_off"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_report"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_ringtone_default_with_actual"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_ringtone_silent"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_ringtone_unknown"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_safe_media_volume_warning"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_clear"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_query"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_search"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_submit"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_voice"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_shutdown_confirm"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_shutdown_progress"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_silent_mode_ring"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_silent_mode_silent"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_silent_mode_vibrate"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_ssl_certificate"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_storage_usb"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_terabyteShort"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_usb_cd_installer_notification_title"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_usb_mtp_notification_title"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_usb_ptp_notification_title"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="android_wifi_tether_configure_ssid_default"/>
-	<item application="framework-miui-res.apk" file="strings.xml" name="passwordIncorrect"/>
-	<item application="framework-res.apk" file="arrays.xml" name="preloaded_drawables"/>
-	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_when_silent"/>
-	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_when_silent"/>
-	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_direction_descriptions"/>
-	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_when_soundon"/>
-	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_when_soundon"/>
-	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_with_camera"/>
-	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_with_camera"/>
-	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_chevron_drawables"/>
-	<item application="framework-res.apk" file="strings.xml" name="default_wallpaper_component"/>
-	<item application="MMS.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
-	<item application="MMS.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
-	<item application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
-	<item application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
+	<item folder="all" application="AntiSpam.apk" file="arrays.xml" name="st_block_settings"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="baidu_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_zh_CN_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="bookmark_preloads"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="bookmark_preloads_zh"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="bookmarks_zh"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="dianping_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="easou_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="google_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_data_preload_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_fling_on_border_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_images_preload_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_link_prefetch_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_ua_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_video_preload_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_volume_key_values"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_content_font_size"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_theme_bgcolors"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_theme_fontcolors"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_title_font_size"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="s139_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="shipin_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="sogou_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="taobao_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="tupian_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="yahoo_in_list"/>
+	<item folder="all" application="Browser.apk" file="arrays.xml" name="yicha_in_list"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_default_value"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_never"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_default_value"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_never"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_wifi_only"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_always"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_default_value"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_never"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_never"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_wifi_only"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_always"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_default_value"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_ua_mione_value"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_autohority"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app0"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app1"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app2"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app3"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app4"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app5"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_pref_addtodesktop_popover"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="reminder_methods_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="reminder_minutes_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_week_start_day_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="timezone_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="availability_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="delete_repeating_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="birthday_event_title"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
+	<item folder="all" application="Contacts.apk" file="arrays.xml" name="callrecordview_menu_show_values"/>
+	<item folder="all" application="Contacts.apk" file="arrays.xml" name="preference_dial_pad_touch_tone_entries"/>
+	<item folder="all" application="Contacts.apk" file="arrays.xml" name="auto_answer_phone_operator_bluetooth_select"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_id_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_recordlocation_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_sound_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_sound_entryvalue_off"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_sound_entryvalue_on"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_captrue_mirror_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_captrue_mirror_value_off"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_captrue_mirror_value_on"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_quality_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_mtk_video_quality_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_time_lapse_frame_interval_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_jpegquality_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_picture_size_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_picture_size_default_hm2a"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm2a"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_picture_size_default_hm2"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm2"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm2s"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_hm3"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_front_picture_size_default_m4w"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_picture_format_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_picture_format_value_jpeg"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_picture_format_value_raw"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_histogram_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_histogram_value_enable"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_histogram_value_disable"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_focusmode_value_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_flashmode_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_skin_beautify_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_video_flashmode_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_auto"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_incandescent"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_daylight"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_fluorescent"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_cloudy"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_manual"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_measure"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_coloreffect_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_touchafaec_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_contrast_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_mtk_camera_contrast_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_saturation_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_mtk_camera_saturation_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_sharpness_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_mtk_camera_sharpness_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_scenemode_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_scenedetect_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_exposure_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_denoise_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_iso_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_antibanding_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_antibanding_60"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_auto"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso100"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso200"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso400"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso800"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso1600"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_iso_value_iso3200"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_hfr_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_off"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_2x"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_3x"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_hfr_value_4x"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_speed_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_speed_value_normal"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_speed_value_fast"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_speed_value_slow"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_effect_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_value_frameaverage"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_value_centerweighted"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_autoexposure_value_spotmetering"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_videoencoder_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_audioencoder_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_video_duration_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_auto"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_enable"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_disable"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_zsl_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_selectablezoneaf_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_zsl_value_off"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_zsl_value_on"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_facedetection_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_powermode_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_redeyereduction_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_ae_bracket_hdr_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_referenceline_entryvalue_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_referenceline_entryvalue_off"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_referenceline_entryvalue_on"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_volume"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_shutter"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_zoom"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_exposure"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_volumekey_function_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_long_pressing_burst_shooting_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_movie_solid_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_movie_solid_value_off"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_movie_solid_value_on"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_watermark_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_watermark_entryvalue_off"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_watermark_entryvalue_on"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_scan_qrcode_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_scan_qrcode_value_off"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_scan_qrcode_value_on"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_exposuretime_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="camera_face_beauty_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_show_gender_age_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_multiple_face_beauty_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_multiple_face_beauty_values_off"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_multiple_face_beauty_values_on"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_hdr_type_entryvalue_normal"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_hdr_type_entryvalue_default"/>
+	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_camera_hdr_type_entryvalue_live"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_entries"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_entries_push"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_entries"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_entries_with_default"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="general_preference_auto_advance_entries"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="general_preference_text_zoom_entries"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="mailbox_display_names"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="mailbox_display_icons"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="combined_view_account_colors"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_drafts"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_inbox"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_junk"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_outbox"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_sent"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_trash"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_all_unread"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_starred"/>
+ 	<item folder="all" application="Email.apk" file="strings.xml" name="wait_help_context"/>
+  	<item folder="all" application="Email.apk" file="strings.xml" name="mock_content_provider"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="conversation_content_provider"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="account_cache_provider"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="reply_subject_label"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="forward_subject_label"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="report_rendering_problem"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="report_rendering_improvement"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="report_rendering_problem_desc"/>
+ 	<item folder="all" application="Email.apk" file="strings.xml" name="report_rendering_improvement_desc"/>
+  	<item folder="all" application="Email.apk" file="strings.xml" name="prefDefault_autoAdvance"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="prefDefault_removal_action"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="eml_attachment_provider"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="widget_provider"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="compose_help_context"/>
+	<item folder="all" application="Exchange2.apk" file="arrays.xml" name="account_settings_mail_window_entries"/>
+	<item folder="all" application="LiveWallpapers.apk" file="arrays.xml" name="polar_clock_palette_names"/>
+	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="thumb_date_entryValues"/>
+	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="count_entryValues"/>
+	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="color_picker_colors"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entryValues"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
+	<item folder="all" application="Music.apk" file="arrays.xml" name="dirac_equalizer_preset_names"/>
+	<item folder="all" application="Music.apk" file="arrays.xml" name="music_quality"/>
+	<item folder="all" application="Notes.apk" file="arrays.xml" name="count_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="permission_grps"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="perimission_action_entries"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="sip_call_options_entries"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="sip_call_options_wifi_only_entries"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="sip_call_options_values"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="phone_type_values"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="sip_send_keepalive_options"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_3way_targets"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_3way_target_descriptions"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_3way_direction_descriptions"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_2way_targets"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_2way_target_descriptions"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_2way_direction_descriptions"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="answer_widget_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="connect_disconnect_vibrate_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="voice_quality_ui_values_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_call_waiting_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_targets_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_targets_light_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_target_descriptions_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_direction_descriptions_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_2way_targets_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_2way_target_descriptions_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_2way_direction_descriptions_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="auto_answer_delay_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="auto_answer_scenario_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="auto_record_scenario_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="umts_gsm_preferred_network_type_pref_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_preferred_network_type_pref_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_system_select_choices_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="clir_choices_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="tty_mode_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="dtmf_tone_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="call_waiting_tone_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="missed_call_notify_times_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="t9_indexing_method_entries_miui"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="absent_num"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="clir_values"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_always"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_address_only"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_ask_me_each_time"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="domain_address"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="username"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="password"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="display_name"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="proxy_address"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="port"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="transport"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="send_keepalive"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="advanced_settings_container"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="auth_username"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="opt_score_entryValues"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="opt_score_entryValues_small"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_security_no_eap"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="input_method_selector_titles"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="input_method_selector_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="mi2_wifi_security"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="font_size_title"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="dolby_mode_entries"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="dolby_equalizer_preset_names"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="dndm_vip_list_group_array"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="dndm_auto_time_trun_on_off"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="battery_stats_last_duration"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_psk_generic"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_psk_generic"/>
+	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="duration_entryValues"/>
+	<item folder="all" application="TelephonyProvider.apk" file="arrays.xml" name="default_antispam_category"/>
+	<item folder="all" application="Transfer.apk" file="arrays.xml" name="share_filters"/>
+	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_common_nicknames"/>
+	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_config_keyboardTapVibePattern"/>
+	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_config_longPressVibePattern"/>
+	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_config_mobile_hotspot_provision_app"/>
+	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_config_virtualKeyVibePattern"/>
+	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_special_locale_codes"/>
+	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_special_locale_names"/>
+	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="v5_number_progress_numbers"/>
+	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="preloaded_drawables"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_PinMmi"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_action_bar_up_description"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_add_account_label"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_allow"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_byteShort"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_capital_off"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_capital_on"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_choose_account_label"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_common_last_name_prefixes"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_common_name_conjunctions"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_common_name_prefixes"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_common_name_suffixes"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_default_audio_route_name_headphones"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_deny"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_factorytest_reboot"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_fast_scroll_alphabet"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_fileSizeSuffix"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_gigabyteShort"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_global_action_power_off"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_global_actions_airplane_mode_off_status"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_global_actions_airplane_mode_on_status"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_global_actions_toggle_airplane_mode"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_grant_permissions_header_text"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_kilobyteShort"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_cell_added"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_cleared"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_detected"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_start"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_emergency_call"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_checking_password"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_forgot_pattern"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_invalid_input"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_password_hint"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_submit_button"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_too_many_attempts"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_missing_sim_message_short"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_too_many_failed_attempts_countdown"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_megabyteShort"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_petabyteShort"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_phoneTypeMms"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_power_off"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_report"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_ringtone_default_with_actual"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_ringtone_silent"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_ringtone_unknown"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_safe_media_volume_warning"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_clear"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_query"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_search"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_submit"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_voice"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_shutdown_confirm"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_shutdown_progress"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_silent_mode_ring"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_silent_mode_silent"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_silent_mode_vibrate"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_ssl_certificate"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_storage_usb"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_terabyteShort"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_usb_cd_installer_notification_title"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_usb_mtp_notification_title"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_usb_ptp_notification_title"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_wifi_tether_configure_ssid_default"/>
+	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="passwordIncorrect"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="preloaded_drawables"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_when_silent"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_when_silent"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_direction_descriptions"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_when_soundon"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_when_soundon"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_with_camera"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_with_camera"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_chevron_drawables"/>
+	<item folder="all" application="framework-res.apk" file="strings.xml" name="default_wallpaper_component"/>
+	<item folder="all" application="MMS.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
+	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
+	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
+	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 </resources>
