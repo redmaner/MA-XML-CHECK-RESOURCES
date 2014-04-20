@@ -28,28 +28,25 @@ LIB_VERSION=0.2
 
 arrays_count_items_directory () {
 TARGET_DIR=$1
-ARRAY_COUNT_DIR_XML=$2
+ARRAY_COUNT_DIR_LIST=$2
 
 if [ -d $TARGET_DIR ]; then
 	echo -e "${txtblu}\nCounting arrays.xml items for all apk folders in $TARGET_DIR${txtrst}"
-	echo '<?xml version="1.0"?>' > $ARRAY_COUNT_DIR_XML
-	echo '<resources>' >> $ARRAY_COUNT_DIR_XML
 	find $TARGET_DIR -iname "*.apk" | sort | while read apk_target; do
 		APK=$(basename $apk_target)
 		find $apk_target -iname "arrays.xml" | while read array_target; do
 			cat $array_target | grep "<string-array name=" | while read all_line; do
 				string_array=$(echo $all_line | cut -d'"' -f2 | cut -d'>' -f1)
 				item_count=$(sed -e '/name="'$string_array'"/,/string-array/!d' $array_target | grep '<item>' | wc -l)
-				echo '      <item application="'$APK'" name="'$string_array'" count="'$item_count'"/>'
-			done >> $ARRAY_COUNT_DIR_XML
+				echo ''$APK'|'$string_array'|'$item_count''
+			done >> $ARRAY_COUNT_DIR_LIST
 			cat $array_target | grep "<array name=" | while read all_line; do
 				string_array=$(echo $all_line | cut -d'"' -f2 | cut -d'>' -f1)
 				item_count=$(sed -e '/name="'$string_array'"/,/array/!d' $array_target | grep '<item>' | wc -l)
-				echo '      <item application="'$APK'" name="'$string_array'" count="'$item_count'"/>'
-			done >> $ARRAY_COUNT_DIR_XML
+				echo ''$APK'|'$string_array'|'$item_count''
+			done >> $ARRAY_COUNT_DIR_LIST
 		done
-	done
-	echo '</resources>' >> $ARRAY_COUNT_DIR_XML	
+	done	
 fi
 }
 

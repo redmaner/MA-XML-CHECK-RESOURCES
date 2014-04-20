@@ -49,10 +49,10 @@ else
 fi
 
 source $MAIN_DIR/array_tools.sh
-arrays_count_items_directory $MAIN_DIR/MIUIv6-XML-DEV/Dev/main MIUIv6_arrays_items.xml
-arrays_count_items_directory $MAIN_DIR/MIUIv5-XML-DEV/Dev/main MIUIv5_arrays_items.xml
+arrays_count_items_directory $MAIN_DIR/MIUIv6-XML-DEV/Dev/main MIUIv6_arrays_items.list
+arrays_count_items_directory $MAIN_DIR/MIUIv5-XML-DEV/Dev/main MIUIv5_arrays_items.list
 
 echo -e "${txtblu}\nPushing changes${txtrst}"
-git add MIUIv6_arrays_items.xml MIUIv5_arrays_items.xml
+git add MIUIv6_arrays_items.list MIUIv5_arrays_items.list
 git commit -m "MA-XML-CHECK: Update array items"
 git push origin $RES_BRANCH
