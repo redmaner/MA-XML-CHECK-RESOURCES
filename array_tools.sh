@@ -32,6 +32,7 @@ ARRAY_COUNT_DIR_LIST=$2
 
 if [ -d $TARGET_DIR ]; then
 	echo -e "${txtblu}\nCounting arrays.xml items for all apk folders in $TARGET_DIR${txtrst}"
+	rm -f $ARRAY_COUNT_DIR_LIST
 	find $TARGET_DIR -iname "*.apk" | sort | while read apk_target; do
 		APK=$(basename $apk_target)
 		find $apk_target -iname "arrays.xml" | while read array_target; do
