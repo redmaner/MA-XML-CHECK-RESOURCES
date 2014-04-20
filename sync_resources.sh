@@ -19,26 +19,33 @@ case `uname -s` in
            ;;
 esac
 
+# Determine server or a local machine
+if [ -d /home/translators.xiaomi.eu ]; then
+     	MAIN_DIR=/home/translators.xiaomi.eu/scripts/resources
+else
+     	MAIN_DIR=$PWD/resources
+fi
+
 # Pull MIUI-XML-DEV repository, MIUIv6 branch
 echo -e "${txtblu}\nSyncing MIUI-XML-DEV, MIUIv6${txtrst}"
-if [ -d MIUIv6-XML-DEV ]; then
-	cd MIUIv6-XML-DEV
+if [ -d $MAIN_DIR/MIUIv6-XML-DEV ]; then
+	cd $MAIN_DIR/MIUIv6-XML-DEV
 	git pull origin MIUIv6
-	cd ..
+	cd $MAIN_DIR
 else
-	git clone git@github.com:Redmaner/MIUI-XML-DEV.git -b MIUIv6 MIUIv6-XML-DEV
+	git clone git@github.com:Redmaner/MIUI-XML-DEV.git -b MIUIv6 $MAIN_DIR/MIUIv6-XML-DEV
 fi
 
 # Pull MIUI-XML-DEV repository, MIUIv5 branch
 echo -e "${txtblu}\nSyncing MIUI-XML-DEV, MIUIv5${txtrst}"
-if [ -d MIUIv5-XML-DEV ]; then
-	cd MIUIv5-XML-DEV
+if [ -d $MAIN_DIR/MIUIv5-XML-DEV ]; then
+	cd $MAIN_DIR/MIUIv5-XML-DEV
 	git pull origin MIUIv5
-	cd ..
+	cd $MAIN_DIR
 else
-	git clone git@github.com:Redmaner/MIUI-XML-DEV.git -b MIUIv5 MIUIv5-XML-DEV
+	git clone git@github.com:Redmaner/MIUI-XML-DEV.git -b MIUIv5 $MAIN_DIR/MIUIv5-XML-DEV
 fi
 
-source array_tools.sh
-arrays_count_items_directory MIUIv6-XML-DEV/Dev MIUIv6_arrays_items.xml
-arrays_count_items_directory MIUIv5-XML-DEV/Dev MIUIv5_arrays_items.xml
+source $MAIN_DIR/array_tools.sh
+arrays_count_items_directory $MAIN_DIR/MIUIv6-XML-DEV/Dev/main MIUIv6_arrays_items.xml
+arrays_count_items_directory $MAIN_DIR/MIUIv5-XML-DEV/Dev/main MIUIv5_arrays_items.xml
