@@ -1,126 +1,5 @@
 <?xml version="1.0"?>
 <resources>
-      <item application="CABLService.apk" name="cabl_level_values" count="3"/>
-      <item application="Camera.apk" name="pref_video_quality_entries" count="3"/>
-      <item application="Camera.apk" name="pref_video_quality_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_video_time_lapse_frame_interval_entries" count="13"/>
-      <item application="Camera.apk" name="pref_video_time_lapse_frame_interval_entryvalues" count="13"/>
-      <item application="Camera.apk" name="pref_video_focusmode_entries" count="2"/>
-      <item application="Camera.apk" name="pref_video_focusmode_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_key_camera_referenceline_entries" count="2"/>
-      <item application="Camera.apk" name="pref_key_camera_referenceline_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_picturesize_entries" count="6"/>
-      <item application="Camera.apk" name="pref_camera_picturesize_entryvalues" count="6"/>
-      <item application="Camera.apk" name="pref_camera_front_picturesize_entries" count="3"/>
-      <item application="Camera.apk" name="pref_camera_front_picturesize_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_camera_professional_picturesize_entries" count="13"/>
-      <item application="Camera.apk" name="pref_camera_professional_picturesize_entryvalues" count="13"/>
-      <item application="Camera.apk" name="pref_camera_front_professional_picturesize_entries" count="3"/>
-      <item application="Camera.apk" name="pref_camera_front_professional_picturesize_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_camera_picture_format_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_picture_format_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_jpegquality_entries" count="3"/>
-      <item application="Camera.apk" name="pref_camera_jpegquality_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_camera_focusmode_entries" count="5"/>
-      <item application="Camera.apk" name="pref_camera_focusmode_entryvalues" count="5"/>
-      <item application="Camera.apk" name="pref_camera_flashmode_entries" count="3"/>
-      <item application="Camera.apk" name="pref_camera_flashmode_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_camera_skin_beautify_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_video_flashmode_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_video_flashmode_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_recordlocation_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_recordlocation_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_whitebalance_entries" count="5"/>
-      <item application="Camera.apk" name="pref_camera_whitebalance_entryvalues" count="5"/>
-      <item application="Camera.apk" name="pref_camera_coloreffect_entries" count="6"/>
-      <item application="Camera.apk" name="pref_camera_coloreffect_entryvalues" count="6"/>
-      <item application="Camera.apk" name="pref_camera_touchafaec_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_face_detect_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_touchafaec_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_referenceline_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_referenceline_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_sharpness_entries" count="7"/>
-      <item application="Camera.apk" name="pref_camera_contrast_entries" count="11"/>
-      <item application="Camera.apk" name="pref_camera_saturation_entries" count="11"/>
-      <item application="Camera.apk" name="pref_camera_multilevel_sharpness_entryvalues" count="7"/>
-      <item application="Camera.apk" name="pref_camera_multilevel_entryvalues" count="11"/>
-      <item application="Camera.apk" name="pref_camera_scenemode_entries" count="13"/>
-      <item application="Camera.apk" name="pref_camera_scenemode_entryvalues" count="13"/>
-      <item application="Camera.apk" name="pref_camera_iso_entries" count="7"/>
-      <item application="Camera.apk" name="pref_camera_iso_entryvalues" count="7"/>
-      <item application="Camera.apk" name="pref_camera_preview_entries" count="4"/>
-      <item application="Camera.apk" name="pref_camera_preview_entryvalues" count="4"/>
-      <item application="Camera.apk" name="pref_video_effect_entries" count="11"/>
-      <item application="Camera.apk" name="pref_camera_antibanding_entries" count="4"/>
-      <item application="Camera.apk" name="pref_camera_antibanding_entryvalues" count="4"/>
-      <item application="Camera.apk" name="pref_camera_histogram_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_hfr_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_hfr_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_video_speed_entries" count="3"/>
-      <item application="Camera.apk" name="pref_video_speed_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_camera_histogram_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_autoexposure_entries" count="3"/>
-      <item application="Camera.apk" name="pref_camera_autoexposure_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_camera_video_duration_entries" count="4"/>
-      <item application="Camera.apk" name="pref_camera_video_duration_entryvalues" count="4"/>
-      <item application="Camera.apk" name="pref_camera_volumekey_function_entries" count="3"/>
-      <item application="Camera.apk" name="pref_camera_volumekey_function_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_camera_skinToneEnhancement_entries" count="3"/>
-      <item application="Camera.apk" name="pref_camera_skinToneEnhancement_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_camera_redeyereduction_entries" count="3"/>
-      <item application="Camera.apk" name="pref_camera_redeyereduction_entryvalues" count="3"/>
-      <item application="Camera.apk" name="pref_camera_sound_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_sound_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_captrue_mirror_entries" count="2"/>
-      <item application="Camera.apk" name="pref_captrue_mirror_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_auto_focus_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_auto_focus_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_facedetection_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_facedetection_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_burst_shooting_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_burst_shooting_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_zsl_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_zsl_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_focusmode_default_array" count="2"/>
-      <item application="Camera.apk" name="pref_camera_hdr_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_hdr_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_movie_solid_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_movie_solid_entryvalues" count="2"/>
-      <item application="Camera.apk" name="pref_camera_watermark_entries" count="2"/>
-      <item application="Camera.apk" name="pref_camera_watermark_entryvalues" count="2"/>
-      <item application="Camera.apk" name="video_quality_largeicons" count="3"/>
-      <item application="Camera.apk" name="video_quality_icons" count="3"/>
-      <item application="Camera.apk" name="video_timelapse_largeicons" count="6"/>
-      <item application="Camera.apk" name="pref_key_camera_referenceline_largeicons" count="2"/>
-      <item application="Camera.apk" name="camera_flashmode_icons" count="3"/>
-      <item application="Camera.apk" name="camera_skin_beautify_icons" count="2"/>
-      <item application="Camera.apk" name="video_flashmode_icons" count="2"/>
-      <item application="Camera.apk" name="whitebalance_icons" count="5"/>
-      <item application="Camera.apk" name="whitebalance_largeicons" count="5"/>
-      <item application="Camera.apk" name="camera_scenemode_largeicons" count="13"/>
-      <item application="Camera.apk" name="iso_icons" count="7"/>
-      <item application="Camera.apk" name="pref_video_speed_largeicons" count="3"/>
-      <item application="Camera.apk" name="pref_video_effect_entryvalues" count="10"/>
-      <item application="Camera.apk" name="pref_camera_hdr_largeicons" count="2"/>
-      <item application="Camera.apk" name="camera_coloreffect_largeIcons" count="6"/>
-      <item application="Camera.apk" name="exposure_icons" count="5"/>
-      <item application="FM.apk" name="sleep_duration_values" count="4"/>
-      <item application="FM.apk" name="sleep_duration_values_seconds" count="4"/>
-      <item application="FM.apk" name="search_category_rbds_entries" count="27"/>
-      <item application="FM.apk" name="search_category_rbds_values" count="27"/>
-      <item application="FM.apk" name="search_category_rds_entries" count="32"/>
-      <item application="FM.apk" name="search_category_rds_values" count="32"/>
-      <item application="FM.apk" name="presetlist_edit_category" count="3"/>
-      <item application="FM.apk" name="regional_band_entries" count="36"/>
-      <item application="FM.apk" name="regional_band_values" count="36"/>
-      <item application="FM.apk" name="regional_band_summary" count="36"/>
-      <item application="FM.apk" name="rf_cfg" count="5"/>
-      <item application="FM.apk" name="cfg_rf" count="3"/>
-      <item application="FM.apk" name="stats_options" count="3"/>
-      <item application="FM.apk" name="fm_mhz_number_entries" count="12"/>
-      <item application="FM.apk" name="freq_entries" count="12"/>
-      <item application="FM.apk" name="fm_mhz_number_entryValues" count="12"/>
-      <item application="FM.apk" name="freq_entryValues" count="12"/>
       <item application="AntiSpam.apk" name="st_block_settings" count="2"/>
       <item application="Backup.apk" name="backup_dialog_content_type" count="2"/>
       <item application="Backup.apk" name="system_package_label" count="7"/>
@@ -348,12 +227,12 @@
       <item application="framework-miui-res.apk" name="alphabet_table" count="27"/>
       <item application="framework-miui-res.apk" name="detailed_am_pm_names" count="7"/>
       <item application="framework-miui-res.apk" name="miui_font_scale" count="4"/>
-      <item application="framework-miui-res.apk" name="mobile_operator_display_names" count="17"/>
-      <item application="framework-miui-res.apk" name="mobile_operator_numeric_equivalencies" count="17"/>
-      <item application="framework-miui-res.apk" name="mobile_operator_numeric_values" count="17"/>
+      <item application="framework-miui-res.apk" name="mobile_operator_display_names" count="1704"/>
+      <item application="framework-miui-res.apk" name="mobile_operator_numeric_equivalencies" count="1704"/>
+      <item application="framework-miui-res.apk" name="mobile_operator_numeric_values" count="1704"/>
       <item application="framework-miui-res.apk" name="permission_risk_privacy" count="14"/>
       <item application="framework-miui-res.apk" name="permission_risk_security" count="29"/>
-      <item application="framework-miui-res.apk" name="supported_locale" count="3"/>
+      <item application="framework-miui-res.apk" name="supported_locale" count="29"/>
       <item application="framework-miui-res.apk" name="alphabet_table_with_starred" count="28"/>
       <item application="framework-miui-res.apk" name="screen_key_long_press_default_action" count="3"/>
       <item application="framework-miui-res.apk" name="alarm_in_future" count="8"/>
@@ -383,6 +262,7 @@
       <item application="framework-res.apk" name="config_tether_wifi_regexs" count="1"/>
       <item application="framework-res.apk" name="config_tether_bluetooth_regexs" count="1"/>
       <item application="framework-res.apk" name="imAddressTypes" count="4"/>
+      <item application="framework-res.apk" name="config_locationProviderPackageNames" count="2"/>
       <item application="framework-res.apk" name="preloaded_drawables" count="89"/>
       <item application="framework-res.apk" name="preloaded_color_state_lists" count="0"/>
       <item application="framework-res.apk" name="lockscreen_targets_when_silent" count="4"/>
