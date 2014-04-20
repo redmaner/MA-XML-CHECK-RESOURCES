@@ -376,4 +376,8 @@
 	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_with_camera"/>
 	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_chevron_drawables"/>
 	<item application="framework-res.apk" file="strings.xml" name="default_wallpaper_component"/>
+	<item application="MMS.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
+	<item application="MMS.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
+	<item application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
+	<item application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 </resources>
