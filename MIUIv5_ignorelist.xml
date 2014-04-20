@@ -276,6 +276,22 @@
 	<item application="Phone.apk" file="arrays.xml" name="call_waiting_tone_entries_miui"/>
 	<item application="Phone.apk" file="arrays.xml" name="missed_call_notify_times_entries_miui"/>
 	<item application="Phone.apk" file="arrays.xml" name="t9_indexing_method_entries_miui"/>
+	<item application="Phone.apk" file="arrays.xml" name="absent_num"/>
+	<item application="Phone.apk" file="arrays.xml" name="clir_values"/>
+	<item application="Phone.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
+	<item application="Phone.apk" file="strings.xml" name="sip_always"/>
+	<item application="Phone.apk" file="strings.xml" name="sip_address_only"/>
+	<item application="Phone.apk" file="strings.xml" name="sip_ask_me_each_time"/>
+	<item application="Phone.apk" file="strings.xml" name="domain_address"/>
+	<item application="Phone.apk" file="strings.xml" name="username"/>
+	<item application="Phone.apk" file="strings.xml" name="password"/>
+	<item application="Phone.apk" file="strings.xml" name="display_name"/>
+	<item application="Phone.apk" file="strings.xml" name="proxy_address"/>
+	<item application="Phone.apk" file="strings.xml" name="port"/>
+	<item application="Phone.apk" file="strings.xml" name="transport"/>
+	<item application="Phone.apk" file="strings.xml" name="send_keepalive"/>
+	<item application="Phone.apk" file="strings.xml" name="advanced_settings_container"/>
+	<item application="Phone.apk" file="strings.xml" name="auth_username"/>
 	<item application="Settings.apk" file="arrays.xml" name="opt_score_entryValues"/>
 	<item application="Settings.apk" file="arrays.xml" name="opt_score_entryValues_small"/>
 	<item application="Settings.apk" file="arrays.xml" name="wifi_security_no_eap"/>
@@ -376,4 +392,8 @@
 	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_with_camera"/>
 	<item application="framework-res.apk" file="arrays.xml" name="lockscreen_chevron_drawables"/>
 	<item application="framework-res.apk" file="strings.xml" name="default_wallpaper_component"/>
+	<item application="MMS.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
+	<item application="MMS.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
+	<item application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
+	<item application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 </resources>
