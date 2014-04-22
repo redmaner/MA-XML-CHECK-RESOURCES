@@ -1,49 +1,51 @@
 <?xml version="1.0"?>
 <languages>
 	<!-- MIUIv5 repo's - Alfabetical order-->
-	<language check="full" miui="v5" name="Arabic" iso="ar" url="https://github.com/MIUI-Palestine/MIUIPalestine_V5_Arabic_XML" git="git@github.com:MIUI-Palestine/MIUIPalestine_V5_Arabic_XML.git" branch="master"/>
-	<language check="full" miui="v5" name="Brazilian-Portuguese" iso="pt-rBR" url="https://bitbucket.org/miuibrasil/ma-xml-5.0-portuguese-brazilian" git="git@bitbucket.org:miuibrasil/ma-xml-5.0-portuguese-brazilian.git"  branch="master"/>
-	<language check="full" miui="v5" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-5.0-BULGARIAN" git="git@github.com:ingbrzy/MA-XML-5.0-BULGARIAN.git" branch="master"/>
+	<language check="false" miui="v5" name="Dev" iso="dev" url="https://github.com/redmaner/MIUI-xml-dev" git="git@github.com:Redmaner/MIUI-XML-DEV.git" branch="MIUIv5"/>
+	<language check="normal" miui="v5" name="Arabic" iso="ar" url="https://github.com/MIUI-Palestine/MIUIPalestine_V5_Arabic_XML" git="git@github.com:MIUI-Palestine/MIUIPalestine_V5_Arabic_XML.git" branch="master"/>
+	<language check="normal" miui="v5" name="Brazilian-Portuguese" iso="pt-rBR" url="https://bitbucket.org/miuibrasil/ma-xml-5.0-portuguese-brazilian" git="git@bitbucket.org:miuibrasil/ma-xml-5.0-portuguese-brazilian.git"  branch="master"/>
+	<language check="normal" miui="v5" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-5.0-BULGARIAN" git="git@github.com:ingbrzy/MA-XML-5.0-BULGARIAN.git" branch="master"/>
 	<language check="false" miui="v5" name="Chuvash" iso="cv" url="https://github.com/ingbrzy/MA-XML-5.0-CHUVASH" git="git@github.com:ingbrzy/MA-XML-5.0-CHUVASH.git" branch="master"/>
-	<language check="full" miui="v5" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-5.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-5.0-CZECH.git" branch="master"/>
-	<language check="full" miui="v5" name="Danish" iso="da" url="https://github.com/ingbrzy/MA-XML-5.0-DANISH" git="git@github.com:ingbrzy/MA-XML-5.0-DANISH.git" branch="master"/>
-	<language check="full" miui="v5" name="Dutch" iso="nl" url="https://github.com/Redmaner/MA-XML-5.0-DUTCH" git="git@github.com:Redmaner/MA-XML-5.0-DUTCH.git" branch="master"/>
+	<language check="normal" miui="v5" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-5.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-5.0-CZECH.git" branch="master"/>
+	<language check="normal" miui="v5" name="Danish" iso="da" url="https://github.com/ingbrzy/MA-XML-5.0-DANISH" git="git@github.com:ingbrzy/MA-XML-5.0-DANISH.git" branch="master"/>
+	<language check="normal" miui="v5" name="Dutch" iso="nl" url="https://github.com/Redmaner/MA-XML-5.0-DUTCH" git="git@github.com:Redmaner/MA-XML-5.0-DUTCH.git" branch="master"/>
 	<language check="false" miui="v5" name="English" iso="en" url="https://github.com/iBotPeaches/MIUIAndroid_XML_v5" git="git@github.com:iBotPeaches/MIUIAndroid_XML_v5.git" branch="master"/>
-	<language check="full" miui="v5" name="Finnish" iso="fi" url="https://github.com/ingbrzy/MA-XML-5.0-FINNISH" git="git@github.com:ingbrzy/MA-XML-5.0-FINNISH.git" branch="master"/>
-	<language check="full" miui="v5" name="French" iso="fr" url="https://github.com/ingbrzy/ma-xml-5.0-FRENCH" git="git@github.com:ingbrzy/ma-xml-5.0-FRENCH.git" branch="master"/>
+	<language check="normal" miui="v5" name="Finnish" iso="fi" url="https://github.com/ingbrzy/MA-XML-5.0-FINNISH" git="git@github.com:ingbrzy/MA-XML-5.0-FINNISH.git" branch="master"/>
+	<language check="normal" miui="v5" name="French" iso="fr" url="https://github.com/ingbrzy/ma-xml-5.0-FRENCH" git="git@github.com:ingbrzy/ma-xml-5.0-FRENCH.git" branch="master"/>
 	<language check="false" miui="v5" name="German" iso="de" url="https://github.com/Bitti09/ma-xml-5.0-german" git="git@github.com:Bitti09/ma-xml-5.0-german.git" branch="master"/>
-	<language check="full" miui="v5" name="Greek" iso="el" url="https://github.com/Xiaomi-Miui-Hellas/MIUI-XML-5.0-Greek" git="git@github.com:Xiaomi-Miui-Hellas/MIUI-XML-5.0-Greek.git" branch="master"/>
-	<language check="full" miui="v5" name="Hebrew" iso="iw" url="https://github.com/HebMIUI/HebMIUI_XML_v5/" git="git@github.com:HebMIUI/HebMIUI_XML_v5.git" branch="master"/>
-	<language check="full" miui="v5" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v5-hungarian-translation-for-miuiandroid" git="git@github.com:vagyula1/miui-v5-hungarian-translation-for-miuiandroid.git" branch="master"/>
-	<language check="full" miui="v5" name="Indonesian" iso="in" url="https://github.com/ingbrzy/MA-XML-5.0-INDONESIAN" git="git@github.com:ingbrzy/MA-XML-5.0-INDONESIAN.git" branch="master"/>
-	<language check="full" miui="v5" name="Italian" iso="it" url="https://bitbucket.org/Mish/miui_v5_italy" git="git@bitbucket.org:Mish/miui_v5_italy.git" branch="master"/>
+	<language check="normal" miui="v5" name="Greek" iso="el" url="https://github.com/Xiaomi-Miui-Hellas/MIUI-XML-5.0-Greek" git="git@github.com:Xiaomi-Miui-Hellas/MIUI-XML-5.0-Greek.git" branch="master"/>
+	<language check="normal" miui="v5" name="Hebrew" iso="iw" url="https://github.com/HebMIUI/HebMIUI_XML_v5/" git="git@github.com:HebMIUI/HebMIUI_XML_v5.git" branch="master"/>
+	<language check="normal" miui="v5" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v5-hungarian-translation-for-miuiandroid" git="git@github.com:vagyula1/miui-v5-hungarian-translation-for-miuiandroid.git" branch="master"/>
+	<language check="normal" miui="v5" name="Indonesian" iso="in" url="https://github.com/ingbrzy/MA-XML-5.0-INDONESIAN" git="git@github.com:ingbrzy/MA-XML-5.0-INDONESIAN.git" branch="master"/>
+	<language check="normal" miui="v5" name="Italian" iso="it" url="https://bitbucket.org/Mish/miui_v5_italy" git="git@bitbucket.org:Mish/miui_v5_italy.git" branch="master"/>
 	<language check="false" miui="v5" name="Japanese" iso="ja" url="https://github.com/ingbrzy/MA-XML-5.0-JAPANESE" git="git@github.com:ingbrzy/MA-XML-5.0-JAPANESE.git" branch="master"/>
-	<language check="full" miui="v5" name="Korean" iso="ko" url="https://github.com/nosoy1/ma-xml-5.0-korean" git="git@github.com:nosoy1/ma-xml-5.0-korean.git" branch="master"/>
+	<language check="normal" miui="v5" name="Korean" iso="ko" url="https://github.com/nosoy1/ma-xml-5.0-korean" git="git@github.com:nosoy1/ma-xml-5.0-korean.git" branch="master"/>
 	<language check="false" miui="v5" name="Kurdish" iso="ku" url="https://github.com/ingbrzy/MA-XML-5.0-KURDISH" git="git@github.com:ingbrzy/MA-XML-5.0-KURDISH.git" branch="master"/>
 	<language check="false" miui="v5" name="Malaysian" iso="ms-rMY" url="https://bitbucket.org/MarkHUK/miui-v5-malay" git="git@bitbucket.org:MarkHUK/miui-v5-malay.git" branch="master"/>
-	<language check="full" miui="v5" name="Norwegian" iso="nb" url="https://github.com/ingbrzy/MA-XML-5.0-NORWEGIAN" git="git@github.com:ingbrzy/MA-XML-5.0-NORWEGIAN.git" branch="master"/>
+	<language check="normal" miui="v5" name="Norwegian" iso="nb" url="https://github.com/ingbrzy/MA-XML-5.0-NORWEGIAN" git="git@github.com:ingbrzy/MA-XML-5.0-NORWEGIAN.git" branch="master"/>
 	<language check="normal" miui="v5" name="Polish" iso="pl" url="https://github.com/Acid-miuipolskapl/XML_MIUI-v5" git="git@github.com:Acid-miuipolskapl/XML_MIUI-v5.git" branch="master"/>
-	<language check="full" miui="v5" name="Portuguese" iso="pt" url="https://github.com/miuiportugal/MIUIPortugal_XML_v5-master" git="git@github.com:miuiportugal/MIUIPortugal_XML_v5-master.git" branch="master"/>	
-	<language check="full" miui="v5" name="Romanian" iso="ro" url="https://github.com/ingbrzy/MA-XML-5.0-ROMANIAN" git="git@github.com:ingbrzy/MA-XML-5.0-ROMANIAN.git" branch="master"/>
-	<language check="full" miui="v5" name="Russian" iso="ru" url="https://github.com/KDGDev/miui-v5-russian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v5-russian-translation-for-miuiandroid.git" branch="master"/>
-	<language check="full" miui="v5" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-5.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-5.0-SLOVAK.git" branch="master"/>
-	<language check="full" miui="v5" name="Spanish" iso="es" url="https://github.com/ingbrzy/MA-XML-5.0-SPANISH" git="git@github.com:ingbrzy/MA-XML-5.0-SPANISH.git" branch="master"/>
+	<language check="normal" miui="v5" name="Portuguese" iso="pt" url="https://github.com/miuiportugal/MIUIPortugal_XML_v5-master" git="git@github.com:miuiportugal/MIUIPortugal_XML_v5-master.git" branch="master"/>	
+	<language check="normal" miui="v5" name="Romanian" iso="ro" url="https://github.com/ingbrzy/MA-XML-5.0-ROMANIAN" git="git@github.com:ingbrzy/MA-XML-5.0-ROMANIAN.git" branch="master"/>
+	<language check="normal" miui="v5" name="Russian" iso="ru" url="https://github.com/KDGDev/miui-v5-russian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v5-russian-translation-for-miuiandroid.git" branch="master"/>
+	<language check="normal" miui="v5" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-5.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-5.0-SLOVAK.git" branch="master"/>
+	<language check="normal" miui="v5" name="Spanish" iso="es" url="https://github.com/ingbrzy/MA-XML-5.0-SPANISH" git="git@github.com:ingbrzy/MA-XML-5.0-SPANISH.git" branch="master"/>
 	<language check="false" miui="v5" name="Swedish" iso="sv" url="https://github.com/ingbrzy/ma-xml-5.0-SWEDISH" git="git@github.com:ingbrzy/ma-xml-5.0-SWEDISH.git" branch="master"/>
-	<language check="full" miui="v5" name="Thai" iso="th" url="https://github.com/rcset/MIUIAndroid_XML_v5_TH" git="git@github.com:rcset/MIUIAndroid_XML_v5_TH.git" branch="master"/>
-	<language check="full" miui="v5" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-5.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-5.0-TURKISH.git" branch="master"/>
-	<language check="full" miui="v5" name="Ukrainian" iso="uk" url="https://github.com/KDGDev/miui-v5-ukrainian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v5-ukrainian-translation-for-miuiandroid.git" branch="master"/>
-	<language check="full" miui="v5" name="Vietnamese" iso="vi" url="https://github.com/HoangTuBot/MA-xml-v5-vietnam" git="git@github.com:HoangTuBot/MA-xml-v5-vietnam.git" branch="master"/>
+	<language check="normal" miui="v5" name="Thai" iso="th" url="https://github.com/rcset/MIUIAndroid_XML_v5_TH" git="git@github.com:rcset/MIUIAndroid_XML_v5_TH.git" branch="master"/>
+	<language check="normal" miui="v5" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-5.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-5.0-TURKISH.git" branch="master"/>
+	<language check="normal" miui="v5" name="Ukrainian" iso="uk" url="https://github.com/KDGDev/miui-v5-ukrainian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v5-ukrainian-translation-for-miuiandroid.git" branch="master"/>
+	<language check="normal" miui="v5" name="Vietnamese" iso="vi" url="https://github.com/HoangTuBot/MA-xml-v5-vietnam" git="git@github.com:HoangTuBot/MA-xml-v5-vietnam.git" branch="master"/>
 	<language check="false" miui="v5" name="i18n_miui" iso="i18n" url="https://github.com/micode/i18n_miui" git="git@github.com:MiCode/i18n_miui.git" branch="master"/>
 
 	<!-- MIUIv6 repo's - Alfabetical order-->
-	<language check="full" miui="v6" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-6.0-BULGARIAN" git="git@github.com:ingbrzy/MA-XML-6.0-BULGARIAN.git" branch="master"/>
-	<language check="full" miui="v6" name="Croatian" iso="hr" url="https://github.com/ingbrzy/MA-XML-6.0-CROATIAN" git="git@github.com:ingbrzy/MA-XML-6.0-CROATIAN.git" branch="master"/>
-	<language check="full" miui="v6" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-CZECH.git" branch="master"/>	
-	<language check="full" miui="v6" name="Dutch" iso="nl" url="https://github.com/Redmaner/MIUIv6-XML-DUTCH" git="git@github.com:Redmaner/MIUIv6-XML-DUTCH.git" branch="master"/>	
-	<language check="full" miui="v6" name="French" iso="fr" url="https://github.com/cpasmoi/miui-xml-TABLET-FRENCH" git="git@github.com:cpasmoi/miui-xml-TABLET-FRENCH.git" branch="master"/>	
-	<language check="full" miui="v6" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v6-hungarian-translation-for-miuiandroid" git="git@github.com:vagyula1/miui-v6-hungarian-translation-for-miuiandroid.git" branch="master"/>
-	<language check="full" miui="v6" name="Norwegian" iso="nb" url="https://github.com/miui-scandinavia/MA-XML-6.0-NORWEGIAN" git="git@github.com:miui-scandinavia/MA-XML-6.0-NORWEGIAN.git" branch="master"/>
-	<language check="full" miui="v6" name="Polish" iso="pl" url="https://github.com/Acid-miuipolskapl/XML_MIUI-v6" git="git@github.com:Acid-miuipolskapl/XML_MIUI-v6.git" branch="master"/>
-	<language check="full" miui="v6" name="Russian" iso="ru" url="https://github.com/KDGDev/miui-v6-russian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v6-russian-translation-for-miuiandroid.git" branch="master"/>
-	<language check="full" miui="v6" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-SLOVAK.git" branch="master"/>
+	<language check="false" miui="v6" name="Dev" iso="dev" url="https://github.com/redmaner/MIUI-xml-dev" git="git@github.com:Redmaner/MIUI-XML-DEV.git" branch="MIUIv6"/>
+	<language check="normal" miui="v6" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-6.0-BULGARIAN" git="git@github.com:ingbrzy/MA-XML-6.0-BULGARIAN.git" branch="master"/>
+	<language check="normal" miui="v6" name="Croatian" iso="hr" url="https://github.com/ingbrzy/MA-XML-6.0-CROATIAN" git="git@github.com:ingbrzy/MA-XML-6.0-CROATIAN.git" branch="master"/>
+	<language check="normal" miui="v6" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-CZECH.git" branch="master"/>	
+	<language check="normal" miui="v6" name="Dutch" iso="nl" url="https://github.com/Redmaner/MIUIv6-XML-DUTCH" git="git@github.com:Redmaner/MIUIv6-XML-DUTCH.git" branch="master"/>	
+	<language check="normal" miui="v6" name="French" iso="fr" url="https://github.com/cpasmoi/miui-xml-TABLET-FRENCH" git="git@github.com:cpasmoi/miui-xml-TABLET-FRENCH.git" branch="master"/>	
+	<language check="normal" miui="v6" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v6-hungarian-translation-for-miuiandroid" git="git@github.com:vagyula1/miui-v6-hungarian-translation-for-miuiandroid.git" branch="master"/>
+	<language check="normal" miui="v6" name="Norwegian" iso="nb" url="https://github.com/miui-scandinavia/MA-XML-6.0-NORWEGIAN" git="git@github.com:miui-scandinavia/MA-XML-6.0-NORWEGIAN.git" branch="master"/>
+	<language check="normal" miui="v6" name="Polish" iso="pl" url="https://github.com/Acid-miuipolskapl/XML_MIUI-v6" git="git@github.com:Acid-miuipolskapl/XML_MIUI-v6.git" branch="master"/>
+	<language check="normal" miui="v6" name="Russian" iso="ru" url="https://github.com/KDGDev/miui-v6-russian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v6-russian-translation-for-miuiandroid.git" branch="master"/>
+	<language check="normal" miui="v6" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-SLOVAK.git" branch="master"/>
 </languages>
