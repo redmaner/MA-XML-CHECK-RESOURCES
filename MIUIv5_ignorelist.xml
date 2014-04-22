@@ -38,22 +38,18 @@
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="tupian_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yahoo_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yicha_in_list"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_default_value"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_never"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_default_value"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_never"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_wifi_only"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_always"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_default_value"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_never"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_never"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_wifi_only"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_always"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_default_value"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_ua_mione_value"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_autohority"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app0"/>
@@ -71,7 +67,6 @@
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="availability_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="delete_repeating_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="birthday_event_title"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
@@ -303,9 +298,6 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="dolby_equalizer_preset_names"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="dndm_vip_list_group_array"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="dndm_auto_time_trun_on_off"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="battery_stats_last_duration"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_psk_generic"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_psk_generic"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="duration_entryValues"/>
 	<item folder="all" application="TelephonyProvider.apk" file="arrays.xml" name="default_antispam_category"/>
 	<item folder="all" application="Transfer.apk" file="arrays.xml" name="share_filters"/>
@@ -318,70 +310,6 @@
 	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_special_locale_names"/>
 	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="v5_number_progress_numbers"/>
 	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="preloaded_drawables"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_PinMmi"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_action_bar_up_description"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_add_account_label"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_allow"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_byteShort"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_capital_off"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_capital_on"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_choose_account_label"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_common_last_name_prefixes"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_common_name_conjunctions"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_common_name_prefixes"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_common_name_suffixes"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_default_audio_route_name_headphones"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_deny"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_factorytest_reboot"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_fast_scroll_alphabet"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_fileSizeSuffix"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_gigabyteShort"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_global_action_power_off"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_global_actions_airplane_mode_off_status"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_global_actions_airplane_mode_on_status"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_global_actions_toggle_airplane_mode"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_grant_permissions_header_text"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_kilobyteShort"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_cell_added"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_cleared"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_detected"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_access_pattern_start"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_emergency_call"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_checking_password"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_forgot_pattern"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_invalid_input"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_password_hint"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_submit_button"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_glogin_too_many_attempts"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_missing_sim_message_short"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_lockscreen_too_many_failed_attempts_countdown"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_megabyteShort"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_petabyteShort"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_phoneTypeMms"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_power_off"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_report"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_ringtone_default_with_actual"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_ringtone_silent"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_ringtone_unknown"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_safe_media_volume_warning"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_clear"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_query"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_search"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_submit"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_searchview_description_voice"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_shutdown_confirm"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_shutdown_progress"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_silent_mode_ring"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_silent_mode_silent"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_silent_mode_vibrate"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_ssl_certificate"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_storage_usb"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_terabyteShort"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_usb_cd_installer_notification_title"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_usb_mtp_notification_title"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_usb_ptp_notification_title"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="android_wifi_tether_configure_ssid_default"/>
-	<item folder="all" application="framework-miui-res.apk" file="strings.xml" name="passwordIncorrect"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="preloaded_drawables"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_when_silent"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_when_silent"/>
@@ -391,7 +319,6 @@
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_with_camera"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_with_camera"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_chevron_drawables"/>
-	<item folder="all" application="framework-res.apk" file="strings.xml" name="default_wallpaper_component"/>
 	<item folder="all" application="MMS.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
