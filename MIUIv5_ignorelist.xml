@@ -231,7 +231,7 @@
 	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="count_entryValues"/>
 	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="color_picker_colors"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entryValues"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
+	<item folder="main" application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
 	<item folder="all" application="Music.apk" file="arrays.xml" name="dirac_equalizer_preset_names"/>
 	<item folder="all" application="Music.apk" file="arrays.xml" name="music_quality"/>
 	<item folder="all" application="Notes.apk" file="arrays.xml" name="count_values"/>
