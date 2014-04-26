@@ -274,6 +274,11 @@
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="clir_values"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_values"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_values_lte"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_system_select_values"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="tty_mode_values"/>
+	<item folder="all" application="Phone.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_always"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_address_only"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_ask_me_each_time"/>
@@ -287,6 +292,11 @@
 	<item folder="all" application="Phone.apk" file="strings.xml" name="send_keepalive"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="advanced_settings_container"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="auth_username"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="voicemail_notification_vibrate_when_default"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="default_port"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="default_transport"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="set_primary"/>
+	<item folder="all" application="Phone.apk" file="strings.xml" name="auto_registration"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="opt_score_entryValues"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="opt_score_entryValues_small"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_security_no_eap"/>
