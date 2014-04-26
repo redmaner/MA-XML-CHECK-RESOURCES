@@ -385,4 +385,8 @@
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
+	<item folder="main" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_choices"/>
+	<item folder="main" application="Settings.apk" file="arrays.xml" name="overlay_display_devices_entries"/>	
+	
+	
 </resources>
