@@ -48,4 +48,7 @@
 	<language check="normal" miui="v6" name="Polish" iso="pl" url="https://github.com/Acid-miuipolskapl/XML_MIUI-v6" git="git@github.com:Acid-miuipolskapl/XML_MIUI-v6.git" branch="master"/>
 	<language check="normal" miui="v6" name="Russian" iso="ru" url="https://github.com/KDGDev/miui-v6-russian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v6-russian-translation-for-miuiandroid.git" branch="master"/>
 	<language check="normal" miui="v6" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-SLOVAK.git" branch="master"/>
+
+	<!-- Test repo's - Alfabetical order-->
+	<language check="normal" miui="v5Test" name="Dutch" iso="nl" url="https://github.com/MIUI-Nederland/MA-XML-5.0-DUTCH" git="git@github.com:MIUI-Nederland/MA-XML-5.0-DUTCH.git" branch="master"/>
 </languages>
