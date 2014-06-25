@@ -50,5 +50,5 @@
 	<language check="normal" miui="v6" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-SLOVAK.git" branch="master"/>
 
 	<!-- Test repo's - Alfabetical order-->
-	<language check="normal" miui="v5Test" name="Dutch" iso="nl" url="https://github.com/MIUI-NL/MA-XML-5.0-DUTCH" git="git@github.com:MIUI-NL/MA-XML-5.0-DUTCH.git" branch="master"/>
+	<language check="false" miui="v5Test" name="Dutch" iso="nl" url="https://github.com/MIUI-NL/MA-XML-5.0-DUTCH" git="git@github.com:MIUI-NL/MA-XML-5.0-DUTCH.git" branch="master"/>
 </languages>
