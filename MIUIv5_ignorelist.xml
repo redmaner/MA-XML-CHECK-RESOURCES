@@ -311,11 +311,11 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="opt_score_entryValues"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="opt_score_entryValues_small"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_security_no_eap"/>
-<!--
-	<item folder="all" application="Settings.apk" file="strings.xml" name="bssid_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="config_list_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="debug_intent_sender_label"/>
--->
+
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="bssid_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="config_list_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="debug_intent_sender_label"/>
+
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_wep"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_wpa"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_wpa2"/>
@@ -348,27 +348,27 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_users"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_vpn"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_wifi"/>
-<!--
-	<item folder="all" application="Settings.apk" file="strings.xml" name="hidden_ssid_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="ipaddr_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="link_speed_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="macaddr_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="network_state_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="networkid_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="rssi_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="scan_list_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="ssid_label"/>
--->
+
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="hidden_ssid_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="ipaddr_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="link_speed_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="macaddr_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="network_state_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="networkid_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="rssi_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="scan_list_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="ssid_label"/>
+
 	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_font_size"/>
-<!--
-	<item folder="all" application="Settings.apk" file="strings.xml" name="supplicant_state_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="testing_wifi_info"/>
--->
+
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="supplicant_state_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="testing_wifi_info"/>
+
 	<item folder="all" application="Settings.apk" file="strings.xml" name="time_zone_auto_stub"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
-<!--
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_api_test"/>
--->
+
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_api_test"/>
+
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_display_autonomous_go"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_display_certification_heading"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_display_listen_channel"/>
@@ -383,16 +383,16 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_gateway_hint"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_ip_address_hint"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_network_prefix_length_hint"/>
-<!--
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_state_disabled"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_state_disabling"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_state_enabled"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_state_enabling"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_state_label"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_state_unknown"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_status_test"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_update"/>
--->
+
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_disabled"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_disabling"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_enabled"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_enabling"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_label"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_unknown"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_status_test"/>
+	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_update"/>
+-
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="duration_entryValues"/>
 	<item folder="all" application="TelephonyProvider.apk" file="arrays.xml" name="default_antispam_category"/>
 	<item folder="all" application="Transfer.apk" file="arrays.xml" name="share_filters"/>
