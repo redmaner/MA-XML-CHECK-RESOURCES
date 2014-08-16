@@ -10,24 +10,17 @@
 
 	Please keep the applications and file types in alfabetical order, to keep the overview. -->
 <resources>
-	<item folder="all" application="AntiSpam.apk" file="arrays.xml" name="st_block_settings"/>
 	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="create_table_report_sms"/>
 	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="create_table_report_sms_pending"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="baidu_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_zh_CN_in_list"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="bookmark_preloads"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="bookmark_preloads_zh"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="bookmarks_zh"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="dianping_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="easou_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="google_in_list"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_data_preload_values"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_fling_on_border_values"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_images_preload_values"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_link_prefetch_values"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_ua_values"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_video_preload_values"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_volume_key_values"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_content_font_size"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_theme_bgcolors"/>
@@ -191,18 +184,6 @@
 	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_speed_value_normal"/>
 	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_speed_value_slow"/>
 	<item folder="all" application="Camera.apk" file="strings.xml" name="pref_video_time_lapse_frame_interval_default"/>
-	<item folder="all" application="Contacts.apk" file="arrays.xml" name="auto_answer_phone_operator_bluetooth_select"/>
-	<item folder="all" application="Contacts.apk" file="arrays.xml" name="callrecordview_menu_show_values"/>
-	<item folder="all" application="Contacts.apk" file="arrays.xml" name="preference_dial_pad_touch_tone_entries"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_entries"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_entries_push"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_entries"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_entries_with_default"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="combined_view_account_colors"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="general_preference_auto_advance_entries"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="general_preference_text_zoom_entries"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="mailbox_display_icons"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="mailbox_display_names"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="account_cache_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="compose_help_context"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="conversation_content_provider"/>
@@ -226,63 +207,16 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="report_rendering_problem_desc"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="wait_help_context"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="widget_provider"/>
-	<item folder="all" application="Exchange2.apk" file="arrays.xml" name="account_settings_mail_window_entries"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entries"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entryValues"/>
-	<item folder="all" application="LiveWallpapers.apk" file="arrays.xml" name="polar_clock_palette_names"/>
 	<item folder="all" application="MMS.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
-	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="color_picker_colors"/>
-	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="count_entryValues"/>
-	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="thumb_date_entryValues"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entryValues"/>
-	<item folder="all" application="Music.apk" file="arrays.xml" name="dirac_equalizer_preset_names"/>
-	<item folder="all" application="Music.apk" file="arrays.xml" name="music_quality"/>
-	<item folder="all" application="Notes.apk" file="arrays.xml" name="count_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="perimission_action_entries"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="permission_grps"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="absent_num"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="answer_widget_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="auto_answer_delay_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="auto_answer_scenario_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="auto_record_scenario_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="call_waiting_tone_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_call_waiting_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_preferred_network_type_pref_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_system_select_choices_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="clir_choices_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="clir_values"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="connect_disconnect_vibrate_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="dtmf_tone_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_2way_direction_descriptions_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_2way_target_descriptions_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_2way_targets_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_direction_descriptions_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_target_descriptions_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_targets_light_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="in_call_answer_widget_3way_targets_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_2way_direction_descriptions"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_2way_target_descriptions"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_2way_targets"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_3way_direction_descriptions"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_3way_target_descriptions"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="incoming_call_widget_3way_targets"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="missed_call_notify_times_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="phone_type_values"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="sip_call_options_entries"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="sip_call_options_values"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="sip_call_options_wifi_only_entries"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="sip_send_keepalive_options"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="t9_indexing_method_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="tty_mode_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="umts_gsm_preferred_network_type_pref_entries_miui"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="voice_quality_ui_values_miui"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_values"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_values_lte"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_system_select_values"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="tty_mode_values"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="default_port"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="default_transport"/>
@@ -301,18 +235,7 @@
 	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_ask_me_each_time"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="transport"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="username"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="dndm_auto_time_trun_on_off"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="dndm_vip_list_group_array"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="dolby_equalizer_preset_names"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="dolby_mode_entries"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="entries_color_calibration"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="font_size_title"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="input_method_selector_titles"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="input_method_selector_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="mi2_wifi_security"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="opt_score_entryValues"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="opt_score_entryValues_small"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_security_no_eap"/>
 <!-- wifi debug menu -->
 	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="bssid_label"/>
 	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="config_list_label"/>
@@ -395,28 +318,6 @@
 	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_unknown"/>
 	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_status_test"/>
 	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_update"/>
-
-	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="duration_entryValues"/>
-	<item folder="all" application="TelephonyProvider.apk" file="arrays.xml" name="default_antispam_category"/>
-	<item folder="all" application="Transfer.apk" file="arrays.xml" name="share_filters"/>
-	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_common_nicknames"/>
-	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_config_keyboardTapVibePattern"/>
-	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_config_longPressVibePattern"/>
-	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_config_mobile_hotspot_provision_app"/>
-	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_config_virtualKeyVibePattern"/>
-	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_special_locale_codes"/>
-	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="android_special_locale_names"/>
-	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="preloaded_drawables"/>
-	<item folder="all" application="framework-miui-res.apk" file="arrays.xml" name="v5_number_progress_numbers"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_chevron_drawables"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_direction_descriptions"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_when_silent"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_when_soundon"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_target_descriptions_with_camera"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_when_silent"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_when_soundon"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lockscreen_targets_with_camera"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="preloaded_drawables"/>
 
 	<item folder="main" application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
 	<item folder="main" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_choices"/>
