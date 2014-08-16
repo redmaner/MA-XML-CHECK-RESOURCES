@@ -1,5 +1,10 @@
 <?xml version="1.0"?>
 <languages>
+	<!-- MIUI6 repo's - Alfabetical order
+	EXAMPLE:
+	<language check="normal" miui="6" name="example" iso="example" url="example" git="example" branch="example"/>--> 
+
+
 	<!-- MIUIv5 repo's - Alfabetical order-->
 	<language check="normal" miui="v5" name="Arabic" iso="ar" url="https://github.com/MIUI-Palestine/MIUIPalestine_V5_Arabic_XML" git="git@github.com:MIUI-Palestine/MIUIPalestine_V5_Arabic_XML.git" branch="master"/>
 	<language check="normal" miui="v5" name="Brazilian-Portuguese" iso="pt-rBR" url="https://bitbucket.org/miuibrasil/ma-xml-5.0-portuguese-brazilian" git="git@bitbucket.org:miuibrasil/ma-xml-5.0-portuguese-brazilian.git"  branch="master"/>
@@ -47,6 +52,4 @@
 	<language check="normal" miui="v6-Tablet" name="Russian" iso="ru" url="https://github.com/KDGDev/miui-v6-russian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v6-russian-translation-for-miuiandroid.git" branch="master"/>
 	<language check="normal" miui="v6-Tablet" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-TABLET-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-TABLET-SLOVAK.git" branch="master"/>
 	<language check="normal" miui="v6-Tablet" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MA-XML-v6-vietnam" git="git@github.com:Belmont-Gabriel/MA-XML-v6-vietnam.git" branch="master"/>
-
-	<!-- MIUIv6 repo's - Alfabetical order--> 
 </languages>
