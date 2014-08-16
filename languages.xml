@@ -1,10 +1,17 @@
 <?xml version="1.0"?>
 <languages>
-	<!-- MIUI6 repo's - Alfabetical order
-	EXAMPLE:
-	<language check="normal" miui="6" name="example" iso="example" url="example" git="example" branch="example"/>--> 
+	<!-- MIUI6 repo's - Alfabetical order-->
+	<language check="normal" miui="6" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-6.0-BULGARIAN" git="git@github.com:ingbrzy/MA-XML-6.0-BULGARIAN.git" branch="master"/>
+	<language check="normal" miui="6" name="Croatian" iso="hr" url="https://github.com/ingbrzy/MA-XML-6.0-CROATIAN" git="git@github.com:ingbrzy/MA-XML-6.0-CROATIAN.git" branch="master"/>
+	<language check="normal" miui="6" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-TABLET-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-TABLET-CZECH.git" branch="master"/>	
+	<language check="normal" miui="6" name="French" iso="fr" url="https://github.com/cpasmoi/miui-xml-TABLET-FRENCH" git="git@github.com:cpasmoi/miui-xml-TABLET-FRENCH.git" branch="master"/>	
+	<language check="normal" miui="6" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v6-hungarian-translation-for-miuiandroid" git="git@github.com:vagyula1/miui-v6-hungarian-translation-for-miuiandroid.git" branch="master"/>
+	<language check="normal" miui="6" name="Italian" iso="it" url="https://github.com/MishFdM/MIUI_V6_Italy" git="git@github.com:MishFdM/MIUI_V6_Italy.git" branch="master"/>
 	<language check="normal" miui="6" name="Norwegian" iso="nb" url="https://github.com/miui-scandinavia/MA-XML-6.0-NORWEGIAN" git="git@github.com:miui-scandinavia/MA-XML-6.0-NORWEGIAN.git" branch="master"/>
-
+	<language check="normal" miui="6" name="Polish" iso="pl" url="https://github.com/Acid-miuipolskapl/XML_MIUI-v6" git="git@github.com:Acid-miuipolskapl/XML_MIUI-v6.git" branch="master"/>
+	<language check="normal" miui="6" name="Russian" iso="ru" url="https://github.com/KDGDev/miui-v6-russian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v6-russian-translation-for-miuiandroid.git" branch="master"/>
+	<language check="normal" miui="6" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-TABLET-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-TABLET-SLOVAK.git" branch="master"/>
+	<language check="normal" miui="6" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MA-XML-v6-vietnam" git="git@github.com:Belmont-Gabriel/MA-XML-v6-vietnam.git" branch="master"/>
 
 	<!-- MIUIv5 repo's - Alfabetical order-->
 	<language check="normal" miui="v5" name="Arabic" iso="ar" url="https://github.com/MIUI-Palestine/MIUIPalestine_V5_Arabic_XML" git="git@github.com:MIUI-Palestine/MIUIPalestine_V5_Arabic_XML.git" branch="master"/>
@@ -40,16 +47,4 @@
 	<language check="false" miui="v5" name="Ukrainian" iso="uk" url="https://github.com/KDGDev/miui-v5-ukrainian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v5-ukrainian-translation-for-miuiandroid.git" branch="master"/>
 	<language check="normal" miui="v5" name="Vietnamese" iso="vi" url="https://github.com/HoangTuBot/MA-xml-v5-vietnam" git="git@github.com:HoangTuBot/MA-xml-v5-vietnam.git" branch="master"/>
 	<language check="false" miui="v5" name="i18n_miui" iso="i18n" url="https://github.com/micode/i18n_miui" git="git@github.com:MiCode/i18n_miui.git" branch="master"/>
-
-	<!-- MIUIv6 TABLET repo's - Alfabetical order-->
-	<language check="normal" miui="v6-Tablet" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-6.0-BULGARIAN" git="git@github.com:ingbrzy/MA-XML-6.0-BULGARIAN.git" branch="master"/>
-	<language check="normal" miui="v6-Tablet" name="Croatian" iso="hr" url="https://github.com/ingbrzy/MA-XML-6.0-CROATIAN" git="git@github.com:ingbrzy/MA-XML-6.0-CROATIAN.git" branch="master"/>
-	<language check="normal" miui="v6-Tablet" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-TABLET-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-TABLET-CZECH.git" branch="master"/>	
-	<language check="normal" miui="v6-Tablet" name="French" iso="fr" url="https://github.com/cpasmoi/miui-xml-TABLET-FRENCH" git="git@github.com:cpasmoi/miui-xml-TABLET-FRENCH.git" branch="master"/>	
-	<language check="normal" miui="v6-Tablet" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v6-hungarian-translation-for-miuiandroid" git="git@github.com:vagyula1/miui-v6-hungarian-translation-for-miuiandroid.git" branch="master"/>
-	<language check="normal" miui="v6-Tablet" name="Italian" iso="it" url="https://github.com/MishFdM/MIUI_V6_Italy" git="git@github.com:MishFdM/MIUI_V6_Italy.git" branch="master"/>
-	<language check="normal" miui="v6-Tablet" name="Polish" iso="pl" url="https://github.com/Acid-miuipolskapl/XML_MIUI-v6" git="git@github.com:Acid-miuipolskapl/XML_MIUI-v6.git" branch="master"/>
-	<language check="normal" miui="v6-Tablet" name="Russian" iso="ru" url="https://github.com/KDGDev/miui-v6-russian-translation-for-miuiandroid" git="git@github.com:KDGDev/miui-v6-russian-translation-for-miuiandroid.git" branch="master"/>
-	<language check="normal" miui="v6-Tablet" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-TABLET-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-TABLET-SLOVAK.git" branch="master"/>
-	<language check="normal" miui="v6-Tablet" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MA-XML-v6-vietnam" git="git@github.com:Belmont-Gabriel/MA-XML-v6-vietnam.git" branch="master"/>
 </languages>
