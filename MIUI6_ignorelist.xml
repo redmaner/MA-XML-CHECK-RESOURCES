@@ -238,88 +238,13 @@
 	<item folder="all" application="Phone.apk" file="strings.xml" name="transport"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="username"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="entries_color_calibration"/>
-<!-- wifi debug menu -->
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="bssid_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="config_list_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="debug_intent_sender_label"/>
-
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_wep"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_wpa"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_wpa2"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_wpa_wpa2"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_short_eap"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_wep"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_wpa"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_wpa2"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_wpa_wpa2"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_security_eap"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="disableNetwork"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="disconnect"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="enableNetwork"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="getConfiguredNetworks"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="getConnectionInfo"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_accounts"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_backup_reset"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_battery"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_bluetooth"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_choose_lockscreen"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_data_usage"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_dreams"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_location_access"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_more_networks"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_nfc_payment"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_remote_display"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_security"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_sound"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_tether"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_users"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_vpn"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="help_url_wifi"/>
-<!-- wifi debug menu -->
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="hidden_ssid_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="ipaddr_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="link_speed_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="macaddr_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="network_state_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="networkid_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="rssi_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="scan_list_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="ssid_label"/>
-
 	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_font_size"/>
 <!-- wifi debug menu -->
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="supplicant_state_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="testing_wifi_info"/>
-
 	<item folder="all" application="Settings.apk" file="strings.xml" name="time_zone_auto_stub"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 <!-- wifi debug menu -->
 	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_api_test"/>
 <!-- used in some android version -->
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_display_autonomous_go"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_display_certification_heading"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_display_listen_channel"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_display_listen_mode"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_display_operating_channel"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_display_pause"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_display_resume"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_display_session_info"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_display_wps_config"/>
-
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_dns1_hint"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_dns2_hint"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_gateway_hint"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_ip_address_hint"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_network_prefix_length_hint"/>
-
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_disabled"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_disabling"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_enabled"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_enabling"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_label"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_state_unknown"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_status_test"/>
-	<item folder="all" application="disabled_Settings.apk" file="strings.xml" name="wifi_update"/>
 
 	<item folder="main" application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
 	<item folder="main" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_choices"/>
