@@ -267,16 +267,28 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_font_size"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="Lock_intro_message"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="app_install_location_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_press_action_value"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_long_press_action_value"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="hdcp_checking_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="change_security_lock_picker_key"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_journal_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_sync_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_wal_sync_mode"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_address_only"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_always"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_ask_me_each_time"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="clir_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="sip_address_only"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="sip_always"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="sip_ask_me_each_time"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="voicemail_notification_vibrate_when_default"/>
+	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
+	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="clir_values"/>
+	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="default_toolbar_items"/>
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="default_toolbox_items"/>
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_mode_dust_cap"/>
