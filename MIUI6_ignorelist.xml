@@ -53,6 +53,8 @@
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_never"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_wifi_only"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_never"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_always"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_wifi_only"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_ua_mione_value"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_always"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_never"/>
@@ -75,6 +77,10 @@
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_vcard_type"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_import_vcard_type"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_dir"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_file_extension"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
@@ -206,6 +212,7 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_setting_switch_entryvalue_off"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_setting_switch_entryvalue_on"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="time_line_view"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="account_cache_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="compose_help_context"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="conversation_content_provider"/>
@@ -263,8 +270,20 @@
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_journal_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_sync_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_wal_sync_mode"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_address_only"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_always"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_ask_me_each_time"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="sip_address_only"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="sip_always"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="sip_ask_me_each_time"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="voicemail_notification_vibrate_when_default"/>
+	<item folder="all" application="Mikey.apk" file="strings.xml" name="default_toolbar_items"/>
+	<item folder="all" application="Mikey.apk" file="strings.xml" name="default_toolbox_items"/>
+	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_mode_dust_cap"/>
+	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_mode_silent_open"/>
+	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_silent"/>
 	
-	
+
 	<item folder="main" application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
 	<item folder="main" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_choices"/>
 	<item folder="main" application="Settings.apk" file="arrays.xml" name="overlay_display_devices_entries"/>
