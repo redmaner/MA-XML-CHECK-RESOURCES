@@ -18,6 +18,11 @@
 	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="create_table_report_sms_pending"/>
 	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="create_table_sim"/>
 	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="create_talbe_fwlog"/>
+	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="st_antispam_mode_blacklist_state"/>
+	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="st_antispam_mode_only_all_deny_state"/>
+	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="st_antispam_mode_only_contacts_state"/>
+	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="st_antispam_mode_only_whitelist_state"/>
+	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="st_antispam_mode_smart_state"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="baidu_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_zh_CN_in_list"/>
