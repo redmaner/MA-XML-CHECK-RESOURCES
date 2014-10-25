@@ -79,8 +79,6 @@
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_vcard_type"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_import_vcard_type"/>
-	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_dir"/>
-	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_file_extension"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
@@ -267,7 +265,6 @@
 	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_ask_me_each_time"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="transport"/>
 	<item folder="all" application="Phone.apk" file="strings.xml" name="username"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_font_size"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="Lock_intro_message"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="app_install_location_values"/>
