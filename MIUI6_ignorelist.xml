@@ -236,8 +236,11 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="report_rendering_problem_desc"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="wait_help_context"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="widget_provider"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_autoAdvance"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_removal_action"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entries"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entryValues"/>
+	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="wallpaper_scroll_values"/>
 	<item folder="all" application="MMS.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
 	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
@@ -273,6 +276,11 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="hdcp_checking_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="change_security_lock_picker_key"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="track_frame_time_values"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="category_key_power_usage_details"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="category_key_power_usage_packages"/>
+	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_type_values"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_statusBarIcons"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_journal_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_sync_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_wal_sync_mode"/>
