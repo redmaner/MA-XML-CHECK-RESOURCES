@@ -307,6 +307,18 @@
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_address_only"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_always"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_ask_me_each_time"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="auth_username"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="advanced_settings_container"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="set_primary"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="send_keepalive"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="transport"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="port"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="display_name"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="password"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="username"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="domain_address"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_transport"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_port"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="clir_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="absent_num"/>
