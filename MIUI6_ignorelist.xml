@@ -264,10 +264,10 @@
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entries"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entryValues"/>
 	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="wallpaper_scroll_values"/>
-	<item folder="all" application="MMS.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
-	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
-	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
-	<item folder="all" application="MMS.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
+	<item folder="all" application="Mms.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
+	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
+	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
+	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_values"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_values_lte"/>
@@ -292,6 +292,7 @@
 	<item folder="all" application="Phone.apk" file="strings.xml" name="username"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="Lock_intro_message"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="always_enabled_app_list"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="app_install_location_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_press_action_value"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_long_press_action_value"/>
