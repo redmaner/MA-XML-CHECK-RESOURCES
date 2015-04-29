@@ -79,6 +79,9 @@
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_vcard_type"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_import_vcard_type"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_jpegquality_value_high"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_jpegquality_value_low"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_jpegquality_value_normal"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
