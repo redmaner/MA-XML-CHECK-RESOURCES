@@ -15,4 +15,6 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="msd_pc_system_install_finish_summary"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="msd_pc_system_retry_xp"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="date_entryValues"/>
+	<!-- wifi_ap_security ignore for 5.0 (not same number of arrays)-->
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_ap_security"/>
 </resources>
