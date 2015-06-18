@@ -295,8 +295,6 @@
 	<item folder="all" application="Phone.apk" file="strings.xml" name="username"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="Lock_intro_message"/>
-	<!-- wifi_ap_security ignore for 5.0 -->
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_ap_security"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="always_enabled_app_list"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="app_install_location_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_press_action_value"/>
