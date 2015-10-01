@@ -2,6 +2,7 @@
 <languages>
 	<!-- MIUI7 repo's - Alfabetical order-->
 	<language check="normal" miui="7" name="Bulgarian" iso="bg" url="https://github.com/MIUI-Bulgaria/MA-XML-7.0-BULGARIAN" git="git@github.com:MIUI-Bulgaria/MA-XML-7.0-BULGARIAN.git" branch="master"/>
+	<language check="normal" miui="7" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/mattbittencourt/MA-XML-V6.0-PTBR-MIUIBrasil" git="git@github.com:mattbittencourt/MA-XML-V6.0-PTBR-MIUIBrasil.git"  branch="master"/>
 	<language check="normal" miui="7" name="Croatian" iso="hr" url="https://github.com/MASVA/MA-XML-7.0-CROATIAN-master" git="git@github.com:MASVA/MA-XML-7.0-CROATIAN-master.git" branch="master"/>
 	<language check="normal" miui="7" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-7.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-7.0-CZECH.git" branch="master"/>
 	<language check="normal" miui="7" name="Dutch" iso="nl" url="https://github.com/Redmaner/MIUI7-XML-DUTCH" git="git@github.com:Redmaner/MIUI7-XML-DUTCH.git" branch="master"/>
@@ -19,7 +20,6 @@
 	<language check="normal" miui="7" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MA-XML-MIUI7-Vietnamese" git="git@github.com:Belmont-Gabriel/MA-XML-MIUI7-Vietnamese.git" branch="master"/>
 
 	<!-- MIUI6 repo's - Alfabetical order-->
-	<language check="false" miui="6" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/mattbittencourt/MA-XML-V6.0-PTBR-MIUIBrasil" git="git@github.com:mattbittencourt/MA-XML-V6.0-PTBR-MIUIBrasil.git"  branch="master"/>
 	<language check="false" miui="6" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-6.0-BULGARIAN" git="git@github.com:ingbrzy/MA-XML-6.0-BULGARIAN.git" branch="master"/>
 	<language check="false" miui="6" name="Croatian" iso="hr" url="https://github.com/MASVA/MA-XML-6.0-CROATIAN-master/" git="git@github.com:MASVA/MA-XML-6.0-CROATIAN-master.git" branch="master"/>
 	<language check="false" miui="6" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-6.0-TABLET-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-6.0-TABLET-CZECH.git" branch="master"/>	
