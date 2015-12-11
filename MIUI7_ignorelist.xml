@@ -351,6 +351,7 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="lock_intro_message"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="airplane_mode_toggleable_radios"/>
+	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="date_entryValues"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_type_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="absent_num"/>
