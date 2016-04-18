@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<resources>
+	<item file="languages.xml" preparse="true">
+	<item file="MIUI6_ignorelist.xml" preparse="false">
+	<item file="MIUI7_ignorelist.xml" preparse="true">
+	<item file="MIUIv5_ignorelist.xml" preparse="false">
+</resources>
