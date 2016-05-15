@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <languages>
+	<!-- MIUI8 repo's - Alfabetical order-->
+
 	<!-- MIUI7 repo's - Alfabetical order-->
 	<language check="normal" miui="7" name="Bulgarian" iso="bg" url="https://github.com/MIUI-Bulgaria/MA-XML-7.0-BULGARIAN" git="git@github.com:MIUI-Bulgaria/MA-XML-7.0-BULGARIAN.git" branch="master"/>
 	<language check="normal" miui="7" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/miuibrasil/MIUIBrasil-XML-MIUI7" git="git@github.com:miuibrasil/MIUIBrasil-XML-MIUI7.git"  branch="master"/>
