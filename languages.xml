@@ -4,13 +4,13 @@
 	<language check="normal" miui="8" name="Bulgarian" iso="bg" url="https://github.com/tmladenov/MIUI-V8-BULGARIAN" git="git@github.com:tmladenov/MIUI-V8-BULGARIAN.git" branch="master"/>
 	<language check="normal" miui="8" name="Croatian" iso="hr" url="https://github.com/MASVA/MA-XML-8.0-CROATIAN" git="git@github.com:MASVA/MA-XML-8.0-CROATIAN.git" branch="master"/>
 	<language check="normal" miui="8" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-8.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-8.0-CZECH.git" branch="master"/>
-        <language check="normal" miui="8" name="Italian" iso="it" url="https://github.com/MishFdM/MIUI_V8_Italy" git="git@github.com:MishFdM/MIUI_V8_Italy.git" branch="master"/>
-	<language check="normal" miui="8" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-8.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-8.0-SLOVAK.git" branch="master"/>
-	<language check="normal" miui="8" name="Greek" iso="el" url="https://github.com/Xiaomi-Miui-Hellas/MIUI-XML-8.0-Greek" git="git@github.com:Xiaomi-Miui-Hellas/MIUI-XML-8.0-Greek.git" branch="master"/>	
+ 	<language check="normal" miui="8" name="Greek" iso="el" url="https://github.com/Xiaomi-Miui-Hellas/MIUI-XML-8.0-Greek" git="git@github.com:Xiaomi-Miui-Hellas/MIUI-XML-8.0-Greek.git" branch="master"/>	
+      	<language check="normal" miui="8" name="Italian" iso="it" url="https://github.com/MishFdM/MIUI_V8_Italy" git="git@github.com:MishFdM/MIUI_V8_Italy.git" branch="master"/>
 	<language check="normal" miui="8" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MA-XML-8.0-PORTUGUESE"  git="git@github.com:KcNirvana/MA-XML-8.0-PORTUGUESE.git" branch="master"/>
 	<language check="normal" miui="8" name="Romanian" iso="ro" url="https://github.com/ashtefan/Romanian_MIUI8"  git="git@github.com:ashtefan/Romanian_MIUI8.git" branch="master"/>
-	<language check="normal" miui="8" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI8-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI8-XML-Vietnamese.git" branch="master"/>
+ 	<language check="normal" miui="8" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-8.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-8.0-SLOVAK.git" branch="master"/>
 	<language check="normal" miui="8" name="Slovenian" iso="sl" url="https://github.com/bostjan2016/MIUI-8-SLOVENIAN" git="git@github.com:bostjan2016/MIUI-8-SLOVENIAN.git" branch="master"/>
+	<language check="normal" miui="8" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI8-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI8-XML-Vietnamese.git" branch="master"/>
  
 	<!-- MIUI7 repo's - Alfabetical order-->
 	<language check="false" miui="7" name="Bulgarian" iso="bg" url="https://github.com/MIUI-Bulgaria/MA-XML-7.0-BULGARIAN" git="git@github.com:MIUI-Bulgaria/MA-XML-7.0-BULGARIAN.git" branch="master"/>
