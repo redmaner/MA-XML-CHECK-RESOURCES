@@ -15,9 +15,7 @@
 	<language check="normal" miui="8" name="Spanish" iso="es" url="https://github.com/ingbrzy/MA-XML-8.0-SPANISH" git="git@github.com:ingbrzy/MA-XML-8.0-SPANISH.git" branch="master"/>
 	<language check="normal" miui="8" name="Thai" iso="th" url="https://github.com/sazuke0703/Miui8-Thai-Language" git="git@github.com:sazuke0703/Miui8-Thai-Language.git" branch="master"/>
         <language check="normal" miui="8" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI8-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI8-XML-Vietnamese.git" branch="master"/>
- 	<language check="normal" miui="8" name="Russian" iso="ru" url="https://github.com/sazuke0703/Miui8-Thai-Language" git="https://miui_russia:romzbz_zdoh@bitbucket.org/miuisu/miui.suv8-translation-russian.git" branch="master"/>
-        <language check="normal" miui="8" name="Ukraininan" iso="uk" url="https://github.com/Belmont-Gabriel/MIUI8-XML-Vietnamese" git="https://miui_russia:romzbz_zdoh@bitbucket.org/miuisu/miui.suv8-translation-ukrainian.git" branch="master"/>
- 
+ 	
 	<!-- MIUI7 repo's - Alfabetical order-->
 	<language check="false" miui="7" name="Bulgarian" iso="bg" url="https://github.com/MIUI-Bulgaria/MA-XML-7.0-BULGARIAN" git="git@github.com:MIUI-Bulgaria/MA-XML-7.0-BULGARIAN.git" branch="master"/>
 	<language check="normal" miui="7" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/miuibrasil/MIUIBrasil-XML-MIUI7" git="git@github.com:miuibrasil/MIUIBrasil-XML-MIUI7.git"  branch="master"/>
