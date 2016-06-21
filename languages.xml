@@ -16,6 +16,7 @@
 	<language check="normal" miui="8" name="Slovenian" iso="sl" url="https://github.com/bostjan2016/MIUI-8-SLOVENIAN" git="git@github.com:bostjan2016/MIUI-8-SLOVENIAN.git" branch="master"/>
 	<language check="normal" miui="8" name="Spanish" iso="es" url="https://github.com/ingbrzy/MA-XML-8.0-SPANISH" git="git@github.com:ingbrzy/MA-XML-8.0-SPANISH.git" branch="master"/>
 	<language check="normal" miui="8" name="Thai" iso="th" url="https://github.com/sazuke0703/Miui8-Thai-Language" git="git@github.com:sazuke0703/Miui8-Thai-Language.git" branch="master"/>
+	<language check="normal" miui="8" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-8.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-8.0-TURKISH.git" branch="master"/>
         <language check="normal" miui="8" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI8-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI8-XML-Vietnamese.git" branch="master"/>
  	
 	<!-- MIUI7 repo's - Alfabetical order-->
@@ -41,7 +42,7 @@
 	<language check="false" miui="7" name="Slovenian" iso="sl" url="https://github.com/bostjan2016/MIUI-7-SLOVENIAN" git="git@github.com:bostjan2016/MIUI-7-SLOVENIAN.git" branch="master"/>
 	<language check="normal" miui="7" name="Serbian" iso="sr" url="https://github.com/MIUIADRIA/MIUI-V7-Serbian" git="git@github.com:MIUIADRIA/MIUI-V7-Serbian.git" branch="master"/>
 	<language check="false" miui="7" name="Spanish" iso="es" url="https://github.com/ingbrzy/MA-XML-6.0-SPANISH" git="git@github.com:ingbrzy/MA-XML-6.0-SPANISH.git" branch="master"/>
-	<language check="normal" miui="7" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-6.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-6.0-TURKISH.git" branch="master"/>
+	<language check="false" miui="7" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-6.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-6.0-TURKISH.git" branch="master"/>
 	<language check="false" miui="7" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MA-XML-MIUI7-Vietnamese" git="git@github.com:Belmont-Gabriel/MA-XML-MIUI7-Vietnamese.git" branch="master"/>
 
 	<!-- MIUI6 repo's - Alfabetical order-->
