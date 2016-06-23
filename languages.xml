@@ -8,6 +8,7 @@
 	<language check="normal" miui="8" name="Dutch" iso="nl" url="https://github.com/Redmaner/MIUI8-XML-DUTCH" git="git@github.com:Redmaner/MIUI8-XML-DUTCH.git" branch="master"/>
  	<language check="normal" miui="8" name="Greek" iso="el" url="https://github.com/Xiaomi-Miui-Hellas/MIUI-XML-8.0-Greek" git="git@github.com:Xiaomi-Miui-Hellas/MIUI-XML-8.0-Greek.git" branch="master"/>	
 	<language check="normal" miui="8" name="Hebrew" iso="iw" url="https://bitbucket.org/Kkffiirr/miui8_hebrew" git="git@bitbucket.org:Kkffiirr/miui8_hebrew.git" branch="master"/>
+	<language check="normal" miui="8" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v8-hungarian-translation" git="git@github.com:vagyula1/miui-v8-hungarian-translation.git" branch="master"/>
       	<language check="normal" miui="8" name="Italian" iso="it" url="https://github.com/MishFdM/MIUI_V8_Italy" git="git@github.com:MishFdM/MIUI_V8_Italy.git" branch="master"/>
 	<language check="normal" miui="8" name="Polish" iso="pl" url="https://bitbucket.org/Acid_miuipolskapl/xml_miui-v8"  git="git@bitbucket.org:Acid_miuipolskapl/xml_miui-v8.git" branch="master"/>
 	<language check="normal" miui="8" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MA-XML-8.0-PORTUGUESE"  git="git@github.com:KcNirvana/MA-XML-8.0-PORTUGUESE.git" branch="master"/>
@@ -30,7 +31,7 @@
 	<language check="false" miui="7" name="Greek" iso="el" url="https://github.com/Xiaomi-Miui-Hellas/MIUI-XML-7.0-Greek" git="git@github.com:Xiaomi-Miui-Hellas/MIUI-XML-7.0-Greek.git" branch="master"/>	
 	<language check="normal" miui="7" name="German" iso="de" url="https://github.com/muhamed89/MIUI" git="git@github.com:muhamed89/MIUI.git" branch="master"/>	
 	<language check="false" miui="7" name="Hebrew" iso="iw" url="https://bitbucket.org/Kkffiirr/miui7_hebrew" git="git@bitbucket.org:Kkffiirr/miui7_hebrew.git" branch="master"/>
-	<language check="normal" miui="7" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v7-hungarian-translation" git="git@github.com:vagyula1/miui-v7-hungarian-translation.git" branch="master"/>
+	<language check="false" miui="7" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v7-hungarian-translation" git="git@github.com:vagyula1/miui-v7-hungarian-translation.git" branch="master"/>
 	<language check="false" miui="7" name="Italian" iso="it" url="https://github.com/MishFdM/MIUI_V7_Italy" git="git@github.com:MishFdM/MIUI_V7_Italy.git" branch="master"/>
 	<language check="normal" miui="7" name="Korean" iso="ko" url="https://github.com/cjhyuky/MA-XML-MIUI7-Korean" git="git@github.com:cjhyuky/MA-XML-MIUI7-Korean.git" branch="master"/>
 	<language check="normal" miui="7" name="Macedonian" iso="mk" url="https://github.com/thenewmaker/MIUI-V7-Macedonian" git="git@github.com:thenewmaker/MIUI-V7-Macedonian.git" branch="master"/>
