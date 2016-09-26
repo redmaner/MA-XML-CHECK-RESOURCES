@@ -301,7 +301,8 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="setting_on_value"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_coloreffect_entryvalues"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="time_line_view"/>
-	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="wallpaper_scroll_values"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="camera_path"/>
+        <item folder="all" application="MiuiHome.apk" file="arrays.xml" name="wallpaper_scroll_values"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="wallpaper_scrolling"/>
 	<item folder="all" application="Mms.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
