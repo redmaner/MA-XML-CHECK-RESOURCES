@@ -106,6 +106,50 @@
 	
 
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="default_reminder_mode"/>
+	<item folder="all" application="CalendarProvider.apk" file="strings.xml" name="calendar_default_name"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="default_cache_type"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="default_name"/>
+	
+	<item folder="all" application="MediaProvider.apk" file="strings.xml" name="alarm_sound_default"/>
+	<item folder="all" application="MediaProvider.apk" file="strings.xml" name="notification_sound_default"/>
+	<item folder="all" application="MediaProvider.apk" file="strings.xml" name="ringtone_default"/>
+	
+	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="sdcard_default_path_change"/>
+	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="sdcard_select_default_path"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="default_album_name"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_game"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_recommend"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_security"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_tools"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_name"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="recommend_apps_default_title"/>
+
+	<item folder="all" application="MiuiKeyguard.apk" file="strings.xml" name="default_lockscreen_unlock_hint_text"/>
+	<item folder="all" application="MiuiKeyguard.apk" file="strings.xml" name="left_action_default_hint_text"/>
+	
+	<item folder="all" application="miuisystem.apk" file="strings.xml" name="android_ringtone_default_with_actual"/>
+	
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lockscreen_carrier_default"/>
+	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="defaults"/>
+	<item folder="all" application="MiuiVideoPlayer.apk" file="strings.xml" name="defaults"/>
+	<item folder="all" application="MtkBt.apk" file="strings.xml" name="simap_defaultname"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="download_auto_default_quality"/>
+	<item folder="all" application="Nfc.apk" file="strings.xml" name="default_pay_app_removed"/>
+
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="activity_title_default_apps_manager"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="apps_item_sms_default_set_success"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="hints_virus_lib_update_default_summary"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="last_checked_default"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="power_save_on_time_default_time"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="safe_result_item_info_sms_default"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="summary_default_app"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="tc_sms_report_get_default"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="title_default_app"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="toast_default_app"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="traffic_saving_history_total_month_default"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="optimize_result_summary_system_default_settings"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="optimize_result_title_system_default_settings"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="optimize_result_toast_system_default_settings"/>
 	
 	<item folder="all" application="CalendarProvider.apk" file="strings.xml" name="default_cache_type"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="mainbtn_text_quick_cleanup_default"/>
