@@ -159,7 +159,32 @@
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_title"/>
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_label"/>
 	
+	<item folder="all" application="Notes.apk" file="strings.xml" name="default_folder_name"/>
+	<item folder="all" application="Notes.apk" file="strings.xml" name="sns_content_default"/>
+	<item folder="all" application="Notes.apk" file="strings.xml" name="theme_title_default"/>
+	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="default_permission_description"/>
+	<item folder="all" application="PaymentService.apk" file="strings.xml" name="prepaid_picker_title_default"/>
+	<item folder="all" application="PrintSpooler.apk" file="strings.xml" name="print_error_default_message"/>
+	<item folder="all" application="QuickSearchBox.apk" file="strings.xml" name="default_hint"/>
+	<item folder="all" application="Stk.apk" file="strings.xml" name="default_call_setup_msg"/>
+	<item folder="all" application="Stk.apk" file="strings.xml" name="default_close_channel_msg"/>
+	<item folder="all" application="Stk.apk" file="strings.xml" name="default_open_channel_msg"/>
+	<item folder="all" application="Stk.apk" file="strings.xml" name="default_receive_data_msg"/>
+	<item folder="all" application="Stk.apk" file="strings.xml" name="default_send_data_msg"/>
+	<item folder="all" application="Stk.apk" file="strings.xml" name="default_setup_call_msg"/>
+	<item folder="all" application="Stk.apk" file="strings.xml" name="default_tone_dialog_msg"/>
 	
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="apply_default_font_tip"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="provision_default_theme_title"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="resource_alarm_default"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="resource_comment_edit_text_default"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="resource_comment_name_default"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="resource_default"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="resource_default_name"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="resource_notification_default"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="resource_ringtone_default"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="theme_description_title_default"/>
+
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="pref_download_revert_default"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="revert_default"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="third_web_default"/>
