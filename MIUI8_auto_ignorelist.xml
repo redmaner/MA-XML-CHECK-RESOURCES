@@ -35,7 +35,7 @@
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_body"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_body_open_traffic_saving"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_title"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="security_settings_premium_sms_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="security_settings_premium_sms_values"/>
 	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="alarm_value"/>
 	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="media_value"/>
 	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="notification_value"/>
