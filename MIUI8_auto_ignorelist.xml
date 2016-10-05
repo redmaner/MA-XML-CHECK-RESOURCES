@@ -15,6 +15,13 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="msd_pc_system_install_finish_summary"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="msd_pc_system_retry_xp"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="date_entryValues"/>
+	<item folder="all" application="cit.apk" file="strings.xml" name="current_value"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="bluetooth_pin_values_hint"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="bluetooth_pin_values_hint_16_digits"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="invalid_size_value"/>
+	<item folder="all" application="PowerKeeper.apk" file="strings.xml" name="invalid_size_value"/>
+	<item folder="all" application="MtkBt.apk" file="strings.xml" name="toast_get_default_value"/>
+	
 	<!-- wifi_ap_security ignore for 5.0 (not same number of arrays)-->
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_ap_security"/>
 </resources>
