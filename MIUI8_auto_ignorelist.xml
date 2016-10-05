@@ -150,6 +150,32 @@
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="optimize_result_summary_system_default_settings"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="optimize_result_title_system_default_settings"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="optimize_result_toast_system_default_settings"/>
+
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="areacode_set_default"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="change_default_data"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="change_default_data_alert_message"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="change_default_data_alert_title"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="change_default_data_card"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="change_default_data_card_summary"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="clir_choices_network_default"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="config_default_data_sim"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="confirm_change_default_data"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="connection_service_default_label"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_area_code_setting"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_areacode"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_call_type"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_preference_summary"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_sim_setting"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="msim_default_setting"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="msim_disable_sim_card_summary_default_card"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="msim_disable_sim_card_summary_non_default_card"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="not_change_default_data"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="preference_dial_pad_touch_tone_default"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="respond_via_sms_menu_reset_default_activity"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="sim_description_default"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="sum_default_caller_id"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="voicemail_default"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="call_background_default"/>
 	
 	<item folder="all" application="CalendarProvider.apk" file="strings.xml" name="default_cache_type"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="mainbtn_text_quick_cleanup_default"/>
