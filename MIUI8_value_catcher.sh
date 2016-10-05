@@ -3,6 +3,7 @@
 catch_values_arrays () {
 cat << EOF
 value
+Value
 entryValues
 default
 entryvalues
@@ -16,6 +17,7 @@ EOF
 catch_values_strings () {
 cat << EOF
 entryvalue
+Value
 default
 value
 EOF
