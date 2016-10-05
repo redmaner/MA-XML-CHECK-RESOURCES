@@ -21,7 +21,27 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="invalid_size_value"/>
 	<item folder="all" application="PowerKeeper.apk" file="strings.xml" name="invalid_size_value"/>
 	<item folder="all" application="MtkBt.apk" file="strings.xml" name="toast_get_default_value"/>
-	<item folder="all" application="framework-res.apk.apk" file="strings.xml" name="webviewchromium_color_picker_value"/>
+	<item folder="all" application="framework-res.apk" file="strings.xml" name="webviewchromium_color_picker_value"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_labels"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="quick_response_defaults"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_current_k_value"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_k_value_title"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_labels"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="miui_preferences_default_reminder_labels"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="quick_response_defaults"/>
+	<item folder="all" application="FM.apk" file="strings.xml" name="sleep_duration_values"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="lock_screen_warning_value"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_warning_values"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_body"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_body_open_traffic_saving"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="security_settings_premium_sms_values"/>
+	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="alarm_value"/>
+	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="media_value"/>
+	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="notification_value"/>
+	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="ringer_value"/>
+	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="voice_call_value"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="slideshow_interval_value"/>
 	
 	<!-- wifi_ap_security ignore for 5.0 (not same number of arrays)-->
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_ap_security"/>
