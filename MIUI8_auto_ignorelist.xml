@@ -108,7 +108,7 @@
 	<item folder="all" application="Browser.apk" file="strings.xml" name="version_check_button_default"/>
 	
 	
-
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="birthday_event_description_default"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="default_reminder_mode"/>
 	<item folder="all" application="CalendarProvider.apk" file="strings.xml" name="calendar_default_name"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="default_cache_type"/>
@@ -196,6 +196,9 @@
 	<item folder="all" application="PaymentService.apk" file="strings.xml" name="prepaid_picker_title_default"/>
 	<item folder="all" application="PrintSpooler.apk" file="strings.xml" name="print_error_default_message"/>
 	<item folder="all" application="QuickSearchBox.apk" file="strings.xml" name="default_hint"/>
+	<item folder="all" application="QuickSearchBox.apk" file="strings.xml" name="baidu_search_url_from_default"/>
+	<item folder="all" application="QuickSearchBox.apk" file="strings.xml" name="default_search_domain"/>
+	
 	<item folder="all" application="Stk.apk" file="strings.xml" name="default_call_setup_msg"/>
 	<item folder="all" application="Stk.apk" file="strings.xml" name="default_close_channel_msg"/>
 	<item folder="all" application="Stk.apk" file="strings.xml" name="default_open_channel_msg"/>
