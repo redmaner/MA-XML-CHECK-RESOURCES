@@ -82,8 +82,12 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_use_default"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="no_default_apps"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="zen_mode_default_option"/>
-	
 
+	<item folder="all" application="Calculator.apk" file="strings.xml" name="unit_data_default_length_0"/>
+	<item folder="all" application="Calculator.apk" file="strings.xml" name="unit_data_default_length_1"/>
+	<item folder="all" application="Calculator.apk" file="strings.xml" name="unit_data_default_weight_0"/>
+	<item folder="all" application="Calculator.apk" file="strings.xml" name="unit_data_default_weight_1"/>
+	
 	<item folder="all" application="AuthManager.apk" file="strings.xml" name="default_permission_description"/>
 	
 	<item folder="all" application="Bluetooth.apk" file="strings.xml" name="defaultname"/>
