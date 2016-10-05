@@ -26,8 +26,8 @@
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="quick_response_defaults"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_current_k_value"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_k_value_title"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_labels"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="miui_preferences_default_reminder_labels"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_labels"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="miui_preferences_default_reminder_labels"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="quick_response_defaults"/>
 	<item folder="all" application="FM.apk" file="strings.xml" name="sleep_duration_values"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="lock_screen_warning_value"/>
