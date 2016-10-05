@@ -20,7 +20,7 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="security_settings_premium_sms_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="organized_locales"/>	
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_ap_security"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_connect_default_application"/>
+	<item folder="all" application="framework-res.apk" file="strings.xml" name="wifi_connect_default_application"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="accessibility_service_default_description"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="activity_title_default_apps_manager"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="backup_configure_account_default_summary"/>
