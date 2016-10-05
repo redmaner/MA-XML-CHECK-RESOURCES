@@ -17,5 +17,6 @@ EOF
 catch_values_strings () {
 cat << EOF
 entryvalue
+value
 EOF
 }
