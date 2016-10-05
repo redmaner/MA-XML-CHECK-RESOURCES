@@ -21,6 +21,7 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="invalid_size_value"/>
 	<item folder="all" application="PowerKeeper.apk" file="strings.xml" name="invalid_size_value"/>
 	<item folder="all" application="MtkBt.apk" file="strings.xml" name="toast_get_default_value"/>
+	<item folder="all" application="framework-res.apk.apk" file="strings.xml" name="webviewchromium_color_picker_value"/>
 	
 	<!-- wifi_ap_security ignore for 5.0 (not same number of arrays)-->
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_ap_security"/>
