@@ -60,7 +60,86 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="use_default_tts_settings_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="use_default_tts_settings_title"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_tether_configure_ssid_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="app_launch_other_defaults_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_app"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_apps_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_assist_none"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_assist_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_browser_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_browser_title_none"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_emergency_app"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_phone_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_sound"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="keywords_default_apps"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="keywords_default_phone_app"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="keywords_more_default_sms_app"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="launch_by_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="launch_defaults_none"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="launch_defaults_some"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_default_not_set"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_favor_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_use_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="no_default_apps"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="zen_mode_default_option"/>
+	
 
+	<item folder="all" application="AuthManager.apk" file="strings.xml" name="default_permission_description"/>
+	
+	<item folder="all" application="Bluetooth.apk" file="strings.xml" name="defaultname"/>
+	
+	<item folder="all" application="BluetoothExt.apk" file="strings.xml" name="defaultname"/>
+	
+	<item folder="all" application="Browser.apk" file="strings.xml" name="download_default_path_txt"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="download_dialog_default_path_invalid"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_extras_reset_default"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_extras_reset_default_dlg"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_extras_reset_default_summary"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_extras_reset_default_title"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_file_downlaod_save_is_reset_default_settings"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_file_downlaod_save_reset_default_settings"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_file_download_default_path_prefix"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_file_download_save_modify_default_path"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="quicklinks_group_default_subtitle"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="version_check_button_default"/>
+	
+	
+
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="default_reminder_mode"/>
+	
+	<item folder="all" application="CalendarProvider.apk" file="strings.xml" name="default_cache_type"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="mainbtn_text_quick_cleanup_default"/>
+        <item folder="all" application="CleanMaster.apk" file="strings.xml" name="wifi_tether_configure_ssid_default"/>
+
+	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_alert"/>
+	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_title"/>
+	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_label"/>
+	
+	
+	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="pref_download_revert_default"/>
+	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="revert_default"/>
+	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="third_web_default"/>
+	
+	<item folder="all" application="Email.apk" file="strings.xml" name="account_setup_incoming_username_label_default_hint"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="account_setup_options_mail_window_default"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="contact_info_string_default"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="default_"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="default_setup"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="default_signature"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="menu_att_mgr_order_default"/>
+	
+	<item folder="all" application="FindDevice.apk" file="strings.xml" name="default_lock_msg_words"/>
+	<item folder="all" application="FindDevice.apk" file="strings.xml" name="default_lock_msg_words_with_phone"/>
+	
+	<item folder="all" application="FM.apk" file="strings.xml" name="settings_revert_defaults_title"/>
+	
+	<item folder="all" application="Email.apk" file="strings.xml" name="mainbtn_text_quick_cleanup_default"/>
+	
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="areacode_set_default"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="default_area_code_setting"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="msim_select_default_time_left"/>
+	
+	
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="cb_default_new_channel_name"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="default_notification_description"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="international_dialing_add_country_code_default_input_area_code"/>
