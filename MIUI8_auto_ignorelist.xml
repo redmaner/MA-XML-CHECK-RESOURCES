@@ -20,6 +20,85 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="security_settings_premium_sms_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="organized_locales"/>	
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_ap_security"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_connect_default_application"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="accessibility_service_default_description"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="activity_title_default_apps_manager"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="backup_configure_account_default_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_date_format"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_input_method"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="default_usb_mode"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="device_info_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="hints_virus_lib_update_default_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="keyboard_layout_default_label"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="last_checked_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="locale_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_set_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_set_default_instead_of"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_set_default_label"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="power_center_custom_summary_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="power_center_low_battery_summary_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="power_center_on_time_summary_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="power_dialog_delete_dialog_cannot_delete_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="power_save_on_time_default_time"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="preferred_app_settings_default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="proxy_defaultView_text"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="restore_default_apn"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="restore_default_apn_completed"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="sms_change_default_dialog_text"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="sms_change_default_dialog_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="sms_change_default_no_previous_dialog_text"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_lang_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_lang_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_pitch_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_pitch_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_rate_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_rate_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_sample_string"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_settings_section"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_synth_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="tts_default_synth_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="use_default_tts_settings_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="use_default_tts_settings_title"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_tether_configure_ssid_default"/>
+
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="cb_default_new_channel_name"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="default_notification_description"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="international_dialing_add_country_code_default_input_area_code"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="ip_prefix_edit_default_sum"/>
+	<item folder="all" application="InCallUI.apk" file="strings.xml" name="vt_pic_replace_local_default"/>
+	
+	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="default_label"/>
+	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="default_sim_setting_prompt"/>
+	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="default_wallpaper_name"/>
+	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="wifi_tether_configure_ssid_default_for_cmcc"/>
+	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="wt_default_wallpaper_name"/>
+	
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="cb_default_new_channel_name"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_notification_description"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="international_dialing_add_country_code_default_input_area_code"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="ip_prefix_edit_default_sum"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="vt_pic_replace_local_default"/>
+	
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="color_picker_default_title"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="event_color_set_to_default"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_default"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_dialog"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_title"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_home_tz_default"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_week_start_day_default"/>
+	
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="account_default"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="clear_default"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="default_ringtone"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="preference_dial_pad_touch_tone_default"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="set_default"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="vcard_import_will_start_message_with_default_name"/>
+	
+	<item folder="all" application="ContactsProvider.apk" file="strings.xml" name="default_directory"/>
+	
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_default_suffix"/>
+	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="update_log_default"/>
+	
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="date_entryValues"/>
 	<item folder="all" application="cit.apk" file="strings.xml" name="current_value"/>
 	<item folder="all" application="PowerKeeper.apk" file="strings.xml" name="invalid_size_value"/>
