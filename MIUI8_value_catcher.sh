@@ -10,13 +10,13 @@ prefValues
 BacklightValues
 alphabet_chars
 animation_data
-organized_locales
 EOF
 }
 
 catch_values_strings () {
 cat << EOF
 entryvalue
+default
 value
 EOF
 }
