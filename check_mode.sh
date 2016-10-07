@@ -30,4 +30,5 @@ check_fix () {
 		max_proces; xml_check_variables &
 		max_proces; xml_check_formatted_false &
         max_proces; xml_fix_untranslateable &
+        max_proces; xml_check_untranslateable &
 }
