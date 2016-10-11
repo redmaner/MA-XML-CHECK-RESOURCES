@@ -6,7 +6,7 @@
 	<language check="check_all" fix="fix_untranslateable" miui="8" name="Catalan" iso="ca" url="https://github.com/deivids84/MA-XML-8.0-CATALAN" git="git@github.com:deivids84/MA-XML-8.0-CATALAN.git" branch="master"/>
 	<language check="check_all" fix="none" miui="8" name="Croatian" iso="hr" url="https://github.com/MASVA/MA-XML-8.0-CROATIAN" git="git@github.com:MASVA/MA-XML-8.0-CROATIAN.git" branch="master"/>
 	<language check="check_all" fix="none" miui="8" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-8.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-8.0-CZECH.git" branch="master"/>
-	<language check="check_all" fix="none" miui="8" name="Dutch" iso="nl" url="https://github.com/Redmaner/MIUI8-XML-DUTCH" git="git@github.com:Redmaner/MIUI8-XML-DUTCH.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="8" name="Dutch" iso="nl" url="https://github.com/Redmaner/MIUI8-XML-DUTCH" git="git@github.com:Redmaner/MIUI8-XML-DUTCH.git" branch="master"/>
 	<language check="check_all" fix="none" miui="8" name="Finnish" iso="fi" url="https://github.com/dogiex/MIUI-8.0-XML-FINNISH" git="git@github.com:dogiex/MIUI-8.0-XML-FINNISH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="8" name="French" iso="fr" url="https://github.com/ingbrzy/MIUI-Global-xml-V8-FRENCH" git="git@github.com:ingbrzy/MIUI-Global-xml-V8-FRENCH.git" branch="master"/>	
 	<language check="check_all" fix="none" miui="8" name="German" iso="de" url="https://github.com/muhamed89/MIUI" git="git@github.com:muhamed89/MIUI.git" branch="master"/>	
