@@ -109,6 +109,8 @@
 	
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="birthday_event_description_default"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="default_reminder_mode"/>
+        <item folder="all" application="Calendar.apk" file="arrays.xml" name="default_reminder_labels"/>
+
 	<item folder="all" application="CalendarProvider.apk" file="strings.xml" name="calendar_default_name"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="default_cache_type"/>
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="default_name"/>
