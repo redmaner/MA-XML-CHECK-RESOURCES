@@ -79,6 +79,13 @@
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_week_start_day_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="reminder_methods_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="timezone_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="default_reminder_labels"/>
+
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="default_reminder_mode"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_dialog"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_title"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_allday_reminder_title"/>
+	
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
@@ -116,6 +123,12 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="widget_provider"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entries"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entryValues"/>
+
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_game"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_recommend"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_security"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_tools"/>
+	
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="clir_values"/>
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
