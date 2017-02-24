@@ -18,7 +18,6 @@ catch_values_strings () {
 cat << EOF
 entryvalue
 Value
-#default
 value
 EOF
 }
