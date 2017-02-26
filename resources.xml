@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <resources>
 	<item file="languages.xml" preparse="true">
-	<item file="MIUI6_ignorelist.xml" preparse="false">
-	<item file="MIUI7_ignorelist.xml" preparse="true">
-	<item file="MIUI8_ignorelist.xml" preparse="true">
-	<item file="MIUIv5_ignorelist.xml" preparse="false">
+	<item file="MIUI6_untranslateable.xml" preparse="false">
+	<item file="MIUI7_untranslateable.xml" preparse="false">
+	<item file="MIUI8_untranslateable.xml" preparse="true">
+	<item file="MIUIv5_untranslateable.xml" preparse="false">
 </resources>
