@@ -1,8 +1,11 @@
 What is this for?
 -------------------------------------------------------------------------------------
-Languages.xml contains all information about the languages available in MIUIAndroid multi-langauge ROMS.<br>
-MIUIvX_ignorelist.xml contains all strings that are untranslateable.<br>
-MIUIvX_auto_ignorelist.xml contains all strings that should not be marked as untranslateable by auto search.<br>
+- Languages.xml - contains all information about the languages available in MIUIAndroid multi-langauge ROMS.<br>
+
+- MIUIvX_untranslateable.xml - contains all strings that are untranslateable.<br>
+
+- MIUIvX_auto_ignorelist.xml - contains all strings that should not be marked as untranslateable by auto search in MIUIX_value_catcher.<br>
+
 XML's are used by <a href="https://github.com/Redmaner/MA-XML-CHECK" target="_blank">MA-XML-CHECK</a><br>
 
 Languages.xml
