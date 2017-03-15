@@ -74,33 +74,29 @@
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_autohority"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_pref_addtodesktop_popover"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="availability_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="default_reminder_labels"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="delete_repeating_values"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_week_start_day_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="reminder_methods_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="timezone_values"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="default_reminder_labels"/>
-
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="default_reminder_mode"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_dialog"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_title"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_allday_reminder_title"/>
-	
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_allday_reminder_title"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_dialog"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_title"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_vcard_type"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_import_vcard_type"/>
+	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="aqi_value"/>
+	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_id_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_names_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_tz_miui"/>
-	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_id_miui"/>
-	
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="weather_tips_value"/>
-	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="aqi_value"/>
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_alert"/>
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_title"/>
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_label"/>
-	
 	<item folder="all" application="Email.apk" file="arrays.xml" name="application_mime_type"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_autoAdvance"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_removal_action"/>
@@ -130,12 +126,10 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="widget_provider"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entries"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entryValues"/>
-
-	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_game"/>
-	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_recommend"/>
-	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_security"/>
-	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_tools"/>
-	
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_statusBarIcons"/>
+	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_journal_mode"/>
+	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_sync_mode"/>
+	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_wal_sync_mode"/>
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="clir_values"/>
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
@@ -159,6 +153,7 @@
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_mode_dust_cap"/>
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_mode_silent_open"/>
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_silent"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_coloreffect_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
@@ -252,11 +247,11 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_shader_coloreffect_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_sharpness_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_show_gender_age_default"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_skin_beautify_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_auto"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_disable"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_skinToneEnhancement_value_enable"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_skin_beautify_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_sound_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_sound_entryvalue_off"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_sound_entryvalue_on"/>
@@ -319,17 +314,20 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_time_lapse_frame_interval_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="setting_off_value"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="setting_on_value"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_coloreffect_entryvalues"/>
-	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="time_line_view"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="camera_path"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="camera360_sdk_key"/>
-        <item folder="all" application="MiuiHome.apk" file="arrays.xml" name="wallpaper_scroll_values"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="time_line_view"/>
+	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="wallpaper_scroll_values"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_game"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_recommend"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_security"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_tools"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="wallpaper_scrolling"/>
 	<item folder="all" application="Mms.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
-	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
+	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_system_select_values"/>
 	<item folder="all" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_values"/>
@@ -379,6 +377,12 @@
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="date_entryValues"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_type_values"/>
+	<item folder="all" application="Telecom.apk" file="strings.xml" name="default_connection_manager_component"/>
+	<item folder="all" application="Telecom.apk" file="strings.xml" name="dialer_default_class"/>
+	<item folder="all" application="Telecom.apk" file="strings.xml" name="incall_default_class"/>
+	<item folder="all" application="Telecom.apk" file="strings.xml" name="Lch_dtmf_key"/>
+	<item folder="all" application="Telecom.apk" file="strings.xml" name="ui_default_package"/>
+	<item folder="all" application="Telecom.apk" file="strings.xml" name="ui_default_package_dialer"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="clir_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
@@ -397,20 +401,9 @@
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_ask_me_each_time"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="transport"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="username"/>
-	<item folder="all" application="Telecom.apk" file="strings.xml" name="Lch_dtmf_key"/>
-	<item folder="all" application="Telecom.apk" file="strings.xml" name="default_connection_manager_component"/>
-	<item folder="all" application="Telecom.apk" file="strings.xml" name="dialer_default_class"/>
-	<item folder="all" application="Telecom.apk" file="strings.xml" name="incall_default_class"/>
-	<item folder="all" application="Telecom.apk" file="strings.xml" name="ui_default_package"/>
-	<item folder="all" application="Telecom.apk" file="strings.xml" name="ui_default_package_dialer"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="data_source_time_fromat"/>
 	<item folder="all" application="XiaomiServiceFramework.apk" file="strings.xml" name="activate_sms_postfix"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_statusBarIcons"/>
-	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_journal_mode"/>
-	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_sync_mode"/>
-	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_wal_sync_mode"/>
 	<item folder="main" application="CABLService.apk" file="strings.xml" name="cabl_level_default"/>
 	<item folder="main" application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
 	<item folder="main" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_choices"/>
-
 </recources>
