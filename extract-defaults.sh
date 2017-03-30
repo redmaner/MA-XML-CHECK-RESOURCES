@@ -1,8 +1,13 @@
 #!/bin/bash
 # Script to extract default strings
 
-if [ ! -d $up/trans_repo ]; then
-	source $up/repo-transformer.sh
+echo -e "\n>>> grabbing lang"
+if [ ! -d $up/CHECK_REPO ]; then
+	git clone $CHECK_REPO -b $CHECK_REPO_BRANCH CHECK_REPO
+else
+	cd $up/CHECK_REPO
+	git pull origin $CHECK_REPO_BRANCH
+	cd $up
 fi
 
 rm -f $up/defaults.xml $up/auto_defaults.xml
@@ -66,7 +71,7 @@ if [ -e "$XML_TARGET" ]; then
 fi
 }
 
-for apk_target in $(find $up/trans_repo -iname "*.apk" | sort); do
+for apk_target in $(find $up/CHECK_REPO/$CHECK_REPO_DEVICE -iname "*.apk" | sort); do
 	APK=$(basename $apk_target)
 	DIR=$(basename $(dirname $apk_target))
 	for xml_target in $(find $apk_target -iname "arrays.xml*" -o -iname "strings.xml*" -o -iname "plurals.xml*"); do
