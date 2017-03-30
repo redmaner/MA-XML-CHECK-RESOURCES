@@ -10,7 +10,6 @@ LANG_ISO=-def
 up=$1
 cd $up
 
-source $up/repo-transformer.sh
 source $up/extract-defaults.sh
 
 git add auto_defaults.xml
