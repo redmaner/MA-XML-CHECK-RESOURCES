@@ -480,10 +480,6 @@
 	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="alarm_repeat_type_values"/>
 	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="alarm_repeat_type_no_workdays_values"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="lock_screen_warning_value"/>
-	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_adjust_data_usage_value"/>
-	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_key_daily_package_value"/>
-	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_key_extra_package_value"/>
-	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_key_half_year_package_value"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_warning_values"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_body"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_title"/>
@@ -569,8 +565,6 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="input_method_selector_show_automatically_value"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="input_method_selector_visibility_default_value"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="invalid_size_value"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="memory_rightvalue"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="wallpaper_attributions_values"/>
 	<item folder="all" application="SmsExtra.apk" file="arrays.xml" name="rf_value"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_type_values"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_scenes_values"/>
