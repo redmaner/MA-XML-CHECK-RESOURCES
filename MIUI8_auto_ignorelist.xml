@@ -28,7 +28,6 @@
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="unit_data_default_length_1"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="unit_data_default_weight_0"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="unit_data_default_weight_1"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="default_reminder_labels"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="miui_preferences_default_reminder_labels"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_labels"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_values"/>
@@ -36,14 +35,9 @@
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="reminder_minutes_values"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="birthday_event_description_default"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="color_picker_default_title"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="default_reminder_mode"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="edit_event_no_reminder_value"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="event_color_set_to_default"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="event_reminder_value_zero"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_allday_reminder_title"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_default"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_dialog"/>
-	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_title"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_home_tz_default"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_week_start_day_default"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="quick_response_defaults"/>
@@ -61,9 +55,6 @@
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="set_default"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="vcard_import_will_start_message_with_default_name"/>
 	<item folder="all" application="ContactsProvider.apk" file="strings.xml" name="default_directory"/>
-	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_alert"/>
-	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_title"/>
-	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_label"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="arrays.xml" name="prefEntries_max_bytes_limit"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="arrays.xml" name="prefValues_max_bytes_limit"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="pref_download_revert_default"/>
@@ -133,10 +124,6 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_k_value_title"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="default_album_name"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="slideshow_interval_value"/>
-	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_game"/>
-	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_recommend"/>
-	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_security"/>
-	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_folder_title_tools"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="default_name"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="recommend_apps_default_title"/>
 	<item folder="all" application="MiuiKeyguard.apk" file="strings.xml" name="default_lockscreen_unlock_hint_text"/>
