@@ -19,11 +19,10 @@ else
 	cd $up
 fi
 
-rm -f $up/defaults.xml $up/auto_defaults.xml
-
 if [ -f $up/CHECK_REPO/last_commit ]; then
 	if [ $(cat $up/CHECK_REPO/last_commit) != $(cat $up/CHECK_REPO/.git/refs/heads/master) ]; then
 		cp $up/CHECK_REPO/.git/refs/heads/master $up/CHECK_REPO/last_commit
+		rm -f $up/defaults.xml $up/auto_defaults.xml
 		source $up/extract-defaults.sh
 		git add auto_defaults.xml
 		git commit -m "Update auto defaults"
@@ -33,6 +32,7 @@ if [ -f $up/CHECK_REPO/last_commit ]; then
 	fi
 else
 	cp $up/CHECK_REPO/.git/refs/heads/master $up/CHECK_REPO/last_commit
+	rm -f $up/defaults.xml $up/auto_defaults.xml
 	source $up/extract-defaults.sh
 	git add auto_defaults.xml
 	git commit -m "Update auto defaults"
