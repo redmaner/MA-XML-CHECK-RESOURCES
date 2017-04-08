@@ -38,8 +38,6 @@
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="easou_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="google_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_fling_on_border_values"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_homepage_values"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_ua_values"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_volume_key_values"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_content_font_size"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_theme_bgcolors"/>
@@ -52,19 +50,7 @@
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="tupian_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yahoo_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yicha_in_list"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_always"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_never"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_data_preload_value_wifi_only"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_always"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_never"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_images_preload_value_wifi_only"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_always"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_never"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_link_prefetch_value_wifi_only"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_ua_mione_value"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_always"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_never"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_wifi_only"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app0"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app1"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app2"/>
@@ -74,26 +60,19 @@
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_autohority"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_pref_addtodesktop_popover"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="availability_values"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="delete_repeating_values"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_week_start_day_values"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="reminder_methods_values"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="timezone_values"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_vcard_type"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_import_vcard_type"/>
-	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="aqi_value"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_id_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_names_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_tz_miui"/>
-	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="weather_tips_value"/>
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_alert"/>
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_title"/>
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_label"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="application_mime_type"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_autoAdvance"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_removal_action"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="account_cache_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="compose_help_context"/>
@@ -148,7 +127,6 @@
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_mode_dust_cap"/>
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_mode_silent_open"/>
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_silent"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_coloreffect_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
@@ -312,10 +290,8 @@
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="camera_path"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="camera360_sdk_key"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="time_line_view"/>
-	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="wallpaper_scroll_values"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="wallpaper_scrolling"/>
-	<item folder="all" application="Mms.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
@@ -350,24 +326,16 @@
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="group_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="read_disable"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_action_name"/>
-	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_action_param_default"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_mandatory_event_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_optional_event_name"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="category_key_power_usage_details"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="category_key_power_usage_packages"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="always_enabled_app_list"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="app_install_location_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="change_security_lock_picker_key"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="hdcp_checking_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_long_press_action_value"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_press_action_value"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="track_frame_time_values"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="airplane_mode_toggleable_radios"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="date_entryValues"/>
-	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_type_values"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="default_connection_manager_component"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="dialer_default_class"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="incall_default_class"/>
@@ -375,8 +343,6 @@
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="ui_default_package"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="ui_default_package_dialer"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="absent_num"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="clir_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="advanced_settings_container"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="auth_username"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_port"/>
