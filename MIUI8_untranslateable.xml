@@ -69,9 +69,6 @@
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_id_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_names_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_tz_miui"/>
-	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_alert"/>
-	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_alarm_title"/>
-	<item folder="all" application="DeskClock.apk" file="strings.xml" name="default_label"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="application_mime_type"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_removal_action"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="account_cache_provider"/>
@@ -335,7 +332,6 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="airplane_mode_toggleable_radios"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
-	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="date_entryValues"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="default_connection_manager_component"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="dialer_default_class"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="incall_default_class"/>
