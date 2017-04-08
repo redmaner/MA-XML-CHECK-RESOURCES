@@ -25,14 +25,16 @@ if [ -f $up/CHECK_REPO/last_commit ]; then
 	if [ $(cat $up/CHECK_REPO/last_commit) != $(cat $up/CHECK_REPO/.git/refs/heads/master) ]; then
 		cp $up/CHECK_REPO/.git/refs/heads/master $up/CHECK_REPO/last_commit
 		source $up/extract-defaults.sh
+		git add auto_defaults.xml
+		git commit -m "Update auto defaults"
+		git push origin master
 	else
 		echo ">>> repo not changed, skip default generation"
 	fi
 else
 	cp $up/CHECK_REPO/.git/refs/heads/master $up/CHECK_REPO/last_commit
 	source $up/extract-defaults.sh
+	git add auto_defaults.xml
+	git commit -m "Update auto defaults"
+	git push origin master 
 fi
-
-git add auto_defaults.xml
-git commit -m "Update auto defaults"
-git push origin master 
