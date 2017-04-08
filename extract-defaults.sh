@@ -1,17 +1,6 @@
 #!/bin/bash
 # Script to extract default strings
 
-echo -e "\n>>> grabbing lang"
-if [ ! -d $up/CHECK_REPO ]; then
-	git clone $CHECK_REPO -b $CHECK_REPO_BRANCH CHECK_REPO
-else
-	cd $up/CHECK_REPO
-	git pull origin $CHECK_REPO_BRANCH
-	cd $up
-fi
-
-rm -f $up/defaults.xml $up/auto_defaults.xml
-
 catch_values_arrays () {
 cat << EOF
 value

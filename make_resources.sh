@@ -10,7 +10,28 @@ LANG_ISO=-def
 up=$1
 cd $up
 
-source $up/extract-defaults.sh
+echo -e "\n>>> grabbing lang"
+if [ ! -d $up/CHECK_REPO ]; then
+	git clone $CHECK_REPO -b $CHECK_REPO_BRANCH CHECK_REPO
+else
+	cd $up/CHECK_REPO
+	git pull origin $CHECK_REPO_BRANCH
+	cd $up
+fi
+
+rm -f $up/defaults.xml $up/auto_defaults.xml
+
+if [ -f $up/CHECK_REPO/last_commit ]; then
+	if [ $(cat $up/CHECK_REPO/last_commit) != $(cat $up/CHECK_REPO/.git/refs/heads/master) ]; then
+		cp $up/CHECK_REPO/.git/refs/heads/master $up/CHECK_REPO/last_commit
+		source $up/extract-defaults.sh
+	else
+		echo ">>> repo not changed, skip default generation"
+	fi
+else
+	cp $up/CHECK_REPO/.git/refs/heads/master $up/CHECK_REPO/last_commit
+	source $up/extract-defaults.sh
+fi
 
 git add auto_defaults.xml
 git commit -m "Update auto defaults"
