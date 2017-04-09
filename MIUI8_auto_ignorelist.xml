@@ -316,6 +316,7 @@
 	<item folder="all" application="TelephonyProvider.apk" file="strings.xml" name="siminfo_default_name"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="call_barring_incoming_display_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="clir_display_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="call_barring_outgoing_display_values"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="areacode_set_default"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="call_background_default"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="cb_default_new_channel_name"/>
