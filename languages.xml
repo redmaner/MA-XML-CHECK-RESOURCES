@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <languages>
 	<!-- MIUI8 repo's - Alfabetical order-->
-	<language check="check_all" fix="none" miui="8" name="Arabic" iso="ar" url="https://github.com/PRInCEI7/MIUI-8-ARABIC" git="git@github.com:PRInCEI7/MIUI-8-ARABIC.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="8" name="Arabic" iso="ar" url="https://github.com/PRInCEI7/MIUI-8-ARABIC" git="git@github.com:PRInCEI7/MIUI-8-ARABIC.git" branch="master"/>
 	<language check="check_all" fix="none" miui="8" name="Bulgarian" iso="bg" url="https://github.com/tmladenov/MIUI-V8-BULGARIAN" git="git@github.com:tmladenov/MIUI-V8-BULGARIAN.git" branch="master"/>
 	<language check="check_all" fix="none" miui="8" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/miuibrasil/MIUIBrasil-8-XML-for-Xiaomi.eu" git="git@github.com:miuibrasil/MIUIBrasil-8-XML-for-Xiaomi.eu.git"  branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="8" name="Catalan" iso="ca" url="https://github.com/deivids84/MA-XML-8.0-CATALAN" git="git@github.com:deivids84/MA-XML-8.0-CATALAN.git" branch="master"/>
