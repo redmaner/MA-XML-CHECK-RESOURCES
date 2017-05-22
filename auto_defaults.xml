@@ -396,6 +396,9 @@
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="language_value_spanish"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="language_value_swedish"/>
 	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_values"/>
+	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_c9_values"/>
+	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_full_values"/>
+	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_c9_full_values"/>
 	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_bit_rate_values"/>
 	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_frames_values"/>
 	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_orientation_values"/>
