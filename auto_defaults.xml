@@ -37,280 +37,259 @@
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_always"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_never"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_video_preload_value_wifi_only"/>
-	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_length"/>
-	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_weight"/>
-	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_volume"/>
-	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_temperature"/>
-	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_velocity"/>
-	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_time"/>
 	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_area"/>
+	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_length"/>
+	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_temperature"/>
+	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_time"/>
+	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_velocity"/>
+	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_volume"/>
+	<item folder="all" application="Calculator.apk" file="arrays.xml" name="units_default_selection_weight"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="cos_mathematical_value"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="e_mathematical_value"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="lg_mathematical_value"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="ln_mathematical_value"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="sin_mathematical_value"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="tan_mathematical_value"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="delete_repeating_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="allday_reminder_minutes_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="default_reminder_labels"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="delete_repeating_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="entryvalues_settings_debug"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="entryvalues_settings_debug"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="fortune_gender_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_week_start_day_values"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
+	<item folder="all" application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="reminder_minutes_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="timezone_values"/>
 	<item folder="all" application="Calendar.apk" file="arrays.xml" name="travel_reminder_minutes_values"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="default_reminder_labels"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="preferences_default_reminder_values"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="entryvalues_settings_debug"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="prefValues_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="edit_event_no_reminder_value"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="event_reminder_value_zero"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_allday_reminder_default_value"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="preferences_default_reminder_default_value"/>
-	<item folder="all" application="CellBroadcastReceiver.apk" file="arrays.xml" name="alert_sound_duration_values"/>
 	<item folder="all" application="CellBroadcastReceiver.apk" file="arrays.xml" name="alert_reminder_interval_values"/>
+	<item folder="all" application="CellBroadcastReceiver.apk" file="arrays.xml" name="alert_sound_duration_values"/>
 	<item folder="all" application="Cit.apk" file="strings.xml" name="cit_audio_cali_valueF0"/>
 	<item folder="all" application="Cit.apk" file="strings.xml" name="cit_audio_cali_valueR"/>
 	<item folder="all" application="Cit.apk" file="strings.xml" name="cit_audio_cali_valueT"/>
 	<item folder="all" application="Contacts.apk" file="arrays.xml" name="callrecordview_menu_show_values"/>
 	<item folder="all" application="Contacts.apk" file="arrays.xml" name="preference_dial_pad_touch_tone_entry_values"/>
-	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="aqi_value"/>
-	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="weather_tips_value"/>
-	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="alarm_repeat_type_values"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="alarm_repeat_type_no_workdays_values"/>
-	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="snooze_duration_values"/>
+	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="alarm_repeat_type_values"/>
+	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="aqi_value"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="auto_silence_values"/>
+	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="snooze_duration_values"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="volume_button_setting_values"/>
+	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="weather_tips_value"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="arrays.xml" name="prefValues_max_bytes_limit"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="arrays.xml" name="prefValues_max_bytes_limit"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_values"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_check_frequency_values_push"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_entries_with_default"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_values"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_values_eas"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_values_with_default"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_values_with_default"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_message_load_imap_eas_values"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_message_load_pop3_values"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="alphabet_chars"/>
+	<item folder="all" application="Email.apk" file="arrays.xml" name="default_quick_responses"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="general_preference_text_zoom_values"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_autoAdvance"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_entries_with_default"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="account_settings_mail_window_values_with_default"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="default_quick_responses"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_autoAdvance"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="alphabet_chars"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="recognize_hotel_room_type_value"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="recognize_hotel_user_names_value"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="hdcp_checking_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="select_logd_size_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="window_animation_scale_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="transition_animation_scale_values"/>
 	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="animator_duration_scale_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="overlay_display_devices_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="track_frame_time_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
 	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="app_process_limit_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="usb_configuration_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="simulate_color_space_values"/>
-	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="tts_rate_values"/>
 	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="blood_type_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="hdcp_checking_values"/>
 	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="organ_donor_values"/>
-	<item folder="all" application="framework-ext-res.apk" file="arrays.xml" name="screen_key_long_press_default_action"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="overlay_display_devices_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="select_logd_size_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="simulate_color_space_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="track_frame_time_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="transition_animation_scale_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="tts_rate_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="usb_configuration_values"/>
+	<item folder="all" application="EmergencyInfo.apk" file="arrays.xml" name="window_animation_scale_values"/>
 	<item folder="all" application="framework-ext-res.apk" file="arrays.xml" name="organized_languages_default"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="launchboost_param_value"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lboostv2_param_value"/>
+	<item folder="all" application="framework-ext-res.apk" file="arrays.xml" name="screen_key_long_press_default_action"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="animationboost_param_value"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="ascrollboost_param_value"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessButtonBacklightValues"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessButtonBacklightValues"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessKeyboardBacklightValues"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessKeyboardBacklightValues"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessLcdBacklightValues"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessLcdBacklightValues"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_defaultNotificationVibePattern"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_defaultPinnerServiceFiles"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_default_vm_number"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="debugBoost_param_value"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="flingboost_param_value"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="freqaggr_init_param_value"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="freqaggr_param_value"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="launchboost_packing_param_value"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="animationboost_param_value"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="flingboost_param_value"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="scrollboost_param_value"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="ascrollboost_param_value"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="debugBoost_param_value"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="panelview_flingboost_param_value"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="keypress_param_value"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessLcdBacklightValues"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessButtonBacklightValues"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessKeyboardBacklightValues"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_defaultNotificationVibePattern"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_default_vm_number"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_defaultPinnerServiceFiles"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessLcdBacklightValues"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessButtonBacklightValues"/>
-	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_autoBrightnessKeyboardBacklightValues"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="launchboost_packing_param_value"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="launchboost_param_value"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="lboostv2_param_value"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="panelview_flingboost_param_value"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="scrollboost_param_value"/>
+	<item folder="all" application="Mipub.apk" file="arrays.xml" name="entryvalues_date_type"/>
 	<item folder="all" application="Mipub.apk" file="arrays.xml" name="entryvalues_date_type"/>
 	<item folder="all" application="Mipub.apk" file="arrays.xml" name="prefValues_ringtone_repeat"/>
-	<item folder="all" application="Mipub.apk" file="arrays.xml" name="entryvalues_date_type"/>
 	<item folder="all" application="Mipub.apk" file="arrays.xml" name="prefValues_ringtone_repeat"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_quality_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_quality_default_values"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_time_lapse_frame_interval_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_focusmode_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_picturesize_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_picture_format_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_jpegquality_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_snap_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_focusmode_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_flashmode_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_video_flashmode_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_recordlocation_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_whitebalance_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_whitebalance_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_coloreffect_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_touchafaec_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_contrast_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_saturation_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_sharpness_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_contrast_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_saturation_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_sharpness_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_scenemode_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_iso_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_frontcamera_iso_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_iso_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_audio_focus_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_audio_focus_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_antibanding_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hfr_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_speed_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_histogram_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_antibanding_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_autoexposure_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_video_duration_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_volumekey_function_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_zsl_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_autoexposure_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_coloreffect_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_coloreffect_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_contrast_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_contrast_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_delay_capture_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_delay_capture_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_exposuretime_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_exposuretime_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_face_beautify_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_skin_beautify_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_show_gender_age_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_tilt_shift_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_setting_switch_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_front_mirror_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_audio_focus_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_long_press_shutter_feature_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hdr_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_simple_hdr_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_delay_capture_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_peak_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_stereo_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_skin_beautify_multi_level_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_quality_default_values"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_face_beautify_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_flashmode_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_flashmode_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_focusmode_default_array"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hdr_default"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_quality_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_time_lapse_frame_interval_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_focusmode_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_picturesize_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_picture_format_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_jpegquality_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_snap_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_focusmode_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_flashmode_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_video_flashmode_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_focusmode_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hdr_default"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hdr_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hdr_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hfr_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hfr_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_histogram_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_histogram_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_iso_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_iso_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_jpegquality_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_jpegquality_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_long_press_shutter_feature_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_long_press_shutter_feature_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_peak_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_peak_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_picture_format_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_picture_format_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_picturesize_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_picturesize_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_recordlocation_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_whitebalance_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_whitebalance_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_coloreffect_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_touchafaec_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_contrast_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_recordlocation_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_saturation_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_saturation_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_scenemode_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_scenemode_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_setting_switch_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_setting_switch_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_sharpness_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_sharpness_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_show_gender_age_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_show_gender_age_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_skin_beautify_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_skin_beautify_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_snap_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_snap_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_stereo_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_stereo_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_tilt_shift_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_tilt_shift_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_touchafaec_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_touchafaec_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_video_duration_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_video_duration_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_video_flashmode_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_video_flashmode_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_volumekey_function_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_volumekey_function_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_whitebalance_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_whitebalance_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_zsl_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_zsl_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_frontcamera_iso_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_frontcamera_iso_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_front_mirror_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_front_mirror_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_contrast_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_contrast_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_iso_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_iso_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_saturation_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_saturation_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_sharpness_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_scenemode_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_iso_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_frontcamera_iso_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_iso_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_antibanding_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hfr_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_speed_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_histogram_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_autoexposure_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_video_duration_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_volumekey_function_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_zsl_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_exposuretime_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_face_beautify_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_skin_beautify_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_show_gender_age_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_tilt_shift_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_setting_switch_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_front_mirror_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_audio_focus_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_long_press_shutter_feature_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_hdr_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_mtk_camera_sharpness_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_simple_hdr_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_delay_capture_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_peak_entryvalues"/>
-	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_camera_stereo_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_simple_hdr_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_skin_beautify_multi_level_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_skin_beautify_multi_level_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_focusmode_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_focusmode_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_quality_default_values"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_quality_default_values"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_quality_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_quality_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_speed_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_speed_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_time_lapse_frame_interval_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_time_lapse_frame_interval_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_whitebalance_entryvalues"/>
+	<item folder="all" application="MiuiCamera.apk" file="arrays.xml" name="pref_video_whitebalance_entryvalues"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_entryvalue_front"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_entryvalue_front"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_entryvalue_general"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_entryvalue_general"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_entryvalue_rear"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_0"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_1"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_10"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_2"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_3"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_4"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_5"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_6"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_7"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_8"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_9"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_auto"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_high"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_low"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_normal"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_auto"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_live"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_normal"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_off"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_setting_switch_entryvalue_off"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_setting_switch_entryvalue_on"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_tilt_shift_entryvalue_circle"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_tilt_shift_entryvalue_parallel"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_exposure"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_shutter"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_volume"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_zoom"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_auto"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_cloudy"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_daylight"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_fluorescent"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_incandescent"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_manual"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_measure"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_auto"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_off"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_on"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_auto"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_continuous"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_default"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_entryvalue_front"/>
-	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_entryvalue_general"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_entryvalue_rear"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_autoexposure_value_centerweighted"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_autoexposure_value_frameaverage"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_autoexposure_value_spotmetering"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_0"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_0"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_1"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_1"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_10"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_10"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_2"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_2"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_3"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_3"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_4"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_4"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_5"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_5"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_6"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_6"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_7"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_7"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_8"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_8"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_9"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_9"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_auto"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_auto"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_high"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_high"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_low"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_low"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_normal"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_beautify_entryvalue_normal"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_focusmode_value_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_auto"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_auto"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_live"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_live"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_normal"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_normal"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_off"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hdr_entryvalue_off"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hfr_value_2x"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_hfr_value_3x"/>
@@ -331,31 +310,52 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_picture_format_value_jpeg"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_picture_format_value_raw"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_setting_switch_entryvalue_off"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_setting_switch_entryvalue_off"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_setting_switch_entryvalue_on"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_setting_switch_entryvalue_on"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_snap_value_off"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_snap_value_take_movie"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_snap_value_take_picture"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_tilt_shift_entryvalue_circle"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_tilt_shift_entryvalue_circle"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_tilt_shift_entryvalue_parallel"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_tilt_shift_entryvalue_parallel"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_exposure"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_exposure"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_shutter"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_shutter"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_volume"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_volume"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_zoom"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_volumekey_function_entryvalue_zoom"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_auto"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_auto"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_cloudy"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_cloudy"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_daylight"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_daylight"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_fluorescent"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_fluorescent"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_incandescent"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_incandescent"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_manual"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_manual"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_measure"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_whitebalance_entryvalue_measure"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_zsl_value_off"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_zsl_value_on"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_auto"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_auto"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_off"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_off"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_on"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_front_mirror_entryvalue_on"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_qc_focus_position_value_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_auto"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_auto"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_continuous"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_continuous"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_focusmode_entryvalue_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_quality_entry_value_4kuhd"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_video_speed_value_fast"/>
@@ -365,19 +365,19 @@
 	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="owner_relation_value"/>
 	<item folder="all" application="MiuiGallery.apk" file="arrays.xml" name="relation_with_me_value"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="slideshow_interval_value"/>
-	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="transformation_values"/>
-	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="wallpaper_scroll_values"/>
 	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="cell_layout_size_values"/>
 	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="editing_mode_values"/>
-	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="pref_camera_jpeg_quality_entryvalues"/>
-	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="pref_camera_focusmode_entryvalues"/>
+	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="transformation_values"/>
+	<item folder="all" application="MiuiHome.apk" file="arrays.xml" name="wallpaper_scroll_values"/>
 	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="kingsoft_language_entryvalues"/>
+	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="kingsoft_language_entryvalues"/>
+	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="namecard_language_entryvalues"/>
 	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="namecard_language_entryvalues"/>
 	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="pref_camera_focusmode_default_array"/>
-	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="pref_camera_jpeg_quality_entryvalues"/>
 	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="pref_camera_focusmode_entryvalues"/>
-	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="kingsoft_language_entryvalues"/>
-	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="namecard_language_entryvalues"/>
+	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="pref_camera_focusmode_entryvalues"/>
+	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="pref_camera_jpeg_quality_entryvalues"/>
+	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="pref_camera_jpeg_quality_entryvalues"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="language_value_chinese_cn"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="language_value_chinese_tw"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="language_value_danish"/>
@@ -395,77 +395,73 @@
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="language_value_russian"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="language_value_spanish"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="language_value_swedish"/>
-	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_values"/>
-	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_c9_values"/>
-	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_full_values"/>
-	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_c9_full_values"/>
 	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_bit_rate_values"/>
 	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_frames_values"/>
 	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_orientation_values"/>
+	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_c9_full_values"/>
+	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_c9_values"/>
+	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_full_values"/>
+	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_resolution_values"/>
 	<item folder="all" application="MiuiScreenRecorder.apk" file="arrays.xml" name="screenrecorder_settings_sound_values"/>
 	<item folder="all" application="miuisystem.apk" file="arrays.xml" name="mobile_operator_numeric_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="hdcp_checking_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="select_logd_size_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="window_animation_scale_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="transition_animation_scale_values"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="animator_duration_scale_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="overlay_display_devices_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="track_frame_time_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="app_process_limit_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="usb_configuration_values"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entryValues"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entryValues"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="hdcp_checking_values"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="overlay_display_devices_values"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="select_logd_size_values"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="simulate_color_space_values"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="track_frame_time_values"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="transition_animation_scale_values"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="tts_rate_values"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entryValues"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entryValues"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="usb_configuration_values"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="window_animation_scale_values"/>
 	<item folder="all" application="MiuiVideo.apk" file="arrays.xml" name="server_list_entries_value"/>
 	<item folder="all" application="MiuiVideo.apk" file="arrays.xml" name="version_list_entries_value"/>
 	<item folder="all" application="Mms.apk" file="arrays.xml" name="contact_values"/>
-	<item folder="all" application="Mms.apk" file="arrays.xml" name="entryvalues_date_type"/>
-	<item folder="all" application="Mms.apk" file="arrays.xml" name="entries_sms_validity_period_value"/>
 	<item folder="all" application="Mms.apk" file="arrays.xml" name="entries_mms_validity_period_value"/>
+	<item folder="all" application="Mms.apk" file="arrays.xml" name="entries_sms_validity_period_value"/>
+	<item folder="all" application="Mms.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
+	<item folder="all" application="Mms.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
 	<item folder="all" application="Mms.apk" file="arrays.xml" name="switch_sdk_value"/>
-	<item folder="all" application="Mms.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
-	<item folder="all" application="Mms.apk" file="arrays.xml" name="default_smiley_texts"/>
-	<item folder="all" application="Mms.apk" file="arrays.xml" name="default_smiley_names"/>
-	<item folder="all" application="Mms.apk" file="arrays.xml" name="entryvalues_date_type"/>
-	<item folder="all" application="Mms.apk" file="arrays.xml" name="prefValues_vibrateWhen"/>
 	<item folder="all" application="ModemTestMode.apk" file="strings.xml" name="cur_value"/>
 	<item folder="all" application="ModemTestMode.apk" file="strings.xml" name="ref_value"/>
 	<item folder="all" application="Music.apk" file="arrays.xml" name="dirac_equalizer_preset_values"/>
-	<item folder="all" application="Music.apk" file="arrays.xml" name="number_value_entries_light"/>
 	<item folder="all" application="Music.apk" file="arrays.xml" name="number_value_entries_dark"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="preferred_network_mode_values_world_mode"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="preferred_network_mode_values"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="preferred_network_mode_gsm_wcdma_values"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="preferred_network_mode_cmcc_values"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_except_gsm_values"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_except_lte_values"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_except_gsm_lte_values"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_values"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_cdma_values"/>
+	<item folder="all" application="Music.apk" file="arrays.xml" name="number_value_entries_light"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="cdma_subscription_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="cdma_system_select_values"/>
 	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_cdma_no_lte_values"/>
 	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_cdma_only_lte_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_cdma_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_except_gsm_lte_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_except_gsm_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_except_lte_values"/>
 	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_tdscdma_values"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="cdma_system_select_values"/>
-	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="cdma_subscription_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="enabled_networks_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="preferred_network_mode_cmcc_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="preferred_network_mode_gsm_wcdma_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="preferred_network_mode_values"/>
+	<item folder="all" application="NetworkSetting.apk" file="arrays.xml" name="preferred_network_mode_values_world_mode"/>
 	<item folder="all" application="Notes.apk" file="arrays.xml" name="contact_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="hdcp_checking_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="select_logd_size_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="window_animation_scale_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="transition_animation_scale_values"/>
 	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="animator_duration_scale_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="overlay_display_devices_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="track_frame_time_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
 	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="app_process_limit_values"/>
-	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="usb_configuration_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="hdcp_checking_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="overlay_display_devices_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="select_logd_size_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
 	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="simulate_color_space_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="track_frame_time_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="transition_animation_scale_values"/>
 	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="tts_rate_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="usb_configuration_values"/>
+	<item folder="all" application="PackageInstaller.apk" file="arrays.xml" name="window_animation_scale_values"/>
 	<item folder="all" application="PaymentService.apk" file="arrays.xml" name="mibi_nopassword_pay_threshold_values"/>
 	<item folder="all" application="PaymentService.apk" file="strings.xml" name="mibi_recharge_value_money"/>
 	<item folder="all" application="PaymentService.apk" file="strings.xml" name="mibi_recharge_value_money_special_unit"/>
@@ -479,11 +475,11 @@
 	<item folder="all" application="Provision.apk" file="arrays.xml" name="china_mobile_sim_default_devices"/>
 	<item folder="all" application="QuickSearchBox.apk" file="arrays.xml" name="default_corpora"/>
 	<item folder="all" application="QuickSearchBox.apk" file="arrays.xml" name="default_corpora_suggest_uris"/>
-	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="lock_mode_value"/>
-	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="pc_choice_dialog_over_heat_values"/>
-	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="pc_choice_dialog_battery_style_values"/>
-	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="alarm_repeat_type_values"/>
 	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="alarm_repeat_type_no_workdays_values"/>
+	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="alarm_repeat_type_values"/>
+	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="lock_mode_value"/>
+	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="pc_choice_dialog_battery_style_values"/>
+	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="pc_choice_dialog_over_heat_values"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="lock_screen_warning_value"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_adjust_data_usage_value"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_key_daily_package_value"/>
@@ -492,82 +488,83 @@
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_warning_values"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_body"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="reach_daily_limit_value_title"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="hdcp_checking_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="select_logd_size_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="window_animation_scale_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="transition_animation_scale_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="agps_apn_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="agps_network_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="agps_reset_type_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="agps_si_mode_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="alarm_repeat_type_no_workdays_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="alarm_repeat_type_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="animator_duration_scale_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="overlay_display_devices_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="track_frame_time_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="app_process_limit_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="usb_configuration_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="simulate_color_space_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="tts_rate_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="status_bar_style_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_timeout_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="dream_timeout_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="lock_after_timeout_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="entryvalues_font_size"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_sleep_policy_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="apn_auth_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="apn_protocol_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="bearer_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="mvno_type_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="app_install_location_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="long_press_timeout_selector_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="captioning_typeface_selector_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="captioning_font_size_selector_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="captioning_edge_type_selector_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="app_process_limit_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="battery_indicator_style_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="battery_saver_trigger_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="bearer_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="button_light_timeout_value"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="captioning_color_selector_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="captioning_edge_type_selector_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="captioning_font_size_selector_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="captioning_opacity_selector_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="captioning_preset_selector_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="user_content_ratings_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="security_settings_premium_sms_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="daltonizer_type_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="battery_saver_trigger_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="captioning_typeface_selector_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="cellcular2wifi_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="input_method_selector_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_calling_mode_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_calling_mode_values_without_wifi_only"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="common_password_business_clickable_default"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="daltonizer_type_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="dream_timeout_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="edge_touch_volume_action_value"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="entryvalues_font_size"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="entryvalues_font_size"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="handy_mode_size_value_entries"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="haptic_feedback_level_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="media_feedback_level_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="battery_indicator_style_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="usb_connection_mode_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="led_freq_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="hdcp_checking_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="input_method_selector_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="led_color_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="led_freq_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="lock_after_timeout_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="lock_screen_secure_after_timeout_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="long_press_timeout_selector_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="long_press_volume_down_action_value"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="max_number_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="media_feedback_level_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="mi1_led_color_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_position_action_value"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_press_action_value"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="mvno_type_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="nfc_se_route_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="overlay_display_devices_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="perms_hips_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="phone_call_noise_suppression_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="priority_storage_value"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_long_press_action_value"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_long_press_timeout_value"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="long_press_volume_down_action_value"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="button_light_timeout_value"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="perms_hips_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_position_action_value"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_key_press_action_value"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="screen_timeout_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="security_settings_premium_sms_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="select_logd_size_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="simulate_color_space_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="startup_hips_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="values_color_calibration"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="phone_call_noise_suppression_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_connect_type_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_ssid_type_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="nfc_se_route_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="priority_storage_value"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="status_bar_style_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="track_frame_time_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="traffic_balance_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="transition_animation_scale_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="tts_rate_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="tts_rate_xunfei_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="usb_configuration_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="usb_connection_mode_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="user_content_ratings_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="values_color_calibration"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="whetstone_level_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="agps_network_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="agps_si_mode_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="agps_apn_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="agps_reset_type_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="handy_mode_size_value_entries"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="lock_screen_secure_after_timeout_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="max_number_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_calling_mode_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_calling_mode_values_without_wifi_only"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_connect_type_values"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_frequency_band_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="edge_touch_volume_action_value"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="alarm_repeat_type_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="alarm_repeat_type_no_workdays_values"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="common_password_business_clickable_default"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="entryvalues_font_size"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_sleep_policy_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="wifi_ssid_type_values"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="window_animation_scale_values"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="bluetooth_pin_values_hint"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="bluetooth_pin_values_hint_16_digits"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="input_method_selector_always_hide_value"/>
@@ -578,69 +575,69 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="memory_rightvalue"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="wallpaper_attributions_values"/>
 	<item folder="all" application="SmsExtra.apk" file="arrays.xml" name="rf_value"/>
-	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_type_values"/>
-	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_scenes_values"/>
 	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_quality_values"/>
+	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_scenes_values"/>
+	<item folder="all" application="SoundRecorder.apk" file="arrays.xml" name="record_type_values"/>
+	<item folder="all" application="SpacesSettings.apk" file="arrays.xml" name="default_icon_colors"/>
 	<item folder="all" application="SpacesSettings.apk" file="arrays.xml" name="exit_on_sleep_values"/>
 	<item folder="all" application="SpacesSettings.apk" file="arrays.xml" name="notification_update_delay_values"/>
-	<item folder="all" application="SpacesSettings.apk" file="arrays.xml" name="default_icon_colors"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="hdcp_checking_values"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="select_logd_size_values"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="window_animation_scale_values"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="transition_animation_scale_values"/>
 	<item folder="all" application="Telecom.apk" file="arrays.xml" name="animator_duration_scale_values"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="overlay_display_devices_values"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="track_frame_time_values"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
 	<item folder="all" application="Telecom.apk" file="arrays.xml" name="app_process_limit_values"/>
-	<item folder="all" application="Telecom.apk" file="arrays.xml" name="usb_configuration_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="hdcp_checking_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="overlay_display_devices_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="select_logd_size_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
 	<item folder="all" application="Telecom.apk" file="arrays.xml" name="simulate_color_space_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="track_frame_time_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="transition_animation_scale_values"/>
 	<item folder="all" application="Telecom.apk" file="arrays.xml" name="tts_rate_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="hdcp_checking_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="select_logd_size_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="window_animation_scale_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="transition_animation_scale_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="usb_configuration_values"/>
+	<item folder="all" application="Telecom.apk" file="arrays.xml" name="window_animation_scale_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="animator_duration_scale_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="overlay_display_devices_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="track_frame_time_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="app_process_limit_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="usb_configuration_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="simulate_color_space_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="tts_rate_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="sip_call_options_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="preferred_network_mode_values_world_mode"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="auto_answer_delay_entry_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="call_background_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="call_waiting_tone_entry_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="cdma_call_waiting_entry_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="cdma_subscription_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="cdma_system_select_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="clir_display_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="clir_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="preferred_network_mode_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="list_language_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_except_gsm_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_except_lte_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_except_gsm_lte_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_cdma_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="connect_disconnect_vibrate_entry_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="debug_hw_overdraw_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="dtmf_tone_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_cdma_no_lte_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_cdma_only_lte_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_cdma_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_except_gsm_lte_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_except_gsm_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_except_lte_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_tdscdma_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="cdma_system_select_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="cdma_subscription_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="tty_mode_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="dtmf_tone_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="phone_type_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="t9_indexing_method_entry_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="call_background_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="missed_call_notify_times_entry_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="connect_disconnect_vibrate_entry_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="call_waiting_tone_entry_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="auto_answer_delay_entry_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="cdma_call_waiting_entry_values"/>
-	<item folder="all" application="TeleService.apk" file="arrays.xml" name="uplmn_prefer_network_mode_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enabled_networks_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="enable_opengl_traces_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="hdcp_checking_values"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="ivr_type_settings_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="list_language_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="missed_call_notify_times_entry_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="overlay_display_devices_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="phone_type_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="preferred_network_mode_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="preferred_network_mode_values_world_mode"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="select_logd_size_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="show_non_rect_clip_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="simulate_color_space_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="sip_call_options_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="t9_indexing_method_entry_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="track_frame_time_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="transition_animation_scale_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="tts_rate_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="tty_mode_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="uplmn_prefer_network_mode_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="usb_configuration_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
+	<item folder="all" application="TeleService.apk" file="arrays.xml" name="window_animation_scale_values"/>
 	<item folder="all" application="ThemeManager.apk" file="arrays.xml" name="default_colors"/>
 	<item folder="all" application="TouchAssistant.apk" file="arrays.xml" name="enabled_for_pad_entry_values"/>
 	<item folder="all" application="TouchAssistant.apk" file="arrays.xml" name="motion_behavior_entry_values"/>
