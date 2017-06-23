@@ -22,14 +22,17 @@
 	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="st_antispam_mode_only_contacts_state"/>
 	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="st_antispam_mode_only_whitelist_state"/>
 	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="st_antispam_mode_smart_state"/>
+	<item folder="all" application="AntiSpam.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="AuthManager.apk" file="strings.xml" name="static_cache_db_md5"/>
 	<item folder="all" application="Backup.apk" file="arrays.xml" name="st_antispam_mode_defined_state"/>
 	<item folder="all" application="Backup.apk" file="arrays.xml" name="st_antispam_mode_defined_state_international"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="digit_percent"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="st_antispam_mode_blacklist_state"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="st_antispam_mode_only_all_deny_state"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="st_antispam_mode_only_contacts_state"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="st_antispam_mode_only_whitelist_state"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="st_antispam_mode_smart_state"/>
+	<item folder="all" application="Backup.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="baidu_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_zh_CN_in_list"/>
@@ -50,6 +53,13 @@
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="tupian_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yahoo_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yicha_in_list"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_com_txt"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_https_txt"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_net_txt"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_org_txt"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_point_txt"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_slash_txt"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_www_txt"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_ua_mione_value"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app0"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app1"/>
@@ -64,8 +74,17 @@
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_category_information_setting"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_category_key_auto_update_cleanup_db"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_key_information_setting_close"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_key_information_setting_wlan"/>
+	<item folder="all" application="CloudBackup.apk" file="strings.xml" name="xiaomi_account_type"/>
+	<item folder="all" application="CloudService.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_export_vcard_type"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_import_vcard_type"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="percent_sign"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="percentage"/>
+	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="battery_charging_level"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_id_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_names_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_tz_miui"/>
@@ -74,6 +93,8 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="account_cache_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="compose_help_context"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="conversation_content_provider"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="eas_hotmail_email"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="eas_outlook_email"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="eas_template"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="eml_attachment_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="forward_subject_label"/>
@@ -95,6 +116,8 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="report_rendering_problem_desc"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="wait_help_context"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="widget_provider"/>
+	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="search_statistic_match_invalid"/>
+	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="search_statistic_match_valid"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entries"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entryValues"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_statusBarIcons"/>
@@ -124,6 +147,8 @@
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_mode_dust_cap"/>
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_mode_silent_open"/>
 	<item folder="all" application="Mikey.apk" file="strings.xml" name="setting_key_silent"/>
+	<item folder="all" application="MiuiBluetooth.apk" file="strings.xml" name="ble_profile_1"/>
+	<item folder="all" application="MiuiBluetooth.apk" file="strings.xml" name="ble_profile_2"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
@@ -286,9 +311,13 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="setting_on_value"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="camera_path"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="camera360_sdk_key"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="percent_sign"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_icon"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_input"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="time_line_view"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="wallpaper_scrolling"/>
+	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="document_ocr_language_key"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
@@ -325,13 +354,34 @@
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_action_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_mandatory_event_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_optional_event_name"/>
+	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="preference_key_information_setting_close"/>
+	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="preference_key_information_setting_wlan"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="category_key_power_usage_details"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="category_key_power_usage_packages"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="create_table_keyword"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="create_table_mode"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="create_table_phonelist"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="create_table_report_sms"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="create_table_report_sms_pending"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="create_table_sim"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="create_talbe_fwlog"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="dynamic_md5"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="preference_category_information_setting"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="preference_category_key_reference_settings"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="preference_category_key_virus_lib_auto_update"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="preference_category_key_virus_white_list"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="preference_key_information_setting_close"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="preference_key_information_setting_wlan"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="st_antispam_mode_only_all_deny_state"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="st_antispam_mode_only_contacts_state"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="st_antispam_mode_only_whitelist_state"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="always_enabled_app_list"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="change_security_lock_picker_key"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="airplane_mode_toggleable_radios"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
+	<item folder="all" application="SoundRecorder.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="default_connection_manager_component"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="dialer_default_class"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="incall_default_class"/>
