@@ -82,6 +82,6 @@ cat > $up/auto_defaults.xml << EOF
 	Please keep the applications and file types in alfabetical order, to keep the overview. -->
 <resources>
 EOF
-cat $up/defaults.xml | sort >> $up/auto_defaults.xml
+cat $up/defaults.xml | sort -u >> $up/auto_defaults.xml
 echo "</resources>" >> $up/auto_defaults.xml
 
