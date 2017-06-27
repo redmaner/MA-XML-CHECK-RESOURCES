@@ -40,9 +40,6 @@
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="dianping_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="easou_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="google_in_list"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_fling_on_border_values"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="pref_volume_key_values"/>
-	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_content_font_size"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_theme_bgcolors"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_theme_fontcolors"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="readmode_title_font_size"/>
@@ -60,17 +57,6 @@
 	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_point_txt"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_slash_txt"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_www_txt"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="pref_ua_mione_value"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app0"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app1"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app2"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app3"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app4"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_app5"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_autohority"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="webapp_pref_addtodesktop_popover"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="availability_values"/>
-	<item folder="all" application="Calendar.apk" file="arrays.xml" name="reminder_methods_values"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
@@ -89,9 +75,7 @@
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_names_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_tz_miui"/>
 	<item folder="all" application="Email.apk" file="arrays.xml" name="application_mime_type"/>
-	<item folder="all" application="Email.apk" file="arrays.xml" name="prefValues_removal_action"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="account_cache_provider"/>
-	<item folder="all" application="Email.apk" file="strings.xml" name="compose_help_context"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="conversation_content_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="eas_hotmail_email"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="eas_outlook_email"/>
@@ -106,9 +90,7 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_sent"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_starred"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_trash"/>
-	<item folder="all" application="Email.apk" file="strings.xml" name="mock_content_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="prefDefault_autoAdvance"/>
-	<item folder="all" application="Email.apk" file="strings.xml" name="prefDefault_removal_action"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="reply_subject_label"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="report_rendering_improvement"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="report_rendering_improvement_desc"/>
@@ -118,19 +100,11 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="widget_provider"/>
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="search_statistic_match_invalid"/>
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="search_statistic_match_valid"/>
-	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entries"/>
-	<item folder="all" application="FM.apk" file="arrays.xml" name="date_entryValues"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_statusBarIcons"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_journal_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_sync_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_wal_sync_mode"/>
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="absent_num"/>
-	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="clir_values"/>
-	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
-	<item folder="all" application="InCallUI.apk" file="strings.xml" name="sip_address_only"/>
-	<item folder="all" application="InCallUI.apk" file="strings.xml" name="sip_always"/>
-	<item folder="all" application="InCallUI.apk" file="strings.xml" name="sip_ask_me_each_time"/>
-	<item folder="all" application="InCallUI.apk" file="strings.xml" name="voicemail_notification_vibrate_when_default"/>
 	<item folder="all" application="MiDrop.apk" file="strings.xml" name="action_bonjour"/>
 	<item folder="all" application="MiDrop.apk" file="strings.xml" name="action_p2pgo"/>
 	<item folder="all" application="MiDrop.apk" file="strings.xml" name="action_p2pls"/>
@@ -314,35 +288,12 @@
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="percent_sign"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_icon"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_input"/>
-	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="time_line_view"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="wallpaper_scrolling"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="document_ocr_language_key"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="absent_num"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="cdma_system_select_values"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_values"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_values_lte"/>
-	<item folder="all" application="Phone.apk" file="arrays.xml" name="voicemail_notification_vibrate_when_values"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="advanced_settings_container"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="auth_username"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="auto_registration"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="default_port"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="default_transport"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="display_name"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="domain_address"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="password"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="port"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="proxy_address"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="send_keepalive"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="set_primary"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_address_only"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_always"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="sip_ask_me_each_time"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="transport"/>
-	<item folder="all" application="Phone.apk" file="strings.xml" name="username"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="action_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="action_param"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="alarm_general_type_restricted"/>
@@ -404,9 +355,9 @@
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_ask_me_each_time"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="transport"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="username"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="voicemail_notification_vibrate_when_default"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="data_source_time_fromat"/>
 	<item folder="all" application="XiaomiServiceFramework.apk" file="strings.xml" name="activate_sms_postfix"/>
 	<item folder="main" application="CABLService.apk" file="strings.xml" name="cabl_level_default"/>
 	<item folder="main" application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
-	<item folder="main" application="Phone.apk" file="arrays.xml" name="preferred_network_mode_choices"/>
 </recources>
