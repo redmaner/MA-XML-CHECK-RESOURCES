@@ -19,7 +19,7 @@
 	<language check="false" fix="fix_untranslateable" miui="8" name="Arabic" iso="ar" url="https://github.com/PRInCEI7/MIUI-8-ARABIC" git="git@github.com:PRInCEI7/MIUI-8-ARABIC.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Bulgarian" iso="bg" url="https://github.com/tmladenov/MIUI-V8-BULGARIAN" git="git@github.com:tmladenov/MIUI-V8-BULGARIAN.git" branch="master"/>
 	<language check="check_all" fix="none" miui="8" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/miuibrasil/MIUIBrasil-8-XML-for-Xiaomi.eu" git="git@github.com:miuibrasil/MIUIBrasil-8-XML-for-Xiaomi.eu.git"  branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="8" name="Catalan" iso="ca" url="https://github.com/deivids84/MA-XML-8.0-CATALAN" git="git@github.com:deivids84/MA-XML-8.0-CATALAN.git" branch="master"/>
+	<language check="check_all" fix="none" miui="8" name="Catalan" iso="ca" url="https://github.com/deivids84/MA-XML-8.0-CATALAN" git="git@github.com:deivids84/MA-XML-8.0-CATALAN.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Croatian" iso="hr" url="https://github.com/MASVA/MA-XML-8.0-CROATIAN" git="git@github.com:MASVA/MA-XML-8.0-CROATIAN.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-8.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-8.0-CZECH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="8" name="Dutch" iso="nl" url="https://github.com/Redmaner/MIUI8-XML-DUTCH" git="git@github.com:Redmaner/MIUI8-XML-DUTCH.git" branch="master"/>
@@ -31,7 +31,7 @@
 	<language check="check_all" fix="none" miui="8" name="Hungarian" iso="hu" url="https://github.com/vagyula1/miui-v8-hungarian-translation" git="git@github.com:vagyula1/miui-v8-hungarian-translation.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Italian" iso="it" url="https://github.com/MishFdM/MIUI_V8_Italy" git="git@github.com:MishFdM/MIUI_V8_Italy.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Japanese" iso="ja" url="https://github.com/ScratchBuild/MIUI8-XML-Japanese" git="git@github.com:ScratchBuild/MIUI8-XML-Japanese.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="8" name="Korean" iso="ko" url="https://github.com/cjhyuky/MA-XML-MIUI8-Korean" git="git@github.com:cjhyuky/MA-XML-MIUI8-Korean.git" branch="master"/>
+	<language check="check_all" fix="none" miui="8" name="Korean" iso="ko" url="https://github.com/cjhyuky/MA-XML-MIUI8-Korean" git="git@github.com:cjhyuky/MA-XML-MIUI8-Korean.git" branch="master"/>
 	<language check="check_all" fix="none" miui="8" name="Norwegian" iso="nb" url="https://github.com/miui-scandinavia/MA-XML-8.0-NORWEGIAN" git="git@github.com:miui-scandinavia/MA-XML-8.0-NORWEGIAN.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Polish" iso="pl" url="https://bitbucket.org/Acid_miuipolskapl/xml_miui-v8"  git="git@bitbucket.org:Acid_miuipolskapl/xml_miui-v8.git" branch="master"/>
 	<language check="check_all" fix="none" miui="8" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MA-XML-8.0-PORTUGUESE"  git="git@github.com:KcNirvana/MA-XML-8.0-PORTUGUESE.git" branch="master"/>
