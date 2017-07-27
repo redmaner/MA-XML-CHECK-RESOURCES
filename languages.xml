@@ -18,6 +18,7 @@
 	<language check="check_all" fix="none" miui="9" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI9-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI9-XML-Vietnamese.git" branch="master"/>
 	<language check="check_all" fix="none" miui="9" name="Spanish" iso="es" url="https://github.com/ingbrzy/MA-XML-9.0-SPANISH" git="git@github.com:ingbrzy/MA-XML-9.0-SPANISH.git" branch="master"/>
 	<language check="check_all" fix="none" miui="9" name="Slovenian" iso="sl" url="https://github.com/bostjan2016/MIUI-9-SLOVENIAN" git="git@github.com:bostjan2016/MIUI-9-SLOVENIAN.git" branch="master"/>
+	<language check="check_all" fix="none" miui="9" name="Romanian" iso="ro" url="https://github.com/ashtefan/Romanian_MIUI_9"  git="git@github.com:ashtefan/Romanian_MIUI_9.git" branch="master"/>
 	
 	<!-- MIUI8 repo's - Alfabetical order-->
 	<language check="false" fix="fix_untranslateable" miui="8" name="Arabic" iso="ar" url="https://github.com/PRInCEI7/MIUI-8-ARABIC" git="git@github.com:PRInCEI7/MIUI-8-ARABIC.git" branch="master"/>
@@ -39,7 +40,7 @@
 	<language check="check_all" fix="none" miui="8" name="Norwegian" iso="nb" url="https://github.com/miui-scandinavia/MA-XML-8.0-NORWEGIAN" git="git@github.com:miui-scandinavia/MA-XML-8.0-NORWEGIAN.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Polish" iso="pl" url="https://bitbucket.org/Acid_miuipolskapl/xml_miui-v8"  git="git@bitbucket.org:Acid_miuipolskapl/xml_miui-v8.git" branch="master"/>
 	<language check="check_all" fix="none" miui="8" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MA-XML-8.0-PORTUGUESE"  git="git@github.com:KcNirvana/MA-XML-8.0-PORTUGUESE.git" branch="master"/>
-	<language check="check_all" fix="none" miui="8" name="Romanian" iso="ro" url="https://github.com/ashtefan/Romanian_MIUI8"  git="git@github.com:ashtefan/Romanian_MIUI8.git" branch="master"/>
+	<language check="false" fix="none" miui="8" name="Romanian" iso="ro" url="https://github.com/ashtefan/Romanian_MIUI8"  git="git@github.com:ashtefan/Romanian_MIUI8.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Russian" iso="ru" url="https://bitbucket.org/miuisu/miui.suv8-translation-russian"  git="git@bitbucket.org:miuisu/miui.suv8-translation-russian.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Serbian" iso="sr" url="https://github.com/dudjaa/MIUI-V8-Serbian-Translation" git="git@github.com:dudjaa/MIUI-V8-Serbian-Translation.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-8.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-8.0-SLOVAK.git" branch="master"/>
