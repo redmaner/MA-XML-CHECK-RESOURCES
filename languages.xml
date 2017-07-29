@@ -21,7 +21,7 @@
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Romanian" iso="ro" url="https://github.com/ashtefan/Romanian_MIUI_9"  git="git@github.com:ashtefan/Romanian_MIUI_9.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-9.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-9.0-TURKISH.git" branch="master"/>
 	<language check="check_all" fix="none" miui="9" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/miuibrasil/MIUIBrasil-MIUI9-XML" git="git@github.com:miuibrasil/MIUIBrasil-MIUI9-XML.git"  branch="master"/>
-	<language check="check_all" fix="none" miui="9" name="German" iso="de" url="https://github.com/berlinux2016/MIUI9-ger" git="git@github.com:berlinux2016/MIUI9-ger.git" branch="master"/>	
+	<language check="check_all" fix="fix_untranslateable" miui="9" name="German" iso="de" url="https://github.com/berlinux2016/MIUI9-ger" git="git@github.com:berlinux2016/MIUI9-ger.git" branch="master"/>	
 	
 	<!-- MIUI8 repo's - Alfabetical order-->
 	<language check="false" fix="fix_untranslateable" miui="8" name="Arabic" iso="ar" url="https://github.com/PRInCEI7/MIUI-8-ARABIC" git="git@github.com:PRInCEI7/MIUI-8-ARABIC.git" branch="master"/>
