@@ -2,28 +2,28 @@
 <languages>
 	<!-- MIUI9 repo's - Alfabetical order-->
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Arabic" iso="ar" url="https://github.com/ingbrzy/MA-XML-9.0-ARABIC-Global" git="git@github.com:ingbrzy/MA-XML-9.0-ARABIC-Global.git" branch="master"/>
+	<language check="check_all" fix="none" miui="9" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/miuibrasil/MIUIBrasil-MIUI9-XML" git="git@github.com:miuibrasil/MIUIBrasil-MIUI9-XML.git"  branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-9.0-BULGARIAN-Global" git="git@github.com:ingbrzy/MA-XML-9.0-BULGARIAN-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Burmese" iso="my" url="https://github.com/ingbrzy/MA-XML-9.0-BURMESE-Global" git="git@github.com:ingbrzy/MA-XML-9.0-BURMESE-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Croatian" iso="hr" url="https://github.com/MASVA/MA-XML-9.0-CROATIAN" git="git@github.com:MASVA/MA-XML-9.0-CROATIAN.git" branch="master"/>
 	<language check="check_all" fix="none" miui="9" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MA-XML-9.0-CZECH" git="git@github.com:MIUICzech-Slovak/MA-XML-9.0-CZECH.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="9" name="Finnish" iso="fi" url="https://github.com/dogiex/MA-XML-9.0-FINNISH" git="git@github.com:dogiex/MA-XML-9.0-FINNISH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="French" iso="fr" url="https://github.com/ingbrzy/MA-XML-9.0-FRENCH-Global" git="git@github.com:ingbrzy/MA-XML-9.0-FRENCH-Global.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="9" name="German" iso="de" url="https://github.com/berlinux2016/MIUI9-ger" git="git@github.com:berlinux2016/MIUI9-ger.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Hebrew" iso="iw" url="https://github.com/ingbrzy/MA-XML-9.0-HEBREW-Global" git="git@github.com:ingbrzy/MA-XML-9.0-HEBREW-Global.git" branch="master"/>
 	<language check="check_all" fix="none" miui="9" name="Italian" iso="it" url="https://github.com/MishFdM/MIUI_V9_Italy" git="git@github.com:MishFdM/MIUI_V9_Italy.git" branch="master"/>
 	<language check="check_all" fix="none" miui="9" name="Japanese" iso="ja" url="https://github.com/ScratchBuild/MIUI9-XML-Japanese" git="git@github.com:ScratchBuild/MIUI9-XML-Japanese.git" branch="master"/>
 	<language check="check_all" fix="none" miui="9" name="Polish" iso="pl" url="https://bitbucket.org/Acid_miuipolskapl/xml_miui-v9"  git="git@bitbucket.org:Acid_miuipolskapl/xml_miui-v9.git" branch="master"/>
+	<language check="check_all" fix="none" miui="9" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MA-XML-9.0-PORTUGUESE"  git="git@github.com:KcNirvana/MA-XML-9.0-PORTUGUESE.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="9" name="Romanian" iso="ro" url="https://github.com/ashtefan/Romanian_MIUI_9"  git="git@github.com:ashtefan/Romanian_MIUI_9.git" branch="master"/>
 	<language check="check_all" fix="none" miui="9" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MA-XML-9.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/MA-XML-9.0-SLOVAK.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="9" name="Slovenian" iso="sl" url="https://github.com/bostjan2016/MIUI-9-SLOVENIAN" git="git@github.com:bostjan2016/MIUI-9-SLOVENIAN.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="9" name="Spanish" iso="es" url="https://github.com/ingbrzy/MA-XML-9.0-SPANISH" git="git@github.com:ingbrzy/MA-XML-9.0-SPANISH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Swedish" iso="sv" url="https://github.com/ingbrzy/MA-XML-9.0-SWEDISH-Global" git="git@github.com:ingbrzy/MA-XML-9.0-SWEDISH-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Thai" iso="th" url="https://github.com/ingbrzy/MA-XML-9.0-THAI-Global" git="git@github.com:ingbrzy/MA-XML-9.0-THAI-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="9" name="Finnish" iso="fi" url="https://github.com/dogiex/MA-XML-9.0-FINNISH" git="git@github.com:dogiex/MA-XML-9.0-FINNISH.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="9" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI9-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI9-XML-Vietnamese.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="9" name="Spanish" iso="es" url="https://github.com/ingbrzy/MA-XML-9.0-SPANISH" git="git@github.com:ingbrzy/MA-XML-9.0-SPANISH.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="9" name="Slovenian" iso="sl" url="https://github.com/bostjan2016/MIUI-9-SLOVENIAN" git="git@github.com:bostjan2016/MIUI-9-SLOVENIAN.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="9" name="Romanian" iso="ro" url="https://github.com/ashtefan/Romanian_MIUI_9"  git="git@github.com:ashtefan/Romanian_MIUI_9.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-9.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-9.0-TURKISH.git" branch="master"/>
-	<language check="check_all" fix="none" miui="9" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/miuibrasil/MIUIBrasil-MIUI9-XML" git="git@github.com:miuibrasil/MIUIBrasil-MIUI9-XML.git"  branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="9" name="German" iso="de" url="https://github.com/berlinux2016/MIUI9-ger" git="git@github.com:berlinux2016/MIUI9-ger.git" branch="master"/>	
-	
-	<language check="check_all" fix="none" miui="9" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MA-XML-9.0-PORTUGUESE"  git="git@github.com:KcNirvana/MA-XML-9.0-PORTUGUESE.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="9" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI9-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI9-XML-Vietnamese.git" branch="master"/>
+
 	<!-- MIUI8 repo's - Alfabetical order-->
 	<language check="false" fix="fix_untranslateable" miui="8" name="Arabic" iso="ar" url="https://github.com/PRInCEI7/MIUI-8-ARABIC" git="git@github.com:PRInCEI7/MIUI-8-ARABIC.git" branch="master"/>
 	<language check="false" fix="none" miui="8" name="Bulgarian" iso="bg" url="https://github.com/tmladenov/MIUI-V8-BULGARIAN" git="git@github.com:tmladenov/MIUI-V8-BULGARIAN.git" branch="master"/>
