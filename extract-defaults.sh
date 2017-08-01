@@ -3,15 +3,17 @@
 
 catch_values_arrays () {
 cat << EOF
-value
-Value
-entryValues
+alphabet_chars
+BacklightValues
+color_mode_ids
 default
+entryValues
 entryvalues
 prefValues
-BacklightValues
-alphabet_chars
-animation_data
+Value
+value
+VibePattern
+vibration_torch
 EOF
 }
 
