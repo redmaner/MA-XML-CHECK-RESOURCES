@@ -273,6 +273,23 @@
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
+	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="default_app"/>
+	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="express_watched_app"/>
+	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="express_watched_app_order_number_id"/>
+	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="express_watched_app_company_id"/>
+	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="alipay_CountryCodes"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="alipay_msp_image_loader_view_tag"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="alipay_msp_tag_view_holder"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="alipay_msp_view_wrapper"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_layout"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_layout_parent"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_linblocksconpent"/>
+	<item folder="all" application="PersonalAssistantPlugin.apk" file="arrays.xml" name="express_status_detail_flag"/>
+	<item folder="all" application="PersonalAssistantPlugin.apk" file="arrays.xml" name="express_status_flag_all"/>
+	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="express_complete_flag"/>
+	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="express_delivery_flag"/>
+	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="personalAssistant_path"/>
+	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="stock_change_rate_format"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="action_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="action_param"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="alarm_general_type_restricted"/>
