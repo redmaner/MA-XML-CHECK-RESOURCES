@@ -281,9 +281,14 @@
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="alipay_msp_image_loader_view_tag"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="alipay_msp_tag_view_holder"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="alipay_msp_view_wrapper"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="alipay_phoneNumber"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="keyboard_more_abc"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="keyboard_more_num"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_layout"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_layout_parent"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_linblocksconpent"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="payment_amount_empty"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="stock_change_rate_format"/>
 	<item folder="all" application="PersonalAssistantPlugin.apk" file="arrays.xml" name="express_status_detail_flag"/>
 	<item folder="all" application="PersonalAssistantPlugin.apk" file="arrays.xml" name="express_status_flag_all"/>
 	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="express_complete_flag"/>
@@ -329,7 +334,20 @@
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="always_enabled_app_list"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="change_security_lock_picker_key"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="memory_use_running_format"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="misc_files_selected_count_bytes"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_app_and_desc"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="night_mode_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="notifications_three_items"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="notifications_two_items"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="owner_info_settings_status"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="process_format"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="service_client_name"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="service_process_name"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="sim_settings_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="sync_item_title"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="zen_mode_rule_summary_combination"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="airplane_mode_toggleable_radios"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
 	<item folder="all" application="SoundRecorder.apk" file="strings.xml" name="xiaomi_account_type"/>
