@@ -393,7 +393,6 @@
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatlong"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort_padding_with_0"/>
-	<item folder="all" application="Music.apk" file="strings.xml" name="listview_index_of_total"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="micloud_state_total_count"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging_duration_ac_short"/>
@@ -481,12 +480,12 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="change_security_lock_picker_key"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="key_and_gesture_shortcut_action"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="standard_configuration_version_description_secondary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="bootloader_unlock_webhome"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="call_manager_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="dndm_auto_time_setting_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="gadget_state_template"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="link_speed"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="memory_use_running_format"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="misc_files_selected_count_bytes"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_app_and_desc"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="night_mode_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="notifications_three_items"/>
