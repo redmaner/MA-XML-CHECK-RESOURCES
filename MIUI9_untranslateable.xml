@@ -346,7 +346,6 @@
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="fileSizeSuffix"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="grant_permission_item"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="percent_sign"/>
-	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_feedback_task_progress"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_icon"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_input"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
@@ -385,6 +384,12 @@
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="google_app_id"/>
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="google_crash_reporting_api_key"/>
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="send_video_type"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="bottom_sheet_behavior"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="tag_index"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="tag_key"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="tag_object"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="theme_id"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="flatshow_page_no"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
@@ -394,7 +399,6 @@
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatlong"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort_padding_with_0"/>
-	<item folder="all" application="Music.apk" file="strings.xml" name="listview_index_of_total"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="micloud_state_total_count"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging_duration_ac_short"/>
@@ -482,12 +486,12 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="change_security_lock_picker_key"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="key_and_gesture_shortcut_action"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="standard_configuration_version_description_secondary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="bootloader_unlock_webhome"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="call_manager_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="dndm_auto_time_setting_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="gadget_state_template"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="link_speed"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="memory_use_running_format"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="misc_files_selected_count_bytes"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_app_and_desc"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="night_mode_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="notifications_three_items"/>
