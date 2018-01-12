@@ -86,6 +86,8 @@
 	<item folder="all" application="CloudService.apk" file="strings.xml" name="ks_key_version"/>
 	<item folder="all" application="CloudService.apk" file="strings.xml" name="micloud_find_device_opened_content_url"/>
 	<item folder="all" application="CloudService.apk" file="strings.xml" name="micloud_find_device_opened_content_url_int"/>
+	<item folder="all" application="CloudService.apk" file="strings.xml" name="micloud_footer_international_url"/>
+	<item folder="all" application="CloudService.apk" file="strings.xml" name="micloud_footer_normal_url"/>
 	<item folder="all" application="CloudService.apk" file="strings.xml" name="sync_dspt_provision2"/>
 	<item folder="all" application="CloudService.apk" file="strings.xml" name="sync_dspt_provision2_int"/>
 	<item folder="all" application="CloudService.apk" file="strings.xml" name="xiaomi_account_type"/>
@@ -110,11 +112,8 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="application_mime_type"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="account_cache_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="bank_card_list_card_num_fmt"/>
-	<item folder="all" application="Email.apk" file="strings.xml" name="bcc"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="bcc_heading"/>
-	<item folder="all" application="Email.apk" file="strings.xml" name="cc"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="cc_attribution"/>
-	<item folder="all" application="Email.apk" file="strings.xml" name="cc_bcc"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="conversation_content_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="eas_hotmail_email"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="eas_outlook_email"/>
@@ -122,6 +121,7 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="eml_attachment_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="formatted_subject"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="forward_subject_label"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="intent_exchange_package"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="label_notification_ticker"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_all_unread"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_drafts"/>
@@ -345,6 +345,9 @@
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="fileSizeSuffix"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="grant_permission_item"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="percent_sign"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="photo_editor_transition_image_view"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="photo_editor_transition_menu_view"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="provider_authority"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_icon"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_input"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
@@ -364,6 +367,8 @@
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="wifi_ip_address_hint"/>
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="wifi_network_prefix_length_hint"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="document_ocr_language_key"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="certinstaller_package"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_systemUIFactoryComponent"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="network_speed_suffix"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="power_charging"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="power_charging_duration_ac_short"/>
@@ -374,6 +379,7 @@
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="proxy_hostname_hint"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="proxy_port_hint"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="proxy_url_hint"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="settings_package"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="status_bar_date_formatter"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="status_bar_settings_battery_meter_format"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="weather_description_no_aqi"/>
@@ -394,11 +400,13 @@
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="send_to_index_contact"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="cp_info_second"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="download_percent"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatlong"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort_padding_with_0"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="micloud_state_total_count"/>
+	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging_duration_ac_short"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging_duration_short"/>
@@ -408,9 +416,7 @@
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="proxy_hostname_hint"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="proxy_port_hint"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="proxy_url_hint"/>
-	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="alipay_msp_image_loader_view_tag"/>
-	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="alipay_msp_tag_view_holder"/>
-	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="alipay_msp_view_wrapper"/>
+	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="settings_package"/>
 	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="default_app"/>
 	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="express_watched_app"/>
 	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="express_watched_app_order_number_id"/>
@@ -422,15 +428,20 @@
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="alipay_phoneNumber"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="express_complete_flag"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="express_delivery_flag"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="express_info_divider"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="express_order_state"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="info_divider"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="keyboard_more_abc"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="keyboard_more_num"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="mini_str_null"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_layout"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_layout_parent"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_linblocksconpent"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="msp_mini_root"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="payment_amount_empty"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="personalAssistant_path"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="pie_chart_label_format"/>
+	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="pie_chart_label_special"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="stock_change_rate_format"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="tag_view_nav"/>
 	<item folder="all" application="PersonalAssistantPlugin.apk" file="arrays.xml" name="express_status_detail_flag"/>
@@ -487,6 +498,7 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="standard_configuration_version_description_secondary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="bootloader_unlock_webhome"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="call_manager_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="dndm_auto_time_setting_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="gadget_state_template"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="link_speed"/>
@@ -509,6 +521,7 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="proxy_url_hint"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="service_client_name"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="service_process_name"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="settings_package"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="sim_settings_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="size_suffix"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_font_size"/>
@@ -520,6 +533,7 @@
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="airplane_mode_toggleable_radios"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
 	<item folder="all" application="SoundRecorder.apk" file="strings.xml" name="xiaomi_account_type"/>
+	<item folder="all" application="Telecom.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="default_connection_manager_component"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="dialer_default_class"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="incall_default_class"/>
@@ -533,15 +547,18 @@
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="proxy_hostname_hint"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="proxy_port_hint"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="proxy_url_hint"/>
+	<item folder="all" application="Telecom.apk" file="strings.xml" name="settings_package"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="ui_default_package"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="ui_default_package_dialer"/>
 	<item folder="all" application="TeleService.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="advanced_settings_container"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="auth_username"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_port"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="default_transport"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="display_name"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="domain_address"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="network_operator_settings_package"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="password"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="port"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="power_charging"/>
@@ -555,14 +572,18 @@
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="proxy_url_hint"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="send_keepalive"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="set_primary"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="settings_package"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_address_only"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_always"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_ask_me_each_time"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="transport"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="ui_default_package"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="username"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="voicemail_notification_vibrate_when_default"/>
 	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="gift_count_format"/>
 	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="theme_name"/>
+	<item folder="all" application="TouchAssistant.apk" file="strings.xml" name="alipay_package"/>
+	<item folder="all" application="TouchAssistant.apk" file="strings.xml" name="wechat_package"/>
 	<item folder="all" application="Updater.apk" file="strings.xml" name="chengelog"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="daily_forecast_detail_date_format"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="data_source_time_fromat"/>
@@ -579,6 +600,10 @@
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="humidity_frame"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="lock_screen_device_sum"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="match_dataset_frame"/>
+	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="path_password_eye"/>
+	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="path_password_eye_mask_strike_through"/>
+	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="path_password_eye_mask_visible"/>
+	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="path_password_strike_through"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="scene_name_frame"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="scene_name_frame_short"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="stb_detail_title_frame"/>
