@@ -435,6 +435,10 @@
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="proxy_url_hint"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="settings_package"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
+	<item folder="all" application="PaymentService.apk" file="strings.xml" name="mibi_button_count_down_reget"/>
+	<item folder="all" application="PaymentService.apk" file="strings.xml" name="mibi_colon"/>
+	<item folder="all" application="PaymentService.apk" file="strings.xml" name="mibi_error_frozen_service_num"/>
+	<item folder="all" application="PaymentService.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="default_app"/>
 	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="express_watched_app"/>
 	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="express_watched_app_order_number_id"/>
