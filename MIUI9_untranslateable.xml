@@ -99,6 +99,7 @@
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="percent_sign"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="percentage"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="smart_group_action_bar_title"/>
+	<item folder="all" application="Contacts.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="widget_name_and_phonetic"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="battery_charging_level"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_id_miui"/>
@@ -106,6 +107,7 @@
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_tz_miui"/>
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="skip_alarm_date_format"/>
 	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="character_counter_pattern"/>
+	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="app_size"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="download_num_size"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="xunlei_brand_url"/>
@@ -160,6 +162,7 @@
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="fileSizeSuffix"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="network_available_sign_in_detailed"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="notification_messaging_title_template"/>
+	<item folder="all" application="framework-res.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="zen_mode_rule_name_combination"/>
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="antispam_marked_title"/>
@@ -351,6 +354,7 @@
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_icon"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_input"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
+	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="wallpaper_scrolling"/>
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="power_charging"/>
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="power_charging_duration_ac_short"/>
@@ -391,6 +395,7 @@
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="send_video_type"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="bottom_sheet_behavior"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="tag_index"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="tag_key"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="tag_object"/>
@@ -400,11 +405,23 @@
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="send_to_index_contact"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="com.crashlytics.android.build_id"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="cp_info_second"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="default_web_client_id"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="download_percent"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatlong"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort_padding_with_0"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="facebook_app_id"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="firebase_database_url"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="gcm_defaultSenderId"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="google_api_key"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="google_app_id"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="google_crash_reporting_api_key"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="google_storage_bucket"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="privacy_policy_url"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="user_agreement_url"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="micloud_state_total_count"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging"/>
@@ -417,6 +434,11 @@
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="proxy_port_hint"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="proxy_url_hint"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="settings_package"/>
+	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
+	<item folder="all" application="PaymentService.apk" file="strings.xml" name="mibi_button_count_down_reget"/>
+	<item folder="all" application="PaymentService.apk" file="strings.xml" name="mibi_colon"/>
+	<item folder="all" application="PaymentService.apk" file="strings.xml" name="mibi_error_frozen_service_num"/>
+	<item folder="all" application="PaymentService.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="default_app"/>
 	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="express_watched_app"/>
 	<item folder="all" application="PersonalAssistant.apk" file="arrays.xml" name="express_watched_app_order_number_id"/>
@@ -452,6 +474,8 @@
 	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="stock_change_rate_format"/>
 	<item folder="all" application="PrintSpooler.apk" file="strings.xml" name="current_page_template"/>
 	<item folder="all" application="PrintSpooler.apk" file="strings.xml" name="printer_extended_description_template"/>
+	<item folder="all" application="Provision.apk" file="strings.xml" name="suggested_actions_uri"/>
+	<item folder="all" application="Provision.apk" file="strings.xml" name="wizard_script_uri"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="action_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="action_param"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="alarm_general_type_restricted"/>
@@ -524,6 +548,7 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="settings_package"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="sim_settings_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="size_suffix"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_font_size"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_range_symbol_combination"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="sync_item_title"/>
@@ -606,6 +631,7 @@
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="path_password_strike_through"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="scene_name_frame"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="scene_name_frame_short"/>
+	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="stb_detail_title_frame"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="time_interval_in_sec"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="year_format"/>
