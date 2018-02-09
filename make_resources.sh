@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CHECK_REPO="git@github.com:Acid-miuipolskapl/v8-XML-Compare.git"
+CHECK_REPO="git@github.com:ingbrzy/Xiaomi.eu-MIUIv9-XML-Compare.git"
 CHECK_REPO_BRANCH="master"
 CHECK_REPO_DEVICE="gemini"
 NEW_DIR=trans_repo

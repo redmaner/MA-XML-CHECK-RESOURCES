@@ -4,7 +4,7 @@ up=$PWD
 untranslateable_defaults=$up/untranslateable_defaults.log
 untranslateable_ignorelist=$up/untranslateable_ignorelist.log
 ignorelist_untranslateable=$up/ignorelist_untranslateable.log
-miuiv=MIUI8
+miuiv=MIUI9
 
 cat $up/auto_defaults.xml | grep 'item' | while read item; do
 	if [ $(cat $up/"$miuiv"_untranslateable.xml | grep "$item" | wc -l) -gt 0 ]; then
