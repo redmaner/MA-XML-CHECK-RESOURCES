@@ -106,7 +106,13 @@
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_names_miui"/>
 	<item folder="all" application="DeskClock.apk" file="arrays.xml" name="cities_tz_miui"/>
 	<item folder="all" application="DeskClock.apk" file="strings.xml" name="skip_alarm_date_format"/>
+	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
+	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="bottom_sheet_behavior"/>
 	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="character_counter_pattern"/>
+	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="path_password_eye"/>
+	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="path_password_eye_mask_strike_through"/>
+	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="path_password_eye_mask_visible"/>
+	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="path_password_strike_through"/>
 	<item folder="all" application="DocumentsUI.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="app_size"/>
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="download_num_size"/>
@@ -622,6 +628,8 @@
 	<item folder="all" application="Weather.apk" file="strings.xml" name="international_details_wind_connect"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="share_weather_desc_alert"/>
 	<item folder="all" application="XiaomiServiceFramework.apk" file="strings.xml" name="activate_sms_postfix"/>
+	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
+	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="bottom_sheet_behavior"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="brand_device"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="character_counter_pattern"/>
 	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="humidity_frame"/>
