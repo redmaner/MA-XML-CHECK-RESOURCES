@@ -16,6 +16,8 @@
 	<item folder="all" application="Backup.apk" file="strings.xml" name="xiaomi_bytes_unit"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="xiaomi_kilobytes_unit"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="xiaomi_megabytes_unit"/>
+	<item folder="all" application="Bluetooth.apk" file="strings.xml" name="pairing_ui_package"/>
+	<item folder="all" application="Bluetooth.apk" file="strings.xml" name="pbap_account_type"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="baidu_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="bing_zh_CN_in_list"/>
@@ -397,7 +399,22 @@
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="wifi_gateway_hint"/>
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="wifi_ip_address_hint"/>
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="wifi_network_prefix_length_hint"/>
+	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="scan_modes"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="document_ocr_language_key"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="tts_demo_string_langs"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entries"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="multi_window_force_resize_pkgs"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="multi_window_force_not_resize_pkgs"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="system_foreground_notification_whitelist"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="avoid_disturb_app_whitelist"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="app_without_launcher_whitelist"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="mcc_mnc"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="usa_mcc"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title_prefix"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title_append"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="batterymeter_bolt_points"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="batterymeter_plus_points"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_systemUIFactoryComponent"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="network_speed_suffix"/>
@@ -524,6 +541,9 @@
 	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="preference_key_information_setting_wlan"/>
 	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="st_antispam_mode_defined_state"/>
 	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="st_antispam_mode_defined_state_international"/>
+	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="always_enabled_app_list"/>
+	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="key_app_info"/>
+	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="clean_cached_process_white_list"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="category_key_power_usage_details"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="category_key_power_usage_packages"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="create_table_keyword"/>
