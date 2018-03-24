@@ -136,6 +136,11 @@
 	<item folder="all" application="DownloadProviderUi.apk" file="strings.xml" name="xunlei_brand_url"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="application_mime_type"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="account_cache_provider"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="account_manager_type_exchange"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="account_manager_type_imap"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="account_manager_type_legacy_imap"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="account_manager_type_pop3"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="authority_email_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="bank_card_list_card_num_fmt"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="bcc_heading"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="cc_attribution"/>
@@ -144,9 +149,12 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="eas_hotmail_email"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="eas_outlook_email"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="eas_template"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="email_package_name"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="email_suggestions_authority"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="eml_attachment_provider"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="formatted_subject"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="forward_subject_label"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="intent_account_manager_entry"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="intent_exchange_package"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="label_notification_ticker"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_all_unread"/>
@@ -164,6 +172,7 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="special_text_colon_en"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="special_text_colon_zh"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="special_text_qq_subscribe"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="suggestions_authority"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="trigger_compose_char"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="trigger_refresh_char"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="trigger_y_char"/>
@@ -179,6 +188,23 @@
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="topic_message"/>
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="video_upload_item_title"/>
 	<item folder="all" application="FindDevice.apk" file="strings.xml" name="find_device_notice_p2"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_bluetooth_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_brightness_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_data_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_flight_mode_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_gps_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_midrop_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_mute_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_nfc_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_paper_mode_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_power_mode_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_quiet_mode_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_rotate_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_silent_mode_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_sync_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_vibrate_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_wifi_action"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_wifi_ap_action"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_statusBarIcons"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_journal_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_sync_mode"/>
@@ -576,6 +602,10 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="standard_configuration_version_description_secondary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="bootloader_unlock_webhome"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="call_manager_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="category_key_device"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="category_key_personal"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="category_key_system"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="category_key_wireless"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="dndm_auto_time_setting_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="gadget_state_template"/>
