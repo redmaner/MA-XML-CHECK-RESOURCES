@@ -498,6 +498,7 @@
 	<item folder="all" application="Music.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="user_agreement_url"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="micloud_state_total_count"/>
+	<item folder="all" application="Notes.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="lb_time_separator"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="power_charging"/>
@@ -736,6 +737,7 @@
 	<item folder="all" application="YellowPage.apk" file="strings.xml" name="phone_info_divider"/>
 	<item folder="all" application="YellowPage.apk" file="strings.xml" name="recharge_phone_format"/>
 	<item folder="all" application="YellowPage.apk" file="strings.xml" name="shop_recommendation_format"/>
+	<item folder="all" application="YellowPage.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="main" application="CABLService.apk" file="strings.xml" name="cabl_level_default"/>
 	<item folder="main" application="MiuiSystemUI.apk" file="strings.xml" name="flash_device"/>
 </recources>
