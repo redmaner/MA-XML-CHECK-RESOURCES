@@ -148,9 +148,3 @@ folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values
  <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
 
 
----------------------------------------------------------------------------------------
-folder="all" application="YellowPage.apk" xml="" name="recharge_charge_value"
----------------------------------------------------------------------------------------
- <string name="recharge_charge_value">Pris: RMB %s</string>
-
-
