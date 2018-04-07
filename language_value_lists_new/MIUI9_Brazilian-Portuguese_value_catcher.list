@@ -1,144 +1,84 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="color_picker_value"
----------------------------------------------------------------------------------------
- <string name="color_picker_value">Valor</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
----------------------------------------------------------------------------------------
- <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
----------------------------------------------------------------------------------------
- <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
----------------------------------------------------------------------------------------
- <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_value"
----------------------------------------------------------------------------------------
- <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
----------------------------------------------------------------------------------------
- <string name="pref_camera_zoom_value_title">Zoom</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
----------------------------------------------------------------------------------------
- <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_bit_rate_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_bit_rate_values"> <item>200</item> <item>100</item> <item>50</item> <item>32</item> <item>24</item> <item>16</item> <item>8</item> <item>4</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_frames_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_frames_values"> <item>24</item> <item>30</item> <item>48</item> <item>60</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_orientation_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_orientation_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_c9_full_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_c9_full_values"> <item>1440*1080</item> <item>1280*960</item> <item>960*720</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_c9_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_c9_values"> <item>1080</item> <item>960</item> <item>720</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_full_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_full_values"> <item>1920*1080</item> <item>1280*720</item> <item>800*480</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_sound_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_sound_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
+folder="all" application="Settings.apk" xml="" name="tts_rate_values"
 ---------------------------------------------------------------------------------------
  <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
+folder="all" application="Settings.apk" xml="" name="status_bar_show_carrier_values"
 ---------------------------------------------------------------------------------------
- <string-array name="switch_sdk_value"> <item>0</item> <item>1</item> </string-array>
+ <string-array name="status_bar_show_carrier_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
+folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
 ---------------------------------------------------------------------------------------
- <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
+ <string-array name="wifi_calling_mode_values"> <item>2</item> <item>1</item> <item>0</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_vibration_items_values"
+folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
 ---------------------------------------------------------------------------------------
- <string-array name="power_dialog_vibration_items_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+ <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>2</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_scenes_values"
+folder="all" application="Settings.apk" xml="" name="connect_mode_values"
 ---------------------------------------------------------------------------------------
- <string-array name="record_scenes_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+ <string-array name="connect_mode_values"> <item>0</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_quality_values"
+folder="all" application="Settings.apk" xml="" name="traffic_balance_values"
 ---------------------------------------------------------------------------------------
- <string-array name="record_quality_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
+ <string-array name="traffic_balance_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="list_language_values"
+folder="all" application="Settings.apk" xml="" name="whetstone_level_values"
 ---------------------------------------------------------------------------------------
- <string-array name="list_language_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> </string-array>
+ <string-array name="whetstone_level_values"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values"
+folder="all" application="Settings.apk" xml="" name="agps_network_values"
 ---------------------------------------------------------------------------------------
- <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
+ <string-array name="agps_network_values"> <item>0</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="YellowPage.apk" xml="" name="recharge_charge_value"
+folder="all" application="Settings.apk" xml="" name="agps_apn_values"
 ---------------------------------------------------------------------------------------
- <string name="recharge_charge_value">Preço: RMB %s</string>
+ <string-array name="agps_apn_values"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="agps_reset_type_values"
+---------------------------------------------------------------------------------------
+ <string-array name="agps_reset_type_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="handy_mode_size_value_entries"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="silent_values"
+---------------------------------------------------------------------------------------
+ <string-array name="silent_values"> <item>3</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="silent_mode_duration_value"
+---------------------------------------------------------------------------------------
+ <string-array name="silent_mode_duration_value"> <item>0</item> <item>30</item> <item>60</item> <item>120</item> <item>480</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="vip_mode_value"
+---------------------------------------------------------------------------------------
+ <string-array name="vip_mode_value"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
 
 
