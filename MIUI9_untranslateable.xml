@@ -218,6 +218,7 @@
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="antispam_marked_title"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="phone_info_divider"/>
+	<item folder="all" application="MiCloudSync.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="MiDrive.apk" file="strings.xml" name="download_current_progress"/>
 	<item folder="all" application="MiDrive.apk" file="strings.xml" name="fileSizeSuffix"/>
 	<item folder="all" application="MiDrop.apk" file="strings.xml" name="action_bonjour"/>
@@ -407,6 +408,7 @@
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="provider_authority"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_icon"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_input"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="search_transition_element_voice"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="wallpaper_scrolling"/>
