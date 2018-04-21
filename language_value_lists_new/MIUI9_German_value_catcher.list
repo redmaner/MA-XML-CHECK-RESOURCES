@@ -1,12 +1,24 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-ext-res.apk" xml="" name="screen_key_long_press_default_action"
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
 ---------------------------------------------------------------------------------------
- <string-array name="screen_key_long_press_default_action"> <item>Nichts</item> <item>Nichts</item> </string-array>
+ <string name="cit_audio_cali_valueF0">"F0: "</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default_array"
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueR"
 ---------------------------------------------------------------------------------------
- <string-array name="pref_camera_focusmode_default_array"> <item>Serienbild</item> <item>Auto</item> </string-array>
+ <string name="cit_audio_cali_valueR">Ref_diff:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueT">Temp_acc:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
+---------------------------------------------------------------------------------------
+ <string name="tether_limit_value_custom">Benutzerdefiniert</string>
 
 
