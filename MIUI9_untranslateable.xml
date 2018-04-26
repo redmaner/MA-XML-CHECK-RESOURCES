@@ -479,24 +479,52 @@
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrateWhen"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="send_to_index_contact"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="api"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="app_code"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="app_name"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="app_type"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="campaign_refresh_period"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="campaign_server_refresh_period"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="com.crashlytics.android.build_id"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="connection_timeout"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="cp_info_second"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="default_web_client_id"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="download_percent"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatlong"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort_padding_with_0"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="event_delivery_attempts_on_500"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="event_flush_batch_size"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="event_serialized_max_number"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="facebook_app_id"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="firebase_database_url"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="flush_period"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="format"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="gcm_defaultSenderId"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="google_api_key"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="google_app_id"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="google_crash_reporting_api_key"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="google_storage_bucket"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="inbox_keep_in_heap_limit"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="inbox_request_limit"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="privacy_policy_url"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="project_id"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="location_fetching_on"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="no_duration"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="ntp_host_address"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="partner_id"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="pdf_image_url_workaround"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="playlists_max_content_number"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="playlists_max_number"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="recordForReadIntervalDelaySeconds"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="sdk_ver"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="sender_id"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="user_agreement_url"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="uninterruptedPlayIntervalSeconds"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="web_service_url"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="web_service_url_version"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="ws_ver"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="micloud_state_total_count"/>
 	<item folder="all" application="Notes.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="PackageInstaller.apk" file="strings.xml" name="certinstaller_package"/>
