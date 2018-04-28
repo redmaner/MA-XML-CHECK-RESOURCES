@@ -1,22 +1,4 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
----------------------------------------------------------------------------------------
- <string name="cit_audio_cali_valueF0">"F0: "</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueR"
----------------------------------------------------------------------------------------
- <string name="cit_audio_cali_valueR">Ref_diff:</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
----------------------------------------------------------------------------------------
- <string name="cit_audio_cali_valueT">Temp_acc:</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Benutzerdefiniert</string>
