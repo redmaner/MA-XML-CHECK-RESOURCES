@@ -15,11 +15,13 @@ all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_resolution_c9_valu
 all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_resolution_full_values
 all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_resolution_values
 all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_sound_values
+all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_storage_location_values
 all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
 all MiuiSystemUI.apk arrays.xml tts_rate_values
 all Mms.apk arrays.xml switch_sdk_value
 all SecurityCenter.apk arrays.xml lock_mode_value
 all SecurityCenter.apk arrays.xml power_dialog_vibration_items_values
+all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk arrays.xml record_scenes_values
 all SoundRecorder.apk arrays.xml record_quality_values
 all Telecom.apk arrays.xml bluetooth_avrcp_version_values
@@ -27,4 +29,3 @@ all TeleService.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml preferred_network_mode_values_world_mode
 all TeleService.apk arrays.xml list_language_values
 all TeleService.apk arrays.xml cdma_subscription_values
-all YellowPage.apk strings.xml recharge_charge_value
