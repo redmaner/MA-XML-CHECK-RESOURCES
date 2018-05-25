@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="color_picker_value">Verdi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_storage_location_values"
+---------------------------------------------------------------------------------------
+ <string-array name="screenrecorder_settings_storage_location_values"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
+---------------------------------------------------------------------------------------
+ <string name="tether_limit_value_custom">Tilpasset</string>
+
+
