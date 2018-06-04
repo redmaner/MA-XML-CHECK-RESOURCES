@@ -1,18 +1,18 @@
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
- <string name="mw_color_picker_value">Vrijednost</string>
+ <string name="mw_color_picker_value">Arvo</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
- <string name="accessibility_quick_settings_rotation_value">Način: %s</string>
+ <string name="accessibility_quick_settings_rotation_value">%s mode</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
- <string name="tether_limit_value_custom">Vlastito</string>
+ <string name="tether_limit_value_custom">Mukautettu</string>
 
 
