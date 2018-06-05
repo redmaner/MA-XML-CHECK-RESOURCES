@@ -445,8 +445,21 @@
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="batterymeter_bolt_points"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="batterymeter_plus_points"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="certinstaller_package"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_statusBarComponent"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_systemUIFactoryComponent"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedactions_width_weight"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedactions_width_weight_two_panels"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedbuttonactions_width_weight"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedstep_height_weight"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedstep_height_weight_translucent"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedstep_keyline"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="monitoring_description_ca_cert_settings_separator"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="monitoring_description_do_learn_more_separator"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="monitoring_description_vpn_settings_separator"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="network_speed_suffix"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="notification_group_divider_symbol"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="pip_menu_bounds"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="pip_settings_bounds"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="power_charging"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="power_charging_duration_ac_short"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="power_charging_duration_short"/>
@@ -733,6 +746,8 @@
 	<item folder="all" application="TouchAssistant.apk" file="strings.xml" name="alipay_package"/>
 	<item folder="all" application="TouchAssistant.apk" file="strings.xml" name="wechat_package"/>
 	<item folder="all" application="Updater.apk" file="strings.xml" name="chengelog"/>
+	<item folder="all" application="Updater.apk" file="strings.xml" name="message"/>
+	<item folder="all" application="Updater.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="daily_forecast_detail_date_format"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="data_source_time_fromat"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="empty"/>
