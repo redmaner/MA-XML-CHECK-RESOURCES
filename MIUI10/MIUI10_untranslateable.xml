@@ -470,6 +470,10 @@
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="proxy_hostname_hint"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="proxy_port_hint"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="proxy_url_hint"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="quick_settings_tiles"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="quick_settings_tiles_default"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="quick_settings_tiles_retail_mode"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="quick_settings_tiles_stock"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="settings_package"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="status_bar_date_formatter"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="velocity_tracker_impl"/>
