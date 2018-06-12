@@ -483,6 +483,7 @@
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="quick_settings_tiles_stock"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="settings_package"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="status_bar_date_formatter"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="status_bar_network_name_separator"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="velocity_tracker_impl"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="status_bar_settings_battery_meter_format"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="weather_description_no_aqi"/>
@@ -749,9 +750,14 @@
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="sip_ask_me_each_time"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="time_interval_char"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="transport"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="tty_mode_key"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="ui_default_package"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="username"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="voicemail_change_pin_key"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="voicemail_notifications_key"/>
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="voicemail_notification_vibrate_when_default"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="voicemail_visual_voicemail_key"/>
+	<item folder="all" application="TeleService.apk" file="strings.xml" name="wifi_calling_settings_key"/>
 	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="gift_count_format"/>
 	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="theme_name"/>
 	<item folder="all" application="TouchAssistant.apk" file="strings.xml" name="alipay_package"/>
