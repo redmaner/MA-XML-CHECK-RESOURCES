@@ -189,6 +189,7 @@
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="video_upload_item_title"/>
 	<item folder="all" application="FindDevice.apk" file="strings.xml" name="find_device_notice_p2"/>
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="notification_header_divider_symbol_with_spaces"/>
+	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="resolver_recommended_app_name"/>
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_bluetooth_action"/>
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_brightness_action"/>
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_data_action"/>
@@ -694,6 +695,7 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="sim_settings_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="size_suffix"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="status_bar_settings_carrier_sim"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_font_size"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_range_symbol_combination"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="sync_item_title"/>
