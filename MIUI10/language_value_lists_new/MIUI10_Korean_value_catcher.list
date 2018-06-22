@@ -1,6 +1,54 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_data_preload_value_always">항상</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_data_preload_value_never">절대 금지</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_link_prefetch_value_always">항상</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_link_prefetch_value_never">절대 금지</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_preload_value_always">항상</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_preload_value_never">절대 금지</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%s 모드</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
+---------------------------------------------------------------------------------------
+ <string name="tether_limit_value_custom">사용자 지정</string>
 
 

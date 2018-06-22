@@ -425,6 +425,18 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_1080p_60fps"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_4kuhd_60fps"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="relation_with_me_value"
 ---------------------------------------------------------------------------------------
  <string-array name="relation_with_me_value"> <item>mismo</item> <item>niño</item> <item>familia</item> <item>colega</item> <item>compañero</item> <item>amigo</item> <item>desconocido</item> </string-array>
