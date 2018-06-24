@@ -704,7 +704,10 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="sync_item_title"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="zen_mode_rule_summary_combination"/>
-	<item folder="all" application="Settings.apk" file="strings.xml" name="zen_mode_summary_combination"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="device_support_face"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="device_support_pickup_by_xiaomi"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="device_global_support_face_facejiajia"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="device_global_support_face_sensetime"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="airplane_mode_toggleable_radios"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
 	<item folder="all" application="SoundRecorder.apk" file="strings.xml" name="xiaomi_account_type"/>
