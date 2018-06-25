@@ -438,20 +438,24 @@
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="wifi_network_prefix_length_hint"/>
 	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="scan_modes"/>
 	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="document_ocr_language_key"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="tts_demo_string_langs"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="app_without_launcher_whitelist"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title_append"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title_prefix"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="avoid_disturb_app_whitelist"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="batterymeter_bolt_points"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="batterymeter_plus_points"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="device_global_support_face_facejiajia"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="device_global_support_face_sensetime"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="device_support_face"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="device_support_pickup_by_xiaomi"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="duration_entries"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="mcc_mnc"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="multi_window_force_resize_pkgs"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="multi_window_force_not_resize_pkgs"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="system_foreground_notification_whitelist"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="avoid_disturb_app_whitelist"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="app_without_launcher_whitelist"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="mcc_mnc"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="tts_demo_string_langs"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="usa_mcc"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title_prefix"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title_append"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="batterymeter_bolt_points"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="batterymeter_plus_points"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_statusBarComponent"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_systemUIFactoryComponent"/>
@@ -665,6 +669,10 @@
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="always_enabled_app_list"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="change_security_lock_picker_key"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="device_global_support_face_facejiajia"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="device_global_support_face_sensetime"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="device_support_face"/>
+	<item folder="all" application="Settings.apk" file="arrays.xml" name="device_support_pickup_by_xiaomi"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="key_and_gesture_shortcut_action"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="standard_configuration_version_description_secondary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="bootloader_unlock_webhome"/>
@@ -709,10 +717,6 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="sync_item_title"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="zen_mode_rule_summary_combination"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="device_support_face"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="device_support_pickup_by_xiaomi"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="device_global_support_face_facejiajia"/>
-	<item folder="all" application="Settings.apk" file="arrays.xml" name="device_global_support_face_sensetime"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="airplane_mode_toggleable_radios"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
 	<item folder="all" application="SoundRecorder.apk" file="strings.xml" name="xiaomi_account_type"/>
