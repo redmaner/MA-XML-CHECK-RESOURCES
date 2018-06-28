@@ -16,3 +16,15 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_ta
  <string name="pref_camera_snap_value_take_picture">Fotografie</string>
 
 
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_1080p_60fps"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_4kuhd_60fps"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
+
+

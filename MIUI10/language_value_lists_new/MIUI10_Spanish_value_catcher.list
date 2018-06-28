@@ -659,24 +659,6 @@ folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_not_chrome_regions"
----------------------------------------------------------------------------------------
- <string-array name="default_not_chrome_regions"> <item>IN</item> <item>ID</item> <item>RU</item> <item>SG</item> <item>MY</item> <item>HK</item> <item>TW</item> <item>UA</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="debug_hw_renderer_values"
----------------------------------------------------------------------------------------
- <string-array name="debug_hw_renderer_values"> <item>opengl</item> <item>skiagl</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="dirac_equalizer_preset_values"
----------------------------------------------------------------------------------------
- <string-array name="dirac_equalizer_preset_values"> <item>0,0,0,0,0,0,0</item> <item>4,2,-2,0,-2,-2,4</item> <item>0,0,0,-2,-3,0,0</item> <item>0,-3,-5,0,0,-3,0</item> <item>0,0,0,0,3,6,6</item> <item>3,3,-3,0,-3,0,2</item> <item>2,4,-6,4,0,1,2</item> <item>3,3,-1,0,-3,0,0</item> <item>0,0,-2,-2,2,2,0</item> <item>0,4,2,0,-2,-2,4</item> <item>2,0,0,-2,-4,0,0</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="led_color_values"
 ---------------------------------------------------------------------------------------
  <string-array name="led_color_values"> <item>blue</item> <item>red</item> <item>yellow</item> <item>green</item> <item>cyan</item> <item>white</item> <item>\#FFAA00AA</item> </string-array>
