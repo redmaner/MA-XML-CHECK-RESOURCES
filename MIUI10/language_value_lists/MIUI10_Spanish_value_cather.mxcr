@@ -108,9 +108,6 @@ all PaymentService.apk strings.xml mibi_unit_value_redeemed
 all PaymentService.apk strings.xml mibi_unit_value_remained
 all PersonalAssistant.apk strings.xml flybird_nopwd_value_label
 all SecurityCenter.apk arrays.xml lock_mode_value
-all Settings.apk arrays.xml default_not_chrome_regions
-all Settings.apk arrays.xml debug_hw_renderer_values
-all Settings.apk arrays.xml dirac_equalizer_preset_values
 all Settings.apk arrays.xml led_color_values
 all Settings.apk strings.xml tether_limit_value_custom
 all TeleService.apk arrays.xml animator_duration_scale_values
