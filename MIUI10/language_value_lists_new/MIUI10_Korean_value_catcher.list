@@ -41,6 +41,96 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_nev
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_danish"
+---------------------------------------------------------------------------------------
+ <string name="language_value_danish">덴마크어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_dutch"
+---------------------------------------------------------------------------------------
+ <string name="language_value_dutch">네덜란드어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_english"
+---------------------------------------------------------------------------------------
+ <string name="language_value_english">영어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_finnish"
+---------------------------------------------------------------------------------------
+ <string name="language_value_finnish">핀란드어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_french"
+---------------------------------------------------------------------------------------
+ <string name="language_value_french">프랑스어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_german"
+---------------------------------------------------------------------------------------
+ <string name="language_value_german">독일어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_hungarian"
+---------------------------------------------------------------------------------------
+ <string name="language_value_hungarian">헝가리어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_italian"
+---------------------------------------------------------------------------------------
+ <string name="language_value_italian">이탈리아어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_japanese"
+---------------------------------------------------------------------------------------
+ <string name="language_value_japanese">일본어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_korean"
+---------------------------------------------------------------------------------------
+ <string name="language_value_korean">한국어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_norwegian"
+---------------------------------------------------------------------------------------
+ <string name="language_value_norwegian">노르웨이어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_portuguese"
+---------------------------------------------------------------------------------------
+ <string name="language_value_portuguese">포르투갈어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_russian"
+---------------------------------------------------------------------------------------
+ <string name="language_value_russian">러시아어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_spanish"
+---------------------------------------------------------------------------------------
+ <string name="language_value_spanish">스페인어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_swedish"
+---------------------------------------------------------------------------------------
+ <string name="language_value_swedish">스웨덴어</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%s 모드</string>
