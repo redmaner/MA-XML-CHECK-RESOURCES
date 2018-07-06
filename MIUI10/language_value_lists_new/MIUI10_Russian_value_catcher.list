@@ -1,13 +1,13 @@
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
- <string name="mw_color_picker_value">Value</string>
+ <string name="mw_color_picker_value">Значение</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="color_picker_value"
 ---------------------------------------------------------------------------------------
- <string name="color_picker_value">Стойност</string>
+ <string name="color_picker_value">Значение</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
- <string name="pref_camera_zoom_value_title">Зуум</string>
+ <string name="pref_camera_zoom_value_title">Приближение</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -103,7 +103,7 @@ folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_se
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
- <string name="accessibility_quick_settings_rotation_value">%s режим</string>
+ <string name="accessibility_quick_settings_rotation_value">%s ориентация</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -119,9 +119,15 @@ folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_vibration_items_values"
+---------------------------------------------------------------------------------------
+ <string-array name="power_dialog_vibration_items_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
- <string name="tether_limit_value_custom">По избор</string>
+ <string name="tether_limit_value_custom">Особый</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Value</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="color_picker_value"
 ---------------------------------------------------------------------------------------
  <string name="color_picker_value">Стойност</string>
@@ -95,15 +101,9 @@ folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_se
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
+folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
----------------------------------------------------------------------------------------
- <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+ <string name="accessibility_quick_settings_rotation_value">%s режим</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -116,6 +116,12 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
+---------------------------------------------------------------------------------------
+ <string name="tether_limit_value_custom">По избор</string>
 
 
 ---------------------------------------------------------------------------------------

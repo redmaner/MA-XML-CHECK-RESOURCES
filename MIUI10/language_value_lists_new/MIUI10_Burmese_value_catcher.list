@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Value</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="color_picker_value">အာနိသင်</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_values"
 ---------------------------------------------------------------------------------------
  <string-array name="alert_reminder_interval_values"> <item>1</item> <item>2</item> <item>15</item> <item>0</item> </string-array>

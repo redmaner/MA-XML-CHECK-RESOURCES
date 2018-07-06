@@ -1,0 +1,66 @@
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="search_bar_search_engines_default"
+---------------------------------------------------------------------------------------
+ <string-array name="search_bar_search_engines_default"> <item>google</item> <item>bing</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="search_engines_default"
+---------------------------------------------------------------------------------------
+ <string-array name="search_engines_default"> <item>google</item> <item>yahoo</item> <item>bing</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Valor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="cos_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="cos_mathematical_value">cos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="e_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="e_mathematical_value">e</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>sempre</item> <item>en silenci</item> <item>mai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>sempre</item> <item>en silenci</item> <item>mai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="timezone_values"
+---------------------------------------------------------------------------------------
+ <string-array name="timezone_values"> <item>Pacífic/Majuro</item> <item>Pacífic/Midway</item> <item>Pacífic/Honolulu</item> <item>Amèrica/Anchorage</item> <item>Amèrica/Los_Angeles</item> <item>Amèrica/Tijuana</item> <item>Amèrica/Phoenix</item> <item>Amèrica/Chihuahua</item> <item>Amèrica/Denver</item> <item>Amèrica/Costa_Rica</item> <item>Amèrica/Chicago</item> <item>Amèrica/Ciutat_de_Mèxic</item> <item>Amèrica/Regina</item> <item>Amèrica/Bogotà</item> <item>Amèrica/Nova_York</item> <item>Amèrica/Caracas</item> <item>Amèrica/Barbados</item> <item>Amèrica/Halifax</item> <item>Amèrica/Manaus</item> <item>Amèrica/Santiago</item> <item>Amèrica/St Johns</item> <item>Amèrica/Sao Paulo</item> <item>Amèrica/Argentina/Buenos Aires</item> <item>Amèrica/Godthab</item> <item>Amèrica/Montevideo</item> <item>Atlàntic/South Georgia</item> <item>Atlàntic/Azores</item> <item>Atlàntic/Cap Verd</item> <item>Àfrica/Casablanca</item> <item>Europa/Londres</item> <item>Europa/Amsterdam</item> <item>Europa/Belgrad</item> <item>Europa/Brussel·les</item> <item>Europa/Sarajevo</item> <item>Àfrica/Windhoek</item> <item>Àfrica/Brazzaville</item> <item>Àsia/Amman</item> <item>Europa/Atenes</item> <item>Àsia/Beirut</item> <item>Àfrica/Caire</item> <item>Europa/Helsinki</item> <item>Àsia/Jerusalem</item> <item>Europa/Minsk</item> <item>Àfrica/Harare</item> <item>Àsia/Bagdad</item> <item>Europa/Moscou</item> <item>Àsia/Kuwait</item> <item>Àfrica/Nairobi</item> <item>Àsia/Teheran</item> <item>Àsia/Bakú</item> <item>Àsia/Tbilisi</item> <item>Àsia/Erevan</item> <item>Àsia/Dubai</item> <item>Àsia/Kabul</item> <item>Àsia/Karachi</item> <item>Àsia/Oral</item> <item>Àsia/Yekaterinburg</item> <item>Àsia/Calcuta</item> <item>Àsia/Colombo</item> <item>Àsia/Katmandú</item> <item>Àsia/Almaty</item> <item>Àsia/Rangun</item> <item>Àsia/Krasnoyarsk</item> <item>Àsia/Bangkok</item> <item>Àsia/Xangai</item> <item>Àsia/Hong Kong</item> <item>Àsia/Macau</item> <item>Àsia/Singapur</item> <item>Àsia/Irkutsk</item> <item>Àsia/Kuala_Lumpur</item> <item>Austràlia/Perth</item> <item>Àsia/Taipei</item> <item>Àsia/Seül</item> <item>Àsia/Tòquio</item> <item>Àsia/Yakutsk</item> <item>Austràlia/Adelaida</item> <item>Austràlia/Darwin</item> <item>Austràlia/Brisbane</item> <item>Austràlia/Hobart</item> <item>Austràlia/Sydney</item> <item>Àsia/Vladivostok</item> <item>Pacífic/Guam</item> <item>Àsia/Magadan</item> <item>Pacífic/Auckland</item> <item>Pacífic/Fiji</item> <item>Pacific/Tongatapu</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_allday_reminder_default_value">480</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
+---------------------------------------------------------------------------------------
+ <string name="tether_limit_value_custom">Personalitzat</string>
+
+
