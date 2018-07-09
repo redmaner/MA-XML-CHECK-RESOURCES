@@ -4,9 +4,6 @@ all DeskClock.apk arrays.xml snooze_duration_values
 all DeskClock.apk arrays.xml volume_button_setting_values
 all Email.apk strings.xml recognize_hotel_room_type_value
 all Email.apk strings.xml recognize_hotel_user_names_value
-all InCallUI.apk arrays.xml clir_display_values
-all InCallUI.apk arrays.xml list_language_values
-all InCallUI.apk arrays.xml cdma_subscription_values
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiHome.apk arrays.xml cell_layout_size_values
 all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_bit_rate_values
@@ -28,7 +25,5 @@ all SoundRecorder.apk arrays.xml record_quality_values
 all Telecom.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml preferred_network_mode_values_world_mode
-all TeleService.apk arrays.xml list_language_values
-all TeleService.apk arrays.xml cdma_subscription_values
 all TeleService.apk arrays.xml list_language_values
 all TeleService.apk arrays.xml cdma_subscription_values
