@@ -491,12 +491,6 @@
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="keyguard_charging_info_data_v"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="keyguard_fancy_colon"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="keyguard_more_overflow_text"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedactions_width_weight"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedactions_width_weight_two_panels"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedbuttonactions_width_weight"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedstep_height_weight"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedstep_height_weight_translucent"/>
-	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="lb_guidedstep_keyline"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="list_delimeter"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="monitoring_description_ca_cert_settings_separator"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="monitoring_description_do_learn_more_separator"/>
@@ -571,6 +565,7 @@
 	<item folder="all" application="Music.apk" file="strings.xml" name="google_storage_bucket"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="inbox_keep_in_heap_limit"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="inbox_request_limit"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="include_sensitive_extra"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="location_fetching_on"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="no_duration"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="ntp_host_address"/>
@@ -583,6 +578,7 @@
 	<item folder="all" application="Music.apk" file="strings.xml" name="recordForReadIntervalDelaySeconds"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="sdk_ver"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="sender_id"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="silent_username_limit"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="uninterruptedPlayIntervalSeconds"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="user_agreement_url"/>
