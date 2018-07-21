@@ -1,4 +1,22 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueF0">F0:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueR"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueR">Ref_diff:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueT">Temp_act:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso1000"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_iso_value_iso1000">1000</string>
