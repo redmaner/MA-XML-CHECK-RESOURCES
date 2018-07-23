@@ -37,7 +37,7 @@
 	<language check="check_all" fix="fix_untranslateable" miui="10" name="Belorussian" iso="be" url="https://github.com/ingbrzy/MA-XML-10-BELORUSSIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-BELORUSSIAN-Global.git" branch="master"/>
 	
 	
-	<!-- MIUI9 repo's - Alfabetical order-->
+	<!-- MIUI9 repo's - Alfabetical order
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Arabic" iso="ar" url="https://github.com/ingbrzy/MA-XML-9.0-ARABIC-Global" git="git@github.com:ingbrzy/MA-XML-9.0-ARABIC-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/ingbrzy/MA-XML-9.0-BRAZILIAN-Global" git="git@github.com:ingbrzy/MA-XML-9.0-BRAZILIAN-Global.git"  branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-9.0-BULGARIAN-Global" git="git@github.com:ingbrzy/MA-XML-9.0-BULGARIAN-Global.git" branch="master"/>
@@ -68,4 +68,5 @@
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Thai" iso="th" url="https://github.com/ingbrzy/MA-XML-9.0-THAI-Global" git="git@github.com:ingbrzy/MA-XML-9.0-THAI-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Turkish" iso="tr" url="https://github.com/ingbrzy/MA-XML-9.0-TURKISH" git="git@github.com:ingbrzy/MA-XML-9.0-TURKISH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="9" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI9-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI9-XML-Vietnamese.git" branch="master"/>
+-->
 </languages>
