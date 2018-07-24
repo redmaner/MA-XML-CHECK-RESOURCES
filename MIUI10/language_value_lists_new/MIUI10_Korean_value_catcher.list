@@ -41,6 +41,48 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_nev
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="sin_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="sin_mathematical_value">사인</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="tan_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="tan_mathematical_value">탄젠트</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="imssettings.apk" xml="" name="ims_apn_value_invalid"
+---------------------------------------------------------------------------------------
+ <string name="ims_apn_value_invalid">APN을 입력하십시오.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="imssettings.apk" xml="" name="ims_settings_no_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ims_settings_no_default_value">무</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="imssettings.apk" xml="" name="ims_settings_value_full_rate"
+---------------------------------------------------------------------------------------
+ <string name="ims_settings_value_full_rate">풀 레이트</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="imssettings.apk" xml="" name="ims_settings_value_no"
+---------------------------------------------------------------------------------------
+ <string name="ims_settings_value_no">유</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="imssettings.apk" xml="" name="ims_settings_value_yes"
+---------------------------------------------------------------------------------------
+ <string name="ims_settings_value_yes">무</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_danish"
 ---------------------------------------------------------------------------------------
  <string name="language_value_danish">덴마크어</string>
