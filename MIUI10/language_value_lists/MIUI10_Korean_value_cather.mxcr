@@ -5,6 +5,13 @@ all Browser.apk strings.xml pref_link_prefetch_value_always
 all Browser.apk strings.xml pref_link_prefetch_value_never
 all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
+all Calculator.apk strings.xml sin_mathematical_value
+all Calculator.apk strings.xml tan_mathematical_value
+all imssettings.apk strings.xml ims_apn_value_invalid
+all imssettings.apk strings.xml ims_settings_no_default_value
+all imssettings.apk strings.xml ims_settings_value_full_rate
+all imssettings.apk strings.xml ims_settings_value_no
+all imssettings.apk strings.xml ims_settings_value_yes
 all MiuiScanner.apk strings.xml language_value_danish
 all MiuiScanner.apk strings.xml language_value_dutch
 all MiuiScanner.apk strings.xml language_value_english

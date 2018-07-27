@@ -101,6 +101,18 @@ folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_se
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%släge</string>
@@ -116,6 +128,90 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="agps_apn_values"
+---------------------------------------------------------------------------------------
+ <string-array name="agps_apn_values"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="agps_network_values"
+---------------------------------------------------------------------------------------
+ <string-array name="agps_network_values"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="agps_reset_type_values"
+---------------------------------------------------------------------------------------
+ <string-array name="agps_reset_type_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="connect_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="connect_mode_values"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="handy_mode_size_value_entries"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="silent_mode_duration_value"
+---------------------------------------------------------------------------------------
+ <string-array name="silent_mode_duration_value"> <item>0</item> <item>30</item> <item>60</item> <item>120</item> <item>480</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="silent_values"
+---------------------------------------------------------------------------------------
+ <string-array name="silent_values"> <item>4</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="traffic_balance_values"
+---------------------------------------------------------------------------------------
+ <string-array name="traffic_balance_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="tts_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="vip_mode_value"
+---------------------------------------------------------------------------------------
+ <string-array name="vip_mode_value"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="whetstone_level_values"
+---------------------------------------------------------------------------------------
+ <string-array name="whetstone_level_values"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="wifi_calling_mode_values"> <item>2</item> <item>1</item> <item>0</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
+---------------------------------------------------------------------------------------
+ <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>2</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -139,13 +235,13 @@ folder="all" application="SoundRecorder.apk" xml="" name="record_quality_values"
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
