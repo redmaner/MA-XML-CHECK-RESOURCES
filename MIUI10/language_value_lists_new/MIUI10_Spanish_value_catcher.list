@@ -227,6 +227,12 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_value_label"
+---------------------------------------------------------------------------------------
+ <string name="flybird_nopwd_value_label">Importe gratuito</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
