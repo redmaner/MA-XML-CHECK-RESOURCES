@@ -549,6 +549,8 @@
 	<item folder="all" application="Music.apk" file="strings.xml" name="event_delivery_attempts_on_500"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="event_flush_batch_size"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="event_serialized_max_number"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="exo_track_bitrate"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="exo_track_resolution"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="facebook_app_id"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="firebase_database_url"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="flush_period"/>
@@ -799,6 +801,8 @@
 	<item folder="all" application="TeleService.apk" file="strings.xml" name="wifi_calling_settings_key"/>
 	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
 	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="bottom_sheet_behavior"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="exo_track_bitrate"/>
+	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="exo_track_resolution"/>
 	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="gift_count_format"/>
 	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="item_resource_audio_divider"/>
 	<item folder="all" application="ThemeManager.apk" file="strings.xml" name="path_password_eye"/>
