@@ -83,6 +83,30 @@ folder="all" application="imssettings.apk" xml="" name="ims_settings_value_yes"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="imssettings.apk" xml="" name="ims_band_settings_narrow_preferred_value"
+---------------------------------------------------------------------------------------
+ <string name="ims_band_settings_narrow_preferred_value">협대역 지원 우선</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="imssettings.apk" xml="" name="ims_band_settings_only_narrow_value"
+---------------------------------------------------------------------------------------
+ <string name="ims_band_settings_only_narrow_value">협대역만 지원</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="imssettings.apk" xml="" name="ims_band_settings_only_wide_value"
+---------------------------------------------------------------------------------------
+ <string name="ims_band_settings_only_wide_value">광대역만 지원</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="imssettings.apk" xml="" name="ims_band_settings_wide_preferred_value"
+---------------------------------------------------------------------------------------
+ <string name="ims_band_settings_wide_preferred_value">광대역 지원 우선</string> 
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_danish"
 ---------------------------------------------------------------------------------------
  <string name="language_value_danish">덴마크어</string>
