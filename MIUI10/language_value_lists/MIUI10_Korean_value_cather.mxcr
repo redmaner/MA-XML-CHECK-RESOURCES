@@ -12,6 +12,10 @@ all imssettings.apk strings.xml ims_settings_no_default_value
 all imssettings.apk strings.xml ims_settings_value_full_rate
 all imssettings.apk strings.xml ims_settings_value_no
 all imssettings.apk strings.xml ims_settings_value_yes
+all imssettings.apk strings.xml ims_band_settings_narrow_preferred_value
+all imssettings.apk strings.xml ims_band_settings_only_narrow_value
+all imssettings.apk strings.xml ims_band_settings_only_wide_value
+all imssettings.apk strings.xml ims_band_settings_wide_preferred_value
 all MiuiScanner.apk strings.xml language_value_danish
 all MiuiScanner.apk strings.xml language_value_dutch
 all MiuiScanner.apk strings.xml language_value_english
