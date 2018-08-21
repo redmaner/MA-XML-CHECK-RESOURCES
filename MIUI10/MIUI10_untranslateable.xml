@@ -60,16 +60,10 @@
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yahoo_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yicha"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yicha_in_list"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_com_txt"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_https_txt"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_net_txt"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_org_txt"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_point_txt"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_slash_txt"/>
-	<item folder="all" application="Browser.apk" file="strings.xml" name="common_use_phrase_bottom_bar_www_txt"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="mw_status_bar_notification_info_overflow"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="mw_time_picker_dialog_hour_minute_separator"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="mw_time_picker_dialog_minute_second_separator"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="suggestion_topic_subtitle_navtitle_hyphen"/>
 	<item folder="all" application="BugReport.apk" file="strings.xml" name="pic_view_format"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="xiaomi_bytes_unit"/>
@@ -707,6 +701,7 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="dndm_auto_time_setting_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="gadget_state_template"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="keyguard_setting_privacy_policy_url"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="link_speed"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="memory_use_running_format"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="nfc_payment_app_and_desc"/>
