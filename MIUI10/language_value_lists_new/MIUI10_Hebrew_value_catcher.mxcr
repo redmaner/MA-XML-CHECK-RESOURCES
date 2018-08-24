@@ -44,6 +44,7 @@ all Settings.apk arrays.xml whetstone_level_values
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk arrays.xml record_scenes_values
 all SoundRecorder.apk arrays.xml record_quality_values
+all SoundRecorder.apk arrays.xml record_format_values
 all Telecom.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml preferred_network_mode_values_world_mode

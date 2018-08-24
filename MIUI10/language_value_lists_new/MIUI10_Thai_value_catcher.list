@@ -251,6 +251,12 @@ folder="all" application="SoundRecorder.apk" xml="" name="record_quality_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="record_format_values"
+---------------------------------------------------------------------------------------
+ <string-array name="record_format_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
