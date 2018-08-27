@@ -107,7 +107,11 @@ all PaymentService.apk strings.xml unit_value
 all SecurityCenter.apk arrays.xml lock_mode_value
 all SecurityCenter.apk strings.xml traffic_saving_history_total_month_value
 all SecurityCenter.apk strings.xml traffic_saving_history_total_month_value_default
+all Settings.apk arrays.xml mtp_default_entries
+all Settings.apk arrays.xml mtp_default_values
 all Settings.apk arrays.xml lock_screen_secure_after_timeout_values
+all Settings.apk arrays.xml mtp_default_values
+all Settings.apk arrays.xml toggles_line_values
 all Settings.apk strings.xml tether_limit_value_custom
 all Telecom.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml bluetooth_avrcp_version_values

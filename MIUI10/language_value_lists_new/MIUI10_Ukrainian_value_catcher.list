@@ -653,9 +653,33 @@ folder="all" application="SecurityCenter.apk" xml="" name="traffic_saving_histor
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="mtp_default_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="mtp_default_entries"> <item>Завжди зарядка</item> <item>Завжди MTP</item> <item>MTP, якщо екран не заблоковано паролем</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="mtp_default_values"
+---------------------------------------------------------------------------------------
+ <string-array name="mtp_default_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="lock_screen_secure_after_timeout_values"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_screen_secure_after_timeout_values"> <item>0</item> <item>60000</item> <item>120000</item> <item>300000</item> <item>900000</item> <item>1800000</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="mtp_default_values"
+---------------------------------------------------------------------------------------
+ <string-array name="mtp_default_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="toggles_line_values"
+---------------------------------------------------------------------------------------
+ <string-array name="toggles_line_values"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
