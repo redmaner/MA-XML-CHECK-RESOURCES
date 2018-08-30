@@ -83,6 +83,12 @@ folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="battery_value"
+---------------------------------------------------------------------------------------
+ <string name="battery_value">Электричество</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueC"
 ---------------------------------------------------------------------------------------
  <string name="cit_audio_cali_valueC">Лічильник:</string>
@@ -632,6 +638,18 @@ folder="all" application="PaymentService.apk" xml="" name="recharge_value_money_
 folder="all" application="PaymentService.apk" xml="" name="unit_value"
 ---------------------------------------------------------------------------------------
  <string name="unit_value">%1$s Mi Credits</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redeemed"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_redeemed">%1$s Mi Credit потрачено</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_remained">%1$s Mi Credit осталось</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -12,6 +12,7 @@ all Calendar.apk arrays.xml entryvalues_settings_debug
 all Camera2.apk strings.xml pref_camera_whitebalance_k_value_title
 all Camera2.apk strings.xml pref_camera_current_k_value
 all CellBroadcastReceiver.apk arrays.xml alert_reminder_interval_values
+all Cit.apk strings.xml battery_value
 all Cit.apk strings.xml cit_audio_cali_valueC
 all Cit.apk strings.xml cit_audio_cali_valueF0
 all Cit.apk strings.xml cit_audio_cali_valueR
@@ -104,6 +105,8 @@ all PaymentService.apk strings.xml mibi_unit_value
 all PaymentService.apk strings.xml recharge_value_money
 all PaymentService.apk strings.xml recharge_value_money_with_tip
 all PaymentService.apk strings.xml unit_value
+all PaymentService.apk strings.xml mibi_unit_value_redeemed
+all PaymentService.apk strings.xml mibi_unit_value_remained
 all SecurityCenter.apk arrays.xml lock_mode_value
 all SecurityCenter.apk strings.xml traffic_saving_history_total_month_value
 all SecurityCenter.apk strings.xml traffic_saving_history_total_month_value_default
