@@ -540,6 +540,8 @@
 	<item folder="all" application="Music.apk" file="strings.xml" name="cp_info_second"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="default_web_client_id"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="download_percent"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="download_progress"/>
+	<item folder="all" application="Music.apk" file="strings.xml" name="download_progress_detail"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatlong"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="durationformatshort_padding_with_0"/>
@@ -561,7 +563,6 @@
 	<item folder="all" application="Music.apk" file="strings.xml" name="inbox_request_limit"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="include_sensitive_extra"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="location_fetching_on"/>
-	<item folder="all" application="Music.apk" file="strings.xml" name="no_duration"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="ntp_host_address"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="partner_id"/>
 	<item folder="all" application="Music.apk" file="strings.xml" name="pdf_image_url_workaround"/>
@@ -676,6 +677,8 @@
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="menu_text_networkassistants_data"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="menu_text_power_percent_title"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="om_memory_clean_memory_info_text"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="power_center_list_item_battery_status_capacity"/>
+	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="power_center_list_item_battery_status_temperature"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="pref_operator_setting"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="preference_category_information_setting"/>
 	<item folder="all" application="SecurityCenter.apk" file="strings.xml" name="preference_category_key_reference_settings"/>
