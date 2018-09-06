@@ -5,6 +5,12 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%s mód</string>

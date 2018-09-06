@@ -701,12 +701,6 @@ folder="all" application="Settings.apk" xml="" name="toggles_line_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
----------------------------------------------------------------------------------------
- <string name="tether_limit_value_custom">Змінити</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>

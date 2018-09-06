@@ -238,3 +238,9 @@ folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
  <string name="tether_limit_value_custom">사용자 지정</string>
 
 
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+    <string name="clh_callFailed_invalid_transaction_identifier_value_txt">잘못된 거래 식별자 값</string>
+
+
