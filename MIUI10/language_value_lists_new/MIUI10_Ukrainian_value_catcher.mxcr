@@ -115,6 +115,7 @@ all Settings.apk arrays.xml mtp_default_values
 all Settings.apk arrays.xml lock_screen_secure_after_timeout_values
 all Settings.apk arrays.xml mtp_default_values
 all Settings.apk arrays.xml toggles_line_values
+all Settings.apk strings.xml tether_limit_value_custom
 all Telecom.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml language_list_values
