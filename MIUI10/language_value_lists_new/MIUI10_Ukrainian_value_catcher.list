@@ -85,7 +85,7 @@ folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder
 ---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
-     <string name="battery_value">Електрика</string>
+ <string name="battery_value">Електрика</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -97,19 +97,19 @@ folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueC"
 ---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
 ---------------------------------------------------------------------------------------
- <string name="cit_audio_cali_valueF0">"F0: "</string>
+ <string name="cit_audio_cali_valueF0">"F0:"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueR"
 ---------------------------------------------------------------------------------------
- <string name="cit_audio_cali_valueR">"Опір: "</string>
+ <string name="cit_audio_cali_valueR">"Опір:"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
 ---------------------------------------------------------------------------------------
- <string name="cit_audio_cali_valueT">"tCoef: "</string>
+ <string name="cit_audio_cali_valueT">"tCoef:"</string>
 
 
 ---------------------------------------------------------------------------------------
