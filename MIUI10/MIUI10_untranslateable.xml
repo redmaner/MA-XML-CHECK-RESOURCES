@@ -99,7 +99,6 @@
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="config_import_vcard_type"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="from_account_format"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="import_weibo_progress_percent"/>
-	<item folder="all" application="Contacts.apk" file="strings.xml" name="label_duplicate_count"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="percent_sign"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="percentage"/>
 	<item folder="all" application="Contacts.apk" file="strings.xml" name="phone_info_divider"/>
@@ -263,9 +262,15 @@
 	<item folder="all" application="miui.apk" file="strings.xml" name="size_suffix"/>
 	<item folder="all" application="MiuiBluetooth.apk" file="strings.xml" name="ble_profile_1"/>
 	<item folder="all" application="MiuiBluetooth.apk" file="strings.xml" name="ble_profile_2"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="beauty_level_1"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="beauty_level_2"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="beauty_level_3"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="beauty_level_4"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="beauty_level_5"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_close"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_face_beauty_simple_mode_open"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="camera_new_slow_motion_quality_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="empty"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_audio_focus_entryvalue_front"/>
