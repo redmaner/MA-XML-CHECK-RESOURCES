@@ -11,6 +11,9 @@
 	Please keep the applications and file types in alfabetical order, to keep the overview. -->
 <resources>
 	<item folder="all" application="AuthManager.apk" file="strings.xml" name="static_cache_db_md5"/>
+	<item folder="all" application="Backup.apk" file="arrays.xml" name="font_size_scale"/>
+	<item folder="all" application="Backup.apk" file="arrays.xml" name="mi_stat_success_survey_key"/>
+	<item folder="all" application="Backup.apk" file="arrays.xml" name="mi_stat_cancel_survey_key"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="digit_percent"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="Backup.apk" file="strings.xml" name="xiaomi_bytes_unit"/>
