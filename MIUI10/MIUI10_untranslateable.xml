@@ -157,6 +157,7 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_starred"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="mailbox_name_server_trash"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="prefDefault_autoAdvance"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="remote_no_mail"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="reply_subject_label"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="senders_elided"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="single_new_message_notification_title"/>
@@ -434,6 +435,8 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="setting_on_value"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="camera_path"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="camera360_sdk_key"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="card_title_from_to"/>
+	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="card_title_somewhere"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="face_recommend_group_number"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="fileSizeSuffix"/>
 	<item folder="all" application="MiuiGallery.apk" file="strings.xml" name="grant_permission_item"/>
