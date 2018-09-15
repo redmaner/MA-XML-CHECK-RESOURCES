@@ -71,9 +71,9 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueFreq"
+folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
- <string name="cit_audio_spk_cal_valueFreq">Frekans:</string>
+ <string name="battery_value">Elektrik</string>
 
 
 ---------------------------------------------------------------------------------------
