@@ -240,6 +240,18 @@
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="status_bar_wifi"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="status_bar_zen"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="zen_mode_rule_name_combination"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_chat_record_upload_server_url"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_log_upload_server_url_normal"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_mam_server_url"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_symbol_colon"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_user_server_url"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="mi_push_app_id"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="mi_push_app_key"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="space"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="xiaomi_update_sdk_bytes_unit"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="xiaomi_update_sdk_kilobytes_unit"/>
+	<item folder="all" application="greenguard.apk" file="strings.xml" name="xiaomi_update_sdk_megabytes_unit"/>
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="antispam_marked_title"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="phone_info_divider"/>
