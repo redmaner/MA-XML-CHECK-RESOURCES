@@ -542,13 +542,50 @@
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="google_app_id"/>
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="google_crash_reporting_api_key"/>
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="send_video_type"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="affelite_id"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="api"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="app_code"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="app_id"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="bottom_sheet_behavior"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="campaign_refresh_period"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="campaign_server_refresh_period"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="cast_intro_overlay_button_text"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="cast_invalid_stream_duration_text"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="cast_invalid_stream_position_text"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="connection_timeout"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="event_delivery_attempts_on_500"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="event_flush_batch_size"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="event_serialized_max_number"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="flush_period"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="format"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="inbox_keep_in_heap_limit"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="inbox_request_limit"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="location_fetching_on"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="media_event_api"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="ntp_host_address"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="partner_id"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="path_password_eye"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="path_password_eye_mask_strike_through"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="path_password_eye_mask_visible"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="path_password_strike_through"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="pdf_image_url_workaround"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="playlists_max_content_number"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="playlists_max_number"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="product_key"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="recordForReadIntervalDelaySeconds"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="sdk_ver"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="sender_id"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="sender_id"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="tag_index"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="tag_key"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="tag_object"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="theme_id"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="uninterruptedPlayIntervalSeconds"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="web_service_url"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="web_service_url_version"/>
+	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="ws_ver"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="flatshow_page_no"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_false"/>
 	<item folder="all" application="Mms.apk" file="strings.xml" name="prefDefault_vibrate_true"/>
@@ -732,6 +769,7 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="category_key_system"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="category_key_wireless"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="certinstaller_package"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="digital_clock_dot"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="dndm_auto_time_setting_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="gadget_state_template"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="keyguard_setting_privacy_policy_url"/>
