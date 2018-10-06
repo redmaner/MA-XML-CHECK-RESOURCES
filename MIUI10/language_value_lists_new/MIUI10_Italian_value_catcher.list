@@ -11,6 +11,18 @@ folder="all" application="Settings.apk" xml="" name="dark_ui_mode_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="battery_value"
+---------------------------------------------------------------------------------------
+ <string name="battery_value">Elettricitá</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="dark_ui_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="dark_ui_mode_values"> <item>auto</item> <item>si</item> <item>no</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="EngineerMode.apk" xml="" name="TouchScreen_Settings_TextValue"
 ---------------------------------------------------------------------------------------
  <string name="TouchScreen_Settings_TextValue">The value</string>
@@ -188,5 +200,11 @@ folder="all" application="FactoryTestKit.apk" xml="" name="sensor_value"
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Modalità %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,secure</item> <item>1280x720/213</item> <item>1280x720/213,secure</item> <item>1920x1080/320</item> <item>1920x1080/320,secure</item> <item>3840x2160/320</item> <item>3840x2160/320,secure</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,secure</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
 
