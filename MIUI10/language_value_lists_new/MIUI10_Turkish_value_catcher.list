@@ -131,6 +131,30 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>asla</item> <item>sadece drm</item> <item>her zaman</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item /> <item>720x480/142</item> <item>720x480/142 güvenli</item> <item>1280x720/213</item> <item>1280x720/213, güvenli</item> <item>1920x1080/320</item> <item>1920x1080/320 güvenli</item> <item>3840x2160/320</item> <item>3840x2160/320 güvenli</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,güvenli</item> <item>1280x720/213; 1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item /> <item>herşey</item> <item>varsayılan, güvenlik, çekirdek</item> <item>çekirdek</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>gizle</item> <item>bölge</item> <item>vurgula</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="app_install_location_values"
 ---------------------------------------------------------------------------------------
  <string-array name="app_install_location_values"> <item>cihaz</item> <item>hafıza kartı</item> <item>oto</item> </string-array>
