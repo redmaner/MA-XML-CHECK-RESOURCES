@@ -20,5 +20,9 @@ all MiuiGallery.apk arrays.xml relation_with_me_value
 all MiuiHome.apk arrays.xml cell_layout_size_values
 all MiuiHome.apk arrays.xml wallpaper_scroll_values
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all PackageInstaller.apk arrays.xml hdcp_checking_values
+all PackageInstaller.apk arrays.xml overlay_display_devices_values
+all PackageInstaller.apk arrays.xml select_logpersist_values
+all PackageInstaller.apk arrays.xml show_non_rect_clip_values
 all Settings.apk arrays.xml app_install_location_values
 all Settings.apk strings.xml tether_limit_value_custom

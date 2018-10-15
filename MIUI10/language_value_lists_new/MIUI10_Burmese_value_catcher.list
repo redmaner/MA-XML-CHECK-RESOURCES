@@ -307,12 +307,12 @@ folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="list_language_values"
 ---------------------------------------------------------------------------------------
- <string-array name="list_language_values"> <item>၁</item> <item>၂</item> <item>၃</item> <item>၄</item> <item>၅</item> <item>၆</item> <item>၇</item> </string-array>
+ <string-array name="list_language_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values"
 ---------------------------------------------------------------------------------------
- <string-array name="cdma_subscription_values"> <item>၀</item> <item>၁</item> </string-array>
+ <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
 
 
