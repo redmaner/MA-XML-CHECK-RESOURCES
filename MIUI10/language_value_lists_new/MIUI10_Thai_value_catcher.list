@@ -89,6 +89,18 @@ folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_se
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_f9_full_values"
+---------------------------------------------------------------------------------------
+ <string-array name="screenrecorder_settings_resolution_f9_full_values"> <item>1920*910</item> <item>1280*720</item> <item>800*480</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_f9_values"
+---------------------------------------------------------------------------------------
+ <string-array name="screenrecorder_settings_resolution_f9_values"> <item>910</item> <item>720</item> <item>480</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_full_values"
 ---------------------------------------------------------------------------------------
  <string-array name="screenrecorder_settings_resolution_full_values"> <item>1920*1080</item> <item>1280*720</item> <item>800*480</item> </string-array>
@@ -134,6 +146,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 ---------------------------------------------------------------------------------------
  <string-array name="switch_sdk_value"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_optimization_value"
+---------------------------------------------------------------------------------------
+ <string name="current_optimization_value">ความเสี่ยงลดความปลอดภัยของอุปกรณ์</string>
 
 
 ---------------------------------------------------------------------------------------
