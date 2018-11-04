@@ -35,6 +35,30 @@ folder="all" application="Settings.apk" xml="" name="dark_ui_mode_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="battery_value"
+---------------------------------------------------------------------------------------
+ <string name="battery_value">Elettricitá</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="dark_ui_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="dark_ui_mode_values"> <item>auto</item> <item>si</item> <item>no</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="battery_value"
+---------------------------------------------------------------------------------------
+ <string name="battery_value">Elettricitá</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="dark_ui_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="dark_ui_mode_values"> <item>auto</item> <item>si</item> <item>no</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="EngineerMode.apk" xml="" name="TouchScreen_Settings_TextValue"
 ---------------------------------------------------------------------------------------
  <string name="TouchScreen_Settings_TextValue">The value</string>
