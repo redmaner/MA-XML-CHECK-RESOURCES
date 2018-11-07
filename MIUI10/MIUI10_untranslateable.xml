@@ -483,7 +483,6 @@
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="wifi_ip_address_hint"/>
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="wifi_network_prefix_length_hint"/>
 	<item folder="all" application="MiuiScanner.apk" file="arrays.xml" name="scan_modes"/>
-	<item folder="all" application="MiuiScanner.apk" file="strings.xml" name="document_ocr_language_key"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="app_without_launcher_whitelist"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title_append"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="aqi_title_prefix"/>
@@ -825,6 +824,7 @@
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="dialer_default_class"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="incall_default_class"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="Lch_dtmf_key"/>
+	<item folder="all" application="Telecom.apk" file="strings.xml" name="number_tag_divider"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="power_charging"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="power_charging_duration_ac_short"/>
 	<item folder="all" application="Telecom.apk" file="strings.xml" name="power_charging_duration_short"/>
