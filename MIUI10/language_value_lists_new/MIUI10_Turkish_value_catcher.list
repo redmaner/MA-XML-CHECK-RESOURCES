@@ -155,6 +155,12 @@ folder="all" application="PackageInstaller.apk" xml="" name="show_non_rect_clip_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
+---------------------------------------------------------------------------------------
+ <string name="daily_card_setting_fragment_daily_card_brand_value">Operatör seçin</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="app_install_location_values"
 ---------------------------------------------------------------------------------------
  <string-array name="app_install_location_values"> <item>cihaz</item> <item>hafıza kartı</item> <item>oto</item> </string-array>

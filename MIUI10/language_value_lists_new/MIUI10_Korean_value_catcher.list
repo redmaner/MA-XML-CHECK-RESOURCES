@@ -233,6 +233,12 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remai
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
+---------------------------------------------------------------------------------------
+ <string name="daily_card_setting_fragment_daily_card_brand_value">이동 통신사 선택</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">사용자 지정</string>
