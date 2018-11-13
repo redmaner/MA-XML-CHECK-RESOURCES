@@ -28,3 +28,9 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Nevažeća vrijednost identifikatora transakcije</string>
 
 
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+

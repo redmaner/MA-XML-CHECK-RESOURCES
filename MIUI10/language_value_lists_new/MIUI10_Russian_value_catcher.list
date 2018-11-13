@@ -1,16 +1,4 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
----------------------------------------------------------------------------------------
- <string name="mw_color_picker_value">Значение</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="color_picker_value"
----------------------------------------------------------------------------------------
- <string name="color_picker_value">Значение</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
