@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="color_picker_value">Giá trị</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Giá trị</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Thu phóng</string>

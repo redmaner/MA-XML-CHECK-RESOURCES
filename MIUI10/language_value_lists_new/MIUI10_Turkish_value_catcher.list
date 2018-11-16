@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_fling_on_border_gesture_values"
+folder="all" application="Browser.apk" xml="" name="pref_fling_gesture_values"
 ---------------------------------------------------------------------------------------
- <string-array name="pref_fling_on_border_gesture_values"> <item>back_forward</item> <item>switch_tabs</item> <item>yok</item> </string-array>
+ <string-array name="pref_fling_gesture_values"> <item>back_forward</item> <item>switch_tabs</item> <item>yok</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
