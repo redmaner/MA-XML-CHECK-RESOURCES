@@ -137,6 +137,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
+---------------------------------------------------------------------------------------
+ <string name="daily_card_setting_fragment_daily_card_brand_value">Выбраць аператара</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="agps_apn_values"
 ---------------------------------------------------------------------------------------
  <string-array name="agps_apn_values"> <item>0</item> <item>1</item> </string-array>

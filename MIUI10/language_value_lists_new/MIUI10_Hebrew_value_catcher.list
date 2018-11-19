@@ -185,6 +185,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_vibratio
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
+---------------------------------------------------------------------------------------
+ <string name="daily_card_setting_fragment_daily_card_brand_value">Select carrier</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
