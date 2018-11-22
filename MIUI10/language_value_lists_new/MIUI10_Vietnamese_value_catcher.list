@@ -11,6 +11,72 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_data_preload_value_always">LUÔN LUÔN</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_data_preload_value_never">KHÔNG BAO GIỜ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_wifi_only"
+---------------------------------------------------------------------------------------
+ <string name="pref_data_preload_value_wifi_only">CHỈ WIFI</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_link_prefetch_value_always">LUÔN LUÔN</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_link_prefetch_value_never">KHÔNG BAO GIỜ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_wifi_only"
+---------------------------------------------------------------------------------------
+ <string name="pref_link_prefetch_value_wifi_only">CHỈ WIFI</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_preload_value_always">LUÔN LUÔN</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_preload_value_never">KHÔNG BAO GIỜ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wifi_only"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_preload_value_wifi_only">CHỈ WIFI</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
+---------------------------------------------------------------------------------------
+ <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_value"
+---------------------------------------------------------------------------------------
+ <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Thu phóng</string>
@@ -20,6 +86,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_ti
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Chế độ %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
+---------------------------------------------------------------------------------------
+ <string name="daily_card_setting_fragment_daily_card_brand_value">Chọn nhà cung cấp</string>
 
 
 ---------------------------------------------------------------------------------------

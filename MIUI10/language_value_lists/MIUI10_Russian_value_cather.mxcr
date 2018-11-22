@@ -22,6 +22,7 @@ all Mms.apk arrays.xml switch_sdk_value
 all PersonalAssistantGlobal.apk strings.xml current_optimization_value
 all SecurityCenter.apk arrays.xml lock_mode_value
 all SecurityCenter.apk arrays.xml power_dialog_vibration_items_values
+all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all Settings.apk arrays.xml agps_apn_values
 all Settings.apk arrays.xml agps_network_values
 all Settings.apk arrays.xml agps_reset_type_values
