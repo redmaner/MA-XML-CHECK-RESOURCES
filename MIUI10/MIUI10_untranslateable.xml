@@ -165,6 +165,7 @@
 	<item folder="all" application="Email.apk" file="strings.xml" name="reply_subject_label"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="senders_elided"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="single_new_message_notification_title"/>
+	<item folder="all" application="Email.apk" file="strings.xml" name="snip_pic"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="special_text_colon_en"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="special_text_colon_zh"/>
 	<item folder="all" application="Email.apk" file="strings.xml" name="special_text_qq_subscribe"/>
@@ -772,6 +773,7 @@
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="device_support_pickup_by_xiaomi"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="key_and_gesture_shortcut_action"/>
 	<item folder="all" application="Settings.apk" file="arrays.xml" name="standard_configuration_version_description_secondary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="battery_used_by"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="bootloader_unlock_webhome"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="call_manager_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="category_key_device"/>
@@ -779,8 +781,11 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="category_key_system"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="category_key_wireless"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="certinstaller_package"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="condition_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="digital_clock_dot"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="directory_on_volume"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="dndm_auto_time_setting_summary"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="firmware_title"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="gadget_state_template"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="keyguard_setting_privacy_policy_url"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="link_speed"/>
@@ -797,6 +802,7 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="power_charging_duration_short"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="power_charging_duration_usb_short"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="power_charging_duration_wireless_short"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="power_remaining_settings_home_page"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="process_format"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="process_kernel_label"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="proxy_exclusionlist_hint"/>
@@ -815,7 +821,10 @@
 	<item folder="all" application="Settings.apk" file="strings.xml" name="summary_range_symbol_combination"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="sync_item_title"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="tune_away_Default"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="wifi_calling_roaming_mode_summary"/>
 	<item folder="all" application="Settings.apk" file="strings.xml" name="zen_mode_rule_summary_combination"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="zone_info_exemplar_location_and_offset"/>
+	<item folder="all" application="Settings.apk" file="strings.xml" name="zone_info_offset_and_name"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="airplane_mode_toggleable_radios"/>
 	<item folder="all" application="SettingsProvider.apk" file="strings.xml" name="def_backup_transport"/>
 	<item folder="all" application="SmsExtra.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
