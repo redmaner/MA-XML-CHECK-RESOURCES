@@ -77,6 +77,12 @@ folder="all" application="Cit.apk" xml="" name="battery_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value">Aralık (dakika)</string> 
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_off">Kapalı</string>
@@ -170,5 +176,23 @@ folder="all" application="Settings.apk" xml="" name="app_install_location_values
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Özel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
+---------------------------------------------------------------------------------------
+ <string name="err_msg_pending_value">değerlendirme beklemede</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_service_type_value">Çevrimiçi doğru tanıma</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_unit_price_value">Saatte %s RMB</string>
 
 

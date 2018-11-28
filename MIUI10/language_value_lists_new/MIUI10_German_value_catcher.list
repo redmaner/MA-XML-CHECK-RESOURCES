@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value">Intervall (Minuten)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Netzbetreiber auswählen</string>
@@ -8,5 +14,23 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Benutzerdefiniert</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
+---------------------------------------------------------------------------------------
+ <string name="err_msg_pending_value">Ausstehende Bewertung</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_service_type_value">Genaue Onlineerkennung</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_unit_price_value">RMB %s pro Stunde</string>
 
 

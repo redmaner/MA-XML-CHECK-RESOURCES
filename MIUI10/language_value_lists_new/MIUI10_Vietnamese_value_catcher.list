@@ -65,6 +65,24 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CallFeaturesSetting.apk" xml="" name="call_barring_outgoing_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="call_barring_outgoing_display_values"> <item>Cuộc gọi đi</item> <item>Cuộc gọi quốc tế</item> <item>Cuộc gọi chuyển vùng quốc tế</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CallFeaturesSetting.apk" xml="" name="call_barring_incoming_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="call_barring_incoming_display_values"> <item>Tất cả</item> <item>Chuyển vùng</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="battery_value"
+---------------------------------------------------------------------------------------
+ <string name="battery_value">Mức pin</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
 ---------------------------------------------------------------------------------------
  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
@@ -83,9 +101,57 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_ti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Tắt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Phim</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Ảnh</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="wallpaper_scroll_values"
+---------------------------------------------------------------------------------------
+ <string-array name="wallpaper_scroll_values"> <item>Chủ đề mặc định</item> <item>Căn giữa</item> <item>Bên trái</item> <item>Bên phải</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Chế độ %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money"
+---------------------------------------------------------------------------------------
+ <string name="mibi_recharge_value_money">Mua CNY tốn khoảng %s Mi Credit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money_special_unit"
+---------------------------------------------------------------------------------------
+ <string name="mibi_recharge_value_money_special_unit">Mua %1$s tốn khoảng %2$s Mi Credit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redeemed"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_redeemed">%1$s Mi Credit đã đổi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_remained">%1$s Mi Credit còn lại</string>
 
 
 ---------------------------------------------------------------------------------------
