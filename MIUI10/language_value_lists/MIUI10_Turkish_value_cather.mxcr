@@ -11,6 +11,7 @@ all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
 all Cit.apk strings.xml battery_value
+all DeskClock.apk strings.xml snooze_duration_value
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
@@ -27,3 +28,6 @@ all PackageInstaller.apk arrays.xml show_non_rect_clip_values
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all Settings.apk arrays.xml app_install_location_values
 all Settings.apk strings.xml tether_limit_value_custom
+all SoundRecorder.apk strings.xml err_msg_pending_value
+all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
+all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value

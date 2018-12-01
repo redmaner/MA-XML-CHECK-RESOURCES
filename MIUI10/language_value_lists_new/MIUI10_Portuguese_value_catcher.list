@@ -11,6 +11,24 @@ folder="all" application="Browser.apk" xml="" name="color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value">Intervalo (minutos)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FactoryKitTest.apk" xml="" name="gsensor_value"
+---------------------------------------------------------------------------------------
+ <string name="gsensor_value">Direcção：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FactoryKitTest.apk" xml="" name="sensor_value"
+---------------------------------------------------------------------------------------
+ <string name="sensor_value">Valor:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Modo %s</string>
@@ -20,6 +38,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Seleccionar operadora</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Toque</item> <item>Multimédia</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

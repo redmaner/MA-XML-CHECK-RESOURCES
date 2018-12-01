@@ -112,3 +112,9 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
  <string name="accessibility_quick_settings_rotation_value">Režim %s</string>
 
 
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Zvonenie</item> <item>Média</item> </string-array>
+
+
