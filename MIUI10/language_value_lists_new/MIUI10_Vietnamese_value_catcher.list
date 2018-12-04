@@ -166,3 +166,9 @@ folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
  <string name="tether_limit_value_custom">Tùy chỉnh</string>
 
 
+---------------------------------------------------------------------------------------
+folder="all" application="YellowPage.apk" xml="" name="recharge_charge_value"
+---------------------------------------------------------------------------------------
+ <string name="recharge_charge_value">Giá: %s NDT</string>
+
+
