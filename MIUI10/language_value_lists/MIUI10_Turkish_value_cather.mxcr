@@ -26,6 +26,7 @@ all PackageInstaller.apk arrays.xml overlay_display_devices_values
 all PackageInstaller.apk arrays.xml select_logpersist_values
 all PackageInstaller.apk arrays.xml show_non_rect_clip_values
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
+all Settings.apk arrays.xml default_vol_stream_entries
 all Settings.apk arrays.xml app_install_location_values
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk strings.xml err_msg_pending_value
