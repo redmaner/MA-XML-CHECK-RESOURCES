@@ -79,6 +79,7 @@
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_false"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
+	<item folder="all" application="Calendar.apk" file="strings.xml" name="train_event_reminder"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="empty"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="hints_header_left"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_category_information_setting"/>
@@ -543,7 +544,6 @@
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="google_app_id"/>
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="google_crash_reporting_api_key"/>
 	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="send_video_type"/>
-	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="ad_tag_url"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="affelite_id"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="api"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="app_code"/>
@@ -565,7 +565,6 @@
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="inbox_request_limit"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="location_fetching_on"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="media_event_api"/>
-	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="mock_url"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="ntp_host_address"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="partner_id"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="path_password_eye"/>
