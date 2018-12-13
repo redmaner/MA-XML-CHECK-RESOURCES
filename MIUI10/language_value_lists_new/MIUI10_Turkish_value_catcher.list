@@ -79,7 +79,7 @@ folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
- <string name="snooze_duration_value">Aralık (dakika)</string> 
+ <string name="snooze_duration_value">Aralık (dakika)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -98,24 +98,6 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_ta
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_take_picture">Resim</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="baby_sexy_value"
----------------------------------------------------------------------------------------
- <string-array name="baby_sexy_value"> <item>erkek</item> <item>kadın</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="owner_relation_value"
----------------------------------------------------------------------------------------
- <string-array name="owner_relation_value"> <item>baba</item> <item>anne</item> <item>büyük baba</item> <item>büyükanne</item> <item>anne büyükbabası</item> <item>anneannesi</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="relation_with_me_value"
----------------------------------------------------------------------------------------
- <string-array name="relation_with_me_value"> <item>kendim</item> <item>çocuk</item> <item>aile</item> <item>meslekdaş</item> <item>sınıf arkadaşı</item> <item>arkadaş</item> <item>bilinmeyen</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

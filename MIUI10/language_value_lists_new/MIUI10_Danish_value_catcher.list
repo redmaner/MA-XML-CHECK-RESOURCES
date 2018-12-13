@@ -233,9 +233,9 @@ folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_scenes_values"
+folder="all" application="SoundRecorder.apk" xml="" name="record_format_values"
 ---------------------------------------------------------------------------------------
- <string-array name="record_scenes_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+ <string-array name="record_format_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -245,9 +245,9 @@ folder="all" application="SoundRecorder.apk" xml="" name="record_quality_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_format_values"
+folder="all" application="SoundRecorder.apk" xml="" name="record_scenes_values"
 ---------------------------------------------------------------------------------------
- <string-array name="record_format_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
+ <string-array name="record_scenes_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

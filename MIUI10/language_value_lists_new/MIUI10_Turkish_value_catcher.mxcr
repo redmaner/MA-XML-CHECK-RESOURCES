@@ -15,9 +15,6 @@ all DeskClock.apk strings.xml snooze_duration_value
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
-all MiuiGallery.apk arrays.xml baby_sexy_value
-all MiuiGallery.apk arrays.xml owner_relation_value
-all MiuiGallery.apk arrays.xml relation_with_me_value
 all MiuiHome.apk arrays.xml cell_layout_size_values
 all MiuiHome.apk arrays.xml wallpaper_scroll_values
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
