@@ -181,7 +181,7 @@ folder="all" application="Settings.apk" xml="" name="agps_reset_type_values"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
