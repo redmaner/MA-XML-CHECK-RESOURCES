@@ -161,6 +161,12 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remai
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_value_label"
+---------------------------------------------------------------------------------------
+ <string name="flybird_nopwd_value_label">Số tiền bảo mật</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Chọn nhà cung cấp</string>
@@ -194,6 +200,12 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
 ---------------------------------------------------------------------------------------
  <string name="online_recognize_order_unit_price_value">%s CNY/giờ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Số định danh giao dịch không hợp lệ</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -65,6 +65,18 @@ folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_valu
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
+---------------------------------------------------------------------------------------
+ <string name="daily_card_setting_fragment_daily_card_brand_value">Seleccionar operador</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Tono de llamada</item> <item>Multimedia</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="handy_mode_size_value_entries"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
