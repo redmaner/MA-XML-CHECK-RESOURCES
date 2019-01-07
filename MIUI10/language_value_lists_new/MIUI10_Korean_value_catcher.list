@@ -245,6 +245,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>벨소리</item> <item>미디어</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">사용자 지정</string>
