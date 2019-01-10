@@ -71,6 +71,24 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRouter.apk" xml="" name="client_qos_custom_band_max_value"
+---------------------------------------------------------------------------------------
+<string name="client_qos_custom_band_max_value">Nastavení šířky pásma ručně</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRouter.apk" xml="" name="client_qos_input_value"
+---------------------------------------------------------------------------------------
+<string name="client_qos_input_value">Zadejte hodnotu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRouter.apk" xml="" name="tool_over_valued_service"
+---------------------------------------------------------------------------------------
+<string name="tool_over_valued_service">Síťové služby</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Režim %s</string>

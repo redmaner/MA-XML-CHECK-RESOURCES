@@ -1,16 +1,4 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="search_bar_search_engines_default"
----------------------------------------------------------------------------------------
- <string-array name="search_bar_search_engines_default"> <item>google</item> <item>bing</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="search_engines_default"
----------------------------------------------------------------------------------------
- <string-array name="search_engines_default"> <item>google</item> <item>yahoo</item> <item>bing</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
  <string name="mw_color_picker_value">Valor</string>
@@ -56,6 +44,18 @@ folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_
 folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_default_value"
 ---------------------------------------------------------------------------------------
  <string name="preferences_default_reminder_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_vibrateWhen"> <item>always</item> <item>en silenci</item> <item>mai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_vibrateWhen"> <item>always</item> <item>en silenci</item> <item>mai</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
