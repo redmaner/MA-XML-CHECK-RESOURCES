@@ -209,7 +209,13 @@
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_vibrate_action"/>
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_wifi_action"/>
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="status_bar_toggle_wifi_ap_action"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_ephemeralResolverPackage"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_globalActionsList"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_gpsParameters"/>
+	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_locationProviderPackageNames"/>
 	<item folder="all" application="framework-res.apk" file="arrays.xml" name="config_statusBarIcons"/>
+	<item folder="all" application="framework-res.apk" file="strings.xml" name="config_geocoderProviderPackageName"/>
+	<item folder="all" application="framework-res.apk" file="strings.xml" name="config_networkLocationProviderPackageName"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_journal_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_default_sync_mode"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="db_wal_sync_mode"/>
