@@ -5,6 +5,12 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="data_type_name_default"
+---------------------------------------------------------------------------------------
+ <string-array name="data_type_name_default"> <item></item> <item>G</item> <item>E</item> <item>3G</item> <item>H</item> <item>H+</item> <item>LTE</item> <item>LTE+</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Tryb: %s</string>
