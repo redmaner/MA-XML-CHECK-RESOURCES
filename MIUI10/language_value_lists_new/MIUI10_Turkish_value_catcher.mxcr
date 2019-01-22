@@ -18,6 +18,8 @@ all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
 all MiuiHome.apk arrays.xml cell_layout_size_values
 all MiuiHome.apk arrays.xml wallpaper_scroll_values
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all Mms.apk arrays.xml prefValues_vibrateWhen
+all Mms.apk arrays.xml prefValues_vibrateWhen
 all PackageInstaller.apk arrays.xml hdcp_checking_values
 all PackageInstaller.apk arrays.xml overlay_display_devices_values
 all PackageInstaller.apk arrays.xml select_logpersist_values

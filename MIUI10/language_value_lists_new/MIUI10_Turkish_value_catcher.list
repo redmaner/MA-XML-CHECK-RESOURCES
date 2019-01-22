@@ -119,6 +119,18 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PackageInstaller.apk" xml="" name="hdcp_checking_values"
 ---------------------------------------------------------------------------------------
  <string-array name="hdcp_checking_values"> <item>asla</item> <item>sadece drm</item> <item>her zaman</item> </string-array>

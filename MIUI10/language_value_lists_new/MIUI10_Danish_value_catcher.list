@@ -203,6 +203,12 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="current_optimization_value"
+---------------------------------------------------------------------------------------
+ <string name="current_optimization_value">Risici mindsker din enheds sikkerhedsscore</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_optimization_value"
 ---------------------------------------------------------------------------------------
  <string name="current_optimization_value">Risici mindsker din enheds sikkerhedsscore</string>
