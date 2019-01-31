@@ -52,6 +52,7 @@ all MiuiCamera.apk strings.xml pref_camera_volumekey_function_entryvalue_timer
 all MiuiCamera.apk strings.xml pref_camera_volumekey_function_entryvalue_timer
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
+all Settings.apk arrays.xml default_vol_stream_entries
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
 all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
