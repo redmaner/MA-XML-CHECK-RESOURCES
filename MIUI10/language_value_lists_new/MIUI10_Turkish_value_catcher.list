@@ -196,3 +196,27 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
  <string name="online_recognize_order_unit_price_value">Saatte %s RMB</string>
 
 
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>asla</item> <item>sadece drm</item> <item>her zaman</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item /> <item>720x480/142</item> <item>720x480/142,güvenli</item> <item>1280x720/213</item> <item>1280x720/213,güvenli</item> <item>1920x1080/320</item> <item>1920x1080/320,güvenli</item> <item>3840x2160/320</item> <item>3840x2160/320,güvenli</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,güvenli</item> <item>1280x720/213; 1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item /> <item>tümü</item> <item>varsayılan,güvenlik,çekirdek</item> <item>çekirdek</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>gizle</item> <item>bölge</item> <item>vurgula</item> </string-array>
+
+
