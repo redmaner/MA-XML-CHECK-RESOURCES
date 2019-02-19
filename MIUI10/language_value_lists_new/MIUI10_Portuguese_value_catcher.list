@@ -5,12 +5,6 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="color_picker_value"
----------------------------------------------------------------------------------------
- <string name="color_picker_value">Valor</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Intervalo (minutos)</string>

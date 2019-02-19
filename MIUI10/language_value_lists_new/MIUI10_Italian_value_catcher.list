@@ -323,6 +323,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Suoneria</item> <item>Elementi multimediali</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
 ---------------------------------------------------------------------------------------
  <string name="err_msg_pending_value">valutazione in corso</string>
