@@ -71,6 +71,18 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
  <string name="battery_value">Elektrik</string>
