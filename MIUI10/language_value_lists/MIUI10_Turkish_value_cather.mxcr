@@ -10,6 +10,8 @@ all Browser.apk strings.xml pref_link_prefetch_value_wifi_only
 all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
+all Calendar.apk arrays.xml prefValues_alerts_vibrateWhen
+all Calendar.apk arrays.xml prefValues_alerts_vibrateWhen
 all Cit.apk strings.xml battery_value
 all DeskClock.apk strings.xml snooze_duration_value
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off

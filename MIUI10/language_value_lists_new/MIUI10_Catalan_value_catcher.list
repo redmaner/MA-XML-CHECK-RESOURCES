@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_restore_tabs_values"
+---------------------------------------------------------------------------------------
+ <string-array name="pref_restore_tabs_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
  <string name="mw_color_picker_value">Valor</string>
@@ -62,6 +68,18 @@ folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="common_password_business_clickable_default"
+---------------------------------------------------------------------------------------
+ <string-array name="common_password_business_clickable_default"> <item>cert</item> <item>true</item> <item>cert</item> <item>fals</item> <item>cert</item> <item>false</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="dark_ui_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="dark_ui_mode_values"> <item>auto</item> <item>sí</item> <item>no</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
