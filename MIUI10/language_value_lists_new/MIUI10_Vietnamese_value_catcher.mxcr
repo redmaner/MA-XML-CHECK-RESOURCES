@@ -9,6 +9,8 @@ all Browser.apk strings.xml pref_link_prefetch_value_wifi_only
 all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
+all Calendar.apk arrays.xml entryvalues_settings_debug
+all Calendar.apk arrays.xml entryvalues_settings_debug
 all CallFeaturesSetting.apk arrays.xml call_barring_outgoing_display_values
 all CallFeaturesSetting.apk arrays.xml call_barring_incoming_display_values
 all Cit.apk strings.xml battery_value

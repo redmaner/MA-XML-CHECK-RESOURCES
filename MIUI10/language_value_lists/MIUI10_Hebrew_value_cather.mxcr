@@ -41,6 +41,7 @@ all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all Mms.apk arrays.xml switch_sdk_value
 all PersonalAssistant.apk strings.xml current_optimization_value
 all PersonalAssistantGlobal.apk strings.xml current_optimization_value
+all Provision.apk arrays.xml china_mobile_sim_not_default_devices
 all SecurityCenter.apk arrays.xml lock_mode_value
 all SecurityCenter.apk arrays.xml power_dialog_vibration_items_values
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value

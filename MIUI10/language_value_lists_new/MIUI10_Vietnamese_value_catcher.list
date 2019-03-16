@@ -65,6 +65,18 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
+---------------------------------------------------------------------------------------
+ <string-array name="entryvalues_settings_debug"> <item>Không</item> <item>Xuất và gửi nhật ký</item> <item>Tạo nhật ký và lưu vào tập tin</item> <item>Xem ID thiết bị thống kê</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
+---------------------------------------------------------------------------------------
+ <string-array name="entryvalues_settings_debug"> <item>Không</item> <item>Xuất và gửi nhật ký</item> <item>Tạo nhật ký và lưu vào tập tin</item> <item>Xem ID thiết bị thống kê</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CallFeaturesSetting.apk" xml="" name="call_barring_outgoing_display_values"
 ---------------------------------------------------------------------------------------
  <string-array name="call_barring_outgoing_display_values"> <item>Cuộc gọi đi</item> <item>Cuộc gọi quốc tế</item> <item>Cuộc gọi chuyển vùng quốc tế</item> </string-array>
