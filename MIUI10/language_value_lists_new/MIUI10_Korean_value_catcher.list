@@ -113,6 +113,12 @@ folder="all" application="imssettings.apk" xml="" name="ims_band_settings_wide_p
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15분</item> <item>30분</item> <item>45분</item> <item>1시간</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_danish"
 ---------------------------------------------------------------------------------------
  <string name="language_value_danish">덴마크어</string>
