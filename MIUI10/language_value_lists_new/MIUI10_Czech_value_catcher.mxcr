@@ -17,6 +17,7 @@ all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_va
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all DeskClock.apk strings.xml snooze_duration_value
+all MiRadio.apk arrays.xml sleep_duration_values
 all MiRouter.apk strings.xml client_qos_custom_band_max_value
 all MiRouter.apk strings.xml client_qos_input_value
 all MiRouter.apk strings.xml tool_over_valued_service

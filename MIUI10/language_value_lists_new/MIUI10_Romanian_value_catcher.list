@@ -107,6 +107,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default_array"
+---------------------------------------------------------------------------------------
+ <string-array name="pref_camera_focusmode_default_array"> <item>continuous-picture</item> <item>auto</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Mod %s</string>

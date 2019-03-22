@@ -1,3 +1,4 @@
+all Browser.apk arrays.xml pref_fling_gesture_values
 all Browser.apk arrays.xml pref_restore_tabs_values
 all Browser.apk strings.xml mw_color_picker_value
 all Calculator.apk strings.xml cos_mathematical_value
@@ -7,9 +8,11 @@ all Calendar.apk arrays.xml prefValues_alerts_vibrateWhen
 all Calendar.apk arrays.xml timezone_values
 all Calendar.apk strings.xml preferences_default_allday_reminder_default_value
 all Calendar.apk strings.xml preferences_default_reminder_default_value
+all framework-ext-res.apk arrays.xml screen_key_long_press_default_action
 all Mms.apk arrays.xml prefValues_vibrateWhen
 all Mms.apk arrays.xml prefValues_vibrateWhen
 all SecurityCenter.apk arrays.xml lock_mode_value
 all Settings.apk arrays.xml common_password_business_clickable_default
+all Settings.apk arrays.xml battery_indicator_style_values
 all Settings.apk arrays.xml dark_ui_mode_values
 all Settings.apk strings.xml tether_limit_value_custom

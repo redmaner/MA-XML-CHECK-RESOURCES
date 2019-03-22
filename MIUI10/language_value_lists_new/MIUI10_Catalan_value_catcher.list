@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_fling_gesture_values"
+---------------------------------------------------------------------------------------
+ <string-array name="pref_fling_gesture_values"> <item>back_forward</item> <item>switch_tabs</item> <item>cap</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="pref_restore_tabs_values"
 ---------------------------------------------------------------------------------------
  <string-array name="pref_restore_tabs_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
@@ -53,6 +59,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_default_reminde
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="screen_key_long_press_default_action"
+---------------------------------------------------------------------------------------
+ <string-array name="screen_key_long_press_default_action"> <item>voice_assistant</item> <item>cap</item> <item>cap</item> <item>show_menu</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_vibrateWhen"> <item>always</item> <item>en silenci</item> <item>mai</item> </string-array>
@@ -74,6 +86,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 folder="all" application="Settings.apk" xml="" name="common_password_business_clickable_default"
 ---------------------------------------------------------------------------------------
  <string-array name="common_password_business_clickable_default"> <item>cert</item> <item>true</item> <item>cert</item> <item>fals</item> <item>cert</item> <item>false</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="battery_indicator_style_values"
+---------------------------------------------------------------------------------------
+ <string-array name="battery_indicator_style_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

@@ -95,6 +95,12 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 dakika</item> <item>30 dakika</item> <item>45 dakika</item> <item>1 saat</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_off">Kapalı</string>

@@ -65,6 +65,12 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cabl_level_values"> <item>Thấp</item> <item>Trung bình</item> <item>Cao</item> <item>Tự động</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
 ---------------------------------------------------------------------------------------
  <string-array name="entryvalues_settings_debug"> <item>Không</item> <item>Xuất và gửi nhật ký</item> <item>Tạo nhật ký và lưu vào tập tin</item> <item>Xem ID thiết bị thống kê</item> </string-array>

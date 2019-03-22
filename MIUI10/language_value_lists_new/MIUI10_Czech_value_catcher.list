@@ -113,6 +113,12 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 minut</item> <item>30 minut</item> <item>45 minut</item> <item>1 hodina</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRouter.apk" xml="" name="client_qos_custom_band_max_value"
 ---------------------------------------------------------------------------------------
 <string name="client_qos_custom_band_max_value">Nastavení šířky pásma ručně</string>
