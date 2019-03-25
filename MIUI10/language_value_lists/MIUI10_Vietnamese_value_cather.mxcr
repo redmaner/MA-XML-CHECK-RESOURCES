@@ -9,6 +9,7 @@ all Browser.apk strings.xml pref_link_prefetch_value_wifi_only
 all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
+all CABLService.apk arrays.xml cabl_level_values
 all Calendar.apk arrays.xml entryvalues_settings_debug
 all Calendar.apk arrays.xml entryvalues_settings_debug
 all CallFeaturesSetting.apk arrays.xml call_barring_outgoing_display_values
