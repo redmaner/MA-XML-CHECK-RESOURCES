@@ -29,6 +29,7 @@ all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_resolution_values
 all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_sound_values
 all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_storage_location_values
 all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
+all MiuiSystemUI.apk arrays.xml data_type_name_mcc_mnc_value
 all MiuiSystemUI.apk arrays.xml tts_rate_values
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all Mms.apk arrays.xml switch_sdk_value
@@ -43,7 +44,9 @@ all Settings.apk arrays.xml agps_network_values
 all Settings.apk arrays.xml agps_reset_type_values
 all Settings.apk arrays.xml bluetooth_avrcp_version_values
 all Settings.apk arrays.xml connect_mode_values
+all Settings.apk arrays.xml fold_values
 all Settings.apk arrays.xml handy_mode_size_value_entries
+all Settings.apk arrays.xml notifi_importance_values
 all Settings.apk arrays.xml silent_mode_duration_value
 all Settings.apk arrays.xml silent_values
 all Settings.apk arrays.xml traffic_balance_values
@@ -52,6 +55,7 @@ all Settings.apk arrays.xml vip_mode_value
 all Settings.apk arrays.xml whetstone_level_values
 all Settings.apk arrays.xml wifi_calling_mode_values
 all Settings.apk arrays.xml wifi_calling_mode_values_without_wifi_only
+all Settings.apk arrays.xml wifi_tether_security_values
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk arrays.xml record_format_values
 all SoundRecorder.apk arrays.xml record_quality_values
@@ -61,6 +65,8 @@ all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
 all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
 all Telecom.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml bluetooth_avrcp_version_values
-all TeleService.apk arrays.xml preferred_network_mode_values_world_mode
-all TeleService.apk arrays.xml list_language_values
 all TeleService.apk arrays.xml cdma_subscription_values
+all TeleService.apk arrays.xml list_language_values
+all TeleService.apk arrays.xml preferred_network_mode_values_world_mode
+all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
+all Traceur.apk arrays.xml bluetooth_avrcp_version_values
