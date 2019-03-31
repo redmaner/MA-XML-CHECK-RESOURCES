@@ -181,7 +181,13 @@ folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_se
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="data_type_name_mcc_mnc_value"
+---------------------------------------------------------------------------------------
+ <array name="data_type_name_mcc_mnc_value" /> <string-array name="debug_hw_overdraw_entries">
 
 
 ---------------------------------------------------------------------------------------
@@ -253,7 +259,7 @@ folder="all" application="Settings.apk" xml="" name="agps_reset_type_values"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -263,9 +269,21 @@ folder="all" application="Settings.apk" xml="" name="connect_mode_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="fold_values"
+---------------------------------------------------------------------------------------
+ <string-array name="fold_values"> <item>0</item> <item>1</item> <item>-1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="handy_mode_size_value_entries"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_values"
+---------------------------------------------------------------------------------------
+ <string-array name="notifi_importance_values"> <item>4</item> <item>3</item> <item>2</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -314,6 +332,12 @@ folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
 folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
 ---------------------------------------------------------------------------------------
  <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>2</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wifi_tether_security_values"
+---------------------------------------------------------------------------------------
+ <string-array name="wifi_tether_security_values"> <item>4</item> <item>0</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -371,9 +395,9 @@ folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="preferred_network_mode_values_world_mode"
+folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values"
 ---------------------------------------------------------------------------------------
- <string-array name="preferred_network_mode_values_world_mode"> <item>10</item> <item>8</item> <item>9</item> </string-array>
+ <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -383,8 +407,20 @@ folder="all" application="TeleService.apk" xml="" name="list_language_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values"
+folder="all" application="TeleService.apk" xml="" name="preferred_network_mode_values_world_mode"
 ---------------------------------------------------------------------------------------
- <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
+ <string-array name="preferred_network_mode_values_world_mode"> <item>10</item> <item>8</item> <item>9</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Няправільнае значэнне ідэнтыфікатара трансакцыі</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 

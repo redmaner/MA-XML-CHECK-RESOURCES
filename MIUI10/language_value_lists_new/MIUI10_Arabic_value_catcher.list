@@ -133,7 +133,7 @@ folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_se
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_c9_full_values"
 ---------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_c9_full_values"> <item>١٠٨٠*١٤٤٠</item> <item>٩٦٠*١٢٨٠</item> <item>٧٢٠*٩٦٠</item> </string-array>
+ <string-array name="screenrecorder_settings_resolution_c9_full_values"> <item>1440*1080</item> <item>1280*960</item> <item>960*720</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -157,7 +157,7 @@ folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_se
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_full_values"
 ---------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_full_values"> <item>١٠٨٠*١٩٢٠</item> <item>٧٢٠*١٢٨٠</item> <item>٤٨٠*٨٠٠</item> </string-array>
+ <string-array name="screenrecorder_settings_resolution_full_values"> <item>1920*1080</item> <item>1280*720</item> <item>800*480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -181,7 +181,13 @@ folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_se
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="data_type_name_mcc_mnc_value"
+---------------------------------------------------------------------------------------
+ <array name="data_type_name_mcc_mnc_value" /> <string-array name="debug_hw_overdraw_entries">
 
 
 ---------------------------------------------------------------------------------------
@@ -259,7 +265,7 @@ folder="all" application="Settings.apk" xml="" name="agps_reset_type_values"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -269,9 +275,21 @@ folder="all" application="Settings.apk" xml="" name="connect_mode_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="fold_values"
+---------------------------------------------------------------------------------------
+ <string-array name="fold_values"> <item>0</item> <item>1</item> <item>-1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="handy_mode_size_value_entries"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_values"
+---------------------------------------------------------------------------------------
+ <string-array name="notifi_importance_values"> <item>4</item> <item>3</item> <item>2</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -320,6 +338,12 @@ folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
 folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
 ---------------------------------------------------------------------------------------
  <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>٢</item> <item>١</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wifi_tether_security_values"
+---------------------------------------------------------------------------------------
+ <string-array name="wifi_tether_security_values"> <item>4</item> <item>0</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -377,9 +401,9 @@ folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="preferred_network_mode_values_world_mode"
+folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values"
 ---------------------------------------------------------------------------------------
- <string-array name="preferred_network_mode_values_world_mode"> <item>10</item> <item>٨</item> <item>٩</item> </string-array>
+ <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -389,8 +413,20 @@ folder="all" application="TeleService.apk" xml="" name="list_language_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values"
+folder="all" application="TeleService.apk" xml="" name="preferred_network_mode_values_world_mode"
 ---------------------------------------------------------------------------------------
- <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
+ <string-array name="preferred_network_mode_values_world_mode"> <item>10</item> <item>٨</item> <item>٩</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">قيمة معرّف العملية غير صالحة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
