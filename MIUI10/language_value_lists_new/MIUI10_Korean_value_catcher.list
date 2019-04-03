@@ -263,6 +263,24 @@ folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
+---------------------------------------------------------------------------------------
+ <string name="err_msg_pending_value">보류 평가</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_service_type_value">정확한 온라인 인식</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_unit_price_value">시간당 %s RMB</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">잘못된 거래 식별자 값</string>

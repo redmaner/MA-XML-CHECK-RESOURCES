@@ -119,6 +119,24 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_indicator_entryvalue_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_indicator_entryvalue_default">Tắt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_indicator_entryvalue_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_indicator_entryvalue_off">Tắt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_indicator_entryvalue_on"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_indicator_entryvalue_on">Bật</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Thu phóng</string>
@@ -140,6 +158,24 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_ta
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_take_picture">Ảnh</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_indicator_entryvalue_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_indicator_entryvalue_default">Tắt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_indicator_entryvalue_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_indicator_entryvalue_off">Tắt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_indicator_entryvalue_on"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_indicator_entryvalue_on">Bật</string>
 
 
 ---------------------------------------------------------------------------------------
