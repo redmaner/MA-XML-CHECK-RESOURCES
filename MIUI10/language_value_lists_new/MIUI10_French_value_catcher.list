@@ -1,4 +1,82 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Value</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_data_preload_value_always">ALWAYS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_data_preload_value_never">NEVER</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_wifi_only"
+---------------------------------------------------------------------------------------
+ <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_images_preload_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_images_preload_value_always">2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_images_preload_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_images_preload_value_never">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_images_preload_value_wifi_only"
+---------------------------------------------------------------------------------------
+ <string name="pref_images_preload_value_wifi_only">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_link_prefetch_value_always">ALWAYS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_link_prefetch_value_never">NEVER</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_wifi_only"
+---------------------------------------------------------------------------------------
+ <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_always"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_preload_value_always">ALWAYS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_never"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_preload_value_never">NEVER</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wifi_only"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
