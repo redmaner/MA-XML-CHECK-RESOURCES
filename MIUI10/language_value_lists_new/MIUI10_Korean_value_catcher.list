@@ -59,6 +59,18 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FactoryKitTest.apk" xml="" name="gsensor_value"
+---------------------------------------------------------------------------------------
+ <string name="gsensor_value">방향:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FactoryKitTest.apk" xml="" name="sensor_value"
+---------------------------------------------------------------------------------------
+ <string name="sensor_value">값:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="imssettings.apk" xml="" name="ims_apn_value_invalid"
 ---------------------------------------------------------------------------------------
  <string name="ims_apn_value_invalid">APN을 입력하십시오.</string>
