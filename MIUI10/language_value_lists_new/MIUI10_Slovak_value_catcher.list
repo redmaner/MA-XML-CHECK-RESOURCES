@@ -239,6 +239,12 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
+---------------------------------------------------------------------------------------
+ <string-array name="default_reminder_later_time_labels"> <item>5 minúť</item> <item>10 minúť</item> <item>15 minúť</item> <item>30 minúť</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Interval (minút)</string>

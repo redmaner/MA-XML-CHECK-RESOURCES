@@ -71,6 +71,12 @@ folder="all" application="CABLService.apk" xml="" name="cabl_level_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
+---------------------------------------------------------------------------------------
+ <string-array name="default_reminder_later_time_labels"> <item>5 phút</item> <item>10 phút</item> <item>15 phút</item> <item>30 phút</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
 ---------------------------------------------------------------------------------------
  <string-array name="entryvalues_settings_debug"> <item>Không</item> <item>Xuất và gửi nhật ký</item> <item>Tạo nhật ký và lưu vào tập tin</item> <item>Xem ID thiết bị thống kê</item> </string-array>

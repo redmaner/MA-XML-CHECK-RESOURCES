@@ -71,15 +71,21 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
- <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
+ <string-array name="default_reminder_later_time_labels"> <item>5 dakika</item> <item>10 dakika</item> <item>15 dakika</item> <item>30 dakika</item> </string-array> 
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
 ---------------------------------------------------------------------------------------
- <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
