@@ -217,13 +217,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
-
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
-
+ <string-array name="default_vol_stream_entries"> <item>Toque</item> <item>Multimídia</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -308,18 +302,6 @@ folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
 folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
 ---------------------------------------------------------------------------------------
  <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>2</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_tether_security_values"
----------------------------------------------------------------------------------------
- <string-array name="wifi_tether_security_values"> <item>4</item> <item>0</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="fold_values"
----------------------------------------------------------------------------------------
- <string-array name="fold_values"> <item>0</item> <item>1</item> <item>-1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

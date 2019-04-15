@@ -1,3 +1,4 @@
+all Calendar.apk arrays.xml default_reminder_later_time_labels
 all DeskClock.apk arrays.xml snooze_duration_values
 all DeskClock.apk arrays.xml volume_button_setting_values
 all DeskClock.apk strings.xml repeat_count_value_five
@@ -33,6 +34,7 @@ all Mms.apk arrays.xml switch_sdk_value
 all SecurityCenter.apk arrays.xml lock_mode_value
 all SecurityCenter.apk arrays.xml power_dialog_vibration_items_values
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
+all Settings.apk arrays.xml default_vol_stream_entries
 all Settings.apk arrays.xml default_vol_stream_entries
 all Settings.apk arrays.xml agps_apn_values
 all Settings.apk arrays.xml agps_network_values

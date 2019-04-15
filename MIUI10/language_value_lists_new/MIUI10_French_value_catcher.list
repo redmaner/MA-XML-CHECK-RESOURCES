@@ -107,81 +107,9 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_five">5</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_one"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_one">1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_ten"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_ten">10</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_three"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_three">3</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_two"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_two">2</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Intervale (minutes)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_fifteen"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_fifteen">15</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_five"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_five">5</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_one"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_one">1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_ten"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_ten">10</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_thirty"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_thirty">30</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_twenty">20</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_twenty_five">25</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -240,12 +168,6 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="current_optimization_value"
----------------------------------------------------------------------------------------
- <string name="current_optimization_value">Les risques réduisent le score de sécurité de votre appareil</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_optimization_value"
 ---------------------------------------------------------------------------------------
  <string name="current_optimization_value">Les risques réduisent le score de sécurité de votre appareil</string>
 
