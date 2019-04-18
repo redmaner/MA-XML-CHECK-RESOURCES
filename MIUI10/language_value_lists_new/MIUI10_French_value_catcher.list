@@ -23,24 +23,6 @@ folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_wifi
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_images_preload_value_always"
----------------------------------------------------------------------------------------
- <string name="pref_images_preload_value_always">2</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_images_preload_value_never"
----------------------------------------------------------------------------------------
- <string name="pref_images_preload_value_never">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_images_preload_value_wifi_only"
----------------------------------------------------------------------------------------
- <string name="pref_images_preload_value_wifi_only">1</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_always"
 ---------------------------------------------------------------------------------------
  <string name="pref_link_prefetch_value_always">ALWAYS</string>
@@ -101,12 +83,6 @@ folder="all" application="Cit.apk" xml="" name="proximity_sensor_test_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
----------------------------------------------------------------------------------------
- <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Intervale (minutes)</string>
@@ -161,21 +137,9 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
----------------------------------------------------------------------------------------
- <string-array name="switch_sdk_value"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="current_optimization_value"
 ---------------------------------------------------------------------------------------
  <string name="current_optimization_value">Les risques réduisent le score de sécurité de votre appareil</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Provision.apk" xml="" name="china_mobile_sim_not_default_devices"
----------------------------------------------------------------------------------------
- <string-array name="china_mobile_sim_not_default_devices"> <item>nitrogen</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -188,24 +152,6 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Personnaliser</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_format_values"
----------------------------------------------------------------------------------------
- <string-array name="record_format_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_quality_values"
----------------------------------------------------------------------------------------
- <string-array name="record_quality_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_scenes_values"
----------------------------------------------------------------------------------------
- <string-array name="record_scenes_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

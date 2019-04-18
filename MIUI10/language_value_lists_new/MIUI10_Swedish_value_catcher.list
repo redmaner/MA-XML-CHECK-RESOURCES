@@ -101,6 +101,12 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 minuter</item> <item>30 minuter</item> <item>45 minuter</item> <item>1 timme</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Zoom</string>
@@ -113,69 +119,9 @@ folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_bit_rate_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_bit_rate_values"> <item>200</item> <item>100</item> <item>50</item> <item>32</item> <item>24</item> <item>16</item> <item>8</item> <item>4</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_frames_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_frames_values"> <item>24</item> <item>30</item> <item>48</item> <item>60</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_orientation_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_orientation_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_c9_full_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_c9_full_values"> <item>1440*1080</item> <item>1280*960</item> <item>960*720</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_c9_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_c9_values"> <item>1080</item> <item>960</item> <item>720</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_f9_full_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_f9_full_values"> <item>1920*910</item> <item>1280*720</item> <item>800*480</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_f9_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_f9_values"> <item>910</item> <item>720</item> <item>480</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_full_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_full_values"> <item>1920*1080</item> <item>1280*720</item> <item>800*480</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
 ---------------------------------------------------------------------------------------
  <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_sound_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_sound_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_storage_location_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_storage_location_values"> <item>0</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -269,21 +215,9 @@ folder="all" application="Settings.apk" xml="" name="connect_mode_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="fold_values"
----------------------------------------------------------------------------------------
- <string-array name="fold_values"> <item>0</item> <item>1</item> <item>-1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="handy_mode_size_value_entries"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notifi_importance_values"
----------------------------------------------------------------------------------------
- <string-array name="notifi_importance_values"> <item>4</item> <item>3</item> <item>2</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

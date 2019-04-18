@@ -2,9 +2,6 @@ all Browser.apk strings.xml mw_color_picker_value
 all Browser.apk strings.xml pref_data_preload_value_always
 all Browser.apk strings.xml pref_data_preload_value_never
 all Browser.apk strings.xml pref_data_preload_value_wifi_only
-all Browser.apk strings.xml pref_images_preload_value_always
-all Browser.apk strings.xml pref_images_preload_value_never
-all Browser.apk strings.xml pref_images_preload_value_wifi_only
 all Browser.apk strings.xml pref_link_prefetch_value_always
 all Browser.apk strings.xml pref_link_prefetch_value_never
 all Browser.apk strings.xml pref_link_prefetch_value_wifi_only
@@ -15,7 +12,6 @@ all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Cit.apk strings.xml current_value
 all Cit.apk strings.xml invalidvalues
 all Cit.apk strings.xml proximity_sensor_test_values
-all DeskClock.apk arrays.xml snooze_duration_values
 all DeskClock.apk strings.xml snooze_duration_value
 all Email.apk strings.xml recognize_hotel_room_type_value
 all Email.apk strings.xml recognize_hotel_user_names_value
@@ -25,14 +21,9 @@ all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
 all MiuiSystemUI.apk arrays.xml data_type_name_mcc_mnc_value
 all MiuiSystemUI.apk arrays.xml tts_rate_values
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
-all Mms.apk arrays.xml switch_sdk_value
 all PersonalAssistant.apk strings.xml current_optimization_value
-all Provision.apk arrays.xml china_mobile_sim_not_default_devices
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all Settings.apk strings.xml tether_limit_value_custom
-all SoundRecorder.apk arrays.xml record_format_values
-all SoundRecorder.apk arrays.xml record_quality_values
-all SoundRecorder.apk arrays.xml record_scenes_values
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
 all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
