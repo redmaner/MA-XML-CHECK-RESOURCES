@@ -59,6 +59,12 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>첫번째 월요일</item> <item>첫번째 화요일</item> <item>첫번째 수요일</item> <item>첫번째 목요일</item> <item>첫번째 금요일</item> <item>첫번째 토요일</item> <item>첫번째 일요일</item> <item>두번째 월요일</item> <item>두번째 화요일</item> <item>두번째 수요일</item> <item>두번째 목요일</item> <item>두번째 금요일</item> <item>두번째 토요일</item> <item>두번째 일요일</item> <item>세번째 월요일</item> <item>세번째 화요일</item> <item>세번째 수요일</item> <item>세번째 목요일</item> <item>세번째 금요일</item> <item>세번째 토요일</item> <item>세번째 일요일</item> <item>네번째 월요일</item> <item>네번째 화요일</item> <item>네번째 수요일</item> <item>네번째 목요일</item> <item>네번째 금요일</item> <item>네번째 토요일</item> <item>네번째 일요일</item> <item>마지막 월요일</item> <item>마지막 화요일</item> <item>마지막 수요일</item> <item>마지막 목요일</item> <item>마지막 금요일</item> <item>마지막 토요일</item> <item>마지막 일요일</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">반복 (분)</string>

@@ -8,6 +8,7 @@ all Browser.apk strings.xml pref_video_preload_value_never
 all Calculator.apk strings.xml sin_mathematical_value
 all Calculator.apk strings.xml tan_mathematical_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all DeskClock.apk strings.xml snooze_duration_value
 all FactoryKitTest.apk strings.xml gsensor_value
 all FactoryKitTest.apk strings.xml sensor_value

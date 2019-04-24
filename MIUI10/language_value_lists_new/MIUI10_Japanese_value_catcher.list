@@ -5,6 +5,12 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>第1月曜日</item> <item>第1火曜日</item> <item>第1水曜日</item> <item>第1木曜日</item> <item>第1金曜日</item> <item>第1土曜日</item> <item>第1日曜日</item> <item>第2月曜日</item> <item>第2火曜日</item> <item>第2水曜日</item> <item>第2木曜日</item> <item>第2金曜日</item> <item>第2土曜日</item> <item>第2日曜日</item> <item>第3月曜日</item> <item>第3火曜日</item> <item>第3水曜日</item> <item>第3木曜日</item> <item>第3金曜日</item> <item>第3土曜日</item> <item>第3日曜日</item> <item>第4月曜日</item> <item>第4火曜日</item> <item>第4水曜日</item> <item>第4木曜日</item> <item>第4金曜日</item> <item>第4土曜日</item> <item>第4日曜日</item> <item>最終月曜日</item> <item>最終火曜日</item> <item>最終水曜日</item> <item>最終木曜日</item> <item>最終金曜日</item> <item>最終土曜日</item> <item>最終日曜日</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">間隔 (分)</string>

@@ -11,6 +11,12 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>pierwszy poniedziałek</item> <item>pierwszy wtorek</item> <item>pierwsza środa</item> <item>pierwszy czwartek</item> <item>pierwszy piątek</item> <item>pierwsza sobota</item> <item>pierwsza niedziela</item> <item>drugi poniedziałek</item> <item>drugi wtorek</item> <item>druga środa</item> <item>drugi czwartek</item> <item>drugi piątek</item> <item>druga sobota</item> <item>druga niedziela</item> <item>trzeci poniedziałek</item> <item>trzeci wtorek</item> <item>trzecia środa</item> <item>trzeci czwartek</item> <item>trzeci piątek</item> <item>trzecia sobota</item> <item>trzecia niedziela</item> <item>czwarty poniedziałek</item> <item>czwarty wtorek</item> <item>czwarta środa</item> <item>czwarty czwartek</item> <item>czwarty piątek</item> <item>czwarta sobota</item> <item>czwarta niedziela</item> <item>ostatni poniedziałek</item> <item>ostatni wtorek</item> <item>ostatnia środa</item> <item>ostatni czwartek</item> <item>ostatni piątek</item> <item>ostatnia sobota</item> <item>ostatnia niedziela</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Interwał (ile minut)</string>

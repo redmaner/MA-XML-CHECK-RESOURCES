@@ -113,6 +113,12 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Neplatná hodnota identifikátoru transakce</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minut</item> <item>10 minut</item> <item>15 minut</item> <item>30 minut</item> </string-array>

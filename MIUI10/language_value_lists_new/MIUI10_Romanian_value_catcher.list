@@ -17,6 +17,102 @@ folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_five">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_one"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_one">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_ten"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_ten">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_three"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_three">3</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_two"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_two">2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value">Interval (minute)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_fifteen"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_fifteen">15</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_five"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_five">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_one"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_one">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_ten"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_ten">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_thirty"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_thirty">30</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_twenty">20</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_twenty_five">25</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_mode_entryvalue_tele"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_mode_entryvalue_tele">tele</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_mode_entryvalue_wide"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_mode_entryvalue_wide">wide</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_hfr_entryvalue_default">5:120</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso1000"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_iso_value_iso1000">1000</string>
@@ -95,6 +191,30 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_ta
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_mode_entryvalue_tele"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_mode_entryvalue_tele">tele</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_mode_entryvalue_wide"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_mode_entryvalue_wide">wide</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_value_title">Zoom</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_hfr_entryvalue_default">5:120</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_1080p_60fps"
 ---------------------------------------------------------------------------------------
  <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
@@ -158,5 +278,23 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Personalizată</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
+---------------------------------------------------------------------------------------
+ <string name="err_msg_pending_value">Estimare cost…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_service_type_value">Transcriere audio online</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_unit_price_value">%s CNY/oră</string>
 
 

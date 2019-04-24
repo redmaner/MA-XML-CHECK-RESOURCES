@@ -9,6 +9,7 @@ all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
 all Calendar.apk arrays.xml default_reminder_later_time_labels
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Cit.apk strings.xml current_value
 all Cit.apk strings.xml invalidvalues
 all Cit.apk strings.xml proximity_sensor_test_values

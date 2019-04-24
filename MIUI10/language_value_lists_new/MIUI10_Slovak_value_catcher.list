@@ -239,9 +239,27 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Neplatná hodnota identifikátora transakcie</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minúť</item> <item>10 minúť</item> <item>15 minúť</item> <item>30 minúť</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>prvý Pondelok</item> <item>prvý Utorok</item> <item>prvá Streda</item> <item>prvý Štvrtok</item> <item>prvý Piatok</item> <item>prvá Sobota</item> <item>prvá Nedeľa</item> <item>druhý Pondelok</item> <item>druhý Utorok</item> <item>druhá Streda</item> <item>druhý Štvrtok</item> <item>druhý Piatok</item> <item>druhý Sobota</item> <item>druhá Nedeľa</item> <item>druhá Pondelok</item> <item>tretí Utorok</item> <item>tretia Streda</item> <item>tretí Štvrtok</item> <item>tretí Piatok</item> <item>tretia Sobota</item> <item>tretia Nedeľa</item> <item>štvrtý Pondelok</item> <item>štvrtý Utorok</item> <item>štvrtá Streda</item> <item>štvrtý Štvrtok</item> <item>štvrtý Piatok</item> <item>štvrtá Sobota</item> <item>štvrtá Nedeľa</item> <item>posledný Pondelok</item> <item>posledný Utorok</item> <item>posledná Streda</item> <item>posledný Štvrtok</item> <item>posledný Piatok</item> <item>posledná Sobota</item> <item>posledná Nedeľa</item> </string-array> 
 
 
 ---------------------------------------------------------------------------------------

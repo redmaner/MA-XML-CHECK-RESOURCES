@@ -11,6 +11,12 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>primeira segunda</item> <item>primeira terça</item> <item>primeira quarta</item> <item>primeira quinta</item> <item>primeira sexta</item> <item>primeiro sábado</item> <item>primeiro domingo</item> <item>segunda segunda</item> <item>segunda terça</item> <item>segunda quarta</item> <item>segunda quinta</item> <item>segunda sexta</item> <item>segundo sábado</item> <item>segundo domingo</item> <item>terceira segunda</item> <item>terceira terça</item> <item>terceira quarta</item> <item>terceira quinta</item> <item>terceira sexta</item> <item>terceiro sábado</item> <item>terceiro domingo</item> <item>quarta segunda</item> <item>quarta terça</item> <item>quarta quarta</item> <item>quarta quinta</item> <item>quarta sexta</item> <item>quarto sábado</item> <item>quarto domingo</item> <item>última segunda</item> <item>última terça</item> <item>última quarta</item> <item>última quinta</item> <item>última sexta</item> <item>último sábado</item> <item>último domingo</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Intervalo (minutos)</string>

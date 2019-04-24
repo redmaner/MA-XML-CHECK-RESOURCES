@@ -65,6 +65,12 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>premier lundi</item> <item>premier mardi</item> <item>premier mercredi</item> <item>premier jeudi</item> <item>premier vendredi</item> <item>premier samedi</item> <item>premier dimanche</item> <item>deuxième lundi</item> <item>deuxième mardi</item> <item>deuxième mercredi</item> <item>deuxième jeudi</item> <item>deuxième vendredi</item> <item>deuxième samedi</item> <item>deuxième dimanche</item> <item>troisième lundi</item> <item>troisième mardi</item> <item>troisième mercredi</item> <item>troisième jeudi</item> <item>troisième vendredi</item> <item>troisième samedi</item> <item>troisième dimanche</item> <item>quatrième lundi</item> <item>quatrième mardi</item> <item>quatrième mercredi</item> <item>quatrième jeudi</item> <item>quatrième vendredi</item> <item>quatrième samedi</item> <item>quatrième dimanche</item> <item>dernier lundi</item> <item>dernier mardi</item> <item>dernier mercredi</item> <item>dernier jeudi</item> <item>dernier vendredi</item> <item>dernier samedi</item> <item>dernier dimanche</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="current_value"
 ---------------------------------------------------------------------------------------
  <string name="current_value">"Current value: "</string>

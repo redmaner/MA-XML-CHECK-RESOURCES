@@ -73,7 +73,7 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
- <string-array name="default_reminder_later_time_labels"> <item>5 dakika</item> <item>10 dakika</item> <item>15 dakika</item> <item>30 dakika</item> </string-array> 
+ <string-array name="default_reminder_later_time_labels"> <item>5 dakika</item> <item>10 dakika</item> <item>15 dakika</item> <item>30 dakika</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -86,6 +86,12 @@ folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWh
 folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>ilk Pazartesi</item> <item>ilk Salı</item> <item>ilk Çarşamba</item> <item>ilk Perşembe</item> <item>ilk Cuma</item> <item>ilk Cumartesi</item> <item>ilk Pazar</item> <item>ikinci Pazartesi</item> <item>ikinci Salı</item> <item>ikinci Çarşamba</item> <item>ikinci Perşembe</item> <item>ikinci Cuma</item> <item>ikinci Cumartesi</item> <item>ikinci Pazar</item> <item>üçüncü Pazartesi</item> <item>üçüncü Salı</item> <item>üçüncü Çarşamba</item> <item>üçüncü Perşembe</item> <item>üçüncü Cuma</item> <item>üçüncü Cumartesi</item> <item>üçüncü Pazar</item> <item>dördüncü Pazartesi</item> <item>dördüncü Salı</item> <item>dördüncü Çarşamba</item> <item>dördüncü Perşembe</item> <item>dördüncü Cuma</item> <item>dördüncü Cumartesi</item> <item>dördüncü Pazar</item> <item>geçen Pazartesi</item> <item>geçen Salı</item> <item>geçen Çarşamba</item> <item>geçen Perşembe</item> <item>geçen Cuma</item> <item>geçen Cumartesi</item> <item>geçen Pazar</item> </string-array> 
 
 
 ---------------------------------------------------------------------------------------
