@@ -23,7 +23,9 @@ all MiuiSystemUI.apk arrays.xml data_type_name_mcc_mnc_value
 all MiuiSystemUI.apk arrays.xml tts_rate_values
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all PersonalAssistant.apk strings.xml current_optimization_value
+all QuickSearchBox.apk arrays.xml default_corpora
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
+all Settings.apk arrays.xml default_vol_stream_entries
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
