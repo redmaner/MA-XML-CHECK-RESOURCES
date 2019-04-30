@@ -7,7 +7,7 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
- <string-array name="repeat_monthly_on_day_count_values"> <item>first Monday</item> <item>first Tuesday</item> <item>first Wednesday</item> <item>first Thursday</item> <item>first Friday</item> <item>first Saturday</item> <item>first Sunday</item> <item>second Monday</item> <item>second Tuesday</item> <item>second Wednesday</item> <item>second Thursday</item> <item>second Friday</item> <item>second Saturday</item> <item>second Sunday</item> <item>third Monday</item> <item>third Tuesday</item> <item>third Wednesday</item> <item>third Thursday</item> <item>third Friday</item> <item>third Saturday</item> <item>third Sunday</item> <item>fourth Monday</item> <item>fourth Tuesday</item> <item>fourth Wednesday</item> <item>fourth Thursday</item> <item>fourth Friday</item> <item>fourth Saturday</item> <item>fourth Sunday</item> <item>last Monday</item> <item>last Tuesday</item> <item>last Wednesday</item> <item>last Thursday</item> <item>last Friday</item> <item>last Saturday</item> <item>last Sunday</item> </string-array>
+ <string-array name="repeat_monthly_on_day_count_values"> <item>primo Lunedì</item> <item>primo Martedì</item> <item>primo Mercoledì</item> <item>primo Giovedì</item> <item>primo Venerdì</item> <item>primo Sabato</item> <item>prima Domenica</item> <item>secondo Lunedì</item> <item>secondo Martedì</item> <item>secondo Mercoledì</item> <item>secondo Giovedì</item> <item>secondo Venerdì</item> <item>secondo Sabato</item> <item>seconda Domenica</item> <item>terzo Lunedì</item> <item>terzo Martedì</item> <item>terzo Mercoledì</item> <item>terzo Giovedì</item> <item>terzo Venerdì</item> <item>terzo Sabato</item> <item>terza Domenica</item> <item>quarto Lunedì</item> <item>quarto Martedì</item> <item>quarto Mercoledì</item> <item>quarto Giovedì</item> <item>quarto Venerdì</item> <item>quarto Sabato</item> <item>quarta Domenica</item> <item>ultimo Lunedì</item> <item>ultimo Martedì</item> <item>ultimo Mercoledì</item> <item>ultimo Giovedì</item> <item>ultimo Venerdì</item> <item>ultimo Sabato</item> <item>ultima Domenica</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -247,7 +247,7 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
- <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Invalid transaction identifier value</string>
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Valore identificativo della transazione non valido</string>
 
 
 ---------------------------------------------------------------------------------------
