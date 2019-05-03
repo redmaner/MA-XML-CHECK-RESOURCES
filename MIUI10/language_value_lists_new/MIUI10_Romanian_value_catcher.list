@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
+---------------------------------------------------------------------------------------
+ <string-array name="default_reminder_later_time_labels"> <item>5 minute</item> <item>10 minute</item> <item>15 minute</item> <item>30 de minute</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>prima zi de Luni</item> <item>prima zi de Marți</item> <item>prima zi de Miercuri</item> <item>prima zi de Joi</item> <item>prima zi de Vineri</item> <item>prima zi de Sâmbătă</item> <item>prima zi de Duminică</item> <item>a doua zi de Luni</item> <item>a doua zi de Marți</item> <item>a doua zi de Miercuri</item> <item>a doua zi de Joi</item> <item>a doua zi de Vineri</item> <item>a doua zi de Sâmbătă</item> <item>a doua zi de Duminică</item> <item>a treia zi de Luni</item> <item>a treia zi de Marți</item> <item>a treia zi de Miercuri</item> <item>a treia zi de Joi</item> <item>a treia zi de Vineri</item> <item>a treia zi de Sâmbătă</item> <item>a treia zi de Duminică</item> <item>a patra zi de Luni</item> <item>a patra zi de Marți</item> <item>a patra zi de Miercuri</item> <item>a patra zi de Joi</item> <item>a patra zi de Vineri</item> <item>a patra zi de Sâmbătă</item> <item>a patra zi de Duminică</item> <item>ultima zi de Luni</item> <item>ultima zi de Marți</item> <item>ultima zi de Miercuri</item> <item>ultima zi de Joi</item> <item>ultima zi de Vineri</item> <item>ultima zi de Sâmbătă</item> <item>ultima zi de Duminică</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
 ---------------------------------------------------------------------------------------
  <string name="cit_audio_cali_valueF0">F0:</string>
