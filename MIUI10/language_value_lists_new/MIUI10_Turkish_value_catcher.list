@@ -17,60 +17,6 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_always"
----------------------------------------------------------------------------------------
- <string name="pref_data_preload_value_always">HER ZAMAN</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_never"
----------------------------------------------------------------------------------------
- <string name="pref_data_preload_value_never">ASLA</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_wifi_only"
----------------------------------------------------------------------------------------
- <string name="pref_data_preload_value_wifi_only">SADECE WİFİ</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_always"
----------------------------------------------------------------------------------------
- <string name="pref_link_prefetch_value_always">HER ZAMAN</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_never"
----------------------------------------------------------------------------------------
- <string name="pref_link_prefetch_value_never">ASLA</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_wifi_only"
----------------------------------------------------------------------------------------
- <string name="pref_link_prefetch_value_wifi_only">SADECE WİFİ</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_always"
----------------------------------------------------------------------------------------
- <string name="pref_video_preload_value_always">HER ZAMAN</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_never"
----------------------------------------------------------------------------------------
- <string name="pref_video_preload_value_never">ASLA</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wifi_only"
----------------------------------------------------------------------------------------
- <string name="pref_video_preload_value_wifi_only">SADECE WİFİ</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 dakika</item> <item>10 dakika</item> <item>15 dakika</item> <item>30 dakika</item> </string-array>

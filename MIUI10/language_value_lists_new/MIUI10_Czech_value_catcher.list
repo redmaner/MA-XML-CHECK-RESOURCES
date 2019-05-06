@@ -119,9 +119,21 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Neplatná hodnota identifikátoru transakce</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minut</item> <item>10 minut</item> <item>15 minut</item> <item>30 minut</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>první Pondělí</item> <item>první Úterý</item> <item>první Středa</item> <item>první Čtvrtek</item> <item>první Pátek</item> <item>první Sobota</item> <item>první Neděle</item> <item>druhé Pondělí</item> <item>druhé Úterý</item> <item>druhá Středa</item> <item>druhý Čtvrtek</item> <item>druhý Pátek</item> <item>druhý Sobota</item> <item>druhá Neděle</item> <item>třetí Pondělí</item> <item>třetí Úterý</item> <item>třetí Středa</item> <item>třetí Čtvrtek</item> <item>třetí Pátek</item> <item>třetí Sobota</item> <item>třetí Neděle</item> <item>čtvrté Pondělí</item> <item>čtvrté Úterý</item> <item>čtvrtá Středa</item> <item>čtvrtý Čtvrtek</item> <item>čtvrtý Pátek</item> <item>čtvrtá Sobota</item> <item>čtvrtá Neděle</item> <item>poslední Pondělí</item> <item>poslední Úterý</item> <item>poslední Středa</item> <item>poslední Čtvrtek</item> <item>poslední Pátek</item> <item>poslední Sobota</item> <item>poslední Neděle</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
