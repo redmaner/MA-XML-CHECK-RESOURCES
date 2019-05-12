@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>första måndagen</item> <item>första tisdagen</item> <item>första onsdagen</item> <item>första torsdagen</item> <item>första fredagen</item> <item>första lördagen</item> <item>första söndagen</item> <item>andra måndagen</item> <item>andra tisdagen</item> <item>andra onsdagen</item> <item>andra torsdagen</item> <item>andra fredagen</item> <item>andra lördagen</item> <item>andra söndagen</item> <item>tredje måndagen</item> <item>tredje tisdagen</item> <item>tredje onsdagen</item> <item>tredje torsdagen</item> <item>tredje fredagen</item> <item>tredje lördagen</item> <item>tredje söndagen</item> <item>fjärde måndagen</item> <item>fjärde tisdagen</item> <item>fjärde onsdagen</item> <item>fjärde torsdagen</item> <item>fjärde fredagen</item> <item>fjärde lördagen</item> <item>fjärde söndagen</item> <item>sista måndagen</item> <item>sista tisdagen</item> <item>sista onsdagen</item> <item>sista torsdagen</item> <item>sista fredagen</item> <item>sista lördagen</item> <item>sista söndagen</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>

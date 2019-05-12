@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>първи понеделник</item> <item>първи вторник</item> <item>първа сряда</item> <item>първи четвъртък</item> <item>първи петък</item> <item>първа събота</item> <item>първа неделя</item> <item>втори понеделник</item> <item>втори вторник</item> <item>втора сряда</item> <item>втори четвъртък</item> <item>втори петък</item> <item>втора събота</item> <item>втора неделя</item> <item>трети понеделник</item> <item>трети вторник</item> <item>трета сряда</item> <item>трети четвъртък</item> <item>трети петък</item> <item>трета събота</item> <item>трета неделя</item> <item>четвърти понеделник</item> <item>четвърти вторник</item> <item>четвърта сряда</item> <item>четвърти четвъртък</item> <item>четвърти петък</item> <item>четвърта събота</item> <item>четвърта неделя</item> <item>последен понеделник</item> <item>последен вторник</item> <item>последна сряда</item> <item>последен четвъртък</item> <item>последен петък</item> <item>последна събота</item> <item>последна неделя</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>

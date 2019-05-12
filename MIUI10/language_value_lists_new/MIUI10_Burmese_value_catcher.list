@@ -11,6 +11,12 @@ folder="all" application="Browser.apk" xml="" name="color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>ပထမ တနင်္လာ</item> <item>ပထမ အင်္ဂါ</item> <item>ပထမ ဗုဒ္ဓဟူး</item> <item>ပထမ ကြာသပတေး</item> <item>ပထမ သောကြာ</item> <item>ပထမ စနေ</item> <item>ပထမ တနင်္ဂနွေ</item> <item>ဒုတိယ တနင်္လာ</item> <item>ဒုတိယ အင်္ဂါ</item> <item>ဒုတိယ ဗုဒ္ဓဟူး</item> <item>ဒုတိယ ကြာသပတေး</item> <item>ဒုတိယ သောကြာ</item> <item>ဒုတိယ စနေ</item> <item>ဒုတိယ တနင်္ဂနွေ</item> <item>တတိယ တနင်္လာ</item> <item>တတိယ အင်္ဂါ</item> <item>တတိယ ဗုဒ္ဓဟူး</item> <item>တတိယ ကြာသပတေး</item> <item>တတိယ သောကြာ</item> <item>တတိယ စနေ</item> <item>တတိယ တနင်္ဂနွေ</item> <item>စတုတ္ထ တနင်္လာ</item> <item>စတုတ္ထ အင်္ဂါ</item> <item>စတုတ္ထ ဗုဒ္ဓဟူး</item> <item>စတုတ္ထ ကြာသပတေး</item> <item>စတုတ္ထ သောကြာ</item> <item>စတုတ္ထ စနေ</item> <item>စတုတ္ထ တနင်္ဂနွေ</item> <item>နောက်ဆုံး တနင်္လာ</item> <item>နောက်ဆုံး အင်္ဂါ</item> <item>နောက်ဆုံး ဗုဒ္ဓဟူး</item> <item>နောက်ဆုံး ကြာသပတေး</item> <item>နောက်ဆုံး သောကြာ</item> <item>နောက်ဆုံး စနေ</item> <item>နောက်ဆုံး တနင်္ဂနွေ</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_values"
 ---------------------------------------------------------------------------------------
  <string-array name="alert_reminder_interval_values"> <item>1</item> <item>2</item> <item>15</item> <item>0</item> </string-array>

@@ -11,6 +11,12 @@ folder="all" application="Browser.apk" xml="" name="color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>יום שני הראשון</item> <item>יום שלישי הראשון</item> <item>יום רביעי הראשון</item> <item>יום חמישי הראשון</item> <item>יום שישי הראשון</item> <item>שבת ראשונה</item> <item>יום ראשון הראשון</item> <item>"יום ב' השני"</item> <item>יום שלישי השני</item> <item>יום רביעי השני</item> <item>חמישי השני</item> <item>יום שישי השני</item> <item>יום שבת השני</item> <item>יום ראשון השני</item> <item>יום שלישי השני</item> <item>יום שלישי השלישי</item> <item>יום רביעי השלישי</item> <item>חמישי השלישי</item> <item>יום שישי שלישי</item> <item>שבת שלישית</item> <item>יום ראשון השלישי</item> <item>יום רביעי השני</item> <item>רביעי השלישי</item> <item>רביעי הרביעי</item> <item>יום חמישי הרביעי</item> <item>יום שישי הרביעי</item> <item>שבת רביעית</item> <item>ראשון הרביעי</item> <item>יום שני האחרון בחודש</item> <item>יום שלישי האחרון בחודש</item> <item>יום רביעי האחרון בחודש</item> <item>יום חמישי האחרון בחודש</item> <item>יום שישי האחרון בחודש</item> <item>יום שבת האחרון בחודש</item> <item>יום ראשון האחרון בחודש</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>

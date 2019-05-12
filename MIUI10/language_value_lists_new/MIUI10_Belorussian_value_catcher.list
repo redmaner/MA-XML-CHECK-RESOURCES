@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>першы панядзелак</item> <item>першы аўторак</item> <item>першая серада</item> <item>першы чацвер</item> <item>першая пятніца</item> <item>першая субота</item> <item>першая нядзеля</item> <item>другі панядзелак</item> <item>другі аўторак</item> <item>другая серада</item> <item>другі чацвер</item> <item>другая пятніца</item> <item>другая субота</item> <item>другая нядзеля</item> <item>трэці панядзелак</item> <item>трэці аўторак</item> <item>трэцяя серада</item> <item>трэці чацвер</item> <item>трэцяя пятніца</item> <item>трэцяя субота</item> <item>трэцяя нядзеля</item> <item>чацвёрты панядзелак</item> <item>чацвёрты аўторак</item> <item>чацвёртая серада</item> <item>чацвёрты чацвер</item> <item>чацвёртая пятніца</item> <item>чацвёртая субота</item> <item>чацвёртая нядзеля</item> <item>апошні панядзелак</item> <item>апошні аўторак</item> <item>апошняя серада</item> <item>апошні чацвер</item> <item>апошняя пятніца</item> <item>апошняя субота</item> <item>апошняя нядзеля</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>

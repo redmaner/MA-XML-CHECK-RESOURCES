@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>الاثنين الأول</item> <item>الثلاثاء الأول</item> <item>الأربعاء الأول</item> <item>الخميس الأول</item> <item>الجمعة الأولى</item> <item>السبت الأول</item> <item>الأحد الأول</item> <item>الاثنين الثاني</item> <item>الثلاثاء الثاني</item> <item>الأربعاء الثاني</item> <item>الخميس الثاني</item> <item>الجمعة الثانية</item> <item>السبت الثاني</item> <item>الأحد الثاني</item> <item>الاثنين الثالث</item> <item>الثلاثاء الثالث</item> <item>الأربعاء الثالث</item> <item>الخميس الثالث</item> <item>الجمعة الثالثة</item> <item>السبت الثالث</item> <item>الأحد الثالث</item> <item>الاثنين الرابع</item> <item>الثلاثاء الرابع</item> <item>الأربعاء الرابع</item> <item>الخميس الرابع</item> <item>الجمعة الرابعة</item> <item>السبت الرابع</item> <item>الأحد الرابع</item> <item>آخر اثنين</item> <item>آخر ثلاثاء</item> <item>آخر أربعاء</item> <item>آخر خميس</item> <item>آخر جمعة</item> <item>آخر سبت</item> <item>آخر أحد</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>

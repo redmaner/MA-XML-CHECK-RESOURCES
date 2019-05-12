@@ -29,6 +29,24 @@ folder="all" application="Calculator.apk" xml="" name="e_mathematical_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="ln_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="ln_mathematical_value">ln</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="tan_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="tan_mathematical_value">tan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
+---------------------------------------------------------------------------------------
+ <string-array name="default_reminder_later_time_labels"> <item>5 minuts</item> <item>10 minuts</item> <item>15 minutes</item> <item>30 minutes</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_alerts_vibrateWhen"> <item>sempre</item> <item>en silenci</item> <item>mai</item> </string-array>
@@ -38,6 +56,12 @@ folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWh
 folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_alerts_vibrateWhen"> <item>sempre</item> <item>en silenci</item> <item>mai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>primer dilluns</item> <item>primer dimarts</item> <item>primer dimecres</item> <item>primer dijous</item> <item>primer divendres</item> <item>primer dissabte</item> <item>primer diumenge</item> <item>segon dilluns</item> <item>second Tuesday</item> <item>second Wednesday</item> <item>second Thursday</item> <item>second Friday</item> <item>second Saturday</item> <item>second Sunday</item> <item>third Monday</item> <item>third Tuesday</item> <item>tercer dimecres</item> <item>tercer dijous</item> <item>tercer divendres</item> <item>tercer dissabte</item> <item>tercer diumenge</item> <item>quart dilluns</item> <item>quart dimarts</item> <item>quart dimecres</item> <item>quart dijous</item> <item>quart divendres</item> <item>quart dissabte</item> <item>quart diumenge</item> <item>darrer dilluns</item> <item>darrer dimarts</item> <item>darrer dimecres</item> <item>darrer dijous</item> <item>darrer divendres</item> <item>darrer dissabte</item> <item>darrer diumenge</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -89,9 +113,21 @@ folder="all" application="Settings.apk" xml="" name="common_password_business_cl
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="entryvalues_font_size"
+---------------------------------------------------------------------------------------
+ <string-array name="entryvalues_font_size"> <item>0,85</item> <item>1,0</item> <item>1,15</item> <item>1,30</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="battery_indicator_style_values"
 ---------------------------------------------------------------------------------------
- <string-array name="battery_indicator_style_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+ <string-array name="battery_indicator_style_values"> <item>0</item> <item>1</item> <item>2</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="captioning_font_size_selector_values"
+---------------------------------------------------------------------------------------
+ <string-array name="captioning_font_size_selector_values"> <item>0,25</item> <item>0,5</item> <item>1,0</item> <item>1,5</item> <item>2,0</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -101,8 +137,20 @@ folder="all" application="Settings.apk" xml="" name="dark_ui_mode_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="entryvalues_font_size"
+---------------------------------------------------------------------------------------
+ <string-array name="entryvalues_font_size"> <item>0,85</item> <item>1,0</item> <item>1,15</item> <item>1,30</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Personalitzat</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="usb_configuration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="usb_configuration_values"> <item>cap</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
 
 

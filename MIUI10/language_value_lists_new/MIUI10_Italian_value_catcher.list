@@ -17,6 +17,12 @@ folder="all" application="Cit.apk" xml="" name="battery_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value_set"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_modem_test_device_value_set">modifica lo stato del dispositivo</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Intervallo (minuti)</string>
