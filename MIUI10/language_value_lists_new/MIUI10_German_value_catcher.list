@@ -59,6 +59,12 @@ folder="all" application="GFTest.apk" xml="" name="value_test_strategy_frr"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 Minuten</item> <item>30 Minuten</item> <item>45 Minuten</item> <item>1 Stunde</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Netzbetreiber auswählen</string>
