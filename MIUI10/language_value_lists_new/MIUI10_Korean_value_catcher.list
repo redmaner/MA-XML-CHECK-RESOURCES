@@ -55,7 +55,7 @@ folder="all" application="Calculator.apk" xml="" name="tan_mathematical_value"
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
- <string-array name="default_reminder_later_time_labels"> <item>5분</item> <item>10분</item> <item>15분</item> <item>30분</item> </string-array>
+ <string-array name="default_reminder_later_time_labels"> <item>5분</item> <item>10분</item> <item>15분</item> <item>30분</item> <item>1시간</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

@@ -61,7 +61,7 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
- <string-array name="default_reminder_later_time_labels"> <item>5 minutes</item> <item>10 minutes</item> <item>15 minutes</item> <item>30 minutes</item> </string-array>
+ <string-array name="default_reminder_later_time_labels"> <item>5 minutes</item> <item>10 minutes</item> <item>15 minutes</item> <item>30 minutes</item> <item>1 heure</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -92,6 +92,12 @@ folder="all" application="Cit.apk" xml="" name="proximity_sensor_test_values"
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Intervale (minutes)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="general_preference_text_zoom_values"
+---------------------------------------------------------------------------------------
+ <string-array name="general_preference_text_zoom_values"> <item>tiny</item> <item>small</item> <item>normal</item> <item>large</item> <item>huge</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
