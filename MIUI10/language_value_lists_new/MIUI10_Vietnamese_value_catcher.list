@@ -131,6 +131,12 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 phút</item> <item>30 phút</item> <item>45 phút</item> <item>1 giờ</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_indicator_entryvalue_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_hdr_indicator_entryvalue_default">Tắt</string>
