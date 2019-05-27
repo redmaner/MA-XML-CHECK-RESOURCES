@@ -65,9 +65,27 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_popup"> <item>aucun</item> <item>tout</item> <item>intelligente</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_popup"> <item>aucun</item> <item>tout</item> <item>intelligente</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>premier lundi</item> <item>premier mardi</item> <item>premier mercredi</item> <item>premier jeudi</item> <item>premier vendredi</item> <item>premier samedi</item> <item>premier dimanche</item> <item>deuxième lundi</item> <item>deuxième mardi</item> <item>deuxième mercredi</item> <item>deuxième jeudi</item> <item>deuxième vendredi</item> <item>deuxième samedi</item> <item>deuxième dimanche</item> <item>troisième lundi</item> <item>troisième mardi</item> <item>troisième mercredi</item> <item>troisième jeudi</item> <item>troisième vendredi</item> <item>troisième samedi</item> <item>troisième dimanche</item> <item>quatrième lundi</item> <item>quatrième mardi</item> <item>quatrième mercredi</item> <item>quatrième jeudi</item> <item>quatrième vendredi</item> <item>quatrième samedi</item> <item>quatrième dimanche</item> <item>dernier lundi</item> <item>dernier mardi</item> <item>dernier mercredi</item> <item>dernier jeudi</item> <item>dernier vendredi</item> <item>dernier samedi</item> <item>dernier dimanche</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_default_popup_alert_value">intelligente</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -146,6 +164,36 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%s mode</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money"
+---------------------------------------------------------------------------------------
+ <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Credits</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money_special_unit"
+---------------------------------------------------------------------------------------
+ <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Credits</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value">%1$s Mi Credit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redeemed"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_redeemed">%1$s Mi Credit redeemed</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_remained">%1$s Mi Credit remained</string>
 
 
 ---------------------------------------------------------------------------------------
