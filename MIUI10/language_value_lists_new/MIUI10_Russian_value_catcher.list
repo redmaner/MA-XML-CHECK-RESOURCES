@@ -41,9 +41,27 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_popup"> <item>нет</item> <item>все</item> <item>умные</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_popup"> <item>нет</item> <item>все</item> <item>умные</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>первый понедельник</item> <item>первый вторник</item> <item>первая среда</item> <item>первый четверг</item> <item>первая пятница</item> <item>первая суббота</item> <item>первое воскресенье</item> <item>второй понедельник</item> <item>второй вторник</item> <item>вторая среда</item> <item>второй четверг</item> <item>вторая пятница</item> <item>вторая суббота</item> <item>второе воскресенье</item> <item>третий понедельник</item> <item>третий вторник</item> <item>третья среда</item> <item>третий четверг</item> <item>третья пятница</item> <item>третья суббота</item> <item>третье воскресенье</item> <item>четвертый понедельник</item> <item>четвертый вторник</item> <item>четвертая среда</item> <item>четвертый четверг</item> <item>четвертая пятница</item> <item>четвертая суббота</item> <item>четвертое воскресенье</item> <item>последний понедельник</item> <item>последний вторник</item> <item>последняя среда</item> <item>последний четверг</item> <item>последняя пятница</item> <item>последняя суббота</item> <item>последнее воскресенье</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_default_popup_alert_value">умные</string>
 
 
 ---------------------------------------------------------------------------------------

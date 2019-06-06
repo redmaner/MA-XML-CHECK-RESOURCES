@@ -701,39 +701,9 @@ folder="all" application="Settings.apk" xml="" name="mtp_default_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="agps_apn_values"
----------------------------------------------------------------------------------------
- <string-array name="agps_apn_values" tranlatable="false"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="agps_network_values"
----------------------------------------------------------------------------------------
- <string-array name="agps_network_values" tranlatable="false"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="agps_reset_type_values"
----------------------------------------------------------------------------------------
- <string-array name="agps_reset_type_values" tranlatable="false"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_values"
----------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="connect_mode_values"
 ---------------------------------------------------------------------------------------
  <string-array name="connect_mode_values"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
----------------------------------------------------------------------------------------
- <string-array name="handy_mode_size_value_entries" tranlatable="false"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -776,12 +746,6 @@ folder="all" application="Settings.apk" xml="" name="traffic_balance_values"
 folder="all" application="Settings.apk" xml="" name="vip_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="vip_mode_value"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="whetstone_level_values"
----------------------------------------------------------------------------------------
- <string-array name="whetstone_level_values" tranlatable="false"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
