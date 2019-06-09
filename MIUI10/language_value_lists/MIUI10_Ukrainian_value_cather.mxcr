@@ -115,12 +115,7 @@ all SecurityCenter.apk strings.xml traffic_saving_history_total_month_value
 all SecurityCenter.apk strings.xml traffic_saving_history_total_month_value_default
 all Settings.apk arrays.xml mtp_default_entries
 all Settings.apk arrays.xml mtp_default_values
-all Settings.apk arrays.xml agps_apn_values
-all Settings.apk arrays.xml agps_network_values
-all Settings.apk arrays.xml agps_reset_type_values
-all Settings.apk arrays.xml bluetooth_avrcp_version_values
 all Settings.apk arrays.xml connect_mode_values
-all Settings.apk arrays.xml handy_mode_size_value_entries
 all Settings.apk arrays.xml lock_screen_secure_after_timeout_values
 all Settings.apk arrays.xml mtp_default_values
 all Settings.apk arrays.xml silent_mode_duration_value
@@ -128,7 +123,6 @@ all Settings.apk arrays.xml silent_values
 all Settings.apk arrays.xml toggles_line_values
 all Settings.apk arrays.xml traffic_balance_values
 all Settings.apk arrays.xml vip_mode_value
-all Settings.apk arrays.xml whetstone_level_values
 all Settings.apk strings.xml tether_limit_value_custom
 all Telecom.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml bluetooth_avrcp_version_values
