@@ -192,6 +192,7 @@
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="video_tag_search_lead"/>
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="video_upload_item_title"/>
 	<item folder="all" application="FindDevice.apk" file="strings.xml" name="find_device_notice_p2"/>
+	<item folder="all" application="FrequentPhrase.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="freq_entries"/>
 	<item folder="all" application="FM.apk" file="strings.xml" name="txt_divider"/>
 	<item folder="all" application="framework-ext-res.apk" file="strings.xml" name="notification_header_divider_symbol_with_spaces"/>
@@ -937,6 +938,8 @@
 	<item folder="all" application="Weather.apk" file="strings.xml" name="information_time_source"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="install_progress"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="international_details_wind_connect"/>
+	<item folder="all" application="Weather.apk" file="strings.xml" name="item_city_list_region_no_data"/>
+	<item folder="all" application="Weather.apk" file="strings.xml" name="item_city_list_temperature_no_data"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="share_weather_desc_alert"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="data_source_timezone"/>
 	<item folder="all" application="XiaomiServiceFramework.apk" file="strings.xml" name="activate_sms_postfix"/>
