@@ -29,42 +29,6 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="GFTest.apk" xml="" name="frr_filter_value"
----------------------------------------------------------------------------------------
- <string name="frr_filter_value">过滤后拒真率：</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="GFTest.apk" xml="" name="frr_value"
----------------------------------------------------------------------------------------
- <string name="frr_value">拒真率：</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="GFTest.apk" xml="" name="value_far_test_threshold_default"
----------------------------------------------------------------------------------------
- <string name="value_far_test_threshold_default">小于 0.002%</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="GFTest.apk" xml="" name="value_frr_test_threshold_default"
----------------------------------------------------------------------------------------
- <string name="value_frr_test_threshold_default">小于 %1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="GFTest.apk" xml="" name="value_test_strategy_far"
----------------------------------------------------------------------------------------
- <string name="value_test_strategy_far">使用除当前测试手指外所有录入手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配成功，则认为发生一次FAR（即认假）</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="GFTest.apk" xml="" name="value_test_strategy_frr"
----------------------------------------------------------------------------------------
- <string name="value_test_strategy_frr">使用当前手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配失败，则认为发生一次FRR（即拒真）</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 Minuten</item> <item>30 Minuten</item> <item>45 Minuten</item> <item>1 Stunde</item> </string-array>

@@ -215,12 +215,6 @@ folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_opti
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Provision.apk" xml="" name="china_mobile_sim_not_default_devices"
----------------------------------------------------------------------------------------
- <string-array name="china_mobile_sim_not_default_devices"> <item>nitrogen</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>

@@ -109,7 +109,7 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 ---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
- <string-array name="sleep_duration_values"> <item>15 minutter</item> <item>30 minutter</item> <item>45 minutter</item> <item>1 time</item> </string-array>
+ <string-array name="sleep_duration_values"> <item>15 minutter</item> <item>30 minutter</item> <item>45 minutter</item> <item>En time</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -170,12 +170,6 @@ folder="all" application="PersonalAssistant.apk" xml="" name="current_optimizati
 folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_optimization_value"
 ---------------------------------------------------------------------------------------
  <string name="current_optimization_value">Risici mindsker din enheds sikkerhedsscore</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Provision.apk" xml="" name="china_mobile_sim_not_default_devices"
----------------------------------------------------------------------------------------
- <string-array name="china_mobile_sim_not_default_devices"> <item>nitrogen</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
