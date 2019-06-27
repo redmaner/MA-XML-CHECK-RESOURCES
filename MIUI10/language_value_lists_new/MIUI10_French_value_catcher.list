@@ -113,6 +113,18 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="prefValues_autoAdvance"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_autoAdvance"> <item>jamais</item> <item>anicien</item> <item>liste</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="prefValues_autoAdvance"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_autoAdvance"> <item>jamais</item> <item>anicien</item> <item>liste</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="general_preference_text_zoom_values"
 ---------------------------------------------------------------------------------------
  <string-array name="general_preference_text_zoom_values"> <item>tiny</item> <item>small</item> <item>normal</item> <item>large</item> <item>huge</item> </string-array>
