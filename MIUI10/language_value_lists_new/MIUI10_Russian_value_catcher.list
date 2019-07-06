@@ -155,6 +155,18 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twen
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="prefValues_autoAdvance"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_autoAdvance"> <item>более новые</item> <item>более старые</item> <item>по порядку</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="prefValues_autoAdvance"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_autoAdvance"> <item>более новые</item> <item>более старые</item> <item>по порядку</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
 ---------------------------------------------------------------------------------------
  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>

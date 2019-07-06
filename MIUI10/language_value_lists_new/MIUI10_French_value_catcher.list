@@ -149,15 +149,63 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_circle"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_circle">circle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_parallel"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_parallel">parallel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_timer"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Désactivé</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Film</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Image</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_circle"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_circle">circle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_parallel"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_parallel">parallel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_timer"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Zoom</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
----------------------------------------------------------------------------------------
- <string name="pref_hdr_value_default">désactivé</string>
 
 
 ---------------------------------------------------------------------------------------
