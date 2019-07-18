@@ -209,6 +209,12 @@ folder="all" application="framework-res.apk" xml="" name="config_misprovisionedB
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="HybridPlatform.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Value</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_timer"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>

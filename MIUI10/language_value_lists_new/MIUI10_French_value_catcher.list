@@ -215,6 +215,18 @@ folder="all" application="QuickSearchBox.apk" xml="" name="default_corpora"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_desc"
+---------------------------------------------------------------------------------------
+ <string name="password_change_value_preference_desc">初始空间锁屏密码将会用于退出儿童空间时进行验证</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_title"
+---------------------------------------------------------------------------------------
+ <string name="password_change_value_preference_title">修改密码</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">"Sélectionner l'opérateur"</string>
