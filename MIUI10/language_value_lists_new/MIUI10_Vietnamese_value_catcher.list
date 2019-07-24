@@ -239,6 +239,12 @@ folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_valu
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_title"
+---------------------------------------------------------------------------------------
+ <string name="password_change_value_preference_title">Thay đổi mật khẩu</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Chọn nhà cung cấp</string>
