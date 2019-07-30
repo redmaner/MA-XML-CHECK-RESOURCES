@@ -51,6 +51,8 @@ all EngineerMode.apk strings.xml lte_error_set_invalid_value
 all EngineerMode.apk strings.xml lte_error_get_invalid_value
 all FM.apk arrays.xml sleep_duration_values_seconds
 all GameCenter.apk strings.xml select_recharge_value
+all Health.apk strings.xml text_no_value
+all Health.apk strings.xml user_invalid_value
 all InCallUI.apk arrays.xml clir_display_values
 all InCallUI.apk arrays.xml language_list_values
 all Mipay.apk strings.xml mipay_bill_should_repay_rmb_value

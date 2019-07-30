@@ -317,6 +317,18 @@ folder="all" application="GameCenter.apk" xml="" name="select_recharge_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="text_no_value"
+---------------------------------------------------------------------------------------
+ <string name="text_no_value">-</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="InCallUI.apk" xml="" name="clir_display_values"
 ---------------------------------------------------------------------------------------
  <string-array name="clir_display_values"> <item>Стандартно</item> <item>Приховати номер</item> <item>Показати номер</item> </string-array>
