@@ -19,6 +19,9 @@ EOF
 catch_values_strings () {
 cat << EOF
 entryvalue
+default
+entryValues
+prefValues
 Value
 value
 EOF
