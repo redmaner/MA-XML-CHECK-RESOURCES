@@ -1,7 +1,25 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
+---------------------------------------------------------------------------------------
+ <string name="defaultnumber">000000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="BugReport.apk" xml="" name="default_text_view"
+---------------------------------------------------------------------------------------
+ <string name="default_text_view">Текстов преглед</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>първи понеделник</item> <item>първи вторник</item> <item>първа сряда</item> <item>първи четвъртък</item> <item>първи петък</item> <item>първа събота</item> <item>първа неделя</item> <item>втори понеделник</item> <item>втори вторник</item> <item>втора сряда</item> <item>втори четвъртък</item> <item>втори петък</item> <item>втора събота</item> <item>втора неделя</item> <item>трети понеделник</item> <item>трети вторник</item> <item>трета сряда</item> <item>трети четвъртък</item> <item>трети петък</item> <item>трета събота</item> <item>трета неделя</item> <item>четвърти понеделник</item> <item>четвърти вторник</item> <item>четвърта сряда</item> <item>четвърти четвъртък</item> <item>четвърти петък</item> <item>четвърта събота</item> <item>четвърта неделя</item> <item>последен понеделник</item> <item>последен вторник</item> <item>последна сряда</item> <item>последен четвъртък</item> <item>последен петък</item> <item>последна събота</item> <item>последна неделя</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
+---------------------------------------------------------------------------------------
+ <string name="contacts_default_notification_channel">Известия</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -95,6 +113,18 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twen
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_signature_2"
+---------------------------------------------------------------------------------------
+ <string name="default_signature_2">Изпратено от моя %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
+---------------------------------------------------------------------------------------
+ <string name="file_default_save_path_title">Местоположение по подразбиране за прикачени файлове</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
 ---------------------------------------------------------------------------------------
  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
@@ -107,9 +137,99 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_change_log"
+---------------------------------------------------------------------------------------
+ <string name="default_change_log">Актуализирайте приложението, за да видите новите функции.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
+---------------------------------------------------------------------------------------
+ <string name="default_debt_msg_words">"Това устройство е заключено поради просрочени задължения. Свържете се с вашия агент по продажби за повече подробности."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
+---------------------------------------------------------------------------------------
+ <string name="app_suspended_default_message">В момента няма достъп до %1$s. Това се управлява от %2$s.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_hdmi"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_hdmi">HDMI</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_usb">USB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_channel_label">Некатегоризирани</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake">Запазете спокойствие и потърсете убежище в района.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake_and_tsunami">Запазете спокойствие и потърсете убежище в района.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_others" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_test">Тест за спешни съобщения</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_tsunami">Евакуирайте се незабавно от крайбрежните и крайречните региони на по-безопасно място – например такова с по-високо надморско равнище.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
+---------------------------------------------------------------------------------------
+ <string name="popup_window_default_title">Изскачащ прозорец</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_default_every_night_name">Време за сън</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 минути</item> <item>30 минути</item> <item>45 минути</item> <item>1 час</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
+---------------------------------------------------------------------------------------
+ <string name="default_text_view">Текстов преглед</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -119,9 +239,123 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_ti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
+---------------------------------------------------------------------------------------
+ <string name="channel_default_name">Нови функции</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
+---------------------------------------------------------------------------------------
+ <string name="default_relation_name">Нова група</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
+---------------------------------------------------------------------------------------
+ <string name="mark_myself_default_name">Аз</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
+---------------------------------------------------------------------------------------
+ <string name="movie_audio_default">Памет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
+---------------------------------------------------------------------------------------
+ <string name="photo_editor_font_default">Mi Lanting (редовно)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
+---------------------------------------------------------------------------------------
+ <string name="text_edit_dialog_font_default">Подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
+---------------------------------------------------------------------------------------
+ <string name="video_editor_text_default">Подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_choose_default_screen">Задайте екран %1$d за Начален екран по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_close_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_close_default_preview">Затворени настройки по подразбиране за Начален екран</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_open_default_preview">Отворени настройки по подразбиране за Начален екран</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">Meitu приложения</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_microsoft">Microsoft</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_services"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_services">Услуги</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
+---------------------------------------------------------------------------------------
+ <string name="default_screen_preview_title">Задай екран по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
+---------------------------------------------------------------------------------------
+ <string name="default_shortcut_title_10086">10086.cn</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
+---------------------------------------------------------------------------------------
+ <string name="menu_default_screen_preview">Задай екран по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_function">Функция по подразбиране</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -149,9 +383,111 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Автоматично свързан чрез доставчик на мрежата</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlock_hint_text"
+---------------------------------------------------------------------------------------
+ <string name="default_lockscreen_unlock_hint_text">Плъзнете нагоре за отключване</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_default"
+---------------------------------------------------------------------------------------
+ <string name="keyguard_carrier_default">Няма услуга</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Задаване на определени настройки</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_content">Дневен пакет с нови тапети</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_title">Сменящи се тапети</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
+---------------------------------------------------------------------------------------
+ <string name="nav_bar_default">(по подразбиране)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_channel_desc"
+---------------------------------------------------------------------------------------
+ <string name="notification_default_channel_desc">Това приложение не поддържа категории на известия</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_default_channel"
+---------------------------------------------------------------------------------------
+ <string name="notification_header_default_channel">Известия</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_description"
+---------------------------------------------------------------------------------------
+ <string name="quick_settings_cast_device_default_description">Готов за излъчване</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_name"
+---------------------------------------------------------------------------------------
+ <string name="quick_settings_cast_device_default_name">Неизвестно устройство</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%s режим</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
+---------------------------------------------------------------------------------------
+ <string name="alert_dialog_download_default_title">Изтегляне на приложение</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_notification_default_channel_name">Cast</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_tracks_chooser_dialog_default_track_name">Запис %1$d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
+---------------------------------------------------------------------------------------
+ <string name="ovp_default_plugin_name">HD плъгин</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="t_lv_subtitle_padding_default_hint">Регулиране на субтитрите…</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -161,9 +497,51 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
+---------------------------------------------------------------------------------------
+ <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
+---------------------------------------------------------------------------------------
+ <string name="default_list_type">Сортирай по време на получаване</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
+---------------------------------------------------------------------------------------
+ <string name="default_pay_app_removed">Предпочитаната от вас услуга за функцията „докоснете и платете“ бе премахната. Ще изберете ли друга?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="setting_uber_default_way"
+---------------------------------------------------------------------------------------
+ <string name="setting_uber_default_way">По подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">"1. Подобрена производителност. 2. Фиксирани бъгове."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="current_optimization_value"
 ---------------------------------------------------------------------------------------
  <string name="current_optimization_value">Рисковете намаляват сигурността на Вашето устройство</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistantGlobal.apk" xml="" name="setting_uber_default_way"
+---------------------------------------------------------------------------------------
+ <string name="setting_uber_default_way">По подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistantGlobal.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">"1. Подобрена производителност. 2. Фиксирани бъгове."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -173,15 +551,129 @@ folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_opti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Вие трябва да се съгласите с политиката за поверителност на Емоджи, преди да използвате тази услуга."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_kika">" Вие трябва да се съгласите с политиката за поверителност на Кика, преди да използвате тази услуга."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="traffic_setting_fragment_default">Избери</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="tc_diagnostic_fragment_default">"Относно диагностиката 1. Устройството ще се свърже с вашия доставчик, ще изпрати съобщение и ще изчака за отговор. Това може да отнеме 5 минути. 2. Вие можете да излезете по време на диагностиката, тя ще завърши на заден план."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_title">Почисти по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_close_summary"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_close_summary">Няма настройки по подразбиране.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_summary"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_summary">Вие избрахте това приложение да стартира по подразбиране за някои действия.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_defaults_setting">Стандартни приложения</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_cleared">Почистено</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
+---------------------------------------------------------------------------------------
+ <string name="ad_btn_default_text">Научете повече</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Изберете оператор</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_setting_label">Прилож по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_title">Прилож по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_summary">Задайте приложение по подразбиране за плащания, споделяне, любими неща и други.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_setting_dialog_title"> основен</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_content">Чукнете за промяна</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_main_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_main_title">Използване приложение по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_xspace_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_xspace_title">Използване на клонирано приложение</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
+---------------------------------------------------------------------------------------
+ <string name="space_name_default">Работно място</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
+---------------------------------------------------------------------------------------
+ <string name="space_des_default">Изолирано място с криптирана информация</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -275,6 +767,192 @@ folder="all" application="Settings.apk" xml="" name="wifi_tether_security_values
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="account_dashboard_default_summary">Няма добавени профили</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
+---------------------------------------------------------------------------------------
+ <string name="app_default_dashboard_title">Приложения по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_default_title">Стандартна</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_summary_default">Предпочита се стандартна яркост</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Автоматично свързан чрез доставчик на мрежата</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="cutout_mode_default">Авто</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_calendar_app_title">Приложение за календар</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_contacts_app_title">Приложение за контакти</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">Чукнете бутон Начален екран за да настроите Jeejen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">Чукнете бутон Начален екран за да използвате системния мениджър</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_title"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_title">Лаунчър по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_map_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_map_app_title">Приложение за карти</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">Помощник за известия</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_rule_name"
+---------------------------------------------------------------------------------------
+ <string name="default_rule_name">Таймер 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">Стандартно</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="enterprise_privacy_enterprise_set_default_apps">Приложения по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_summary">Ако ограничите свързването във фонов режим, новите приложения няма да могат да се свързват към интернет, след като ги инсталирате. Това може да бъде проблем при получаването на съобщения и уведомления или изтегляне на информация. Ограничаване въпреки това?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_title">Ограничи връзката на заден план за новите приложения</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">По подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">по подразбиране, браузър по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">плащане, по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">Възпроизв. на звук и показване на Закл. екран</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Голяма важност</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
+---------------------------------------------------------------------------------------
+ <string name="notification_importance_default_title">Голяма важност</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Стандартен звук за известяване</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Няма</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">Тези настройки ще се прилагат, когато е установена връзка с друго устройство и телефонът ви е отключен. Свързвайте се само с надеждни устройства.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">Стандартна конфигурация за USB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_settings_summary_default">По подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">По избор</string>
@@ -323,6 +1001,36 @@ folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_valu
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Използвай по подразбиране за телефонни обаждания</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_negative">Отмяна</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_warning_message">%s ще може да извършва и контролира повикванията. Само доверените приложения могат да се настроят по подразбиране.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Автоматично е установена връзка чрез доставчик на услуги за оценяване на мрежите</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s/%2$s</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
@@ -347,14 +1055,152 @@ folder="all" application="TeleService.apk" xml="" name="preferred_network_mode_v
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Автоматично е установена връзка чрез доставчик на услуги за оценяване на мрежите</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_domain_address">&lt;Не е зададен></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_password">&lt;Не е зададен></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_username">&lt;Не е зададен></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Зададени са някои стандартни настройки</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
+---------------------------------------------------------------------------------------
+ <string name="msim_select_default_time_left">(%d сек.)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s/%2$s</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Невалидна стойност на идентификатора на транзакцията</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
+---------------------------------------------------------------------------------------
+ <string name="handy_mode_default_to_close_whether_open">Режим Ползване с една ръка е изключен по подразбиране. Да го включа ли сега?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Автоматично е установена връзка чрез доставчик на услуги за оценяване на мрежите</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
+---------------------------------------------------------------------------------------
+ <string name="default_categories_restored">Стандартните категории са възстановени</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Няма зададени стандартни настройки</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Зададени са някои стандартни настройки</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s/%2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
+---------------------------------------------------------------------------------------
+ <string name="restore_default_categories">Възстановяване на стандартните категории</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">По подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Задава глас за конкретен език за изговорения текст</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Език</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Отразява се на тона на синтезирания говор</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Височина</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Скорост, с която се изговаря текстът</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Скорост на речта</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Това е пример за синтезиране на говор</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
+---------------------------------------------------------------------------------------
+ <string name="feedback_desc_default">Някои бутони не работят</string>
 
 

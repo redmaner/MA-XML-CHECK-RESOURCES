@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="ad_btn_default_text"
+---------------------------------------------------------------------------------------
+ <string name="ad_btn_default_text">Instalar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="BugReport.apk" xml="" name="default_text_view"
+---------------------------------------------------------------------------------------
+ <string name="default_text_view">TextView</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minutos</item> <item>10 minutos</item> <item>15 minutos</item> <item>30 minutos</item> <item>1 hora</item> </string-array>
@@ -8,6 +20,30 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>primeira segunda-feira</item> <item>primeira terça-feira</item> <item>primeira quarta-feira</item> <item>primeira quinta-feira</item> <item>primeira sexta-feira</item> <item>primeiro sábado</item> <item>primeiro domingo</item> <item>segunda segunda-feira</item> <item>segunda terça-feira</item> <item>segunda quarta-feira</item> <item>segunda quinta-feira</item> <item>segunda sexta-feira</item> <item>segundo sábado</item> <item>segundo domingo</item> <item>terceira segunda-feira</item> <item>terceira terça-feira</item> <item>terceira quarta-feira</item> <item>terceira quinta-feira</item> <item>terceira sexta-feira</item> <item>terceiro sábado</item> <item>terceiro domingo</item> <item>quarta segunda-feira</item> <item>quarta terça-feira</item> <item>quarta quarta-feira</item> <item>quarta quinta-feira</item> <item>quarta sexta-feira</item> <item>quarto sábado</item> <item>quarto domingo</item> <item>última segunda-feira</item> <item>última terça-feira</item> <item>última quarta-feira</item> <item>última quinta-feira</item> <item>última sexta-feira</item> <item>último sábado</item> <item>último domingo</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
+---------------------------------------------------------------------------------------
+ <string name="default_reminder_later_time">Intervalo padrão para \"Lembrar depois\"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="free_day_default_banner_title">Aproveite seu feriado!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="work_day_default_banner_title">Tenha um dia produtivo!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarms_default_event">Selecionar eventos</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -101,6 +137,24 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twen
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_signature_2"
+---------------------------------------------------------------------------------------
+ <string name="default_signature_2">Enviado do meu %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
+---------------------------------------------------------------------------------------
+ <string name="file_default_save_path_title">Caminho padrão para anexos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">Abrir anexos usando aplicativos padrão</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
 ---------------------------------------------------------------------------------------
  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
@@ -113,15 +167,231 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
+---------------------------------------------------------------------------------------
+ <string name="default_debt_msg_words">"Este dispositivo está bloqueado devido a uma mensalidade atrasada. Entre em contato com seu vendedor para mais detalhes."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">Cartão SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
+---------------------------------------------------------------------------------------
+ <string name="app_suspended_default_message">O aplicativo %1$s não está disponível no momento. Isso é gerenciado pelo aplicativo %2$s.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_hdmi"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_hdmi">HDMI</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_usb">USB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_channel_label">Sem classificação</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake">Fique calmo e procure um abrigo por perto.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake_and_tsunami">Fique calmo e procure um abrigo por perto.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_others" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_test">Teste de mensagens de emergência</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_tsunami">Saia imediatamente de regiões costeiras e áreas ribeirinhas e vá para um lugar mais seguro, como terrenos elevados.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
+---------------------------------------------------------------------------------------
+ <string name="popup_window_default_title">Janela pop-up</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_default_every_night_name">Dormindo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrop.apk" xml="" name="default_lang"
+---------------------------------------------------------------------------------------
+ <string name="default_lang">Idioma do sistema</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrop.apk" xml="" name="skip_default"
+---------------------------------------------------------------------------------------
+ <string name="skip_default">Tema padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_google_lens_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_google_lens_default">verdadeiro</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Zoom</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
+---------------------------------------------------------------------------------------
+ <string name="motion_photo_toast_default">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
+---------------------------------------------------------------------------------------
+ <string name="default_relation_name">Novo grupo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
+---------------------------------------------------------------------------------------
+ <string name="mark_myself_default_name">Eu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
+---------------------------------------------------------------------------------------
+ <string name="movie_audio_default">Memórias</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
+---------------------------------------------------------------------------------------
+ <string name="text_edit_dialog_font_default">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
+---------------------------------------------------------------------------------------
+ <string name="video_editor_text_default">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
+---------------------------------------------------------------------------------------
+ <string name="channel_default_name">Novos recursos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="photomovie_audio_default"
+---------------------------------------------------------------------------------------
+ <string name="photomovie_audio_default">Memórias</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="photomovie_template_default"
+---------------------------------------------------------------------------------------
+ <string name="photomovie_template_default">Lento</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_choose_default_screen">Tela %1$d definida como padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_close_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_close_default_preview">Configuração de tela inicial padrão fechada</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_open_default_preview">Configuração de tela inicial padrão aberta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_microsoft">Microsoft</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_services"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_services">Serviços</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
+---------------------------------------------------------------------------------------
+ <string name="default_screen_preview_title">Definir a tela padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
+---------------------------------------------------------------------------------------
+ <string name="default_shortcut_title_10086">10086.cn</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
+---------------------------------------------------------------------------------------
+ <string name="menu_default_screen_preview">Definir tela padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">Aplicativos Meitu</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -191,15 +461,147 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlock_hint_text"
+---------------------------------------------------------------------------------------
+ <string name="default_lockscreen_unlock_hint_text">Deslize para cima para desbloquear</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_default"
+---------------------------------------------------------------------------------------
+ <string name="keyguard_carrier_default">Sem serviço</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Alguns padrões definidos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_content">Porção diária de novas imagens</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_title">Carrossel de Planos de fundo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
+---------------------------------------------------------------------------------------
+ <string name="nav_bar_default">(padrão)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_channel_desc"
+---------------------------------------------------------------------------------------
+ <string name="notification_default_channel_desc">Este aplicativo não tem categorias de notificação</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_default_channel"
+---------------------------------------------------------------------------------------
+ <string name="notification_header_default_channel">Notificações</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_description"
+---------------------------------------------------------------------------------------
+ <string name="quick_settings_cast_device_default_description">Pronto para transmitir</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_name"
+---------------------------------------------------------------------------------------
+ <string name="quick_settings_cast_device_default_name">Dispositivo sem nome</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Modo %s</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="subtitle_padding_default_hint">Ajustando legendas…</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 ---------------------------------------------------------------------------------------
  <string-array name="switch_sdk_value"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
+---------------------------------------------------------------------------------------
+ <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
+---------------------------------------------------------------------------------------
+ <string name="default_list_type">Ordenar por hora de recebimento</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistantGlobal.apk" xml="" name="setting_uber_default_way"
+---------------------------------------------------------------------------------------
+ <string name="setting_uber_default_way">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistantGlobal.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">"1. Melhoria de desempenho. 2. Correção de bugs."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Você deve concordar com a Política de Privacidade do Facemoji antes de usar este recurso."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_kika">" Você deve concordar com a Política de Privacidade do Kika antes de usar este recurso."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="xspace_default_app_summary"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_summary">Selecione os aplicativos padrão para fazer login, compartilhar e assistente de voz</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="xspace_default_app_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_title">Personalização</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="xspace_default_setting_label"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_setting_label">Personalização</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -215,9 +617,141 @@ folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_vibratio
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="traffic_setting_fragment_default">Selecionar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="tc_diagnostic_fragment_default">"Sobre os diagnósticos 1. O dispositivo irá conectar-se à rede da operadora, enviar uma mensagem gratuita e aguardar a resposta da operadora. Isto levará até 5 minutos. 2. Você pode sair desta tela durante o diagnóstico, ele será executado em segundo plano."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_title">Limpar padrões</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_close_summary"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_close_summary">Nenhum padrão definido.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_summary"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_summary">Você escolheu executar este aplicativo por padrão para algumas ações.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_defaults_setting">Aplicativos padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_cleared">Limpo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
+---------------------------------------------------------------------------------------
+ <string name="ad_btn_default_text">Saiba mais</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_center_auto_shutdown_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="power_center_auto_shutdown_summary_default">Ligar ou desligar seu dispositivo em um horário programado</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_center_custom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="power_center_custom_summary_default">Estender a duração da bateria com perfis personalizados</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_center_low_battery_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="power_center_low_battery_summary_default">Alternar entre perfis quando a bateria estiver fraca</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_center_on_time_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="power_center_on_time_summary_default">Alternar entre perfis de bateria em horários agendados</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_delete_dialog_cannot_delete_default"
+---------------------------------------------------------------------------------------
+ <string name="power_dialog_delete_dialog_cannot_delete_default">Você está usando atualmente este perfil.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Selecionar operadora</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_setting_label">Aplicativo padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_title">Aplicativo padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_summary">Definir aplicativo padrão para pagamentos, compartilhamento, favoritos e mais.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_setting_dialog_title"> padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_content">Toque para alterar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_main_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_main_title">Usando o aplicativo padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_xspace_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_xspace_title">Usando o aplicativo clone</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
+---------------------------------------------------------------------------------------
+ <string name="space_name_default">Espaço de trabalho</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
+---------------------------------------------------------------------------------------
+ <string name="space_des_default">Espaço isolado com dados criptografados</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -311,6 +845,204 @@ folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_wi
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="account_dashboard_default_summary">Nenhuma conta adicionada</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
+---------------------------------------------------------------------------------------
+ <string name="app_default_dashboard_title">Aplicativos padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_default_title">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_summary_default">O brilho preferencial é o padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="cutout_mode_default">Automático</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_calendar_app_title">Aplicativo Agenda</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_contacts_app_title">Aplicativo Contatos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">Pressione o botão Início para configurar o Jeejen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">Pressione o botão Início para restaurar o Launcher padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_title"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_title">Launcher padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_map_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_map_app_title">Aplicativo Mapa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">Assistente de notificação</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_rule_name"
+---------------------------------------------------------------------------------------
+ <string name="default_rule_name">Timer 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
+---------------------------------------------------------------------------------------
+ <string name="default_vol_stream_title">Controle de volume predefinido</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="enterprise_privacy_enterprise_set_default_apps">Aplicativos padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_summary">Se você restringir a conexão em segundo plano, novos aplicativos não poderão conectar-se à internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou fazer download de conteúdo depois disso. Restringir mesmo assim?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_title">Restringir conexão em segundo plano para novos aplicativos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">padrão, navegador padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">pagamento, padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="media_output_default_summary">Neste dispositivo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">Tocar som</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Importância elevada</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
+---------------------------------------------------------------------------------------
+ <string name="notification_importance_default_title">Alta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Som de notificação padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Nenhum</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">Quando outro dispositivo estiver conectado e seu smartphone estiver desbloqueado, essas configurações serão aplicadas. Conecte-se apenas a dispositivos confiáveis.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">Configuração USB padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_settings_summary_default">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Personalizado</string>
@@ -359,6 +1091,30 @@ folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_valu
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de avaliação de rede</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Definir como aplicativo de Telefone padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_negative">Cancelar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_warning_message">O aplicativo %s poderá fazer e controlar todos os aspectos de chamadas telefônicas. Somente aplicativos em que você confie devem ser definidos como o aplicativo padrão de telefonia.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
@@ -374,5 +1130,53 @@ folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values
 folder="all" application="TeleService.apk" xml="" name="list_language_values"
 ---------------------------------------------------------------------------------------
  <string-array name="list_language_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de avaliação de rede</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Alguns padrões definidos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
+---------------------------------------------------------------------------------------
+ <string name="msim_select_default_time_left">(%d s)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
+---------------------------------------------------------------------------------------
+ <string name="handy_mode_default_to_close_whether_open">O Modo para uma mão está desativado por padrão. Ativar o Modo para uma mão?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
+---------------------------------------------------------------------------------------
+ <string name="default_categories_restored">Categorias padrão restauradas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
+---------------------------------------------------------------------------------------
+ <string name="restore_default_categories">Restaurar categorias padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
+---------------------------------------------------------------------------------------
+ <string name="com_facebook_tooltip_default">"Você está no controle - escolha as informações que quer compartilhar com aplicativos ."</string>
 
 

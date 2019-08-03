@@ -1,7 +1,25 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
+---------------------------------------------------------------------------------------
+ <string name="defaultnumber">000000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="BugReport.apk" xml="" name="default_text_view"
+---------------------------------------------------------------------------------------
+ <string name="default_text_view">TextView</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>الاثنين الأول</item> <item>الثلاثاء الأول</item> <item>الأربعاء الأول</item> <item>الخميس الأول</item> <item>الجمعة الأولى</item> <item>السبت الأول</item> <item>الأحد الأول</item> <item>الاثنين الثاني</item> <item>الثلاثاء الثاني</item> <item>الأربعاء الثاني</item> <item>الخميس الثاني</item> <item>الجمعة الثانية</item> <item>السبت الثاني</item> <item>الأحد الثاني</item> <item>الاثنين الثالث</item> <item>الثلاثاء الثالث</item> <item>الأربعاء الثالث</item> <item>الخميس الثالث</item> <item>الجمعة الثالثة</item> <item>السبت الثالث</item> <item>الأحد الثالث</item> <item>الاثنين الرابع</item> <item>الثلاثاء الرابع</item> <item>الأربعاء الرابع</item> <item>الخميس الرابع</item> <item>الجمعة الرابعة</item> <item>السبت الرابع</item> <item>الأحد الرابع</item> <item>آخر اثنين</item> <item>آخر ثلاثاء</item> <item>آخر أربعاء</item> <item>آخر خميس</item> <item>آخر جمعة</item> <item>آخر سبت</item> <item>آخر أحد</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
+---------------------------------------------------------------------------------------
+ <string name="contacts_default_notification_channel">الإشعارات</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -95,6 +113,18 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twen
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_signature_2"
+---------------------------------------------------------------------------------------
+ <string name="default_signature_2">تم الإرسال من %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
+---------------------------------------------------------------------------------------
+ <string name="file_default_save_path_title">الموقع الافتراضي للمرفقات</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
 ---------------------------------------------------------------------------------------
  <string name="recognize_hotel_room_type_value">%2$s × %1$s</string>
@@ -107,9 +137,99 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_change_log"
+---------------------------------------------------------------------------------------
+ <string name="default_change_log">حدث التطبيق للتحقق من الميزات الجديدة.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
+---------------------------------------------------------------------------------------
+ <string name="default_debt_msg_words">"هذا الجهاز مقفل بسبب دفع متأخر. اتصل بوكيل المبيعات الخاث بك للحصول على التفاصيل."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
+---------------------------------------------------------------------------------------
+ <string name="app_suspended_default_message">التطبيق %1$s غير متاح الآن، وهو مُدار بواسطة %2$s.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_hdmi"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_hdmi">HDMI</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_usb">USB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_channel_label">غير مصنفة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake">يُرجى الثبات والبحث عن ملاذ بالجوار.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake_and_tsunami">يُرجى الثبات والبحث عن ملاذ بالجوار.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_others" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_test">اختبار رسائل الطوارئ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_tsunami">يُرجى النزوح في الحال من المناطق الساحلية وضفاف النهر إلى مكان أكثر أمانًا مثل الأراضي المرتفعة.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
+---------------------------------------------------------------------------------------
+ <string name="popup_window_default_title">نافذة منبثقة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_default_every_night_name">النوم</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>١٥ دقيقة</item> <item>٣٠ دقيقة</item> <item>٤٥ دقيقة</item> <item>١ ساعة</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
+---------------------------------------------------------------------------------------
+ <string name="default_text_view">TextView</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -119,9 +239,123 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_ti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
+---------------------------------------------------------------------------------------
+ <string name="channel_default_name">الميزات الجديدة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
+---------------------------------------------------------------------------------------
+ <string name="default_relation_name">مجموعة جديدة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
+---------------------------------------------------------------------------------------
+ <string name="mark_myself_default_name">أنا</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
+---------------------------------------------------------------------------------------
+ <string name="movie_audio_default">ذكرى</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
+---------------------------------------------------------------------------------------
+ <string name="photo_editor_font_default">Mi Lanting (عادي)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
+---------------------------------------------------------------------------------------
+ <string name="text_edit_dialog_font_default">الافتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
+---------------------------------------------------------------------------------------
+ <string name="video_editor_text_default">الافتراضي</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cell_layout_size_values"> <item>٤x٤</item> <item>٤x٥</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_choose_default_screen">تعيين الصفحة %1$d كالصفحة الرئيسية الإفتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_close_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_close_default_preview">تم إغلاق إعدادات الشاشة الرئيسية الافتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_open_default_preview">تم فتح إعدادات الشاشة الرئيسية الافتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">تطبيقات Meitu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_microsoft">Microsoft</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_services"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_services">خدمات</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
+---------------------------------------------------------------------------------------
+ <string name="default_screen_preview_title">تعيين الشاشة الإفتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
+---------------------------------------------------------------------------------------
+ <string name="default_shortcut_title_10086">10086.cn</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
+---------------------------------------------------------------------------------------
+ <string name="menu_default_screen_preview">تعيين الشاشة الإفتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_function">الميزة الافتراضية</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -149,9 +383,117 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">متصل تلقائيا عبر مزود تصنيف الشبكة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlock_hint_text"
+---------------------------------------------------------------------------------------
+ <string name="default_lockscreen_unlock_hint_text">مرّر لأعلى للفتح</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_default"
+---------------------------------------------------------------------------------------
+ <string name="keyguard_carrier_default">لا توجد خدمة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">بعض الإعدادات الافتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_content">جزء يومي من خلفيات جديدة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_title">خلفية كاروسيل</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
+---------------------------------------------------------------------------------------
+ <string name="nav_bar_default">(إفتراضي)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_channel_desc"
+---------------------------------------------------------------------------------------
+ <string name="notification_default_channel_desc">لا يحتوي هذا التطبيق على فئة الإشعارات</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_default_channel"
+---------------------------------------------------------------------------------------
+ <string name="notification_header_default_channel">الإشعارات</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_description"
+---------------------------------------------------------------------------------------
+ <string name="quick_settings_cast_device_default_description">جاهز للبث</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_name"
+---------------------------------------------------------------------------------------
+ <string name="quick_settings_cast_device_default_name">جهاز غير مسمى</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">الوضع %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
+---------------------------------------------------------------------------------------
+ <string name="alert_dialog_download_default_title">تنزيل التطبيق</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_notification_default_channel_name">Cast</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_tracks_chooser_dialog_default_track_name">المقطع الصوتي %1$d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
+---------------------------------------------------------------------------------------
+ <string name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
+---------------------------------------------------------------------------------------
+ <string name="ovp_default_plugin_name">مكون HD الإضافي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="t_lv_subtitle_padding_default_hint">جارٍ تعديل الترجمة…</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -161,15 +503,69 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
+---------------------------------------------------------------------------------------
+ <string name="audio_panel_time_counter_default">٠٠:٠٠</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
+---------------------------------------------------------------------------------------
+ <string name="default_list_type">ترتيب حسب وقت الاستلام</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
+---------------------------------------------------------------------------------------
+ <string name="default_pay_app_removed">تمت إزالة خدمتك المفضلة للتوصيل والدفع. هل تريد اختيار خدمة أخرى؟</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="setting_uber_default_way"
+---------------------------------------------------------------------------------------
+ <string name="setting_uber_default_way">الافتراضي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">"١. تحسين الأداء. ٢. إصلاح المشاكل."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="current_optimization_value"
 ---------------------------------------------------------------------------------------
  <string name="current_optimization_value">المخاطر تقلل من أمن جهازك</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistantGlobal.apk" xml="" name="setting_uber_default_way"
+---------------------------------------------------------------------------------------
+ <string name="setting_uber_default_way">الافتراضي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistantGlobal.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">"١. تحسين الأداء. ٢. إصلاح المشاكل."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_optimization_value"
 ---------------------------------------------------------------------------------------
  <string name="current_optimization_value">المخاطر تقلل من أمن جهازك</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_facemoji">" يجب عليك الموافقة على سياسة خصوصية Facemoji قبل استخدام هذه الميزة."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_kika">" يجب عليك الموافقة على سياسة خصوصية Kika قبل استخدام هذه الميزة."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -185,9 +581,141 @@ folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_vibratio
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="traffic_setting_fragment_default">تحديد</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="tc_diagnostic_fragment_default">"حول التشخيص ١. سيقوم الجهاز بالاتصال بشبكة الخادم، ارسال رسالة مجانية، و انتظار استجابة الخادم. قد يستغرق ذلك ٥ دقائق. ٢. يمكنك الخروج من هذه الصفحة خلال التشخيص، سيتم ذلك في الخلفية."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_title">مسح الافتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_close_summary"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_close_summary">لم يتم تعيين الإفتراضية.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_summary"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_summary">لقد اخترت تشغيل هذا التطبيق افتراضيا لبعض الإجراءات.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_defaults_setting">التطبيقات الافتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_cleared">تم التنظيف</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
+---------------------------------------------------------------------------------------
+ <string name="ad_btn_default_text">معرفة المزيد</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_center_auto_shutdown_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="power_center_auto_shutdown_summary_default">قم بتشغيل جهازك أو إيقافه في وقت المحدد</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_center_custom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="power_center_custom_summary_default">تحسين عمر البطارية مع وضع مخصص</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_center_low_battery_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="power_center_low_battery_summary_default">تبديل وضع البطارية عند انخفاض مستوى شحن</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_center_on_time_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="power_center_on_time_summary_default">تبديل وضع البطارية في الوقت المجدول</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_delete_dialog_cannot_delete_default"
+---------------------------------------------------------------------------------------
+ <string name="power_dialog_delete_dialog_cannot_delete_default">أنت تستخدم هذا الوضع حالياً.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">حدد شركة الاتصالات</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_setting_label">التطبيق الافتراضي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_title">التطبيق الافتراضي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_summary">تعيين التطبيق الافتراضي للمدفوعات، والمشاركة، والمفضلة، وأكثر من ذلك.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_setting_dialog_title"> الإفتراضي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_content">انقر للتغيير</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_main_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_main_title">استخدام التطبيق الأفتراضي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_xspace_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_xspace_title">استخدام التطبيق المزدوج</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
+---------------------------------------------------------------------------------------
+ <string name="space_name_default">واجهة العمل</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
+---------------------------------------------------------------------------------------
+ <string name="space_des_default">واجهة منعزلة مع بيانات مشفرة</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -281,6 +809,198 @@ folder="all" application="Settings.apk" xml="" name="wifi_tether_security_values
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="account_dashboard_default_summary">لم تتم إضافة أي حسابات.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
+---------------------------------------------------------------------------------------
+ <string name="app_default_dashboard_title">التطبيقات التلقائية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_default_title">تلقائي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_summary_default">السطوع المفضل هو السطوع التلقائي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">متصل تلقائيا عبر مزود تصنيف الشبكة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="cutout_mode_default">تلقائي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_calendar_app_title">تطبيق التقويم</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_contacts_app_title">تطبيق جهات الاتصال</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">اضغط على زر \"الصفحة الرئيسية\" لإعداد Jeejen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">اضغط على زر \"الصفحة الرئيسية\" لإستعادة المشغل الإفتراضي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_title"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_title">المشغل الافتراضي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_map_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_map_app_title">تطبيق الخريطة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">مساعد الإشعار</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_rule_name"
+---------------------------------------------------------------------------------------
+ <string name="default_rule_name">المؤقت ١</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">تلقائي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="enterprise_privacy_enterprise_set_default_apps">التطبيقات التلقائية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_summary">إذا قمت بتقييد اتصال الخلفية، فلن تتمكن التطبيقات الجديدة من الاتصال بالإنترنت في الخلفية بعد تثبيتها. وقد لا تتمكن ايضاً من استلام الرسائل أو تحديث المحتوى بعد ذلك. التقييد على أي حال؟</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_title">تقييد اتصال الخلفية للتطبيقات الجديدة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">الافتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">تلقائي، متصفح تلقائي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">تلقائية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">دفع، تلقائي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="media_output_default_summary">هذا الجهاز</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">إصدار صوت وعرض على شاشة القفل</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">أهمية عالية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
+---------------------------------------------------------------------------------------
+ <string name="notification_importance_default_title">شديد الأهميّة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">الصوت التلقائي للإشعارات</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">بدون</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">عند الاتصال بجهاز آخر وإلغاء قفل هاتفك، سيتم تطبيق هذه الإعدادات. لذلك يجب الاتصال بالأجهزة الموثوق بها فقط.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">‏تهيئة USB التلقائية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_settings_summary_default">تلقائية</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">تخصيص</string>
@@ -329,6 +1049,36 @@ folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_valu
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">تعيينه كتطبيق الهاتف الإفتراضي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_negative">إلغاء</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_warning_message">سيكون %s قادرا على إجراء ومراقبة جميع المكالمات. يجب تعيين التطبيقات التي تثق بها فقط كتطبيقات افتراضية.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">تم الاتصال تلقائيًا عبر مقدم خدمة تقييم الشبكة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
@@ -353,14 +1103,158 @@ folder="all" application="TeleService.apk" xml="" name="preferred_network_mode_v
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">تم الاتصال تلقائيًا عبر مقدم خدمة تقييم الشبكة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_domain_address">&lt;غير معين></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_password">&lt;غير معين></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_username">&lt;غير معين></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">تم تعيين بعض الإعدادات التلقائية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
+---------------------------------------------------------------------------------------
+ <string name="msim_select_default_time_left">(%d ث)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">قيمة معرّف العملية غير صالحة</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
+---------------------------------------------------------------------------------------
+ <string name="handy_mode_default_to_close_whether_open">تم إيقاف وضع اليد الواحدة افتراضياً. تشغيل وضع اليد الواحدة؟</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">تم الاتصال تلقائيًا عبر مقدم خدمة تقييم الشبكة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
+---------------------------------------------------------------------------------------
+ <string name="default_categories_restored">تمت استعادة الفئات التلقائية.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">لم يتم تعيين إعدادات تلقائية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">تم تعيين بعض الإعدادات التلقائية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
+---------------------------------------------------------------------------------------
+ <string name="restore_default_categories">استعادة الفئات التلقائية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">تلقائي</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">تعيين الصوت الخاص بلغة النص المنطوق</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">اللغة</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">للتأثير في نبرة الكلام المُرَكَّب</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">درجة الصوت</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">سرعة نطق الكلام</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">معدل سرعة الكلام</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">هذا مثال لتركيب الكلام</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
+---------------------------------------------------------------------------------------
+ <string name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
+---------------------------------------------------------------------------------------
+ <string name="feedback_desc_default">لا تعمل بعض الأزرار</string>
 
 

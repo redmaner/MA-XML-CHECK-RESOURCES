@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_image_type"
+---------------------------------------------------------------------------------------
+ <string name="avrcp_cover_art_default_image_type">imatge</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_mimetype"
+---------------------------------------------------------------------------------------
+ <string name="avrcp_cover_art_default_mimetype">JPEG</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="pref_fling_gesture_values"
 ---------------------------------------------------------------------------------------
  <string-array name="pref_fling_gesture_values"> <item>torna_passa</item> <item>switch_tabs</item> <item>cap</item> </string-array>
@@ -11,9 +23,117 @@ folder="all" application="Browser.apk" xml="" name="pref_restore_tabs_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
+---------------------------------------------------------------------------------------
+ <string name="download_dialog_file_length_default_txt">Un moment…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="topic_content_default"
+---------------------------------------------------------------------------------------
+ <string name="topic_content_default">tema</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
  <string name="mw_color_picker_value">Valor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="BugReport.apk" xml="" name="default_text_view"
+---------------------------------------------------------------------------------------
+ <string name="default_text_view">TextView</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="default_separator_text">的</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_text"
+---------------------------------------------------------------------------------------
+ <string name="default_text">我</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_0">sq.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_1">sq.cm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_0">CNY</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_1">USD</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_2"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_2">EUR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_0">C</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_1">F</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_0">min</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_1">s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_0">mps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_1">kmps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_0">cu.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_1">cu.cm</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -101,6 +221,42 @@ folder="all" application="Calendar.apk" xml="" name="timezone_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
+---------------------------------------------------------------------------------------
+ <string name="default_reminder_later_time">Període preestablert pel \"Recorda-m\'ho més tard\"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarms_default_event">Seleccioneu esdeveniments</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_allday_reminder_default_value">480</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_later_time_default_value">300000</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_reminder_default_value"
 ---------------------------------------------------------------------------------------
  <string name="preferences_default_allday_reminder_default_value">480</string>
@@ -137,12 +293,210 @@ folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_default_value"
+---------------------------------------------------------------------------------------
+ <string name="alert_reminder_interval_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_signature_2"
+---------------------------------------------------------------------------------------
+ <string name="default_signature_2">Enviat des del meu %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
+---------------------------------------------------------------------------------------
+ <string name="file_default_save_path_title">Ubicació per defecte per als fitxers adjunts</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_prize_text"
+---------------------------------------------------------------------------------------
+ <string name="default_prize_text">Això va directament al meu tresor!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_user_desc"
+---------------------------------------------------------------------------------------
+ <string name="default_user_desc">"Aquesta persona encara no ha afegit una descripció"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
+---------------------------------------------------------------------------------------
+ <string name="user_desc_default_tip">Inicieu sessió per acumular punts i guanyar premis.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
+---------------------------------------------------------------------------------------
+ <string name="default_debt_msg_words">"Aquest dispositiu està bloquejat a causa d\'un pagament endarrerit. Contacteu amb el seu agent de vendes per a més detalls."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="screen_key_long_press_default_action"
 ---------------------------------------------------------------------------------------
  <string-array name="screen_key_long_press_default_action"> <item>voice_assistant</item> <item>cap</item> <item>cap</item> <item>show_menu</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_channel_label">Sense categoria</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake">Mantingueu la calma i busqueu refugi a prop.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake_and_tsunami">Mantingueu la calma i busqueu refugi a prop.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_test">Prova de missatges d\'emergència</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_tsunami">Evacueu immediatament des de les regions costaneres i les zones riberenques fins a un lloc més segur com el sòl alt.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_channel_label">Sense categoria</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake">Mantingueu la calma i busqueu refugi a prop.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake_and_tsunami">Mantingueu la calma i busqueu refugi a prop.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_test">Prova de missatges d\'emergència</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_tsunami">Evacueu immediatament des de les regions costaneres i les zones riberenques fins a un lloc més segur com el sòl alt.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_default">cercle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
+---------------------------------------------------------------------------------------
+ <string name="default_relation_name">Grup nou</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
+---------------------------------------------------------------------------------------
+ <string name="mark_myself_default_name">Jo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
+---------------------------------------------------------------------------------------
+ <string name="text_edit_dialog_font_default">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
+---------------------------------------------------------------------------------------
+ <string name="video_editor_text_default">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_choose_default_screen">s\'ha triat la pantalla %1$d per convertir-se en la pàgina d\'inici</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_close_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_close_default_preview">tanca la pàgina de selecció d\'inici</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_open_default_preview">obre la pàgina de selecció d\'inici</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
+---------------------------------------------------------------------------------------
+ <string name="default_screen_preview_title">Toqueu per establir la pantalla per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
+---------------------------------------------------------------------------------------
+ <string name="menu_default_screen_preview">Estableix la pantalla per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlock_hint_text"
+---------------------------------------------------------------------------------------
+ <string name="default_lockscreen_unlock_hint_text">Llisqueu amunt per desblocar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">S\'ha definit alguns valors per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="default_text"
+---------------------------------------------------------------------------------------
+ <string name="default_text">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="language_default"
+---------------------------------------------------------------------------------------
+ <string name="language_default">Idioma per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="toast_screen_text_default"
+---------------------------------------------------------------------------------------
+ <string name="toast_screen_text_default">Mida per defecte</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_vibrateWhen"> <item>always</item> <item>en silenci</item> <item>mai</item> </string-array>
@@ -152,12 +506,138 @@ folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_vibrateWhen"> <item>always</item> <item>en silenci</item> <item>mai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">S\'han establert alguns predeterminats</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_title_default"
+---------------------------------------------------------------------------------------
+ <string name="mibi_prepaid_picker_title_default">Seleccioneu la quantitat</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="navigation_search_default_hint">Cerca elements aquí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
+---------------------------------------------------------------------------------------
+ <string name="setting_didi_default_way">Ruta de taxi per defecte</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
+---------------------------------------------------------------------------------------
+ <string name="ad_btn_default_text">Més informació</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_cleared">Esborrat</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_close_summary"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_close_summary">No s\'ha establert els valors per defecte.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_summary"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_summary">Heu decidit executar aquesta aplicació per defecte per a algunes accions.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_title">Esborra els valors per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_defaults_setting">Aplicacions per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="tc_diagnostic_fragment_default">"Quant al diagnòstic 1. El dispositiu es connectarà a la xarxa de l\'operador, enviarà un missatge de franc i esperarà la resposta de la companyia. Això pot trigar fins a 5 minuts. 2. Podreu sortir d\'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="traffic_setting_fragment_default">Trieu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
+---------------------------------------------------------------------------------------
+ <string name="space_des_default">Espai aïllat amb dades xifrades</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
+---------------------------------------------------------------------------------------
+ <string name="space_name_default">Espai de treball</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_summary">Estableix l\'aplicació per defecte per als pagaments, l\'ús compartit, els preferits i molt més.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_title">Aplicació per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_content">Toqueu per canviar-ho</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_main_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_main_title">S\'està utilitzant l\'aplicació per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_xspace_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_guide_notification_xspace_title">S\'està utilitzant aplicacions duals</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_setting_label">Aplicació per defecte</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -197,14 +677,182 @@ folder="all" application="Settings.apk" xml="" name="entryvalues_font_size"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
+---------------------------------------------------------------------------------------
+ <string name="app_default_dashboard_title">Aplicacions per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_default_title">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_summary_default">La brillantor preferida és la per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_calendar_app_title">Aplicació de calendari</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_contacts_app_title">Aplicació de contactes</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_map_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_map_app_title">Aplicació de mapes</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">Assistent de notificacions</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_rule_name"
+---------------------------------------------------------------------------------------
+ <string name="default_rule_name">Temporitzador 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="enterprise_privacy_enterprise_set_default_apps">Aplicacions per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_summary">"Si restringiu la connexió de fons, les noves aplicacions no podran connectar-se a Internet en segon pla després d'instal·lar-les. És possible que no puguin rebre missatges o baixar contingut després d'això. Voleu restringir-la de totes maneres?"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_title">Restricció de la connexió de fons per a noves aplicacions</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
+---------------------------------------------------------------------------------------
+ <string name="notification_importance_default_title">Alta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">So de notificació per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_settings_summary_default">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Personalitzat</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Estableix com a aplicació telefònica per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_negative">Cancel·la</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_warning_message">%s podrà fer i controlar tots els aspectes de les trucades. Només s\'han d\'establir les aplicacions que confieu com l\'aplicació telefònica per defecte.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_domain_address">&lt;No s\'ha configurat&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_password">&lt;No s\'ha configurat&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_username">&lt;No s\'ha configurat&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">S\'ha definit alguns valors per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
+---------------------------------------------------------------------------------------
+ <string name="handy_mode_default_to_close_whether_open">El mode d\'una sola mà està desactivat de manera predeterminada. Voleu activar el mode d\'una sola mà?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="usb_configuration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="usb_configuration_values"> <item>cap</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
+---------------------------------------------------------------------------------------
+ <string name="feedback_desc_default">"Alguns botons no funcionen"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="navigation_search_default_hint">Cerca ubicacions</string>
 
 
