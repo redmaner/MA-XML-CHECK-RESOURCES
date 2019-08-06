@@ -491,9 +491,9 @@ folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_de
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
+folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
- <string name="video_editor_text_default">기본값</string>
+ <string name="channel_default_name">새로운 기능</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -503,45 +503,27 @@ folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
----------------------------------------------------------------------------------------
- <string name="text_edit_dialog_font_default">기본값</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="photomovie_template_default"
----------------------------------------------------------------------------------------
- <string name="photomovie_template_default">느리게</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
 ---------------------------------------------------------------------------------------
  <string name="mark_myself_default_name">나</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="photomovie_audio_default"
----------------------------------------------------------------------------------------
- <string name="photomovie_audio_default">추억</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
----------------------------------------------------------------------------------------
- <string name="channel_default_name">새로운 기능</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
----------------------------------------------------------------------------------------
- <string name="movie_audio_default">추억</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
 ---------------------------------------------------------------------------------------
  <string name="photo_editor_font_default">Mi 랜팅(보통)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
+---------------------------------------------------------------------------------------
+ <string name="text_edit_dialog_font_default">기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
+---------------------------------------------------------------------------------------
+ <string name="video_editor_text_default">기본값</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -479,6 +479,12 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Thiết bị chưa biết</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
 ---------------------------------------------------------------------------------------
  <string name="default_notification_channel_label">Chưa được phân loại</string>
@@ -1057,7 +1063,7 @@ folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
- <string name="todo_audio_default_content">"[nhiệm vụ âm thanh] "</string>
+ <string name="todo_audio_default_content">"[Nhiệm vụ âm thanh] "</string>
 
 
 ---------------------------------------------------------------------------------------

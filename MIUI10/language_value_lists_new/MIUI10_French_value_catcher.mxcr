@@ -38,6 +38,7 @@ all Email.apk strings.xml file_default_save_path_title
 all Email.apk strings.xml recognize_hotel_room_type_value
 all Email.apk strings.xml recognize_hotel_user_names_value
 all FindDevice.apk strings.xml default_debt_msg_words
+all framework-ext-res.apk strings.xml default_device_name
 all framework-ext-res.apk strings.xml subinfo_default_name
 all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml default_audio_route_name_hdmi
@@ -53,7 +54,6 @@ all framework-res.apk strings.xml zen_mode_default_every_night_name
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
-all MiRecycle.apk strings.xml default_error_msg
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text

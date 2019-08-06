@@ -719,27 +719,9 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_timer"
----------------------------------------------------------------------------------------
- <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_google_lens_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_google_lens_default">true</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_video_volumekey_function_default"
----------------------------------------------------------------------------------------
- <string name="pref_video_volumekey_function_default">shutter</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_timer"
----------------------------------------------------------------------------------------
- <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1003,7 +985,7 @@ folder="all" application="PersonalAssistant.apk" xml="" name="display_temperatur
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
- <string name="display_weather_default">Tap to get weather info</string>
+ <string name="display_weather_default">Tocca per le info meteo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1015,13 +997,13 @@ folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_default">Default</string>
+ <string name="notification_channel_default">Predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default_description"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_default_description">Other notifications</string>
+ <string name="notification_channel_default_description">Altre notifiche</string>
 
 
 ---------------------------------------------------------------------------------------

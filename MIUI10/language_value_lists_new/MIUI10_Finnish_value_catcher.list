@@ -53,6 +53,18 @@ folder="all" application="Calculator.apk" xml="" name="relationship_default_text
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
+---------------------------------------------------------------------------------------
+ <string-array name="default_reminder_later_time_labels"> <item>5 minuuttia</item> <item>10 minuuttia</item> <item>15 minuuttia</item> <item>30 minuuttia</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
+---------------------------------------------------------------------------------------
+ <string name="default_reminder_later_time">Oletus aikaväli toiminnolle \"Muistuta myöhemmin\"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
@@ -169,7 +181,7 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
 ---------------------------------------------------------------------------------------
- <string name="subinfo_default_name">SIM-kortti %d</string>
+ <string name="subinfo_default_name">SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -247,13 +259,13 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_48m_watermark_default_text"
 ---------------------------------------------------------------------------------------
- <string name="device_48m_watermark_default_text">48MP KAKSOISKAMERA</string>
+ <string name="device_48m_watermark_default_text">48MP KOLMOISKAMERA</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
 ---------------------------------------------------------------------------------------
- <string name="device_watermark_default_text">AI KAKSOISKAMERA</string>
+ <string name="device_watermark_default_text">AI-KOLMOISKAMERA</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -355,7 +367,7 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
- <string name="default_screen_preview_title">Aseta oletusnäyttö napauttamalla</string>
+ <string name="default_screen_preview_title">Aseta oletusnäyttö</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -494,18 +506,6 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_default_title">Offline video</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Music.apk" xml="" name="signup_type_silent_default"
----------------------------------------------------------------------------------------
- <string name="signup_type_silent_default">äänetön</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Music.apk" xml="" name="signup_type_user_default"
----------------------------------------------------------------------------------------
- <string name="signup_type_user_default">LoginSDK consumer</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -794,6 +794,18 @@ folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_de
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
 ---------------------------------------------------------------------------------------
  <string name="firewall_set_bg_firewall_default_dialog_title">Rajoita uusien sovelluksien taustayhteyttä</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">Oletus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">Toista ääni ja näytä Lukitusnäytöllä</string>
 
 
 ---------------------------------------------------------------------------------------
