@@ -44,6 +44,7 @@ all Email.apk strings.xml default_signature_2
 all Email.apk strings.xml file_default_save_path_title
 all FileExplorer.apk strings.xml user_desc_default_tip
 all FindDevice.apk strings.xml default_debt_msg_words
+all framework-ext-res.apk strings.xml default_device_name
 all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml default_notification_channel_label
 all framework-res.apk strings.xml etws_primary_default_message_earthquake

@@ -251,6 +251,12 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Unbekanntes Gerät</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
 ---------------------------------------------------------------------------------------
  <string name="subinfo_default_name">SIM %d</string>

@@ -425,9 +425,33 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_ti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="device_india_watermark_default_text"
+---------------------------------------------------------------------------------------
+ <string name="device_india_watermark_default_text"></string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Zoom</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Apagado</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Película</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Imagen</string>
 
 
 ---------------------------------------------------------------------------------------

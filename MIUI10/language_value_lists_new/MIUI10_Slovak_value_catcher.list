@@ -917,6 +917,12 @@ folder="all" application="framework-res.apk" xml="" name="app_suspended_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Overte, že ste to vy</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_hdmi"
 ---------------------------------------------------------------------------------------
  <string name="default_audio_route_name_hdmi">HDMI</string>
@@ -989,6 +995,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="mobile_data_disable_mes
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">Predvolené</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
 ---------------------------------------------------------------------------------------
  <string name="account_dashboard_default_summary">Neboli pridané žiadne účty</string>
@@ -1031,6 +1043,30 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">Predvolená pre hovory</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Predvolená pre hovory a SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Predvolená pre mobilné dáta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">Predvolená pre SMS</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
  <string name="default_map_app_title">Aplikácia Mapa</string>
@@ -1039,7 +1075,7 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Asistent upozornení</string>
+ <string name="default_notification_assistant">Adaptívne upozornenia</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1055,15 +1091,15 @@ folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterpri
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_browser">predvolené, predvolený prehliadač</string>
+ <string name="game_driver_app_preference_default">Predvolené</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_links">predvolené</string>
+ <string name="keywords_app_default">Otvoriť v aplikácii</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1081,7 +1117,7 @@ folder="all" application="Settings.apk" xml="" name="media_output_default_summar
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">Vysoká dôležitosť</string>
+ <string name="notification_channel_summary_default">Upúta vás zvukom alebo vibráciami</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1097,9 +1133,21 @@ folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Predvolené nastavenie zariadenia</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Predvolené nastavenie zariadenia</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1118,6 +1166,12 @@ folder="all" application="Settings.apk" xml="" name="usb_default_label"
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="wallpaper_settings_summary_default">Predvolené</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Použiť predvolené nastavenia</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4295,6 +4349,12 @@ folder="all" application="framework-res.apk" xml="" name="app_suspended_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Overte, že ste to vy</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_hdmi"
 ---------------------------------------------------------------------------------------
  <string name="default_audio_route_name_hdmi">HDMI</string>
@@ -4367,6 +4427,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="mobile_data_disable_mes
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">Predvolené</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
 ---------------------------------------------------------------------------------------
  <string name="account_dashboard_default_summary">Neboli pridané žiadne účty</string>
@@ -4409,6 +4475,30 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">Predvolená pre hovory</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Predvolená pre hovory a SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Predvolená pre mobilné dáta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">Predvolená pre SMS</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
  <string name="default_map_app_title">Aplikácia Mapa</string>
@@ -4417,7 +4507,7 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Asistent upozornení</string>
+ <string name="default_notification_assistant">Adaptívne upozornenia</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4433,15 +4523,15 @@ folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterpri
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_browser">predvolené, predvolený prehliadač</string>
+ <string name="game_driver_app_preference_default">Predvolené</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_links">predvolené</string>
+ <string name="keywords_app_default">Otvoriť v aplikácii</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4459,7 +4549,7 @@ folder="all" application="Settings.apk" xml="" name="media_output_default_summar
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">Vysoká dôležitosť</string>
+ <string name="notification_channel_summary_default">Upúta vás zvukom alebo vibráciami</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4475,9 +4565,21 @@ folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Predvolené nastavenie zariadenia</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Predvolené nastavenie zariadenia</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4496,6 +4598,12 @@ folder="all" application="Settings.apk" xml="" name="usb_default_label"
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="wallpaper_settings_summary_default">Predvolené</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Použiť predvolené nastavenia</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -6695,6 +6803,12 @@ folder="all" application="FileExplorerGlobal.apk" xml="" name="default_change_lo
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Neznáme zariadenie</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
@@ -7064,6 +7178,90 @@ folder="all" application="NotificationCenter.apk" xml="" name="default_list_type
 folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Some defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected"
+---------------------------------------------------------------------------------------
+ <string name="car_default_app_selected">Vybrané</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected_with_info"
+---------------------------------------------------------------------------------------
+ <string name="car_default_app_selected_with_info">Vybrané – %1$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_no_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_app_no_apps">Žiadne aplikácie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_none"
+---------------------------------------------------------------------------------------
+ <string name="default_app_none">Žiadna</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_search_keyword"
+---------------------------------------------------------------------------------------
+ <string name="default_app_search_keyword">predvolené aplikácie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_system_default"
+---------------------------------------------------------------------------------------
+ <string name="default_app_system_default">(Predvolená systémová)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_apps">Predvolené aplikácie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_for_work"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_for_work">Predvolené na prácu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_manage_domain_urls"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_manage_domain_urls">Otváranie odkazov</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_more"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_more">Ďalšie predvolené nastavenia</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">umožňuje vykonať neznámu akciu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="no_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="no_default_apps">Žiadne predvolené aplikácie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="request_role_current_default"
+---------------------------------------------------------------------------------------
+ <string name="request_role_current_default">Aktuálne predvolená</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="request_role_set_as_default"
+---------------------------------------------------------------------------------------
+ <string name="request_role_set_as_default">Nastav. ako predvol.</string>
 
 
 ---------------------------------------------------------------------------------------

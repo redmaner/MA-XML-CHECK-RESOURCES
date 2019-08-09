@@ -275,6 +275,12 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Neznana naprava</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">Aplikacija %1$s trenutno ni na voljo. To upravlja aplikacija %2$s.</string>

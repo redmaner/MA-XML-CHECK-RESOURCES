@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">"Il n’ya pas assez d’espace sur la carte SD pour enregistrer le fichier. \"%1$s\""</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Pas de carte SD. Insérez une carte SD pour enregistrer les fichiers transférés.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Chargement…</string>
@@ -146,6 +158,108 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
 ---------------------------------------------------------------------------------------
  <string name="pref_default_popup_alert_value">intelligente</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="bt_hci_snoop_log_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bt_hci_snoop_log_values"> <item>disabled</item> <item>filtered</item> <item>full</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="enable_opengl_traces_values"
+---------------------------------------------------------------------------------------
+ <string-array name="enable_opengl_traces_values"> <item>0</item> <item>1</item> <item>systrace</item> <item>error</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>never</item> <item>drm-only</item> <item>always</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item></item> <item>all</item> <item>default,security,kernel</item> <item>kernel</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>hide</item> <item>region</item> <item>highlight</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="usb_configuration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="usb_configuration_values"> <item>none</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">No defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Some defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Language</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Pitch</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Speech rate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">This is an example of speech synthesis</string>
 
 
 ---------------------------------------------------------------------------------------

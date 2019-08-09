@@ -223,7 +223,7 @@ folder="all" application="Calculator.apk" xml="" name="relationship_default_text
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
- <string-array name="default_reminder_later_time_labels"> <item>5 phút</item> <item>10 phút</item> <item>15 phút</item> <item>30 phút</item> </string-array>
+ <string-array name="default_reminder_later_time_labels"> <item>5 phút</item> <item>10 phút</item> <item>15 phút</item> <item>30 phút</item> <item>1 tiếng</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

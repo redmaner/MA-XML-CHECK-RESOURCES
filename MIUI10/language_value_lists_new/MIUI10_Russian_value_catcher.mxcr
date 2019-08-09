@@ -42,6 +42,7 @@ all Email.apk strings.xml file_default_save_path_title
 all Email.apk strings.xml recognize_hotel_room_type_value
 all Email.apk strings.xml recognize_hotel_user_names_value
 all FindDevice.apk strings.xml default_debt_msg_words
+all framework-ext-res.apk strings.xml default_device_name
 all framework-ext-res.apk strings.xml subinfo_default_name
 all framework-res.apk strings.xml default_notification_channel_label
 all framework-res.apk strings.xml etws_primary_default_message_earthquake
@@ -112,6 +113,7 @@ all PersonalAssistant.apk strings.xml flybird_default_channel_main
 all PersonalAssistant.apk strings.xml flybird_setting_use_default
 all PersonalAssistant.apk strings.xml mini_error_title_default
 all PersonalAssistant.apk strings.xml notification_channel_default
+all PersonalAssistant.apk strings.xml notification_channel_default_description
 all PersonalAssistant.apk strings.xml flybird_nopwd_value_label
 all PersonalAssistantGlobal.apk strings.xml setting_uber_default_way
 all PersonalAssistantGlobal.apk strings.xml upgrade_log_default

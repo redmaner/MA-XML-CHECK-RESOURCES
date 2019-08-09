@@ -179,6 +179,12 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Nieznane urządzenie</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
 ---------------------------------------------------------------------------------------
  <string name="subinfo_default_name">SIM %d</string>
@@ -650,6 +656,90 @@ folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
 folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Część ustawień domyślnych</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected"
+---------------------------------------------------------------------------------------
+ <string name="car_default_app_selected">Wybrana</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected_with_info"
+---------------------------------------------------------------------------------------
+ <string name="car_default_app_selected_with_info">Wybrana – %1$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_no_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_app_no_apps">Brak aplikacji</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_none"
+---------------------------------------------------------------------------------------
+ <string name="default_app_none">Brak</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_search_keyword"
+---------------------------------------------------------------------------------------
+ <string name="default_app_search_keyword">aplikacje domyślne</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_system_default"
+---------------------------------------------------------------------------------------
+ <string name="default_app_system_default">(Domyślna aplikacja systemu)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_apps">Aplikacje domyślne</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_for_work"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_for_work">Domyślne do pracy</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_manage_domain_urls"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_manage_domain_urls">Otwieranie linków</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_more"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_more">Więcej ustawień domyślnych</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">wykonywanie nieznanych działań</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="no_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="no_default_apps">Brak domyślnych aplikacji</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="request_role_current_default"
+---------------------------------------------------------------------------------------
+ <string name="request_role_current_default">Bieżąca aplikacja domyślna</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="request_role_set_as_default"
+---------------------------------------------------------------------------------------
+ <string name="request_role_set_as_default">Ustaw jako domyślną</string>
 
 
 ---------------------------------------------------------------------------------------
