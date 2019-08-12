@@ -69,7 +69,11 @@ all MiDrop.apk strings.xml default_lang
 all MiDrop.apk strings.xml default_lang
 all MiRecycle.apk strings.xml default_error_msg
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
+all MiuiCamera.apk strings.xml device_india_watermark_default_text
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
+all MiuiCamera.apk strings.xml pref_camera_snap_value_off
+all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
+all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
 all MiuiGallery.apk strings.xml default_relation_name
 all MiuiGallery.apk strings.xml mark_myself_default_name
 all MiuiGallery.apk strings.xml photomovie_audio_default

@@ -329,6 +329,12 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">알 수 없는 장치</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
 ---------------------------------------------------------------------------------------
  <string name="default_notification_channel_label">분류되지 않음</string>

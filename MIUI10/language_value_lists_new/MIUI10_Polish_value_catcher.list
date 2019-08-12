@@ -1169,6 +1169,12 @@ folder="all" application="Settings.apk" xml="" name="default_for_sms"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">Powiadomienia adaptacyjne</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
 ---------------------------------------------------------------------------------------
  <string name="game_driver_app_preference_default">Domyślny</string>
@@ -1178,6 +1184,12 @@ folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_
 folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
  <string name="keywords_app_default">Otwórz w:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Przyciąga uwagę dźwiękiem lub wibracjami</string>
 
 
 ---------------------------------------------------------------------------------------

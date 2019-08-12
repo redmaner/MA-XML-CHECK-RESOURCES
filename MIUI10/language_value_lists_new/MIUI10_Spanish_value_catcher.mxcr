@@ -69,7 +69,6 @@ all MiDrop.apk strings.xml default_lang
 all MiDrop.apk strings.xml default_lang
 all MiRecycle.apk strings.xml default_error_msg
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
-all MiuiCamera.apk strings.xml device_india_watermark_default_text
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
@@ -141,6 +140,7 @@ all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
 all Notes.apk strings.xml audio_panel_time_counter_default
 all Notes.apk strings.xml audio_panel_time_counter_default
+all Notes.apk strings.xml todo_audio_default_content
 all NotificationCenter.apk strings.xml default_list_type
 all NotificationCenter.apk strings.xml default_list_type
 all PersonalAssistant.apk strings.xml flybird_default_channel

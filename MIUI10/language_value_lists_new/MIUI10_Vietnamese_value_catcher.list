@@ -17,6 +17,18 @@ folder="all" application="Bluetooth.apk" xml="" name="map_defaultname"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">"Không đủ dung lượng trống trong thẻ SD để lưu mục từ \"%1$s\""</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Không có thẻ SD. Lắp thẻ SD để lưu tệp đã truyền.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
  <string name="ad_btn_default_text">Cài đặt</string>
@@ -293,6 +305,72 @@ folder="all" application="CallFeaturesSetting.apk" xml="" name="call_barring_inc
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Tự động kết nối thông qua nhà cung cấp xếp hạng mạng</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Chưa đặt mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Đã đặt một số ứng dụng chạy mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Đặt giọng nói ngôn ngữ cụ thể cho văn bản nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Ngôn ngữ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Ảnh hưởng đến âm điệu giọng nói được tổng hợp</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Độ cao</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Tốc độ đọc văn bản</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Tốc độ nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Đây là một ví dụ về tổng hợp tiếng nói</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
  <string name="battery_value">Mức pin</string>
@@ -548,6 +626,12 @@ folder="all" application="framework-res.apk" xml="" name="default_audio_route_na
 folder="all" application="framework-res.apk" xml="" name="fingerprint_default_name"
 ---------------------------------------------------------------------------------------
  <string name="fingerprint_default_name">Vân tay %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Xác nhận đó là bạn</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1121,6 +1205,90 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remai
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">Thực hiện hành động không rõ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="no_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="no_default_apps">Ko có ứng dụng mặc định.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected"
+---------------------------------------------------------------------------------------
+ <string name="car_default_app_selected">Đã chọn</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected_with_info"
+---------------------------------------------------------------------------------------
+ <string name="car_default_app_selected_with_info">Đã chọn - %1$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_no_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_app_no_apps">Không có ứng dụng</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_none"
+---------------------------------------------------------------------------------------
+ <string name="default_app_none">Không</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_search_keyword"
+---------------------------------------------------------------------------------------
+ <string name="default_app_search_keyword">Ứng dụng mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_system_default"
+---------------------------------------------------------------------------------------
+ <string name="default_app_system_default">(Mặc định hệ thống)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_apps">Ứng dụng mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_for_work"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_for_work">Mặc định cho công việc</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_manage_domain_urls"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_manage_domain_urls">Mở liên kết</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_more"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_more">Thêm mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="request_role_current_default"
+---------------------------------------------------------------------------------------
+ <string name="request_role_current_default">Mặc định hiện tại</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="request_role_set_as_default"
+---------------------------------------------------------------------------------------
+ <string name="request_role_set_as_default">Đặt làm mặc định</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Mới! Bạn đang có quyền kiểm soát - hãy chọn thông tin bạn muốn chia sẻ với các ứng dụng.</string>
@@ -1625,6 +1793,72 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">Tự động cho cuộc gọi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Tự động cho cuộc gọi &amp; SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Tự động cho dữ liệu di động</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">Tự động cho SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Mở với</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Mặc định thiết bị</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">Khôi phục apn mặc định thất bại</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Mặc định thiết bị</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Sử dụng cài đặt mặc định</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Tùy chỉnh</string>
@@ -1805,6 +2039,36 @@ folder="all" application="Telecom.apk" xml="" name="preference_summary_default_c
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Đặt mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">Hủy</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">Đặt %s làm ứng dụng sàng lọc cuộc gọi mặc định?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s sẽ có thể thấy thông tin về người gọi không có trong danh bạ của bạn và có thể chặn các cuộc gọi đó. Chỉ nên đặt ứng dụng bạn tin tưởng làm ứng dụng sàng lọc cuộc gọi mặc định.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s không còn có thể sàng lọc cuộc gọi.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Đã đặt một số ứng dụng chạy mặc định</string>
@@ -1856,6 +2120,72 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Chế độ một tay mặc định tắt. Bật Chế độ một tay?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Tự động kết nối thông qua nhà cung cấp xếp hạng mạng</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Chưa đặt mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Đã đặt một số ứng dụng chạy mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Đặt giọng nói ngôn ngữ cụ thể cho văn bản nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Ngôn ngữ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Ảnh hưởng đến âm điệu giọng nói được tổng hợp</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Độ cao</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Tốc độ đọc văn bản</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Tốc độ nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Đây là một ví dụ về tổng hợp tiếng nói</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -59,6 +59,7 @@ all FileExplorer.apk strings.xml default_prize_text
 all FileExplorer.apk strings.xml default_user_desc
 all FileExplorer.apk strings.xml user_desc_default_tip
 all FindDevice.apk strings.xml default_debt_msg_words
+all framework-ext-res.apk strings.xml default_device_name
 all framework-ext-res.apk strings.xml subinfo_default_name
 all framework-res.apk strings.xml config_defaultAccessibilityService
 all framework-res.apk strings.xml config_defaultAutofillService
@@ -183,6 +184,7 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_main_title
 all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
+all Settings.apk arrays.xml data_network_type_name_default
 all Settings.apk arrays.xml default_vol_stream_entries
 all Settings.apk strings.xml accessibility_summary_default_combination
 all Settings.apk strings.xml app_default_dashboard_title

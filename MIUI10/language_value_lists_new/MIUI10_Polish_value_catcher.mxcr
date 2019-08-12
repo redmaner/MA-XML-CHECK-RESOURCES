@@ -193,8 +193,10 @@ all Settings.apk strings.xml default_for_calls
 all Settings.apk strings.xml default_for_calls_and_sms
 all Settings.apk strings.xml default_for_mobile_data
 all Settings.apk strings.xml default_for_sms
+all Settings.apk strings.xml default_notification_assistant
 all Settings.apk strings.xml game_driver_app_preference_default
 all Settings.apk strings.xml keywords_app_default
+all Settings.apk strings.xml notification_channel_summary_default
 all Settings.apk strings.xml overlay_option_device_default
 all Settings.apk strings.xml reset_default_apn_failed
 all Settings.apk strings.xml theme_customization_device_default

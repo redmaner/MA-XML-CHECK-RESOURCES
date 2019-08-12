@@ -425,12 +425,6 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_ti
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_india_watermark_default_text"
----------------------------------------------------------------------------------------
- <string name="device_india_watermark_default_text"></string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Zoom</string>
@@ -854,6 +848,12 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
+---------------------------------------------------------------------------------------
+ <string name="todo_audio_default_content">"[Tarea de voz] "</string>
 
 
 ---------------------------------------------------------------------------------------
