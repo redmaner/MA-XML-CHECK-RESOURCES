@@ -371,9 +371,81 @@ folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_sa
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_modem_feature_config_default"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_modem_feature_config_default">"cấu hình faeture hiện tại như mặc định"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_no_default_notfiy"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_mbn_no_default_notfiy">"Không có MBN mặc định"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_default_notfiy"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_mbn_default_notfiy">"MBN mặc định"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_recovery_default"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_mbn_recovery_default">"Phục hồi mặc định MBN"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_frr_test_threshold_default">"Ít hơn %1"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_far_test_threshold_default">"Ít hơn 0,002%"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
  <string name="battery_value">Mức pin</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueT">"Nhiệt độ:"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value_set"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_modem_test_device_value_set">"sửa đổi trạng thái thiết bị"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_frr_test_threshold_default">"Ít hơn %1"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="frr_filter_value"
+---------------------------------------------------------------------------------------
+ <string name="frr_filter_value">"Tỷ lệ loại bỏ sau khi lọc:"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_far_test_threshold_default">"Ít hơn 0,002%"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="frr_value"
+---------------------------------------------------------------------------------------
+ <string name="frr_value">"Tỷ lệ từ chối:"</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2186,6 +2258,24 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
 folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">Đây là một ví dụ về tổng hợp tiếng nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
+---------------------------------------------------------------------------------------
+ <string name="restore_default_categories">Khôi phục danh mục mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
+---------------------------------------------------------------------------------------
+ <string name="default_categories_restored">Đã khôi phục danh mục mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories"
+---------------------------------------------------------------------------------------
+ <string name="default_categories">Mặc định</string>
 
 
 ---------------------------------------------------------------------------------------

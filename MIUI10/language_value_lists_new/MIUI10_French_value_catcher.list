@@ -733,31 +733,31 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_t
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money"
 ---------------------------------------------------------------------------------------
- <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Credits</string>
+ <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Coins</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money_special_unit"
 ---------------------------------------------------------------------------------------
- <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Credits</string>
+ <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Coins</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value"
 ---------------------------------------------------------------------------------------
- <string name="mibi_unit_value">%1$s Mi Credit</string>
+ <string name="mibi_unit_value">%1$s Mi Coin</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redeemed"
 ---------------------------------------------------------------------------------------
- <string name="mibi_unit_value_redeemed">%1$s Mi Credit redeemed</string>
+ <string name="mibi_unit_value_redeemed">%1$s Mi Coin redeemed</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
 ---------------------------------------------------------------------------------------
- <string name="mibi_unit_value_remained">%1$s Mi Credit remained</string>
+ <string name="mibi_unit_value_remained">%1$s Mi Coin remained</string>
 
 
 ---------------------------------------------------------------------------------------

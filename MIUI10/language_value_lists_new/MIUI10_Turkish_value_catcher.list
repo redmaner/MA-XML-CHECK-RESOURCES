@@ -1,16 +1,4 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_fling_gesture_values"
----------------------------------------------------------------------------------------
- <string-array name="pref_fling_gesture_values"> <item>back_forward</item> <item>switch_tabs</item> <item>yok</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_navscreen_layoutstate_values"
----------------------------------------------------------------------------------------
- <string-array name="pref_navscreen_layoutstate_values"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Sadece bir saniye…</string>
@@ -941,6 +929,90 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected"
+---------------------------------------------------------------------------------------
+ <string name="car_default_app_selected">Seçili</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected_with_info"
+---------------------------------------------------------------------------------------
+ <string name="car_default_app_selected_with_info">Seçildi - %1$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_no_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_app_no_apps">Uygulama yok</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_none"
+---------------------------------------------------------------------------------------
+ <string name="default_app_none">Yok</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_search_keyword"
+---------------------------------------------------------------------------------------
+ <string name="default_app_search_keyword">varsayılan uygulamalar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_app_system_default"
+---------------------------------------------------------------------------------------
+ <string name="default_app_system_default">(Sistem varsayılanı)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_apps">Varsayılan uygulamalar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_for_work"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_for_work">İş için varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_manage_domain_urls"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_manage_domain_urls">Bağlantıları açma</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_apps_more"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_more">Diğer varsayılanlar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">bilinmeyen bir işlem gerçekleştirme</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="no_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="no_default_apps">Varsayılan uygulama yok</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="request_role_current_default"
+---------------------------------------------------------------------------------------
+ <string name="request_role_current_default">Mevcut varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="request_role_set_as_default"
+---------------------------------------------------------------------------------------
+ <string name="request_role_set_as_default">Varsayılan olarak ayarla</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
  <string name="display_weather_default">Hava durumu bilgisi almak için dokunun</string>
@@ -1309,6 +1381,30 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
 ---------------------------------------------------------------------------------------
  <string name="online_recognize_order_unit_price_value">Saatte %s RMB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Varsayılanı Ayarla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_negative">İptal</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_warning_message">%s, çağrıların tüm yönlerine erişebilecek ve kontrol edebilecektir. Yalnızca güvendiğiniz uygulamalar varsayılan Telefon uygulaması olarak ayarlanmalıdır.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcısı üzerinden otomatik olarak bağlandı</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -6161,6 +6161,12 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Neznámé zařízení</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 minut</item> <item>30 minut</item> <item>45 minut</item> <item>1 hodina</item> </string-array>
