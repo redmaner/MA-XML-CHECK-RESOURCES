@@ -91,6 +91,7 @@ all FactoryMode.apk strings.xml device_info_default
 all FactoryTestKit.apk strings.xml gsensor_value
 all FactoryTestKit.apk strings.xml sensor_value
 all FindDevice.apk strings.xml default_debt_msg_words
+all framework-ext-res.apk strings.xml default_device_name
 all framework-ext-res.apk strings.xml subinfo_default_name
 all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml default_audio_route_name_hdmi
@@ -161,13 +162,8 @@ all Mms.apk strings.xml rcs_pref_video_message_default_quality
 all PackageInstaller.apk strings.xml connected_via_network_scorer_default
 all PackageInstaller.apk strings.xml launch_defaults_some
 all PaymentService.apk strings.xml mibi_prepaid_picker_title_default
-all PersonalAssistant.apk strings.xml display_temperature_default
-all PersonalAssistant.apk strings.xml display_weather_default
 all PersonalAssistant.apk strings.xml navigation_search_default_hint
-all PersonalAssistant.apk strings.xml notification_channel_default
-all PersonalAssistant.apk strings.xml notification_channel_default_description
 all PersonalAssistant.apk strings.xml setting_didi_default_way
-all PersonalAssistant.apk strings.xml time_default
 all PersonalAssistant.apk strings.xml upgrade_log_default
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika

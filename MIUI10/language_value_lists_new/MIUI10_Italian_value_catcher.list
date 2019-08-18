@@ -557,6 +557,12 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Unknown device</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
 ---------------------------------------------------------------------------------------
  <string name="subinfo_default_name">SIM %d</string>
@@ -977,45 +983,15 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_t
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="display_temperature_default"
----------------------------------------------------------------------------------------
- <string name="display_temperature_default">--℃</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
----------------------------------------------------------------------------------------
- <string name="display_weather_default">Tocca per le info meteo</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Cerca elementi qui</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default"
----------------------------------------------------------------------------------------
- <string name="notification_channel_default">Predefinito</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default_description"
----------------------------------------------------------------------------------------
- <string name="notification_channel_default_description">Altre notifiche</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
 ---------------------------------------------------------------------------------------
  <string name="setting_didi_default_way">Tragitto predefinito taxi</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="time_default"
----------------------------------------------------------------------------------------
- <string name="time_default">—:—</string>
 
 
 ---------------------------------------------------------------------------------------

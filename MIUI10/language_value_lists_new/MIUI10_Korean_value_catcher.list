@@ -1133,39 +1133,15 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"진단에 대해서 1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다. 2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다."</string>
+ <string name="ad_btn_default_text">더 알아보기</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default"
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
 ---------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default">자동 (권장됨)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default_short"
----------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default_short">자동</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="menu_text_power_percent_title_default"
----------------------------------------------------------------------------------------
- <string name="menu_text_power_percent_title_default">배터리</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open"
----------------------------------------------------------------------------------------
- <string name="app_manager_default_open">기본 실행</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
----------------------------------------------------------------------------------------
- <string name="app_manager_default_open_title">기본 작업 제거</string>
+ <string name="app_manager_default_cleared">삭제됨</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1181,45 +1157,9 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_o
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
 ---------------------------------------------------------------------------------------
- <string name="ad_btn_default_text">더 알아보기</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_auto_shutdown_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_auto_shutdown_summary_default">예약된 시간에 기기 전원 켜짐 또는 꺼짐</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_custom_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_custom_summary_default">사용자 프로필로 배터리 수명 개선</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_low_battery_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_low_battery_summary_default">배터리 부족 시 프로필 전환</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_on_time_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_on_time_summary_default">예약된 시간에 배터리 프로필 전환</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_delete_dialog_cannot_delete_default"
----------------------------------------------------------------------------------------
- <string name="power_dialog_delete_dialog_cannot_delete_default">현재 이 프로필을 사용 중입니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
----------------------------------------------------------------------------------------
- <string name="app_manager_default_cleared">삭제됨</string>
+ <string name="app_manager_default_open_title">기본 작업 제거</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1232,6 +1172,14 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 folder="all" application="SecurityCenter.apk" xml="" name="lucky_alarm_count_down_default"
 ---------------------------------------------------------------------------------------
  <string name="lucky_alarm_count_down_default">0:00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="tc_diagnostic_fragment_default">진단에 대해서
+1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다.
+2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다.</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -955,7 +955,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="menu_text_power_perce
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"Über Diagnose 1. Das Gerät stellt eine Verbindung zum Netzbetreiber her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Netzbetreibers. Das kann bis zu 5 Minuten dauern. 2. Sie können die Seite während der Diagnose verlassen, sie wird im Hintergrund ausgeführt."</string>
+ <string name="tc_diagnostic_fragment_default">"Über Diagnose 1. Das Gerät stellt eine Verbindung zum Anbieter her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Anbieters. Das kann bis zu 5 Minuten dauern. 2. Sie können die Seite während der Diagnose verlassen, sie wird im Hintergrund ausgeführt."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -967,7 +967,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragm
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
- <string name="daily_card_setting_fragment_daily_card_brand_value">Netzbetreiber auswählen</string>
+ <string name="daily_card_setting_fragment_daily_card_brand_value">Anbieter auswählen</string>
 
 
 ---------------------------------------------------------------------------------------
