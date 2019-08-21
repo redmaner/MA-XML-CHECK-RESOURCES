@@ -6437,30 +6437,6 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="default_text"
----------------------------------------------------------------------------------------
- <string name="default_text">Výchozí</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="language_default"
----------------------------------------------------------------------------------------
- <string name="language_default">Výchozí jazyk</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="toast_screen_text_default"
----------------------------------------------------------------------------------------
- <string name="toast_screen_text_default">Výchozí velikost</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
----------------------------------------------------------------------------------------
- <string name="defaults">Výchozí</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Music.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Je to jen na vás – nastavte si, které informace chcete s aplikacemi sdílet.</string>

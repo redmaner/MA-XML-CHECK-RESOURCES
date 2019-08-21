@@ -331,7 +331,7 @@ folder="all" application="MiRadio.apk" xml="" name="default_songtab_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="empty_view_default_text"
 ---------------------------------------------------------------------------------------
- <string name="empty_view_default_text">No content</string>
+ <string name="empty_view_default_text">Нет содержимого</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1129,7 +1129,7 @@ folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
- <string name="notifi_importance_default">Звук и вибрация отключены</string>
+ <string name="notifi_importance_default">Звук и вибрация разрешены</string>
 
 
 ---------------------------------------------------------------------------------------

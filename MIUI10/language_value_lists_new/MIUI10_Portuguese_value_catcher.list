@@ -173,6 +173,12 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Dispositivo desconhecido</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
 ---------------------------------------------------------------------------------------
  <string name="subinfo_default_name">SIM %d</string>
@@ -224,12 +230,6 @@ folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 minutos</item> <item>30 minutos</item> <item>45 minutos</item> <item>1 hora</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
----------------------------------------------------------------------------------------
- <string name="default_error_msg">Erro!</string>
 
 
 ---------------------------------------------------------------------------------------

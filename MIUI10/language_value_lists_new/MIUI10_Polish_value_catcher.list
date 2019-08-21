@@ -407,6 +407,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Nieznane urządzenie</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 ---------------------------------------------------------------------------------------
  <string name="default_relation_name">Nowa grupa</string>

@@ -815,18 +815,6 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_n
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="signup_type_silent_default"
----------------------------------------------------------------------------------------
- <string name="signup_type_silent_default">sessiz</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="signup_type_user_default"
----------------------------------------------------------------------------------------
- <string name="signup_type_user_default">SDK kullanıcı girişi</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="t_lv_subtitle_padding_default_hint">Altyazılar ayarlanıyor…</string>
@@ -1102,27 +1090,11 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default"
----------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default">Otomatik (tavsiyeli)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default_short"
----------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default_short">Otomatik</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="lucky_alarm_count_down_default"
----------------------------------------------------------------------------------------
- <string name="lucky_alarm_count_down_default">0:00:00</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"Teşhis hakkında 1. Cihaz, operatör şebekesine bağlanır, ücretsiz bir mesaj gönderir ve operatör yanıtını bekler. Bu işlem 5 dakika kadar sürebilir. 2. Teşhis arka planda gerçekleştirilir, bu sayfadan çıkabilirsiniz."</string>
+ <string name="tc_diagnostic_fragment_default">Teşhis hakkında
+1. Cihaz, operatör şebekesine bağlanır, ücretsiz bir mesaj gönderir ve operatör yanıtını bekler. Bu işlem 5 dakika kadar sürebilir.
+2. Teşhis arka planda gerçekleştirilir, bu sayfadan çıkabilirsiniz.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1408,27 +1380,27 @@ folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="default_image_pick"
+folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="default_image_pick">Galeriden resim seçin</string>
+ <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcısı aracılığıyla otomatik olarak bağlandı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">&lt;Belirlenmedi&gt;</string>
+ <string name="default_preference_summary_domain_address">&lt;Ayarlanmadı></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">&lt;Belirlenmedi&gt;</string>
+ <string name="default_preference_summary_password">&lt;Ayarlanmadı></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">&lt;Belirlenmedi&gt;</string>
+ <string name="default_preference_summary_username">&lt;Ayarlanmadı></string>
 
 
 ---------------------------------------------------------------------------------------

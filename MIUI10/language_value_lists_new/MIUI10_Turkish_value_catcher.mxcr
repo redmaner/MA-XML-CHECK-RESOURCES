@@ -134,8 +134,6 @@ all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml com_facebook_tooltip_default
 all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
-all MiuiVideoGlobal.apk strings.xml signup_type_silent_default
-all MiuiVideoGlobal.apk strings.xml signup_type_user_default
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
 all Mms.apk arrays.xml prefValues_vibrateWhen
 all Mms.apk arrays.xml prefValues_vibrateWhen
@@ -181,9 +179,6 @@ all SecurityCenter.apk strings.xml app_manager_default_close_summary
 all SecurityCenter.apk strings.xml app_manager_default_open_summary
 all SecurityCenter.apk strings.xml app_manager_default_open_title
 all SecurityCenter.apk strings.xml app_manager_defaults_setting
-all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default
-all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default_short
-all SecurityCenter.apk strings.xml lucky_alarm_count_down_default
 all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
@@ -232,7 +227,7 @@ all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml change_default_dialer_dialog_negative
 all Telecom.apk strings.xml change_default_dialer_warning_message
 all Telecom.apk strings.xml connected_via_network_scorer_default
-all TeleService.apk strings.xml default_image_pick
+all TeleService.apk strings.xml connected_via_network_scorer_default
 all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password
 all TeleService.apk strings.xml default_preference_summary_username

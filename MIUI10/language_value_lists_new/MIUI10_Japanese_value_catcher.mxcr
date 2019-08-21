@@ -22,6 +22,7 @@ all EmergencyInfo.apk strings.xml tts_default_pitch_title
 all EmergencyInfo.apk strings.xml tts_default_rate_summary
 all EmergencyInfo.apk strings.xml tts_default_rate_title
 all EmergencyInfo.apk strings.xml tts_default_sample_string
+all framework-ext-res.apk strings.xml default_device_name
 all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml popup_window_default_title
 all MiRadio.apk arrays.xml sleep_duration_values

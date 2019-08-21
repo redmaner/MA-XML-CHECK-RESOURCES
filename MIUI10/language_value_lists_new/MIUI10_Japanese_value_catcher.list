@@ -143,6 +143,12 @@ folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_sample_str
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">不明な端末</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">現在、%1$s は使用できません。このアプリの使用は [%2$s] で管理されています。</string>
@@ -409,31 +415,31 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_t
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money"
 ---------------------------------------------------------------------------------------
- <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Credits</string>
+ <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Coins</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money_special_unit"
 ---------------------------------------------------------------------------------------
- <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Credits</string>
+ <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Coins</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value"
 ---------------------------------------------------------------------------------------
- <string name="mibi_unit_value">%1$s Mi Credit</string>
+ <string name="mibi_unit_value">%1$s Mi Coins</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redeemed"
 ---------------------------------------------------------------------------------------
- <string name="mibi_unit_value_redeemed">%1$s Mi Credit redeemed</string>
+ <string name="mibi_unit_value_redeemed">%1$s Mi Coins redeemed</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
 ---------------------------------------------------------------------------------------
- <string name="mibi_unit_value_remained">%1$s Mi Credit remained</string>
+ <string name="mibi_unit_value_remained">%1$s Mi Coins remained</string>
 
 
 ---------------------------------------------------------------------------------------
