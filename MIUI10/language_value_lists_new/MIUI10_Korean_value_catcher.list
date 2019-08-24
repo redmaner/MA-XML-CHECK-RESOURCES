@@ -221,6 +221,12 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">기본 앱을 사용하여 첨부 파일 열기</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="EngineerMode.apk" xml="" name="cfu_default"
 ---------------------------------------------------------------------------------------
  <string name="cfu_default">기본값</string>

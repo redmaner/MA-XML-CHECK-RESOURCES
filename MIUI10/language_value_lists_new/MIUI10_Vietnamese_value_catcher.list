@@ -1115,6 +1115,18 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Khôi phục ảnh bìa mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 ---------------------------------------------------------------------------------------
  <string name="defaults">Mặc định</string>

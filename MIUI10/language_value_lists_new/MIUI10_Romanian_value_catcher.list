@@ -845,6 +845,18 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_n
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Restaurați coperta implicită</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="subtitle_padding_default_hint">Ajustare subtitrare…</string>

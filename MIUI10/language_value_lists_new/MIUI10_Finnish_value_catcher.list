@@ -49,7 +49,7 @@ folder="all" application="Calculator.apk" xml="" name="relationship_default_text
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
- <string-array name="default_reminder_later_time_labels"> <item>5 minuuttia</item> <item>10 minuuttia</item> <item>15 minuuttia</item> <item>30 minuuttia</item> </string-array>
+ <string-array name="default_reminder_later_time_labels"> <item>5 minuuttia</item> <item>10 minuuttia</item> <item>15 minuuttia</item> <item>30 minuuttia</item> <item>1 tunti</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -68,6 +68,12 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="free_day_default_banner_title">Nauti lomastasi!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarms_default_event">Valitse tapahtumat</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -149,6 +155,12 @@ folder="all" application="Email.apk" xml="" name="default_imap"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">Avaa liitetiedostot käyttäen oletussovelluksia</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_pop3"
 ---------------------------------------------------------------------------------------
  <string name="default_pop3">POP3</string>
@@ -176,12 +188,6 @@ folder="all" application="FileExplorer.apk" xml="" name="default_prize_text"
 folder="all" application="FileExplorer.apk" xml="" name="default_user_desc"
 ---------------------------------------------------------------------------------------
  <string name="default_user_desc">Tämä henkilö ei ole lisännyt vielä kuvausta</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="msg_page_video_default_title"
----------------------------------------------------------------------------------------
- <string name="msg_page_video_default_title">Lähetin videon, katso!</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -293,12 +299,6 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
----------------------------------------------------------------------------------------
- <string name="pref_video_encoder_default">h264</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Oletus</string>
@@ -331,7 +331,7 @@ folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
 ---------------------------------------------------------------------------------------
- <string name="photo_editor_font_default">&gt;Mi Lanting (Tavallinen)</string>
+ <string name="photo_editor_font_default">Mi Lanting (Tavallinen)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -956,6 +956,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Yhden käden-tila ei ole käytössä oletuksena. Otetaanko Yhden käden-tila käyttöön?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
+---------------------------------------------------------------------------------------
+ <string name="com_facebook_tooltip_default">Sinä määräät - valitse mitä tietoja haluat jakaa sovelluksille.</string>
 
 
 ---------------------------------------------------------------------------------------

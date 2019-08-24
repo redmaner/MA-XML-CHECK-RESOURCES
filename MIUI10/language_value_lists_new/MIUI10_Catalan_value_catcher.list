@@ -1,25 +1,13 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_image_type"
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 ---------------------------------------------------------------------------------------
- <string name="avrcp_cover_art_default_image_type">imatge</string>
+ <string name="bt_sm_2_1_default">"No hi ha prou espai a la targeta SD per desar el fitxer de \"%1$s\""</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_mimetype"
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 ---------------------------------------------------------------------------------------
- <string name="avrcp_cover_art_default_mimetype">JPEG</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_fling_gesture_values"
----------------------------------------------------------------------------------------
- <string-array name="pref_fling_gesture_values"> <item>torna_passa</item> <item>switch_tabs</item> <item>cap</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_restore_tabs_values"
----------------------------------------------------------------------------------------
- <string-array name="pref_restore_tabs_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+ <string name="status_no_sd_card_default">Sense targeta SD. Inseriu una targeta SD per desar els fitxers transferits.</string>
 
 
 ---------------------------------------------------------------------------------------
