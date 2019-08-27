@@ -713,6 +713,18 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_content">Günlük yeni görüntüler bölümü</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_title">Duvar Kağıdı Döngüsü</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
 ---------------------------------------------------------------------------------------
  <string name="nav_bar_default">(varsayılan)</string>
@@ -740,24 +752,6 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_name"
 ---------------------------------------------------------------------------------------
  <string name="quick_settings_cast_device_default_name">Adsız cihaz</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
----------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_content">Günlük yeni görüntüler bölümü</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_entry_title"
----------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_entry_title">Duvar kağıdı detayları</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
----------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_title">Duvar Kağıdı Döngüsü</string>
 
 
 ---------------------------------------------------------------------------------------

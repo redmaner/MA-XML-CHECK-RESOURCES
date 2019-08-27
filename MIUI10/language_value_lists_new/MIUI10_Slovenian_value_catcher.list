@@ -131,6 +131,12 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>prvi ponedeljek</item> <item>prvi torek</item> <item>prva sreda</item> <item>prvi četrtek</item> <item>prvi petek</item> <item>prva sobota</item> <item>prva nedelja</item> <item>drugi ponedeljek</item> <item>drugi torek</item> <item>druga sreda</item> <item>drugi četrtek</item> <item>drugi petek</item> <item>druga sobota</item> <item>druga nedelja</item> <item>tretji ponedeljek</item> <item>tretji torek</item> <item>tretja sreda</item> <item>tretji četrtek</item> <item>tretji petek</item> <item>tretja sobota</item> <item>tretja nedelja</item> <item>četrti ponedeljek</item> <item>četrti torek</item> <item>četrta sreda</item> <item>četrti četrtek</item> <item>četrti petek</item> <item>četrta sobota</item> <item>četrta nedelja</item> <item>zadnji ponedeljek</item> <item>zadnji torek</item> <item>zadnja sreda</item> <item>zadnji četrtek</item> <item>zadnji petek</item> <item>zadnja sobota</item> <item>zadnja nedelja</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">Privzeti interval za \"Opomni kasneje\"</string>

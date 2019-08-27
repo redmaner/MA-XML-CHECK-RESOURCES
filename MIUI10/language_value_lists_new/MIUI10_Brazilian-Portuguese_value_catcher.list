@@ -257,12 +257,6 @@ folder="all" application="MiDrop.apk" xml="" name="skip_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_google_lens_default"
----------------------------------------------------------------------------------------
- <string name="pref_google_lens_default">verdadeiro</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Zoom</string>
@@ -493,7 +487,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_de
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
 ---------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_title">Carrossel de Planos de fundo</string>
+ <string name="lock_screen_magazine_default_title">Carrossel de planos de fundo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -758,24 +752,6 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Toque</item> <item>Multimídia</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="agps_apn_values"
----------------------------------------------------------------------------------------
- <string-array name="agps_apn_values"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="agps_network_values"
----------------------------------------------------------------------------------------
- <string-array name="agps_network_values"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="agps_reset_type_values"
----------------------------------------------------------------------------------------
- <string-array name="agps_reset_type_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1082,12 +1058,6 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
 ---------------------------------------------------------------------------------------
  <string name="online_recognize_order_unit_price_value">%s CNY/hora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_values"
----------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

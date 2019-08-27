@@ -10,6 +10,7 @@ all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
+all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml work_day_default_banner_title
 all CellBroadcastReceiver.apk strings.xml alert_reminder_interval_default_value
 all CellBroadcastReceiver.apk strings.xml alert_reminder_interval_default_value
@@ -23,12 +24,12 @@ all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk strings.xml snooze_duration_value
 all Email.apk strings.xml default_exchange
 all Email.apk strings.xml default_imap
+all Email.apk strings.xml default_opening_attchemnt_mode
 all Email.apk strings.xml default_pop3
 all Email.apk strings.xml default_signature_2
 all Email.apk strings.xml file_default_save_path_title
 all FileExplorer.apk strings.xml default_prize_text
 all FileExplorer.apk strings.xml default_user_desc
-all FileExplorer.apk strings.xml msg_page_video_default_title
 all FileExplorer.apk strings.xml user_desc_default_tip
 all FindDevice.apk strings.xml default_debt_msg_words
 all framework-ext-res.apk strings.xml subinfo_default_name
@@ -47,7 +48,6 @@ all MiRecycle.apk strings.xml default_error_msg
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml device_48m_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
-all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_relation_name
@@ -158,4 +158,5 @@ all TeleService.apk strings.xml default_preference_summary_username
 all TeleService.apk strings.xml launch_defaults_some
 all TeleService.apk strings.xml msim_select_default_time_left
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all XMRemoteController.apk strings.xml feedback_desc_default
