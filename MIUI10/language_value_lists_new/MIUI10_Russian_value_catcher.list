@@ -617,6 +617,18 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_notification_default_channel_name">Трансляция</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_tracks_chooser_dialog_default_track_name">Трек %1$d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="subtitle_padding_default_hint">Настройка субтитров…</string>

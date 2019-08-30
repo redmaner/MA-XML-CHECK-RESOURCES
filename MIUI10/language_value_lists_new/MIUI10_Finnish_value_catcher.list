@@ -293,6 +293,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_48m_watermark_defa
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="device_64m_watermark_default_text"
+---------------------------------------------------------------------------------------
+ <string name="device_64m_watermark_default_text">64MP KAKSOISKAMERA</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_watermark_default_text">AI-KOLMOISKAMERA</string>
@@ -368,6 +374,12 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">Meitu sovellukset</string>
 
 
 ---------------------------------------------------------------------------------------

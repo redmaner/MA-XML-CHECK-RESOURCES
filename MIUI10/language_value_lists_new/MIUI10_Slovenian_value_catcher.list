@@ -1235,6 +1235,12 @@ folder="all" application="Weather.apk" xml="" name="information_manager_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="temperature_unit_default"
+---------------------------------------------------------------------------------------
+ <string name="temperature_unit_default">0</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">"Vi imate kontrolo - izberite katere informacije želite deliti s aplikacijami."</string>
