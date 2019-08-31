@@ -47,6 +47,7 @@ all framework-res.apk strings.xml zen_mode_default_every_night_name
 all MiRecycle.apk strings.xml default_error_msg
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml device_48m_watermark_default_text
+all MiuiCamera.apk strings.xml device_64m_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
@@ -60,6 +61,7 @@ all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview
 all MiuiHome.apk strings.xml default_folder_title_claro
+all MiuiHome.apk strings.xml default_folder_title_meitu
 all MiuiHome.apk strings.xml default_folder_title_microsoft
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_folder_title_telcel
