@@ -719,24 +719,6 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_paddin
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
----------------------------------------------------------------------------------------
- <string name="rcs_pref_default_sending_method">Default sending method</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
----------------------------------------------------------------------------------------
- <string name="rcs_pref_picture_message_default_quality">Image compressing options</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
----------------------------------------------------------------------------------------
- <string name="rcs_pref_video_message_default_quality">Video compressing options</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
  <string name="todo_audio_default_content">"[Voice task] "</string>

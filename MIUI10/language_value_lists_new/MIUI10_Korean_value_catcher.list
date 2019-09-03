@@ -1013,27 +1013,45 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remai
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="display_temperature_default"
+---------------------------------------------------------------------------------------
+ <string name="display_temperature_default">--℃</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
+---------------------------------------------------------------------------------------
+ <string name="display_weather_default">날씨 정보를 얻으시려면 탭하세요</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel"
+---------------------------------------------------------------------------------------
+ <string name="flybird_default_channel">기본 결제 방법</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel_main"
+---------------------------------------------------------------------------------------
+ <string name="flybird_default_channel_main">기본 결제 방법</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_setting_use_default"
+---------------------------------------------------------------------------------------
+ <string name="flybird_setting_use_default">기본 사용</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="mini_error_title_default"
 ---------------------------------------------------------------------------------------
  <string name="mini_error_title_default">힌트</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
----------------------------------------------------------------------------------------
- <string name="setting_didi_default_way">기본 택시 경로</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">장소 검색</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
----------------------------------------------------------------------------------------
- <string name="upgrade_log_default">"1. 성능 향상.2. 버그 수정."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1049,9 +1067,21 @@ folder="all" application="PersonalAssistant.apk" xml="" name="notification_chann
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
+folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
 ---------------------------------------------------------------------------------------
- <string name="display_weather_default">날씨 정보를 얻으시려면 탭하세요</string>
+ <string name="setting_didi_default_way">기본 택시 경로</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">1. 성능 향상.2. 버그 수정.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_value_label"
+---------------------------------------------------------------------------------------
+ <string name="flybird_nopwd_value_label">기밀 금액</string>
 
 
 ---------------------------------------------------------------------------------------
