@@ -201,6 +201,9 @@ all MiuiVideoPlayer.apk strings.xml ovp_default_plugin_name
 all MiuiVideoPlayer.apk strings.xml t_lv_subtitle_padding_default_hint
 all MiuiVideoPlayer.apk strings.xml cast_notification_default_channel_name
 all MiVideo.apk strings.xml subtitle_padding_default_hint
+all Mms.apk strings.xml rcs_pref_picture_message_default_quality
+all Mms.apk strings.xml rcs_pref_video_message_default_quality
+all Mms.apk strings.xml rcs_pref_default_sending_method
 all Music.apk strings.xml signup_type_silent_default
 all NfcNci.apk strings.xml default_pay_app_removed
 all Notes.apk strings.xml todo_audio_default_content

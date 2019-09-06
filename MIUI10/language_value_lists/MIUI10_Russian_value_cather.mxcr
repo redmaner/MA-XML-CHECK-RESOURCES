@@ -104,7 +104,9 @@ all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
-all Mms.apk arrays.xml switch_sdk_value
+all Mms.apk strings.xml rcs_pref_default_sending_method
+all Mms.apk strings.xml rcs_pref_picture_message_default_quality
+all Mms.apk strings.xml rcs_pref_video_message_default_quality
 all Notes.apk strings.xml audio_panel_time_counter_default
 all Notes.apk strings.xml todo_audio_default_content
 all NotificationCenter.apk strings.xml default_list_type
