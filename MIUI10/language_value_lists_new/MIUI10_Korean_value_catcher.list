@@ -881,6 +881,24 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_ti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_default_sending_method">기본 전송 방법</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_picture_message_default_quality">사진 압축 옵션</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_video_message_default_quality">비디오 압축 옵션</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Music2.apk" xml="" name="default_album_radio_description"
 ---------------------------------------------------------------------------------------
  <string name="default_album_radio_description">%1$s에서 방송되는 음악과 유사한 음악 듣기</string>

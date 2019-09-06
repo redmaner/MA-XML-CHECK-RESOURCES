@@ -145,6 +145,9 @@ all MiuiVideoLeo.apk strings.xml default_text
 all MiuiVideoLeo.apk strings.xml language_default
 all MiuiVideoLeo.apk strings.xml toast_screen_text_default
 all MiuiVideoLeo.apk strings.xml notification_default_title
+all Mms.apk strings.xml rcs_pref_default_sending_method
+all Mms.apk strings.xml rcs_pref_picture_message_default_quality
+all Mms.apk strings.xml rcs_pref_video_message_default_quality
 all Music2.apk strings.xml default_album_radio_description
 all Music2.apk strings.xml default_artist_radio_description
 all Music2.apk strings.xml default_genre_radio_description
