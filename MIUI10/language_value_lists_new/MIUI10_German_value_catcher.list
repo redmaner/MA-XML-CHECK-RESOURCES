@@ -707,6 +707,24 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_ti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_default_sending_method">Standard-Sendemethode</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_picture_message_default_quality">Optionen zur Bildkompression</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_video_message_default_quality">Videokompressionsoptionen</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Music.apk" xml="" name="signup_type_silent_default"
 ---------------------------------------------------------------------------------------
  <string name="signup_type_silent_default">Still</string>

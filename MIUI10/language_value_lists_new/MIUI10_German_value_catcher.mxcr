@@ -116,6 +116,9 @@ all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
 all MiuiVideoLeo.apk strings.xml defaults
 all MiuiVideoLeo.apk strings.xml notification_default_title
+all Mms.apk strings.xml rcs_pref_default_sending_method
+all Mms.apk strings.xml rcs_pref_picture_message_default_quality
+all Mms.apk strings.xml rcs_pref_video_message_default_quality
 all Music.apk strings.xml signup_type_silent_default
 all Music.apk strings.xml signup_type_user_default
 all NfcNci.apk strings.xml default_pay_app_removed

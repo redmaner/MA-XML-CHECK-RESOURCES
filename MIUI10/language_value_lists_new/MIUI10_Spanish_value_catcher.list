@@ -731,6 +731,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlo
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">"Defecto"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_default"
 ---------------------------------------------------------------------------------------
  <string name="keyguard_carrier_default">Sin servicio.</string>
@@ -740,6 +746,18 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_defaul
 folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Algunos ajustes predefinidos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_content">Cada día imágenes nuevas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_title">Carrusel de fondos</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -761,6 +779,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_def
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_description"
 ---------------------------------------------------------------------------------------
  <string name="quick_settings_cast_device_default_description">Listo para emitir</string>
@@ -770,24 +794,6 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_name"
 ---------------------------------------------------------------------------------------
  <string name="quick_settings_cast_device_default_name">Dispositivo sin nombre</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
----------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_content">Cada día imágenes nuevas</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
----------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_title">Carrusel de fondos</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="default_theme"
----------------------------------------------------------------------------------------
- <string name="default_theme">"Defecto"</string>
 
 
 ---------------------------------------------------------------------------------------
