@@ -747,9 +747,16 @@
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_action_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_mandatory_event_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_optional_event_name"/>
+	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
+	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="bottom_sheet_behavior"/>
 	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="empty"/>
+	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="path_password_eye"/>
+	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="path_password_eye_mask_strike_through"/>
+	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="path_password_eye_mask_visible"/>
+	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="path_password_strike_through"/>
 	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="preference_key_information_setting_close"/>
 	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="preference_key_information_setting_wlan"/>
+	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="always_enabled_app_list"/>
 	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="clean_cached_process_white_list"/>
 	<item folder="all" application="SecurityCenter.apk" file="arrays.xml" name="key_app_info"/>
