@@ -81,12 +81,19 @@
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrate_true"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="prefDefault_alerts_vibrateWhen"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="date_time_fmt"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="appcleaner_wechat_pref_size_100_MB"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="appcleaner_wechat_pref_size_1_GB"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="appcleaner_wechat_pref_size_300_MB"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="appcleaner_wechat_pref_size_500_MB"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="empty"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="hints_header_left"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_category_information_setting"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_category_key_auto_update_cleanup_db"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_key_information_setting_close"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_key_information_setting_wlan"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_key_wechat_garbage_clean_alert"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_key_wechat_garbage_cleanup_auto_check_size"/>
+	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="preference_key_wechat_garbage_cleanup_auto_check_time"/>
 	<item folder="all" application="CloudBackup.apk" file="strings.xml" name="loading_progress_num"/>
 	<item folder="all" application="CloudBackup.apk" file="strings.xml" name="pattern_backup_name_with_home"/>
 	<item folder="all" application="CloudBackup.apk" file="strings.xml" name="pattern_backup_name_without_home"/>
