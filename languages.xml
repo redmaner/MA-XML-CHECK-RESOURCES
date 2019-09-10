@@ -3,6 +3,7 @@
 	<!-- MIUI11 repo's - Alfabetical order-->
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MIUI-XML-11-CZECH" git="git@github.com:MIUICzech-Slovak/MIUI-XML-11-CZECH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="French" iso="fr" url="https://github.com/pmspr4100/MA-XML-11-FRENCH" git="git@github.com:pmspr4100/MA-XML-11-FRENCH.git" branch="master"/>
+	<language check="check_all" fix="none" miui="11" name="Japanese" iso="ja" url="https://github.com/ScratchBuild/MIUI11-XML-Japanese" git="git@github.com:ScratchBuild/MIUI11-XML-Japanese.git" branch="master"/>
 	<language check="check_all" fix="none" miui="11" name="Polish" iso="pl" url="https://bitbucket.org/kacskrz/xml_miui-v11"  git="git@bitbucket.org:kacskrz/xml_miui-v11.git" branch="master"/>
 	<language check="check_all" fix="none" miui="11" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MIUI-XML-11-PORTUGUESE" git="git@github.com:KcNirvana/MIUI-XML-11-PORTUGUESE.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MIUI-XML-11-SLOVAK" git="git@github.com:MIUICzech-Slovak/MIUI-XML-11-SLOVAK.git" branch="master"/>
