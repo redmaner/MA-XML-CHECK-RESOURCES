@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <languages>
 	<!-- MIUI11 repo's - Alfabetical order-->
+	<language check="check_all" fix="fix_untranslateable" miui="10" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/RicardoGuariento/MIUI-XML-11-BRAZILIAN" git="git@github.com:RicardoGuariento/MIUI-XML-11-BRAZILIAN.git"  branch="master"/>
 	<language check="check_all" fix="none" miui="11" name="Croatian" iso="hr" url="https://github.com/MASVA/MIUI-11-XML-CROATIAN-TRANSLATION" git="git@github.com:MASVA/MIUI-11-XML-CROATIAN-TRANSLATION.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MIUI-XML-11-CZECH" git="git@github.com:MIUICzech-Slovak/MIUI-XML-11-CZECH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Finnish" iso="fi" url="https://github.com/dogiex/MIUI-XML-11-FINNISH" git="git@github.com:dogiex/MIUI-XML-11-FINNISH.git" branch="master"/>
