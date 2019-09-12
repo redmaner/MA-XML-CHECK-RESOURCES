@@ -1,265 +1,337 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_image_type"
----------------------------------------------------------------------------------------
- <string name="avrcp_cover_art_default_image_type">Bild</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
----------------------------------------------------------------------------------------
- <string name="bt_sm_2_1_default">Nicht genug Platz auf der SD-Karte, um die Datei von \"%1$s\" zu speichern</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
----------------------------------------------------------------------------------------
- <string name="status_no_sd_card_default">Keine SD-Karte. Legen Sie eine SD-Karte ein, um übertragene Dateien zu speichern.</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
- <string name="download_dialog_file_length_default_txt">Einen Moment…</string>
+ <string name="download_dialog_file_length_default_txt">Sadece bir saniye…</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="topic_content_default"
 ---------------------------------------------------------------------------------------
- <string name="topic_content_default">Thema</string>
+ <string name="topic_content_default">konu</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="BugReport.apk" xml="" name="default_text_view"
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
- <string name="default_text_view">Textvorschau</string>
+ <string name="mw_color_picker_value">Değer</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="default_separator_text">的</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_text"
+---------------------------------------------------------------------------------------
+ <string name="default_text">我</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="relationship_default_separator_text">的</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="relationship_default_text"
+---------------------------------------------------------------------------------------
+ <string name="relationship_default_text">我</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_0">sq.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_1">sq.cm</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_currency_0">EUR</string>
+ <string name="unit_data_default_currency_0">CNY</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_1">USD</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_2"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_currency_2">CNY</string>
+ <string name="unit_data_default_currency_2">EUR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_0">C</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_1">F</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_0">min</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_1">s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_0">mps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_1">kmps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_0">cu.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_1">cu.cm</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
- <string-array name="default_reminder_later_time_labels"> <item>5 Minuten</item> <item>10 Minuten</item> <item>15 Minuten</item> <item>30 Minuten</item> <item>1 Stunde</item> </string-array>
+ <string-array name="default_reminder_later_time_labels"> <item>5 dakika</item> <item>10 dakika</item> <item>15 dakika</item> <item>30 dakika</item> <item>1 saat</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
- <string-array name="repeat_monthly_on_day_count_values"> <item>1. Montag</item> <item>1. Dienstag</item> <item>1. Mittwoch</item> <item>1. Donnerstag</item> <item>1. Freitag</item> <item>1. Samstag</item> <item>1. Sonntag</item> <item>2. Montag</item> <item>2. Dienstag</item> <item>2. Mittwoch</item> <item>2. Donnerstag</item> <item>2. Freitag</item> <item>2. Samstag</item> <item>2. Sonntag</item> <item>3. Montag</item> <item>3. Dienstag</item> <item>3. Mittwoch</item> <item>3. Donnerstag</item> <item>3. Freitag</item> <item>3. Samstag</item> <item>3. Sonntag</item> <item>4. Montag</item> <item>4. Dienstag</item> <item>4. Mittwoch</item> <item>4. Donnerstag</item> <item>4. Freitag</item> <item>4. Samstag</item> <item>4. Sonntag</item> <item>letzter Montag</item> <item>letzter Dienstag</item> <item>letzter Mittwoch</item> <item>letzter Donnerstag</item> <item>letzter Freitag</item> <item>letzter Samstag</item> <item>letzter Sonntag</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
----------------------------------------------------------------------------------------
- <string name="default_reminder_later_time">Standardintervall für \"Später erinnern\"</string>
+ <string-array name="repeat_monthly_on_day_count_values"> <item>ilk Pazartesi</item> <item>ilk Salı</item> <item>ilk Çarşamba</item> <item>ilk Perşembe</item> <item>ilk Cuma</item> <item>ilk Cumartesi</item> <item>ilk Pazar</item> <item>ikinci Pazartesi</item> <item>ikinci Salı</item> <item>ikinci Çarşamba</item> <item>ikinci Perşembe</item> <item>ikinci Cuma</item> <item>ikinci Cumartesi</item> <item>ikinci Pazar</item> <item>üçüncü Pazartesi</item> <item>üçüncü Salı</item> <item>üçüncü Çarşamba</item> <item>üçüncü Perşembe</item> <item>üçüncü Cuma</item> <item>üçüncü Cumartesi</item> <item>üçüncü Pazar</item> <item>dördüncü Pazartesi</item> <item>dördüncü Salı</item> <item>dördüncü Çarşamba</item> <item>dördüncü Perşembe</item> <item>dördüncü Cuma</item> <item>dördüncü Cumartesi</item> <item>dördüncü Pazar</item> <item>geçen Pazartesi</item> <item>geçen Salı</item> <item>geçen Çarşamba</item> <item>geçen Perşembe</item> <item>geçen Cuma</item> <item>geçen Cumartesi</item> <item>geçen Pazar</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
 ---------------------------------------------------------------------------------------
- <string name="free_day_default_banner_title">Genießen Sie Ihren Urlaub!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
----------------------------------------------------------------------------------------
- <string name="preferences_alarm_default_event_title">Einstellen einer Alarmerinnerung</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
----------------------------------------------------------------------------------------
- <string name="preferences_alarms_default_event">Termin auswählen</string>
+ <string name="free_day_default_banner_title">İyi tatiller!</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
- <string name="work_day_default_banner_title">Ich wünsche Ihnen einen produktiven Arbeitstag!</string>
+ <string name="work_day_default_banner_title">İş yerinde verimli bir gün geçirin!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
+---------------------------------------------------------------------------------------
+ <string name="default_reminder_later_time">\"Daha sonra hatırlat\" için varsayılan aralık</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarm_default_event_title">Bir alarm hatırlatıcısı ayarlayın</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarms_default_event">Etkinlikleri seç</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_default_notfiy"
 ---------------------------------------------------------------------------------------
- <string name="cit_tool_mbn_default_notfiy">Standard-MBN</string>
+ <string name="cit_tool_mbn_default_notfiy">varsayılan MBN</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_no_default_notfiy"
 ---------------------------------------------------------------------------------------
- <string name="cit_tool_mbn_no_default_notfiy">Kein Standard-MBN</string>
+ <string name="cit_tool_mbn_no_default_notfiy">Varsayılan MBN yok</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_recovery_default"
 ---------------------------------------------------------------------------------------
- <string name="cit_tool_mbn_recovery_default">Standard-MBN wiederherstellen</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_tool_modem_feature_config_default"
----------------------------------------------------------------------------------------
- <string name="cit_tool_modem_feature_config_default">Aktuelle Funktion als Standard konfigurieren</string>
+ <string name="cit_tool_mbn_recovery_default">Kurtarma varsayılan MBN</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
- <string name="battery_value">Strom</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value_set"
----------------------------------------------------------------------------------------
- <string name="cit_tool_modem_test_device_value_set">Gerätestatus modifizieren</string>
+ <string name="battery_value">Elektrik</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
- <string name="contacts_default_notification_channel">Benachrichtigungen</string>
+ <string name="contacts_default_notification_channel">Bildirimler</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
- <string name="snooze_duration_value">Intervall (Minuten)</string>
+ <string name="snooze_duration_value">Aralık (dakika)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_exchange"
+---------------------------------------------------------------------------------------
+ <string name="default_exchange">EXCHANGE</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_imap"
+---------------------------------------------------------------------------------------
+ <string name="default_imap">IMAP</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
 ---------------------------------------------------------------------------------------
- <string name="default_opening_attchemnt_mode">Anhänge mit Standard-Apps öffnen</string>
+ <string name="default_opening_attchemnt_mode">Varsayılan uygulamaları kullanarak ekleri açın</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_pop3"
+---------------------------------------------------------------------------------------
+ <string name="default_pop3">POP3</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_signature_2"
 ---------------------------------------------------------------------------------------
- <string name="default_signature_2">Von meinem %s gesendet</string>
+ <string name="default_signature_2">Benim %s ile gönderildi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 ---------------------------------------------------------------------------------------
- <string name="file_default_save_path_title">Standardspeicherort für Anhänge</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatisch verbunden (über Netzwerk-Rating-Service-Provider)</string>
+ <string name="file_default_save_path_title">Ekler için varsayılan konum</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="launch_defaults_none"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Keine Standardeinstellungen gesetzt</string>
+ <string name="launch_defaults_none">Varsayılan ayarlanmadı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Einige Standardwerte gesetzt</string>
+ <string name="launch_defaults_some">Bazı varsayılanlar ayarlanır</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="screen_zoom_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Standard</string>
+ <string name="screen_zoom_summary_default">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_lang_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
+ <string name="tts_default_lang_summary">Konuşulan metin için dile özgü sesi ayarlar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_lang_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Sprache</string>
+ <string name="tts_default_lang_title">Dil</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_pitch_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Beeinflusst den Ton der synthetisierten Sprache</string>
+ <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_pitch_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Tonhöhe</string>
+ <string name="tts_default_pitch_title">Zift</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_rate_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Geschwindigkeit, mit der der Text gesprochen wird</string>
+ <string name="tts_default_rate_summary">Metnin konuşıldığı hız</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_rate_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Sprechrate</string>
+ <string name="tts_default_rate_title">Konuşma hızı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Dies ist ein Beispiel für Sprachsynthese</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_empty_des"
----------------------------------------------------------------------------------------
- <string name="default_empty_des">Leer, erneut versuchen!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_error_des"
----------------------------------------------------------------------------------------
- <string name="default_error_des">Netzwerk nicht verfügbar, Netzwerkeinstellungen prüfen und erneut versuchen </string>
+ <string name="tts_default_sample_string">Bu konuşma sentezinin bir örneğidir</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FileExplorer.apk" xml="" name="default_prize_text"
 ---------------------------------------------------------------------------------------
- <string name="default_prize_text">Das wandert direkt in meinen Tresor!</string>
+ <string name="default_prize_text">Bu benim hazineye doğru gidiyor!</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FileExplorer.apk" xml="" name="default_user_desc"
 ---------------------------------------------------------------------------------------
- <string name="default_user_desc">Diese Person hat noch keine Beschreibung</string>
+ <string name="default_user_desc">Bu kişi henüz açıklama eklemedi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FileExplorer.apk" xml="" name="msg_page_video_default_title"
 ---------------------------------------------------------------------------------------
- <string name="msg_page_video_default_title">Ich habe ein Video hochgeladen, schau mal rein!</string>
+ <string name="msg_page_video_default_title">Bir video yüklendi, bir göz atın!</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
 ---------------------------------------------------------------------------------------
- <string name="user_desc_default_tip">Anmelden, um Punkte zu sammeln und Preise zu gewinnen</string>
+ <string name="user_desc_default_tip">Puan toplamak ve ödüller kazanmak için giriş yapın.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
- <string name="default_debt_msg_words">"Dieses Gerät ist aufgrund einer überfälligen Zahlung gesperrt. Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
+ <string name="default_debt_msg_words">"Bu cihaz, gecikmiş taksit ödemesi nedeniyle kilitlendi. Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -269,1226 +341,1233 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Bilinmeyen aygıt</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
- <string name="app_suspended_default_message">%1$s ist zurzeit nicht verfügbar. Dies wird von %2$s verwaltet.</string>
+ <string name="app_suspended_default_message">%1$s şu anda müsait değil. Bu %2$s tarafından yönetiliyor.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_channel_label">Nicht kategorisiert</string>
+ <string name="default_notification_channel_label">Kategorisiz</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake">Bleiben Sie ruhig und suchen Sie Schutz in der Nähe.</string>
+ <string name="etws_primary_default_message_earthquake">Sakin ol ve yakınlarda barınak ara.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake_and_tsunami">Bleiben Sie ruhig und suchen Sie Schutz in der Nähe.</string>
+ <string name="etws_primary_default_message_earthquake_and_tsunami">Sakin ol ve yakınlarda barınak ara.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_test">Notfallmeldungstest</string>
+ <string name="etws_primary_default_message_test">Acil durum mesajları testi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_tsunami">Sofortige Evakuierung aus Küstenregionen und Flussgebieten an einen sichereren Ort, wie z. B. in die Höhe.</string>
+ <string name="etws_primary_default_message_tsunami">Kıyı bölgelerinden ve nehir kenarındaki alanlardan derhal yüksek zemin gibi daha güvenli bir yere gidin.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
 ---------------------------------------------------------------------------------------
- <string name="popup_window_default_title">Popup-Benachrichtigungen</string>
+ <string name="popup_window_default_title">Açılır Pencere</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="wifi_localhotspot_configure_ssid_default"
+---------------------------------------------------------------------------------------
+ <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
 ---------------------------------------------------------------------------------------
- <string name="zen_mode_default_every_night_name">Schlafen</string>
+ <string name="zen_mode_default_every_night_name">Uyuyor</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">Sie bestimmen, welche Informationen Sie mit Apps teilen möchten.</string>
+ <string name="com_facebook_tooltip_default">Kontrol sende - uygulamalarla paylaşmak istediğin bilgileri seç.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 ---------------------------------------------------------------------------------------
- <string name="msg_default_status">Barcode im Suchfenster fixieren, um ihn zu scannen</string>
+ <string name="msg_default_status">Tarama için barkodu vizör dikdörtgenin içine yerleştirin.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
- <string-array name="sleep_duration_values"> <item>15 Minuten</item> <item>30 Minuten</item> <item>45 Minuten</item> <item>1 Stunde</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiRadio.apk" xml="" name="default_songtab_name"
----------------------------------------------------------------------------------------
- <string name="default_songtab_name">Wiedergabelistenkategorien</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiRadio.apk" xml="" name="empty_view_default_text"
----------------------------------------------------------------------------------------
- <string name="empty_view_default_text">Kein Inhalt</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
----------------------------------------------------------------------------------------
- <string name="default_error_msg">Irgendwas ist schief gelaufen!</string>
+ <string-array name="sleep_duration_values"> <item>15 dakika</item> <item>30 dakika</item> <item>45 dakika</item> <item>1 saat</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiShare.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="default_device_name">Unbekanntes Gerät</string>
+ <string name="default_device_name">Bilinmeyen aygıt</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
+folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
- <string name="default_text_view">Textvorschau</string>
+ <string name="signature_default_content">"Her zaman harika bir şeyin olacağına inan"</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_default"
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
 ---------------------------------------------------------------------------------------
- <string name="pref_camera_tilt_shift_default">Kreis</string>
+ <string name="pref_video_encoder_default">h264</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="dualcamera_watermark_default"
+---------------------------------------------------------------------------------------
+ <string name="dualcamera_watermark_default">AI ÇİFT KAMERA</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
+---------------------------------------------------------------------------------------
+ <string name="device_watermark_default_text">AI ÇİFT KAMERA</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
+---------------------------------------------------------------------------------------
+ <string name="device_ultra_pixel_watermark_default_text">48MP ÇİFT KAMERA</string> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Kapalı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Film</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Resim</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
- <string name="motion_photo_toast_default">Standard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
----------------------------------------------------------------------------------------
- <string name="channel_default_name">Neue Funktionen</string>
+ <string name="motion_photo_toast_default">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 ---------------------------------------------------------------------------------------
- <string name="default_relation_name">Neue Gruppe</string>
+ <string name="default_relation_name">Yeni Grup</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
 ---------------------------------------------------------------------------------------
- <string name="mark_myself_default_name">Ich</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
----------------------------------------------------------------------------------------
- <string name="movie_audio_default">Speicher</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
----------------------------------------------------------------------------------------
- <string name="photo_editor_font_default">&gt;Mi Lanting (Regulär)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="photomovie_audio_default"
----------------------------------------------------------------------------------------
- <string name="photomovie_audio_default">Erinnerung</string>
+ <string name="mark_myself_default_name">Bana</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="photomovie_template_default"
 ---------------------------------------------------------------------------------------
- <string name="photomovie_template_default">Langsam</string>
+ <string name="photomovie_template_default">Yavaş</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
 ---------------------------------------------------------------------------------------
- <string name="text_edit_dialog_font_default">Standard</string>
+ <string name="text_edit_dialog_font_default">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
 ---------------------------------------------------------------------------------------
- <string name="video_editor_text_default">Standard</string>
+ <string name="video_editor_text_default">Varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="photomovie_audio_default"
+---------------------------------------------------------------------------------------
+ <string name="photomovie_audio_default">Hafıza</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
+---------------------------------------------------------------------------------------
+ <string name="movie_audio_default">Hafıza</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
+---------------------------------------------------------------------------------------
+ <string name="channel_default_name">Yeni özellikler</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
+---------------------------------------------------------------------------------------
+ <string name="photo_editor_font_default">&gt;Mi Lanting (Düzenli)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Bilinmeyen aygıt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="wallpaper_scroll_values"
+---------------------------------------------------------------------------------------
+ <string-array name="wallpaper_scroll_values"> <item>Temaya göre</item> <item>merkez</item> <item>sol</item> <item>sağ</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_choose_default_screen">Bildschirm %1$d als Standard-Startbildschirm festlegen</string>
+ <string name="announce_for_choose_default_screen">%1$d ekranını varsayılan Ana ekran olarak ayarla</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_close_default_preview"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_close_default_preview">Einstellungen Standard-Startbildschirm schließen</string>
+ <string name="announce_for_close_default_preview">Varsayılan ana ekran ayarları kapalı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_preview"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_open_default_preview">Einstellungen Standard-Startbildschirm geöffnet</string>
+ <string name="announce_for_open_default_preview">Varsayılan ana ekran ayarları açıldı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_microsoft">Microsoft</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_services"
 ---------------------------------------------------------------------------------------
- <string name="default_folder_title_services">Dienste</string>
+ <string name="default_folder_title_services">Hizmetler</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
- <string name="default_screen_preview_title">Als Standardbildschirm festlegen</string>
+ <string name="default_screen_preview_title">Varsayılan ekranı ayarla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
+---------------------------------------------------------------------------------------
+ <string name="default_shortcut_title_10086">10086.cn</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
- <string name="menu_default_screen_preview">Standardbildschirm setzen</string>
+ <string name="menu_default_screen_preview">Varsayılan ekranı ayarla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">Meitu uygulamaları</string> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_turkcell_uygulamalar"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
- <string name="default_permission_description">Unbekannte Aktion durchführen</string>
+ <string name="default_permission_description">Bilinmeyen eylem gerçekleşti</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_none"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Keine Voreinstellungen gesetzt</string>
+ <string name="launch_defaults_none">Varsayılan ayar yok</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Einige Standardwerte gesetzt</string>
+ <string name="launch_defaults_some">Bazı varsayılan ayarlar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="screen_zoom_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Standard</string>
+ <string name="screen_zoom_summary_default">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
+ <string name="tts_default_lang_summary">Konuşulan metin için dile özgü ses ayarları</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Sprache</string>
+ <string name="tts_default_lang_title">Dil</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Beeinflusst den Ton der synthetisierten Sprache</string>
+ <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Tonhöhe</string>
+ <string name="tts_default_pitch_title">Derece</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Geschwindigkeit, mit der der Text gesprochen wird</string>
+ <string name="tts_default_rate_summary">Metnin konuşma hızını etkiler</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Sprechrate</string>
+ <string name="tts_default_rate_title">Konuşma Hızı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Dies ist ein Beispiel für Sprachsynthese</string>
+ <string name="tts_default_sample_string">Bu konuşma sentezinin bir örneğidir</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
 ---------------------------------------------------------------------------------------
- <string name="pref_camera_focusmode_default">Kontinuierliches Bild</string>
+ <string name="pref_camera_focusmode_default">sürekli-resim</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
- <string name="setting_default_function">Standardfunktion</string>
+ <string name="setting_default_function">Varsayılan özellik</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatische Verbindung via Netzwerk-Rating-Provider</string>
+ <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcı aracılığıyla otomatik olarak bağlandı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlock_hint_text"
 ---------------------------------------------------------------------------------------
- <string name="default_lockscreen_unlock_hint_text">Zum Entsperren nach oben wischen</string>
+ <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaydırın</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
- <string name="default_theme">Standard</string>
+ <string name="default_theme">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_default"
 ---------------------------------------------------------------------------------------
- <string name="keyguard_carrier_default">Kein Dienst</string>
+ <string name="keyguard_carrier_default">Servis yok</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Einige Standards gesetzt</string>
+ <string name="launch_defaults_some">Bazı varsayılan tercihler ayarlandı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
 ---------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_content">Tägliche Dosis an frischen Bildern</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_entry_title"
----------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_entry_title">Hintergrundbild-Details</string>
+ <string name="lock_screen_magazine_default_content">Günlük yeni görüntüler bölümü</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
 ---------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_title">Musik</string>
+ <string name="lock_screen_magazine_default_title">Duvar Kağıdı Döngüsü</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
 ---------------------------------------------------------------------------------------
- <string name="nav_bar_default">(Standard)</string>
+ <string name="nav_bar_default">(varsayılan)</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_channel_desc"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_channel_desc">Diese App hat keine Benachrichtigungskategorien</string>
+ <string name="notification_default_channel_desc">Bu uygulamanın bildirim kategorileri yok</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_default_channel"
 ---------------------------------------------------------------------------------------
- <string name="notification_header_default_channel">Benachrichtigungen</string>
+ <string name="notification_header_default_channel">Bildirimler</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_description"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_cast_device_default_description">Fertig zum Casten</string>
+ <string name="quick_settings_cast_device_default_description">Yansıtma için hazır</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_name"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_cast_device_default_name">Unbenanntes Gerät</string>
+ <string name="quick_settings_cast_device_default_name">Adsız cihaz</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_quick_settings_rotation_value">%s modu</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
- <string name="alert_dialog_download_default_title">App herunterladen</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="notification_default_title"
----------------------------------------------------------------------------------------
- <string name="notification_default_title">Offlinevideo</string>
+ <string name="alert_dialog_download_default_title">Uygulamasını aç</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
- <string name="subtitle_padding_default_hint">Untertitel anpassen…</string>
+ <string name="subtitle_padding_default_hint">Altyazı ayarı…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="v_defaultsearch_name"
+---------------------------------------------------------------------------------------
+ <string name="v_defaultsearch_name">Popüler TV şovlarını arayın</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
- <string name="alert_dialog_download_default_title">App herunterladen</string>
+ <string name="alert_dialog_download_default_title">Uygulamayı indir</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
 ---------------------------------------------------------------------------------------
- <string name="cast_notification_default_channel_name">Übertragung</string>
+ <string name="cast_notification_default_channel_name">Yansıt</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
 ---------------------------------------------------------------------------------------
- <string name="cast_tracks_chooser_dialog_default_track_name">Titel %1$d</string>
+ <string name="cast_tracks_chooser_dialog_default_track_name">Parça %1$d</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">Sie haben die Kontrolle - wählen Sie, welche Infos Sie mit Apps teilen möchten.</string>
+ <string name="com_facebook_tooltip_default">Kontrol sizde - uygulamalarla hangi bilgileri paylaşmak istediğinizi seçin.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
 ---------------------------------------------------------------------------------------
- <string name="ovp_default_plugin_name">HD-Plugin</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
----------------------------------------------------------------------------------------
- <string name="plus_poster_reset_default">Standard-Cover wiederherstellen</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
----------------------------------------------------------------------------------------
- <string name="plus_sort_type_default">Standard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="signup_type_silent_default"
----------------------------------------------------------------------------------------
- <string name="signup_type_silent_default">Stille</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="signup_type_user_default"
----------------------------------------------------------------------------------------
- <string name="signup_type_user_default">LoginSDK-Kunde</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
----------------------------------------------------------------------------------------
- <string name="subtitle_padding_default_hint">Untertitel anpassen…</string>
+ <string name="ovp_default_plugin_name">HD eklentisi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
- <string name="t_lv_subtitle_padding_default_hint">Untertitel anpassen…</string>
+ <string name="t_lv_subtitle_padding_default_hint">Altyazılar ayarlanıyor…</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
+folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 ---------------------------------------------------------------------------------------
- <string name="defaults">Standard</string>
+ <string-array name="prefValues_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_title"
+folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_title">Offlinevideo</string>
+ <string-array name="prefValues_vibrateWhen"> <item>her zaman</item> <item>sessiz</item> <item>asla</item> </string-array> 
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_default_sending_method">Standard-Sendemethode</string>
+ <string name="rcs_pref_default_sending_method">Varsayılan gönderme yöntemi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_picture_message_default_quality">Optionen zur Bildkompression</string>
+ <string name="rcs_pref_picture_message_default_quality">Görüntü sıkıştırma seçenekleri</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_video_message_default_quality">Videokompressionsoptionen</string>
+ <string name="rcs_pref_video_message_default_quality">Video sıkıştırma seçenekleri</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Music.apk" xml="" name="signup_type_silent_default"
+folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
- <string name="signup_type_silent_default">Still</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Music.apk" xml="" name="signup_type_user_default"
----------------------------------------------------------------------------------------
- <string name="signup_type_user_default">LoginSDK Verbraucher</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
----------------------------------------------------------------------------------------
- <string name="default_pay_app_removed">Ihr bevorzugter Service für Tippen &amp; Zahlen wurde entfernt. Einen anderen wählen?</string>
+ <string name="audio_panel_time_counter_default">00:00</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
- <string name="todo_audio_default_content">"[Sprachaufgabe] "</string>
+ <string name="todo_audio_default_content">[Sesli görev]</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
- <string name="default_list_type">Nach Zeit sortieren</string>
+ <string name="default_list_type">Alınan zamana göre sırala</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
 ---------------------------------------------------------------------------------------
- <string name="default_pay_app_removed">Ihr bevorzugter Service für Tippen &amp; Zahlen wurde entfernt. Einen anderen wählen?</string>
+ <string name="default_pay_app_removed">Dokundur ve öde özelliği için tercih ettiğiniz hizmet kaldırıldı. Başka bir hizmet seçmek ister misiniz?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>asla</item> <item>sadece drm</item> <item>her zaman</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item /> <item>720x480/142</item> <item>720x480/142 güvenli</item> <item>1280x720/213</item> <item>1280x720/213, güvenli</item> <item>1920x1080/320</item> <item>1920x1080/320 güvenli</item> <item>3840x2160/320</item> <item>3840x2160/320 güvenli</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,güvenli</item> <item>1280x720/213; 1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item /> <item>herşey</item> <item>varsayılan, güvenlik, çekirdek</item> <item>çekirdek</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>gizle</item> <item>bölge</item> <item>vurgula</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatisch verbunden via Netzwerk-Rating-Provider</string>
+ <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcısı aracılığıyla otomatik olarak bağlandı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Einige Standards gesetzt</string>
+ <string name="launch_defaults_some">Bazı varsayılan ayarlar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_title_default"
 ---------------------------------------------------------------------------------------
- <string name="mibi_prepaid_picker_title_default">Betrag auswählen</string>
+ <string name="mibi_prepaid_picker_title_default">Select amount</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected"
 ---------------------------------------------------------------------------------------
- <string name="car_default_app_selected">Ausgewählt</string>
+ <string name="car_default_app_selected">Seçili</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected_with_info"
 ---------------------------------------------------------------------------------------
- <string name="car_default_app_selected_with_info">Ausgewählt – %1$s</string>
+ <string name="car_default_app_selected_with_info">Seçildi - %1$s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_app_no_apps"
 ---------------------------------------------------------------------------------------
- <string name="default_app_no_apps">Keine Apps</string>
+ <string name="default_app_no_apps">Uygulama yok</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_app_none"
 ---------------------------------------------------------------------------------------
- <string name="default_app_none">Keine</string>
+ <string name="default_app_none">Yok</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_app_search_keyword"
 ---------------------------------------------------------------------------------------
- <string name="default_app_search_keyword">Standard-Apps</string>
+ <string name="default_app_search_keyword">varsayılan uygulamalar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_app_system_default"
 ---------------------------------------------------------------------------------------
- <string name="default_app_system_default">(Systemstandard)</string>
+ <string name="default_app_system_default">(Sistem varsayılanı)</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_apps"
 ---------------------------------------------------------------------------------------
- <string name="default_apps">Standard-Apps</string>
+ <string name="default_apps">Varsayılan uygulamalar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_apps_for_work"
 ---------------------------------------------------------------------------------------
- <string name="default_apps_for_work">Standard-Apps zum Arbeiten</string>
+ <string name="default_apps_for_work">İş için varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_apps_manage_domain_urls"
 ---------------------------------------------------------------------------------------
- <string name="default_apps_manage_domain_urls">Links öffnen</string>
+ <string name="default_apps_manage_domain_urls">Bağlantıları açma</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_apps_more"
 ---------------------------------------------------------------------------------------
- <string name="default_apps_more">Weitere Standard-Apps</string>
+ <string name="default_apps_more">Diğer varsayılanlar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
- <string name="default_permission_description">Unbekannte Aktion durchführen</string>
+ <string name="default_permission_description">bilinmeyen bir işlem gerçekleştirme</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="no_default_apps"
 ---------------------------------------------------------------------------------------
- <string name="no_default_apps">Keine Standard-Apps</string>
+ <string name="no_default_apps">Varsayılan uygulama yok</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="request_role_current_default"
 ---------------------------------------------------------------------------------------
- <string name="request_role_current_default">Aktueller Standard</string>
+ <string name="request_role_current_default">Mevcut varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="request_role_set_as_default"
 ---------------------------------------------------------------------------------------
- <string name="request_role_set_as_default">Als Standard festlegen</string>
+ <string name="request_role_set_as_default">Varsayılan olarak ayarla</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
- <string name="display_weather_default">Hier tippen, um Wetterinformationen zu erhalten</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel"
----------------------------------------------------------------------------------------
- <string name="flybird_default_channel">Standardzahlungsmethode</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel_main"
----------------------------------------------------------------------------------------
- <string name="flybird_default_channel_main">Standardzahlungsmethode</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="flybird_setting_use_default"
----------------------------------------------------------------------------------------
- <string name="flybird_setting_use_default">Standard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="mini_error_title_default"
----------------------------------------------------------------------------------------
- <string name="mini_error_title_default">Tipp</string>
+ <string name="display_weather_default">Hava durumu bilgisi almak için dokunun</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">Nach Elementen suchen</string>
+ <string name="navigation_search_default_hint">Burada öğe ara</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_default">Standard</string>
+ <string name="notification_channel_default">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default_description"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_default_description">Andere Benachrichtigungen</string>
+ <string name="notification_channel_default_description">Diğer bildirimler</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
 ---------------------------------------------------------------------------------------
- <string name="setting_didi_default_way">Standardtaxiroute</string>
+ <string name="setting_didi_default_way">Varsayılan taksi yolu</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
 ---------------------------------------------------------------------------------------
- <string name="upgrade_log_default">"1. Leistung optimieren; 2. Bekannte Probleme beheben;"</string>
+ <string name="upgrade_log_default">1. Geliştirilmiş performans.
+2. Sabit hatalar.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">" Sie müssen der Facemoji Datenschutzerklärung zustimmen, bevor Sie diese Funktion nutzen können."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">
+
+Bu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">" Sie müssen der Kika Datenschutzerklärung zustimmen, bevor Sie diese Funktion nutzen können."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">
+
+Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerekir.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
- <string name="ad_btn_default_text">Mehr erfahren</string>
+ <string name="ad_btn_default_text">Daha fazla bilgi edin</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_cleared">Bereinigt</string>
+ <string name="app_manager_default_cleared">Temizlendi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_close_summary"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_close_summary">Kein Standard eingestellt</string>
+ <string name="app_manager_default_close_summary">Varsayılan ayar yok.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_summary"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_open_summary">Sie haben diese App für einige Aktionen als Standard gewählt</string>
+ <string name="app_manager_default_open_summary">Bazı işlemler için bu uygulamayı varsayılan olarak başlatmayı seçtiniz.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_open_title">Standards löschen</string>
+ <string name="app_manager_default_open_title">Varsayılanları temizle</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_defaults_setting">Standard-Apps</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default"
----------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default">Automatisch (empfohlen)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default_short"
----------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default_short">Automatisch</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="menu_text_power_percent_title_default"
----------------------------------------------------------------------------------------
- <string name="menu_text_power_percent_title_default">Akku</string>
+ <string name="app_manager_defaults_setting">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"Über Diagnose 1. Das Gerät stellt eine Verbindung zum Anbieter her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Anbieters. Das kann bis zu 5 Minuten dauern. 2. Sie können die Seite während der Diagnose verlassen, sie wird im Hintergrund ausgeführt."</string>
+ <string name="tc_diagnostic_fragment_default">Teşhis hakkında
+1. Cihaz, operatör şebekesine bağlanır, ücretsiz bir mesaj gönderir ve operatör yanıtını bekler. Bu işlem 5 dakika kadar sürebilir.
+2. Teşhis arka planda gerçekleştirilir, bu sayfadan çıkabilirsiniz.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="traffic_setting_fragment_default">Auswählen</string>
+ <string name="traffic_setting_fragment_default">Seçin</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
- <string name="daily_card_setting_fragment_daily_card_brand_value">Anbieter auswählen</string>
+ <string name="daily_card_setting_fragment_daily_card_brand_value">Operatör seçin</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
 ---------------------------------------------------------------------------------------
- <string name="space_des_default">Isolierter Bereich mit verschlüsselten Daten</string>
+ <string name="space_des_default">Şifreli verilerle izole edilmiş alan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
 ---------------------------------------------------------------------------------------
- <string name="space_name_default">Arbeitsbereich</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
----------------------------------------------------------------------------------------
- <string name="xspace_default_app_summary">Standard-Apps auswählen, die für die Anmeldung, die Freigabe und den Sprachassistenten verwendet werden.</string>
+ <string name="space_name_default">Çalışma alanı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_title">Personalisierung</string>
+ <string name="xspace_default_app_title">Kişiselleştirme</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_summary">Oturum açma, paylaşma ve sesli yardımcı için kullanılan varsayılan uygulamaları seçin.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_content">Tippen Sie zum Ändern</string>
+ <string name="xspace_default_guide_notification_content">Değiştirmek için dokunun</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_main_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_main_title">Verwendung der Standard-App</string>
+ <string name="xspace_default_guide_notification_main_title">Varsayılan uygulamayı kullanma</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_xspace_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_xspace_title">Verwendung von Dual-App</string>
+ <string name="xspace_default_guide_notification_xspace_title">Klonlu uygulama kullanma</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_dialog_title">Standard</string>
+ <string name="xspace_default_setting_dialog_title">" varsayılan"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_label">Personalisierung</string>
+ <string name="xspace_default_setting_label">Kişiselleştirme</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Klingelton</item> <item>Medien</item> </string-array>
+ <string-array name="default_vol_stream_entries"> <item>Zil sesi</item> <item>Medya</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
+folder="all" application="Settings.apk" xml="" name="app_install_location_values"
 ---------------------------------------------------------------------------------------
- <string name="account_dashboard_default_summary">Keine Konten hinzugefügt</string>
+ <string-array name="app_install_location_values"> <item>cihaz</item> <item>hafıza kartı</item> <item>oto</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
 ---------------------------------------------------------------------------------------
- <string name="app_default_dashboard_title">Standard-Apps</string>
+ <string name="app_default_dashboard_title">Varsayılan uygulamalar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
 ---------------------------------------------------------------------------------------
- <string name="auto_brightness_default_title">Standard</string>
+ <string name="auto_brightness_default_title">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="auto_brightness_summary_default">Bevorzugte Helligkeit ist Standard</string>
+ <string name="auto_brightness_summary_default">Tercih ettiğiniz parlaklık varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatische Verbindung via Netzwerk-Rating-Provider</string>
+ <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcı aracılığıyla otomatik olarak bağlandı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
 ---------------------------------------------------------------------------------------
- <string name="cutout_mode_default">Automatisch</string>
+ <string name="cutout_mode_default">Otomatik</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
 ---------------------------------------------------------------------------------------
- <string name="default_calendar_app_title">Kalender-App</string>
+ <string name="default_calendar_app_title">Takvim uygulaması</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 ---------------------------------------------------------------------------------------
- <string name="default_contacts_app_title">Kontakte-App</string>
+ <string name="default_contacts_app_title">Kişiler uygulaması</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_title"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_title">Standard-Launcher</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
----------------------------------------------------------------------------------------
- <string name="default_launcher_set_jeejen_message">Home-Taste drücken, um den vereinfachten Launcher einzurichten</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
----------------------------------------------------------------------------------------
- <string name="default_launcher_set_system_message">Home-Taste drücken, um den Standard-Launcher wiederherzustellen</string>
+ <string name="default_launcher_title">Varsayılan Başlatıcı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
- <string name="default_map_app_title">Karten-App</string>
+ <string name="default_map_app_title">Harita uygulaması</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Benachrichtigungsassistent</string>
+ <string name="default_notification_assistant">Bildirim yardımcısı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_rule_name"
+---------------------------------------------------------------------------------------
+ <string name="default_rule_name">Zamanlama 1</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
- <string name="default_theme">Standard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
----------------------------------------------------------------------------------------
- <string name="default_vol_stream_title">Vorgabe Lautstärkeregler</string>
+ <string name="default_theme">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
 ---------------------------------------------------------------------------------------
- <string name="enterprise_privacy_enterprise_set_default_apps">Standard-Apps</string>
+ <string name="enterprise_privacy_enterprise_set_default_apps">Varsayılan uygulamalar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_summary">Wenn Sie die Hintergrundverbindung einschränken, können sich neue Apps nach der Installation nicht mehr im Hintergrund mit dem Internet verbinden. Eventuell können sie danach keine Nachrichten mehr empfangen oder Inhalte herunterladen. Trotzdem einschränken?</string>
+ <string name="firewall_set_bg_firewall_default_dialog_summary">Arka plan bağlantısını kısıtlarsanız, yeni uygulamalar yüklemeden sonra arka planda internete bağlanamaz. Bundan sonra mesaj alamaz veya içerik indiremez. Yine de kısıtlansın mı?</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_title">Hintergrundverbindung für neue Apps einschränken</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="importance_default"
----------------------------------------------------------------------------------------
- <string name="importance_default">Standard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
----------------------------------------------------------------------------------------
- <string name="keywords_default_browser">standard, standardbrowser</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_links"
----------------------------------------------------------------------------------------
- <string name="keywords_default_links">standard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
----------------------------------------------------------------------------------------
- <string name="keywords_default_payment_app">bezahlung, standard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
----------------------------------------------------------------------------------------
- <string name="media_output_default_summary">Diese Gerät</string>
+ <string name="firewall_set_bg_firewall_default_dialog_title">Yeni uygulamalar için arka plan bağlantısını kısıtla</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
 ---------------------------------------------------------------------------------------
- <string name="modify_default_browser_message">Wenn Sie eine Drittanbieter-App als Standardbrowser festlegen, kann es sein, dass sie Ihren Browserverlauf und andere Daten erfasst. Trotzdem festlegen?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
----------------------------------------------------------------------------------------
- <string name="notifi_importance_default">Wird überall angezeigt, macht Geräusche, aber nicht visuell</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
----------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">Hohe Wichtigkeit</string>
+ <string name="modify_default_browser_message">Üçüncü taraf bir uygulamayı varsayılan tarayıcınız olarak ayarlarsanız, tarama geçmişinizi ve diğer verileri toplamaya başlayabilir. Yine de ayarlansın mı?</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
- <string name="notification_importance_default_title">Hoch</string>
+ <string name="notification_importance_default_title">Yüksek</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_sound_default">Standardbenachrichtigungston</string>
+ <string name="notification_sound_default">Varsayılan bildirim sesi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
- <string name="slider_vocie_online_default">Nichts</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="usb_default_info"
----------------------------------------------------------------------------------------
- <string name="usb_default_info">Wenn ein anderes Gerät angeschlossen und Ihr Telefon entsperrt ist, werden diese Einstellungen übernommen. Nur mit vertrauenswürdigen Geräten verbinden.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="usb_default_label"
----------------------------------------------------------------------------------------
- <string name="usb_default_label">USB-Standardkonfiguration</string>
+ <string name="slider_vocie_online_default">Yok</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="wallpaper_settings_summary_default">Standard</string>
+ <string name="wallpaper_settings_summary_default">Varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
+---------------------------------------------------------------------------------------
+ <string name="default_vol_stream_title">Ses kontrolü için varsayılan akış</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">Jeejen\'i kurmak için Ana ekran düğmesine basın</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">Varsayılan başlatıcıyı geri yüklemek için Ana ekran düğmesine basın</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">Başka bir cihaz bağlandığında ve telefonunuzun kilidi açıldığında, bu ayarlar uygulanır. Yalnızca güvenilir cihazlara bağlanın.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">Varsayılan USB yapılandırması</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">Varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">Ses çıkar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
- <string name="tether_limit_value_custom">Benutzerdefiniert</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="default_record_name"
----------------------------------------------------------------------------------------
- <string name="default_record_name">Unbenannte Aufnahme</string>
+ <string name="tether_limit_value_custom">Özel</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
 ---------------------------------------------------------------------------------------
- <string name="err_msg_pending_value">Ausstehende Bewertung</string>
+ <string name="err_msg_pending_value">değerlendirme beklemede</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
 ---------------------------------------------------------------------------------------
- <string name="online_recognize_order_service_type_value">Genaue Onlineerkennung</string>
+ <string name="online_recognize_order_service_type_value">Çevrimiçi doğru tanıma</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
 ---------------------------------------------------------------------------------------
- <string name="online_recognize_order_unit_price_value">RMB %s pro Stunde</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SpacesPolicyApp.apk" xml="" name="default_space_name"
----------------------------------------------------------------------------------------
- <string name="default_space_name">Nichtbenannter Speicher</string>
+ <string name="online_recognize_order_unit_price_value">Saatte %s RMB</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Standard setzen</string>
+ <string name="change_default_dialer_dialog_affirmative">Varsayılanı Ayarla</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_negative">Abbrechen</string>
+ <string name="change_default_dialer_dialog_negative">İptal</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_warning_message">%s wird in der Lage sein, alle Aspekte von Anrufen zu platzieren und zu kontrollieren. Nur Apps, denen Sie vertrauen, sollten als Standardtelefon-App festgelegt werden.</string>
+ <string name="change_default_dialer_warning_message">%s, çağrıların tüm yönlerine erişebilecek ve kontrol edebilecektir. Yalnızca güvendiğiniz uygulamalar varsayılan Telefon uygulaması olarak ayarlanmalıdır.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatische Verbindung über Netzwerk-Rating-Provider</string>
+ <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcısı üzerinden otomatik olarak bağlandı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatisch verbunden via Netzwerk-Rating-Provider</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="default_call_switch_err_msg1"
----------------------------------------------------------------------------------------
- <string name="default_call_switch_err_msg1">Bevorzugte SIM für Anrufe kann während eines Anrufs nicht geändert werden</string>
+ <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcısı aracılığıyla otomatik olarak bağlandı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">&lt;Nicht festgelegt&gt;</string>
+ <string name="default_preference_summary_domain_address">&lt;Ayarlanmadı></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">&lt;Nicht festgelegt&gt;</string>
+ <string name="default_preference_summary_password">&lt;Ayarlanmadı></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">&lt;Nicht festgelegt&gt;</string>
+ <string name="default_preference_summary_username">&lt;Ayarlanmadı></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Einige Standards gesetzt</string>
+ <string name="launch_defaults_some">Bazı varsayılanlar ayarlandı</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="ThemeManager.apk" xml="" name="theme_provision_default_theme_title"
+folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
- <string name="theme_provision_default_theme_title">Standard</string>
+ <string name="msim_select_default_time_left">(%d s)</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
- <string name="handy_mode_default_to_close_whether_open">Einhandmodus ist standardmäßig ausgeschaltet. Einhandmodus einschalten?</string>
+ <string name="handy_mode_default_to_close_whether_open">Tek el modu varsayılan olarak kapalıdır. Tek el modu açılsın mı?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>asla</item> <item>sadece drm</item> <item>her zaman</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item /> <item>720x480/142</item> <item>720x480/142,güvenli</item> <item>1280x720/213</item> <item>1280x720/213,güvenli</item> <item>1920x1080/320</item> <item>1920x1080/320,güvenli</item> <item>3840x2160/320</item> <item>3840x2160/320,güvenli</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,güvenli</item> <item>1280x720/213; 1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item /> <item>tümü</item> <item>varsayılan,güvenlik,çekirdek</item> <item>çekirdek</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>gizle</item> <item>bölge</item> <item>vurgula</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatisch über Anbieter von Netzwerkbewertungen verbunden</string>
+ <string name="connected_via_network_scorer_default">Ağ Derecelendirme sağlayıcısı üzerinden otomatik olarak bağlandı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
 ---------------------------------------------------------------------------------------
- <string name="default_categories_restored">Standardkategorien wiederhergestellt</string>
+ <string name="default_categories_restored">Varsayılan kategoriler geri yüklendi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Keine Standardeinstellungen festgelegt</string>
+ <string name="launch_defaults_none">Varsayılan ayar yok</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Einige Standardeinstellungen festgelegt</string>
+ <string name="launch_defaults_some">Bazı varsayılanlar ayarlandı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
 ---------------------------------------------------------------------------------------
- <string name="restore_default_categories">Standardkategorien wiederherstellen</string>
+ <string name="restore_default_categories">Varsayılan kategorileri geri yükle</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="screen_zoom_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Standard</string>
+ <string name="screen_zoom_summary_default">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_lang_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
+ <string name="tts_default_lang_summary">Konuşma metni için dile özel ses ayarları</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Sprache</string>
+ <string name="tts_default_lang_title">Dil</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Beeinflusst den Ton der synthetisierten Sprache</string>
+ <string name="tts_default_pitch_summary">Sentezlenmiş konuşma tonunu etkiler</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Tonhöhe</string>
+ <string name="tts_default_pitch_title">Alan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_rate_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Geschwindigkeit, mit der der Text gesprochen wird</string>
+ <string name="tts_default_rate_summary">Metnin konuşulduğu hız</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Sprechrate</string>
+ <string name="tts_default_rate_title">Konuşma hızı</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Dies ist ein Beispiel für Sprachsynthese</string>
+ <string name="tts_default_sample_string">Bu bir konuşma sentezi örneğidir</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_content">FileDownloader läuft.</string>
+ <string name="default_filedownloader_notification_content">Dosyaİndirici çalışıyor.</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Weather.apk" xml="" name="information_manager_default_weather_bg"
+folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
- <string name="information_manager_default_weather_bg">Standardwetterhintergrund</string>
+ <string name="default_filedownloader_notification_title">Dosyaİndirici</string> 
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Weather.apk" xml="" name="realtime_cityname_default"
+folder="all" application="Weather.apk" xml="" name="temperature_unit_default"
 ---------------------------------------------------------------------------------------
- <string name="realtime_cityname_default">Standort</string>
+ <string name="temperature_unit_default">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="wind_power_unit_default"
+---------------------------------------------------------------------------------------
+ <string name="wind_power_unit_default">0</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">Sie haben die Kontrolle - wählen Sie, welche Infos Sie mit Apps teilen möchten.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
----------------------------------------------------------------------------------------
- <string name="feedback_desc_default">Manche Tasten funktionieren nicht</string>
+ <string name="com_facebook_tooltip_default">Kontrol sizde - uygulamalarla hangi bilgileri paylaşmak istediğinizi seçin.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">Standorte durchsuchen</string>
+ <string name="navigation_search_default_hint">Konumu Ara</string>
 
 

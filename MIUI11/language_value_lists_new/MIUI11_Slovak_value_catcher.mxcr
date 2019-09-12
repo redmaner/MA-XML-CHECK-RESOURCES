@@ -1133,6 +1133,12 @@ all Email.apk strings.xml default_signature_2
 all Email.apk strings.xml file_default_save_path_title
 all FileExplorerGlobal.apk strings.xml default_change_log
 all framework-ext-res.apk strings.xml default_device_name
+all Health.apk strings.xml improve_your_health_default_tips
+all Health.apk strings.xml preference_update_default_title
+all Health.apk strings.xml revert_to_default
+all Health.apk strings.xml sleep_tip_default
+all Health.apk strings.xml tips_default
+all Health.apk strings.xml user_invalid_value
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk strings.xml default_folder_title_claro
 all MiLauncherGlobal.apk strings.xml default_folder_title_game
