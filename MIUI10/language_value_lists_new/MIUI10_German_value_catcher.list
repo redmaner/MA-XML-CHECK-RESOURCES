@@ -263,15 +263,33 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Unbekanntes Gerät</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
 ---------------------------------------------------------------------------------------
- <string name="subinfo_default_name">SIM %d</string>
+ <string name="subinfo_default_name">SIM%d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Ihre Identität bestätigen</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">%1$s ist zurzeit nicht verfügbar. Dies wird von %2$s verwaltet.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Verifizieren Sie, dass Sie es sind</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -613,7 +631,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_def
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_description"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_cast_device_default_description">Fertig zum Casten</string>
+ <string name="quick_settings_cast_device_default_description">Fertig zum Übertragen</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -631,7 +649,7 @@ folder="all" application="MiuiVideo.apk" xml="" name="alert_dialog_download_defa
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="notification_default_title"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_title">Offlinevideo</string>
+ <string name="notification_default_title">Offline-Video</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -715,7 +733,7 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_title"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_title">Offlinevideo</string>
+ <string name="notification_default_title">Offline-Video</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1045,19 +1063,19 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_t
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_content">Tippen Sie zum Ändern</string>
+ <string name="xspace_default_guide_notification_content">Tippen zum Ändern</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_main_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_main_title">Verwendung der Standard-App</string>
+ <string name="xspace_default_guide_notification_main_title">Standard-App verwenden</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_xspace_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_xspace_title">Verwendung von Dual-App</string>
+ <string name="xspace_default_guide_notification_xspace_title">Dual App verwenden</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1274,6 +1292,84 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Benutzerdefiniert</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">Standard</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">Standardeinstellung für Anrufe</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Standardeinstellung für Anrufe und SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Standardeinstellung für mobile Daten</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">Standardeinstellung für SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">Adaptive Benachrichtigungen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">Standard</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Öffnen mit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Benachrichtigungen werden mit einem Ton oder einer Vibration angekündigt, um dich auf sie aufmerksam zu machen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Gemäß Standard fürs Gerät</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">Zurücksetzen der Standard-Apn fehlgeschlagen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Gemäß Standard fürs Gerät</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Standardeinstellungen verwenden</string>
 
 
 ---------------------------------------------------------------------------------------

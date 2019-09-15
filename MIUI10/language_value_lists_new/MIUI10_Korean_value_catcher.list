@@ -389,6 +389,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">본인 확인</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="gsm_alphabet_default_charset"
 ---------------------------------------------------------------------------------------
  <string name="gsm_alphabet_default_charset">euc-kr</string>
@@ -1399,12 +1405,6 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
----------------------------------------------------------------------------------------
- <string name="default_notification_assistant">알림 어시스턴트</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
  <string name="default_rule_name">예약 규칙 1</string>
@@ -1459,12 +1459,6 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
----------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">높은 중요도</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_importance_default_title">높음</string>
@@ -1504,6 +1498,90 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_default"
 ---------------------------------------------------------------------------------------
  <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터 수집이 시작될 수 있습니다. 어쨌든 설정 하시겠습니까?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">기본</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">통화용 기본 SIM</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">통화 및 SMS용 기본 SIM</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">모바일 데이터용 기본 SIM</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">SMS용 기본 카드</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">적응형 알림</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">연결 앱</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">소리나 진동으로 알립니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">기기 기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">기본 APN 재설정 실패</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">기기 기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">기본 설정 사용</string>
 
 
 ---------------------------------------------------------------------------------------
