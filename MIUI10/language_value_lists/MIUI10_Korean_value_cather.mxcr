@@ -63,6 +63,7 @@ all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
 all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml zen_mode_default_every_night_name
+all framework-res.apk strings.xml biometric_dialog_default_title
 all framework-res.apk strings.xml gsm_alphabet_default_charset
 all imssettings.apk strings.xml ims_settings_no_default_value
 all imssettings.apk strings.xml ims_apn_value_invalid
@@ -231,7 +232,6 @@ all Settings.apk strings.xml default_launcher_set_jeejen_message
 all Settings.apk strings.xml default_launcher_set_system_message
 all Settings.apk strings.xml default_launcher_title
 all Settings.apk strings.xml default_map_app_title
-all Settings.apk strings.xml default_notification_assistant
 all Settings.apk strings.xml default_rule_name
 all Settings.apk strings.xml default_theme
 all Settings.apk strings.xml default_vol_stream_title
@@ -241,7 +241,6 @@ all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_title
 all Settings.apk strings.xml importance_default
 all Settings.apk strings.xml media_output_default_summary
 all Settings.apk strings.xml notifi_importance_default
-all Settings.apk strings.xml notification_channel_summary_default
 all Settings.apk strings.xml notification_importance_default_title
 all Settings.apk strings.xml notification_sound_default
 all Settings.apk strings.xml slider_vocie_online_default
@@ -249,6 +248,20 @@ all Settings.apk strings.xml usb_default_info
 all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml wifi_badging_thresholds_default
+all Settings.apk strings.xml modify_default_browser_message
+all Settings.apk strings.xml accessibility_timeout_default
+all Settings.apk strings.xml default_for_calls
+all Settings.apk strings.xml default_for_calls_and_sms
+all Settings.apk strings.xml default_for_mobile_data
+all Settings.apk strings.xml default_for_sms
+all Settings.apk strings.xml default_notification_assistant
+all Settings.apk strings.xml game_driver_app_preference_default
+all Settings.apk strings.xml keywords_app_default
+all Settings.apk strings.xml notification_channel_summary_default
+all Settings.apk strings.xml overlay_option_device_default
+all Settings.apk strings.xml reset_default_apn_failed
+all Settings.apk strings.xml theme_customization_device_default
+all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value

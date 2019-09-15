@@ -143,6 +143,9 @@ all MiuiVideoGlobal.apk strings.xml plus_poster_reset_default
 all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
 all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
+all Mms.apk strings.xml rcs_pref_default_sending_method
+all Mms.apk strings.xml rcs_pref_picture_message_default_quality
+all Mms.apk strings.xml rcs_pref_video_message_default_quality
 all ModemTestMode.apk strings.xml default_protocol
 all Music.apk strings.xml com_facebook_tooltip_default
 all NfcNci.apk strings.xml default_pay_app_removed
