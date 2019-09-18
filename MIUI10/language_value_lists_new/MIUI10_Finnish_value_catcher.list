@@ -287,15 +287,9 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_48m_watermark_default_text"
+folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
 ---------------------------------------------------------------------------------------
- <string name="device_48m_watermark_default_text">48MP KOLMOISKAMERA</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_64m_watermark_default_text"
----------------------------------------------------------------------------------------
- <string name="device_64m_watermark_default_text">64MP KAKSOISKAMERA</string>
+ <string name="device_ultra_pixel_watermark_default_text">48MP KOLMOISKAMERA</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -697,13 +691,13 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_summary">Aseta oletussovellus maksuille, jakamiselle, suosikeille ja paljon muuta.</string>
+ <string name="xspace_default_app_summary">Valitse oletussovellus kirjautumiselle, jakamiselle ja ääniavustajalle.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_title">Oletussovellus</string>
+ <string name="xspace_default_app_title">Mukauttaminen</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -733,7 +727,7 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setti
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_label">Oletussovellus</string>
+ <string name="xspace_default_setting_label">Mukauttaminen</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -968,6 +962,18 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Yhden käden-tila ei ole käytössä oletuksena. Otetaanko Yhden käden-tila käyttöön?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_content">FileDownloader on käynnissä.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_title">FileDownloader</string>
 
 
 ---------------------------------------------------------------------------------------

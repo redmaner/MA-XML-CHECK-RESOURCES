@@ -869,6 +869,24 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_paddin
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_default_sending_method">Metodă de trimitere implicită</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_picture_message_default_quality">Opțiuni de compresie a imaginii</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_video_message_default_quality">Opțiuni de compresie video</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="ModemTestMode.apk" xml="" name="default_protocol"
 ---------------------------------------------------------------------------------------
  <string name="default_protocol">IP</string>

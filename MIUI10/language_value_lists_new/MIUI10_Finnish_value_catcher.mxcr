@@ -46,8 +46,7 @@ all framework-res.apk strings.xml wifi_localhotspot_configure_ssid_default
 all framework-res.apk strings.xml zen_mode_default_every_night_name
 all MiRecycle.apk strings.xml default_error_msg
 all MiuiBugReport.apk strings.xml default_text_view
-all MiuiCamera.apk strings.xml device_48m_watermark_default_text
-all MiuiCamera.apk strings.xml device_64m_watermark_default_text
+all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
@@ -160,5 +159,7 @@ all TeleService.apk strings.xml default_preference_summary_username
 all TeleService.apk strings.xml launch_defaults_some
 all TeleService.apk strings.xml msim_select_default_time_left
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all Updater.apk strings.xml default_filedownloader_notification_content
+all Updater.apk strings.xml default_filedownloader_notification_title
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all XMRemoteController.apk strings.xml feedback_desc_default
