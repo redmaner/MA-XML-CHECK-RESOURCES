@@ -191,12 +191,6 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-ext-res.apk" xml="" name="screen_key_long_press_default_action"
----------------------------------------------------------------------------------------
- <string-array name="screen_key_long_press_default_action"> <item>voice_assistant</item> <item>cap</item> <item>cap</item> <item>show_menu</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
 ---------------------------------------------------------------------------------------
  <string name="default_notification_channel_label">Sense categoria</string>
