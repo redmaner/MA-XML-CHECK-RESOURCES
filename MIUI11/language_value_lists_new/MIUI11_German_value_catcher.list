@@ -263,6 +263,12 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Unbekanntes Gerät</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
 ---------------------------------------------------------------------------------------
  <string name="subinfo_default_name">SIM%d</string>
@@ -380,6 +386,12 @@ folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_de
 folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
  <string name="channel_default_name">Neue Funktionen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Unbekanntes Gerät</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1003,7 +1015,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="menu_text_power_perce
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"Über Diagnose 1. Das Gerät stellt eine Verbindung zum Anbieter her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Anbieters. Das kann bis zu 5 Minuten dauern. 2. Sie können die Seite während der Diagnose verlassen, sie wird im Hintergrund ausgeführt."</string>
+ <string name="tc_diagnostic_fragment_default">"Über Diagnose 1. Das Gerät stellt eine Verbindung zum Mobilfunkanbieter her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Mobilfunkanbieters. Das kann bis zu 5 Minuten dauern. 2. Sie können die Seite während der Diagnose verlassen, sie wird im Hintergrund ausgeführt."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1015,7 +1027,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragm
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
- <string name="daily_card_setting_fragment_daily_card_brand_value">Anbieter auswählen</string>
+ <string name="daily_card_setting_fragment_daily_card_brand_value">Mobilfunkanbieter auswählen</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1124,30 +1136,6 @@ folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
 folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 ---------------------------------------------------------------------------------------
  <string name="default_contacts_app_title">Kontakte-App</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_for_calls"
----------------------------------------------------------------------------------------
- <string name="default_for_calls">Standard für Anrufe</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
----------------------------------------------------------------------------------------
- <string name="default_for_calls_and_sms">Standard für Anrufe &amp; SMS</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
----------------------------------------------------------------------------------------
- <string name="default_for_mobile_data">Standard für mobile Daten</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_for_sms"
----------------------------------------------------------------------------------------
- <string name="default_for_sms">Standard für SMS</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1271,9 +1259,27 @@ folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Gerätestandard</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">Zurücksetzen des Standard-APN fehlgeschlagen</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
  <string name="slider_vocie_online_default">Nichts</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Gerätestandard</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1292,6 +1298,12 @@ folder="all" application="Settings.apk" xml="" name="usb_default_label"
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="wallpaper_settings_summary_default">Standard</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Standardeinstellungen verwenden</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1346,6 +1358,36 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 folder="all" application="SpacesPolicyApp.apk" xml="" name="default_space_name"
 ---------------------------------------------------------------------------------------
  <string name="default_space_name">Nichtbenannter Speicher</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Standard festlegen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">Abbrechen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">%s zur Standard-App für das Anrufauslesen machen?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s kann Infos über Anrufer sehen, die nicht in Ihren Kontakten sind, und diese Anrufe blockieren. Nur Apps, denen Sie vertrauen, sollten als Standard-App für das Anrufauslesen festgelegt werden.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s wird nicht mehr in der Lage sein, Anrufe auszulesen</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1409,6 +1451,12 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Anruf wurde nicht beendet. Fehlercode 81.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="ThemeManager.apk" xml="" name="theme_provision_default_theme_title"
 ---------------------------------------------------------------------------------------
  <string name="theme_provision_default_theme_title">Standard</string>
@@ -1423,7 +1471,13 @@ folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatisch über Anbieter von Netzwerkbewertungen verbunden</string>
+ <string name="connected_via_network_scorer_default">Automatische Verbindung über Netzwerkbewertungsanbieter</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories"
+---------------------------------------------------------------------------------------
+ <string name="default_categories">Standard</string>
 
 
 ---------------------------------------------------------------------------------------
