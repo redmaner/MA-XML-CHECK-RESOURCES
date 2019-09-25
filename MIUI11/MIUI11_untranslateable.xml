@@ -73,7 +73,6 @@
 	<item folder="all" application="BuiltInPrintService.apk" file="strings.xml" name="media_size_l"/>
 	<item folder="all" application="BuiltInPrintService.apk" file="strings.xml" name="printer_description"/>
 	<item folder="all" application="BuiltInPrintService.apk" file="strings.xml" name="resolution_300_dpi"/>
-	<item folder="all" application="BugReport.apk" file="strings.xml" name="pic_view_format"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="xiaomi_bytes_unit"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="xiaomi_kilobytes_unit"/>
 	<item folder="all" application="Calculator.apk" file="strings.xml" name="xiaomi_megabytes_unit"/>
@@ -198,7 +197,6 @@
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="video_tag"/>
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="video_tag_search_lead"/>
 	<item folder="all" application="FileExplorer.apk" file="strings.xml" name="video_upload_item_title"/>
-	<item folder="all" application="FindDevice.apk" file="strings.xml" name="find_device_notice_p2"/>
 	<item folder="all" application="FrequentPhrase.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="FM.apk" file="arrays.xml" name="freq_entries"/>
 	<item folder="all" application="FM.apk" file="strings.xml" name="txt_divider"/>
@@ -263,35 +261,12 @@
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="status_bar_wifi"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="status_bar_zen"/>
 	<item folder="all" application="framework-res.apk" file="strings.xml" name="zen_mode_rule_name_combination"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_chat_record_upload_server_url"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_log_upload_server_url_normal"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_mam_server_url"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_symbol_colon"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="freerun_user_server_url"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="mi_push_app_id"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="mi_push_app_key"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="space"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="xiaomi_update_sdk_bytes_unit"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="xiaomi_update_sdk_kilobytes_unit"/>
-	<item folder="all" application="greenguard.apk" file="strings.xml" name="xiaomi_update_sdk_megabytes_unit"/>
 	<item folder="all" application="InCallUI.apk" file="arrays.xml" name="absent_num"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="antispam_marked_title"/>
 	<item folder="all" application="InCallUI.apk" file="strings.xml" name="phone_info_divider"/>
 	<item folder="all" application="MiCloudSync.apk" file="strings.xml" name="xiaomi_account_type"/>
 	<item folder="all" application="MiDrive.apk" file="strings.xml" name="download_current_progress"/>
 	<item folder="all" application="MiDrive.apk" file="strings.xml" name="fileSizeSuffix"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="action_bonjour"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="action_p2pgo"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="action_p2pls"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="hello_world"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="title_activity_bonjour"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="title_activity_intro"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="title_activity_main"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="title_activity_p2p_group_client"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="title_activity_p2p_group_owner"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="title_activity_p2p_legacy_station"/>
-	<item folder="all" application="MiDrop.apk" file="strings.xml" name="title_activity_reception"/>
 	<item folder="all" application="MiGalleryLockscreen.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
 	<item folder="all" application="MiGalleryLockscreen.apk" file="strings.xml" name="bottom_sheet_behavior"/>
 	<item folder="all" application="MiGalleryLockscreen.apk" file="strings.xml" name="character_counter_pattern"/>
@@ -301,6 +276,7 @@
 	<item folder="all" application="miui.apk" file="strings.xml" name="size_suffix"/>
 	<item folder="all" application="MiuiBluetooth.apk" file="strings.xml" name="ble_profile_1"/>
 	<item folder="all" application="MiuiBluetooth.apk" file="strings.xml" name="ble_profile_2"/>
+	<item folder="all" application="MiuiBugReport.apk" file="strings.xml" name="pic_view_format"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="beauty_level_1"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="beauty_level_2"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="beauty_level_3"/>
@@ -493,8 +469,6 @@
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="home_indicator"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="MiuiHome.apk" file="strings.xml" name="wallpaper_scrolling"/>
-	<item folder="all" application="MiuiKeyguard.apk" file="strings.xml" name="digital_clock_dot"/>
-	<item folder="all" application="MiuiKeyguard.apk" file="strings.xml" name="symbol_colon"/>
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="power_charging"/>
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="power_charging_duration_ac_short"/>
 	<item folder="all" application="MiuiPackageInstaller.apk" file="strings.xml" name="power_charging_duration_short"/>
@@ -573,12 +547,6 @@
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="velocity_tracker_impl"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="status_bar_settings_battery_meter_format"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="weather_description_no_aqi"/>
-	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="character_counter_pattern"/>
-	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="file_match_detail"/>
-	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="google_api_key"/>
-	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="google_app_id"/>
-	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="google_crash_reporting_api_key"/>
-	<item folder="all" application="MiuiVideo.apk" file="strings.xml" name="send_video_type"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="affelite_id"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="api"/>
 	<item folder="all" application="MiuiVideoGlobal.apk" file="strings.xml" name="app_code"/>
@@ -733,16 +701,6 @@
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="stock_change_rate_format"/>
 	<item folder="all" application="PersonalAssistant.apk" file="strings.xml" name="tag_view_nav"/>
-	<item folder="all" application="PersonalAssistantPlugin.apk" file="arrays.xml" name="express_status_detail_flag"/>
-	<item folder="all" application="PersonalAssistantPlugin.apk" file="arrays.xml" name="express_status_flag_all"/>
-	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="express_complete_flag"/>
-	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="express_delivery_flag"/>
-	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="personalAssistant_path"/>
-	<item folder="all" application="PersonalAssistantPlugin.apk" file="strings.xml" name="stock_change_rate_format"/>
-	<item folder="all" application="PrintSpooler.apk" file="strings.xml" name="current_page_template"/>
-	<item folder="all" application="PrintSpooler.apk" file="strings.xml" name="printer_extended_description_template"/>
-	<item folder="all" application="Provision.apk" file="strings.xml" name="suggested_actions_uri"/>
-	<item folder="all" application="Provision.apk" file="strings.xml" name="wizard_script_uri"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="action_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="action_param"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="alarm_general_type_restricted"/>
@@ -754,6 +712,10 @@
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_action_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_mandatory_event_name"/>
 	<item folder="all" application="PowerKeeper.apk" file="arrays.xml" name="shown_optional_event_name"/>
+	<item folder="all" application="PrintSpooler.apk" file="strings.xml" name="current_page_template"/>
+	<item folder="all" application="PrintSpooler.apk" file="strings.xml" name="printer_extended_description_template"/>
+	<item folder="all" application="Provision.apk" file="strings.xml" name="suggested_actions_uri"/>
+	<item folder="all" application="Provision.apk" file="strings.xml" name="wizard_script_uri"/>
 	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
 	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="bottom_sheet_behavior"/>
 	<item folder="all" application="SecurityAdd.apk" file="strings.xml" name="empty"/>
@@ -964,23 +926,6 @@
 	<item folder="all" application="Weather.apk" file="strings.xml" name="share_weather_desc_alert"/>
 	<item folder="all" application="Weather.apk" file="strings.xml" name="data_source_timezone"/>
 	<item folder="all" application="XiaomiServiceFramework.apk" file="strings.xml" name="activate_sms_postfix"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="bottom_sheet_behavior"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="brand_device"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="character_counter_pattern"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="humidity_frame"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="lock_screen_device_sum"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="match_dataset_frame"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="path_password_eye"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="path_password_eye_mask_strike_through"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="path_password_eye_mask_visible"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="path_password_strike_through"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="scene_name_frame"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="scene_name_frame_short"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="stb_detail_title_frame"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="time_interval_in_sec"/>
-	<item folder="all" application="XMRemoteController.apk" file="strings.xml" name="year_format"/>
 	<item folder="all" application="YellowPage.apk" file="strings.xml" name="express_order_state"/>
 	<item folder="all" application="YellowPage.apk" file="strings.xml" name="nearby_yellow_page_title_format"/>
 	<item folder="all" application="YellowPage.apk" file="strings.xml" name="order_merchant_title_format"/>
