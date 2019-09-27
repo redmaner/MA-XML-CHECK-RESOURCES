@@ -44,6 +44,8 @@ all Email.apk strings.xml default_opening_attchemnt_mode
 all Email.apk strings.xml default_signature_2
 all Email.apk strings.xml file_default_save_path_title
 all FileExplorer.apk strings.xml user_desc_default_tip
+all FileExplorerGlobal.apk strings.xml default_cache_type
+all FileExplorerGlobal.apk strings.xml default_change_log
 all FindDevice.apk strings.xml default_debt_msg_words
 all framework-ext-res.apk strings.xml default_device_name
 all framework-res.apk strings.xml app_suspended_default_message
@@ -236,7 +238,6 @@ all Traceur.apk strings.xml tts_default_sample_string
 all Updater.apk strings.xml default_filedownloader_notification_content
 all Updater.apk strings.xml default_filedownloader_notification_title
 all Weather.apk strings.xml information_manager_default_weather_bg
-all Weather.apk strings.xml temperature_unit_default
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all XMRemoteController.apk strings.xml feedback_desc_default
 all YellowPage.apk strings.xml navigation_search_default_hint

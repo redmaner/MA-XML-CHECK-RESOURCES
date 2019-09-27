@@ -275,6 +275,18 @@ folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FileExplorerGlobal.apk" xml="" name="default_cache_type"
+---------------------------------------------------------------------------------------
+ <string name="default_cache_type">Podatkovne datoteke</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorerGlobal.apk" xml="" name="default_change_log"
+---------------------------------------------------------------------------------------
+ <string name="default_change_log">Posodobite aplikacijo, da preverite nove funkcije.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
  <string name="default_debt_msg_words">"Ta naprava je zaklenjena zaradi zamude pri plačilu obroka.\Za podrobnosti kontaktirajte svojega prodajalca."</string>
@@ -1424,12 +1436,6 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="Weather.apk" xml="" name="information_manager_default_weather_bg"
 ---------------------------------------------------------------------------------------
  <string name="information_manager_default_weather_bg">Privzeto ozadje</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Weather.apk" xml="" name="temperature_unit_default"
----------------------------------------------------------------------------------------
- <string name="temperature_unit_default">0</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -821,6 +821,12 @@ folder="all" application="MiuiVideo.apk" xml="" name="small_video_author_des_def
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="send_comment_default_txt"
+---------------------------------------------------------------------------------------
+ <string name="send_comment_default_txt">댓글을 입력하세요</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
  <string name="alert_dialog_download_default_title">앱 다운로드</string>

@@ -37,6 +37,7 @@ all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
 all HybridPlatform.apk strings.xml msg_default_status
 all MiRadio.apk arrays.xml sleep_duration_values
+all MiuiAod.apk strings.xml signature_default_content
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml default_relation_name
@@ -65,10 +66,10 @@ all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
+all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
 all MiuiVideoGlobal.apk strings.xml signup_type_silent_default
 all MiuiVideoGlobal.apk strings.xml signup_type_user_default
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
-all MiuiVideoLeo.apk strings.xml defaults
 all Notes.apk strings.xml todo_audio_default_content
 all NotificationCenter.apk strings.xml default_list_type
 all PersonalAssistant.apk strings.xml display_weather_default

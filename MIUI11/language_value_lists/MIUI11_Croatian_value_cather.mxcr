@@ -20,6 +20,7 @@ all Settings.apk strings.xml wallpaper_settings_summary_default
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_color_picker_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml preferences_alarms_default_event
 all CellBroadcastReceiver.apk arrays.xml bluetooth_avrcp_version_values
@@ -43,6 +44,8 @@ all Email.apk strings.xml default_opening_attchemnt_mode
 all Email.apk strings.xml default_signature_2
 all Email.apk strings.xml file_default_save_path_title
 all FileExplorer.apk strings.xml user_desc_default_tip
+all FileExplorerGlobal.apk strings.xml default_cache_type
+all FileExplorerGlobal.apk strings.xml default_change_log
 all FindDevice.apk strings.xml default_debt_msg_words
 all framework-ext-res.apk strings.xml default_device_name
 all framework-res.apk strings.xml app_suspended_default_message

@@ -131,6 +131,12 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>prvi ponedeljak</item> <item>prvi utorak</item> <item>prva srijeda</item> <item>prvi četvrtak</item> <item>prvi petak</item> <item>prva subota</item> <item>prva nedjelja</item> <item>drugi ponedeljak</item> <item>drugi utorak</item> <item>druga srijeda</item> <item>drugi četvrtak</item> <item>drugi petak</item> <item>druga subota</item> <item>druga nedjelja</item> <item>treći ponedeljak</item> <item>treći utorak</item> <item>treća srijeda</item> <item>treći četvrtak</item> <item>treći petak</item> <item>treća subota</item> <item>treća nedjelja</item> <item>četvrti ponedeljak</item> <item>četvrti utorak</item> <item>četvrta srijeda</item> <item>četvrti četvrtak</item> <item>četvrti petak</item> <item>četvrta subota</item> <item>četvrta nedjelja</item> <item>zadnji ponedeljak</item> <item>zadnji utorak</item> <item>zadnja srijeda</item> <item>zadnji četvrtak</item> <item>zadnji petak</item> <item>zadnja subota</item> <item>zadnja nedjelja</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">Zadani interval za \"Podsjeti kasnije\"</string>
@@ -266,6 +272,18 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
 ---------------------------------------------------------------------------------------
  <string name="user_desc_default_tip">Prijavite se da sakupljate bodove i osvojite vrijedne nagrade.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorerGlobal.apk" xml="" name="default_cache_type"
+---------------------------------------------------------------------------------------
+ <string name="default_cache_type">Podatkovne datoteke</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorerGlobal.apk" xml="" name="default_change_log"
+---------------------------------------------------------------------------------------
+ <string name="default_change_log">Ažurirajte aplikaciju da biste provjerili nove značajke.</string>
 
 
 ---------------------------------------------------------------------------------------

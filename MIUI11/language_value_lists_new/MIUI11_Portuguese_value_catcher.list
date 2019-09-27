@@ -233,6 +233,12 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
+---------------------------------------------------------------------------------------
+ <string name="signature_default_content">"Acredite sempre que algo maravilhoso está para acontecer"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
  <string name="channel_default_name">Novas funcionalidades</string>
@@ -401,6 +407,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_n
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Predefinido</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="signup_type_silent_default"
 ---------------------------------------------------------------------------------------
  <string name="signup_type_silent_default">silent</string>
@@ -416,12 +428,6 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="signup_type_user_def
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="t_lv_subtitle_padding_default_hint">Adjusting subtitles…</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
----------------------------------------------------------------------------------------
- <string name="defaults">Predefinido</string>
 
 
 ---------------------------------------------------------------------------------------
