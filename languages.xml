@@ -8,9 +8,11 @@
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Finnish" iso="fi" url="https://github.com/dogiex/MIUI-XML-11-FINNISH" git="git@github.com:dogiex/MIUI-XML-11-FINNISH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="German" iso="de" url="https://github.com/berlinux2016/MIUI11" git="git@github.com:berlinux2016/MIUI11.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="French" iso="fr" url="https://github.com/pmspr4100/MA-XML-11-FRENCH" git="git@github.com:pmspr4100/MA-XML-11-FRENCH.git" branch="master"/>
+	<language check="check_all" fix="none" miui="11" name="Italian" iso="it" url="https://github.com/nathangiovannini3/MIUI_V11_Italy" git="git@github.com:nathangiovannini3/MIUI_V11_Italy.git" branch="master"/>
 	<language check="check_all" fix="none" miui="11" name="Japanese" iso="ja" url="https://github.com/ScratchBuild/MIUI11-XML-Japanese" git="git@github.com:ScratchBuild/MIUI11-XML-Japanese.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Korean" iso="ko" url="https://github.com/cjhyuky/MA-XML-MIUI11-KOREAN" git="git@github.com:cjhyuky/MA-XML-MIUI11-KOREAN.git" branch="master"/>
 	<language check="check_all" fix="none" miui="11" name="Polish" iso="pl" url="https://bitbucket.org/kacskrz/xml_miui-v11"  git="git@bitbucket.org:kacskrz/xml_miui-v11.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="11" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/RicardoGuariento/MIUI-XML-11-BRAZILIAN" git="git@github.com:RicardoGuariento/MIUI-XML-11-BRAZILIAN.git"  branch="master"/>
 	<language check="check_all" fix="none" miui="11" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MIUI-XML-11-PORTUGUESE" git="git@github.com:KcNirvana/MIUI-XML-11-PORTUGUESE.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Romanian" iso="ro" url="https://github.com/ashtefan/Romanian_MIUI_11"  git="git@github.com:ashtefan/Romanian_MIUI_11.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Russian" iso="ru" url="https://github.com/ingbrzy/MA-XML-11-RUSSIAN" git="git@github.com:ingbrzy/MA-XML-11-RUSSIAN.git" branch="master"/>
@@ -18,6 +20,7 @@
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Slovenian" iso="sl" url="https://github.com/bostjan2016/MIUI-11-SLOVENIAN" git="git@github.com:bostjan2016/MIUI-11-SLOVENIAN.git" branch="master"/>
 	<language check="check_all" fix="none" miui="11" name="Spanish" iso="es" url="https://github.com/danielchc/MA-XML-11-SPANISH" git="git@github.com:danielchc/MA-XML-11-SPANISH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Turkish" iso="tr" url="https://github.com/suat074/MA-XML-11-TURKISH" git="git@github.com:suat074/MA-XML-11-TURKISH.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="11" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI-11-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI-11-XML-Vietnamese.git" branch="master"/>
 
 	<!-- MIUI10 repo's - Alfabetical order-->
 	<language check="check_all" fix="fix_untranslateable" miui="10" name="Catalan" iso="ca" url="https://github.com/deivids84/MA-XML-10-CATALAN" git="git@github.com:deivids84/MA-XML-10-CATALAN.git" branch="master"/>
