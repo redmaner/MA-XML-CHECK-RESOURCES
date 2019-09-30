@@ -695,6 +695,12 @@ folder="all" application="Traceur.apk" xml="" name="usb_configuration_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
+---------------------------------------------------------------------------------------
+ <string name="com_facebook_tooltip_default">"Teniu el control - tria quina informació vols compartir amb les aplicacions."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
 ---------------------------------------------------------------------------------------
  <string name="feedback_desc_default">"Alguns botons no funcionen"</string>

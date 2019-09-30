@@ -66,6 +66,7 @@ all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
+all MiuiVideoGlobal.apk strings.xml plus_poster_reset_default
 all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
 all MiuiVideoGlobal.apk strings.xml signup_type_silent_default
 all MiuiVideoGlobal.apk strings.xml signup_type_user_default
@@ -116,6 +117,7 @@ all Settings.apk strings.xml modify_default_browser_message
 all Settings.apk strings.xml notifi_importance_default
 all Settings.apk strings.xml notification_importance_default_title
 all Settings.apk strings.xml notification_sound_default
+all Settings.apk strings.xml slider_vocie_online_default
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml tether_limit_value_custom
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open

@@ -407,6 +407,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_n
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Restaura capa predefinida</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
 ---------------------------------------------------------------------------------------
  <string name="plus_sort_type_default">Predefinido</string>
@@ -704,6 +710,12 @@ folder="all" application="Settings.apk" xml="" name="notification_importance_def
 folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 ---------------------------------------------------------------------------------------
  <string name="notification_sound_default">Toque de notificação predefinido</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Nenhum</string>
 
 
 ---------------------------------------------------------------------------------------
