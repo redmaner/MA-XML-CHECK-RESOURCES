@@ -323,12 +323,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
----------------------------------------------------------------------------------------
- <string name="movie_audio_default">Muisto</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
 ---------------------------------------------------------------------------------------
  <string name="photo_editor_font_default">Mi Lanting (Tavallinen)</string>
@@ -859,7 +853,7 @@ folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
- <string name="notifi_importance_default">Toista ääni ja näytä Lukitusnäytöllä</string>
+ <string name="notifi_importance_default">Toista ääni</string>
 
 
 ---------------------------------------------------------------------------------------

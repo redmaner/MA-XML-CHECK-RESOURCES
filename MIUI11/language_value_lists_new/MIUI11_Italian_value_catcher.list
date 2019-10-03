@@ -713,27 +713,9 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_timer"
----------------------------------------------------------------------------------------
- <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_google_lens_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_google_lens_default">true</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_video_volumekey_function_default"
----------------------------------------------------------------------------------------
- <string name="pref_video_volumekey_function_default">shutter</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_timer"
----------------------------------------------------------------------------------------
- <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>
 
 
 ---------------------------------------------------------------------------------------
