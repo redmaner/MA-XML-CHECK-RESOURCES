@@ -179,24 +179,6 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_prize_text"
----------------------------------------------------------------------------------------
- <string name="default_prize_text">Se menee suoraan aarrearkkuuni!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_user_desc"
----------------------------------------------------------------------------------------
- <string name="default_user_desc">Tämä henkilö ei ole lisännyt vielä kuvausta</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
----------------------------------------------------------------------------------------
- <string name="user_desc_default_tip">Kirjaudu sisään kerääksesi pisteitä ja voittaaksesi palkintoja.</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
  <string name="default_debt_msg_words">"Tämä laite on lukittu laitteen erääntyneen maksuerän takia. Ota yhteyttä myyjääsi lisätietoja varten."</string>
@@ -548,6 +530,12 @@ folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
+---------------------------------------------------------------------------------------
+ <string name="todo_audio_default_content">"[Äänitehtävä] "</string>
 
 
 ---------------------------------------------------------------------------------------
