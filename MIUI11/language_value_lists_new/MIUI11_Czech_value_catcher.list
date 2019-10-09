@@ -6989,6 +6989,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Cloudové úložiště</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Upozornění</string>

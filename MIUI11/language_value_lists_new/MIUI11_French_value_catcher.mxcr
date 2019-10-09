@@ -45,6 +45,7 @@ all CellBroadcastReceiver.apk strings.xml tts_default_sample_string
 all Cit.apk strings.xml current_value
 all Cit.apk strings.xml invalidvalues
 all Cit.apk strings.xml proximity_sensor_test_values
+all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk strings.xml snooze_duration_value
 all EasterEgg.apk strings.xml default_cat_name

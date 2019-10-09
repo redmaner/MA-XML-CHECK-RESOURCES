@@ -179,6 +179,12 @@ folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Archiviazione Cloud</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Notifiche</string>

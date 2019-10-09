@@ -19,6 +19,7 @@ all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml work_day_default_banner_title
 all Calendar.apk strings.xml pref_default_popup_alert_value
+all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk arrays.xml snooze_duration_values
 all DeskClock.apk arrays.xml volume_button_setting_values
@@ -56,7 +57,9 @@ all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
 all MiuiBugReport.apk strings.xml default_text_view
+all MiuiCamera.apk strings.xml pref_hdr_value_default
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
+all MiuiCamera.apk strings.xml pref_hdr_value_default
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name

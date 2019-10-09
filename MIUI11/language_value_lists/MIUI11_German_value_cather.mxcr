@@ -19,6 +19,7 @@ all Cit.apk strings.xml cit_tool_mbn_recovery_default
 all Cit.apk strings.xml cit_tool_modem_feature_config_default
 all Cit.apk strings.xml battery_value
 all Cit.apk strings.xml cit_tool_modem_test_device_value_set
+all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk strings.xml snooze_duration_value
 all Email.apk strings.xml default_opening_attchemnt_mode
@@ -188,9 +189,13 @@ all Settings.apk strings.xml connected_via_network_scorer_default
 all Settings.apk strings.xml cutout_mode_default
 all Settings.apk strings.xml default_calendar_app_title
 all Settings.apk strings.xml default_contacts_app_title
-all Settings.apk strings.xml default_launcher_title
+all Settings.apk strings.xml default_for_calls
+all Settings.apk strings.xml default_for_calls_and_sms
+all Settings.apk strings.xml default_for_mobile_data
+all Settings.apk strings.xml default_for_sms
 all Settings.apk strings.xml default_launcher_set_jeejen_message
 all Settings.apk strings.xml default_launcher_set_system_message
+all Settings.apk strings.xml default_launcher_title
 all Settings.apk strings.xml default_map_app_title
 all Settings.apk strings.xml default_notification_assistant
 all Settings.apk strings.xml default_theme

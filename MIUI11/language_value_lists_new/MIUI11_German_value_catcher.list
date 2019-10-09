@@ -125,6 +125,12 @@ folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Cloud-Speicher</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Benachrichtigungen</string>
@@ -1139,9 +1145,27 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_launcher_title"
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_title">Standard-Launcher</string>
+ <string name="default_for_calls">Standard für Anrufe</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Standard für Anrufe &amp; SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Standard für mobile Daten</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">Standard für SMS</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1154,6 +1178,12 @@ folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
 ---------------------------------------------------------------------------------------
  <string name="default_launcher_set_system_message">Home-Taste drücken, um den Standard-Launcher wiederherzustellen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_title"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_title">Standard-Launcher</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -125,6 +125,12 @@ folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_va
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Облачное хранилище</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Уведомления</string>
@@ -347,9 +353,21 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_value_default">откл.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Приближение</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_value_default">откл.</string>
 
 
 ---------------------------------------------------------------------------------------

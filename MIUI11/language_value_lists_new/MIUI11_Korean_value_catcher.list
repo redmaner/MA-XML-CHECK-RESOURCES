@@ -203,6 +203,12 @@ folder="all" application="cit_nikel.apk" xml="" name="default_station_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">클라우드 저장소</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">반복 (분)</string>

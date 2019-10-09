@@ -227,6 +227,12 @@ folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_sa
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Cloud pohrana</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Obavijesti</string>
@@ -636,24 +642,6 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="default_text"
----------------------------------------------------------------------------------------
- <string name="default_text">Zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="language_default"
----------------------------------------------------------------------------------------
- <string name="language_default">Zadani jezik</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="toast_screen_text_default"
----------------------------------------------------------------------------------------
- <string name="toast_screen_text_default">Zadana veličina</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
  <string name="alert_dialog_download_default_title">Preuzmi aplikaciju</string>
@@ -668,19 +656,67 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_de
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
 ---------------------------------------------------------------------------------------
- <string name="cast_tracks_chooser_dialog_default_track_name">Pjesma %1$d</string>
+ <string name="cast_tracks_chooser_dialog_default_track_name">Zapis %1$d</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">"Vi imate kontrolu - odaberite koje informacije želite podijeliti s aplikacijama."</string>
+ <string name="com_facebook_tooltip_default">Vi odlučujete – odaberite koje informacije želite podijeliti s aplikacijama.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_default_music_text">Auto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item3_default_text">Emocije</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item4_default_text">Izlazak sunca</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item5_default_text">Uspomene</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item6_default_text">Radost</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
 ---------------------------------------------------------------------------------------
  <string name="ovp_default_plugin_name">HD dodatak</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Vrati zadani omot</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Zadano</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="subtitle_padding_default_hint">Prilagodba titlova…</string>
 
 
 ---------------------------------------------------------------------------------------
