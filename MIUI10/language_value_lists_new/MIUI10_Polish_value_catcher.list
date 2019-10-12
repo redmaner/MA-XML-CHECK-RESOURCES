@@ -629,6 +629,282 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clir_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="clir_display_values"> <item>Domyślna wartość dla sieci</item> <item>Ukryj numer</item> <item>Pokaż numer</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="areacode_set_default"
+---------------------------------------------------------------------------------------
+ <string name="areacode_set_default">Domyślnie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="call_background_default"
+---------------------------------------------------------------------------------------
+ <string name="call_background_default">Domyślne</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="cb_default_new_channel_name"
+---------------------------------------------------------------------------------------
+ <string name="cb_default_new_channel_name">New Channel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_card"
+---------------------------------------------------------------------------------------
+ <string name="change_default_data_card">Domyślna karta dla Internetu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_card_summary"
+---------------------------------------------------------------------------------------
+ <string name="change_default_data_card_summary">Wykryto zmianę kart SIM. Ustawić tę kartę SIM jako domyślną dla połączeń internetowych?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clir_choices_network_default"
+---------------------------------------------------------------------------------------
+ <string name="clir_choices_network_default">Domyślnie dla sieci</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="config_default_data_sim"
+---------------------------------------------------------------------------------------
+ <string name="config_default_data_sim">Ustawienia</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="connection_service_default_label"
+---------------------------------------------------------------------------------------
+ <string name="connection_service_default_label">Wbudowana usługa połączeń</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_area_code_setting"
+---------------------------------------------------------------------------------------
+ <string name="default_area_code_setting">Default area code</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_areacode"
+---------------------------------------------------------------------------------------
+ <string name="default_areacode">Default area code</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_call_type"
+---------------------------------------------------------------------------------------
+ <string name="default_call_type">Voice</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_notification_description"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_description">Domyślny dźwięk (%1$s)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_port"
+---------------------------------------------------------------------------------------
+ <string name="default_port">5060</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary">Nie ustawione</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_domain_address"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_domain_address">&lt;Not set&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_password"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_password">&lt;Not set&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_username"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_username">&lt;Not set&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_sim_setting"
+---------------------------------------------------------------------------------------
+ <string name="default_sim_setting">Default SIM settings as:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_transport"
+---------------------------------------------------------------------------------------
+ <string name="default_transport">UDP</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="dialer_default_class"
+---------------------------------------------------------------------------------------
+ <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="ip_prefix_edit_default_sum"
+---------------------------------------------------------------------------------------
+ <string name="ip_prefix_edit_default_sum">Enter prefix number for IP dial</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">No defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Some defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_default_setting"
+---------------------------------------------------------------------------------------
+ <string name="msim_default_setting">Karta SIM preferowana dla:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_disable_sim_card_summary_default_card"
+---------------------------------------------------------------------------------------
+ <string name="msim_disable_sim_card_summary_default_card">"Aktualnie ta karta SIM jest domyślna dla połączeń lub transmisji danych. Możesz zatrzymać tę kartę SIM jeśli druga przejmie jej funkcję (połączenia głosowe lub Internet)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_disable_sim_card_summary_non_default_card"
+---------------------------------------------------------------------------------------
+ <string name="msim_disable_sim_card_summary_non_default_card">Wykonywanie połączeń lub przesyłanie danych nie będzie możliwe po wyłączeniu karty SIM. Wyłączyć kartę SIM %s?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_select_default_time_left"
+---------------------------------------------------------------------------------------
+ <string name="msim_select_default_time_left">(%d s)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="phone_accounts_default_account_label"
+---------------------------------------------------------------------------------------
+ <string name="phone_accounts_default_account_label">Brak dostępnej sieci</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="preference_dial_pad_touch_tone_default"
+---------------------------------------------------------------------------------------
+ <string name="preference_dial_pad_touch_tone_default">Standardowy</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="respond_via_sms_menu_reset_default_activity"
+---------------------------------------------------------------------------------------
+ <string name="respond_via_sms_menu_reset_default_activity">Przywróć domyślne</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="sim_description_default"
+---------------------------------------------------------------------------------------
+ <string name="sim_description_default">Karta SIM, slot:%s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="sum_default_caller_id"
+---------------------------------------------------------------------------------------
+ <string name="sum_default_caller_id">Do wyświetlania mojego numeru w połączeniach wychodzących używaj domyślnych ustawień operatora</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Language</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Pitch</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Speech rate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">This is an example of speech synthesis</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="ui_default_package"
+---------------------------------------------------------------------------------------
+ <string name="ui_default_package">com.android.dialer</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="voicemail_default"
+---------------------------------------------------------------------------------------
+ <string name="voicemail_default">Mój operator</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Invalid transaction identifier value</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Music.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Zachowujesz kontrolę — wybierz informacje, które chcesz udostępniać w aplikacjach.</string>

@@ -17,6 +17,8 @@ all Settings.apk strings.xml enterprise_privacy_enterprise_set_default_apps
 all Settings.apk strings.xml notification_importance_default_title
 all Settings.apk strings.xml notification_sound_default
 all Settings.apk strings.xml wallpaper_settings_summary_default
+all Bluetooth.apk strings.xml bt_sm_2_1_default
+all Bluetooth.apk strings.xml status_no_sd_card_default
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_color_picker_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels

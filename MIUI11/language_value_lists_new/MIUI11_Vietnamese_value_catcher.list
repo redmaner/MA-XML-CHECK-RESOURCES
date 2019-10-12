@@ -455,6 +455,12 @@ folder="all" application="CloudPrint2.apk" xml="" name="account_item_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Lưu trữ đám mây</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="ConferenceDialer.apk" xml="" name="default_notification_description"
 ---------------------------------------------------------------------------------------
  <string name="default_notification_description">Âm mặc định (%1$s)</string>
