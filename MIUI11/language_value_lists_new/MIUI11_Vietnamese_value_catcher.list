@@ -257,33 +257,33 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
- <string name="work_day_default_banner_title">Hãy có một ngày làm việc hiệu quả!</string>
+ <string name="default_reminder_later_time">Thời gian mặc định cho \"Nhắc nhở sau\"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
 ---------------------------------------------------------------------------------------
- <string name="free_day_default_banner_title">Tận hưởng kỳ nghỉ của bạn!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
----------------------------------------------------------------------------------------
- <string name="default_reminder_later_time">Khoảng thời gian mặc định cho \"Nhắc sau\"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
----------------------------------------------------------------------------------------
- <string name="preferences_alarm_default_event_title">Đặt lời nhắc báo thức</string>
+ <string name="free_day_default_banner_title">Chúc bạn có kỳ nghỉ vui vẻ!</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Chọn sự kiện</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="work_day_default_banner_title">Chúc bạn có một ngày làm việc hiệu quả!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarm_default_event_title">Đặt lời nhắc báo thức</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -722,6 +722,12 @@ folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_
 folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 ---------------------------------------------------------------------------------------
  <string name="msg_default_status">Đặt barcode bên trong ô kính ngắm để quét.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="HybridPlatform.apk" xml="" name="features_notification_channel_default"
+---------------------------------------------------------------------------------------
+ <string name="features_notification_channel_default">Thông báo ứng dụng</string>
 
 
 ---------------------------------------------------------------------------------------

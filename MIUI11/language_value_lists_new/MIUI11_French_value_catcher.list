@@ -521,6 +521,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="fast_scroller_style_values"
+---------------------------------------------------------------------------------------
+ <string-array name="fast_scroller_style_values"> <item>default</item> <item>letter</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">"Définir l'écran %1$d comme l'écran d'accueil par défaut"</string>
@@ -1151,6 +1157,12 @@ folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">Défaut</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
  <string name="importance_default">Par défaut</string>
@@ -1208,6 +1220,12 @@ folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
  <string name="slider_vocie_online_default">Aucun</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Appareil par défaut</string>
 
 
 ---------------------------------------------------------------------------------------

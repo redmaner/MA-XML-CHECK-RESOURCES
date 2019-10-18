@@ -1,3 +1,5 @@
+all Bluetooth.apk strings.xml bt_sm_2_1_default
+all Bluetooth.apk strings.xml status_no_sd_card_default
 all Browser.apk strings.xml mw_js_dialog_title_default
 all Browser.apk strings.xml pref_set_default_browser
 all Browser.apk strings.xml pref_set_default_browser_don_ask
@@ -19,6 +21,7 @@ all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml work_day_default_banner_title
+all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk strings.xml snooze_duration_value
 all Email.apk strings.xml default_opening_attchemnt_mode
@@ -121,4 +124,5 @@ all Settings.apk strings.xml notification_sound_default
 all Settings.apk strings.xml slider_vocie_online_default
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml tether_limit_value_custom
+all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open

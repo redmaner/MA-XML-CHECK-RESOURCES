@@ -85,6 +85,7 @@ all MiuiGallery.apk strings.xml mark_myself_default_name
 all MiuiGallery.apk strings.xml photo_editor_font_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
+all MiuiHome.apk arrays.xml fast_scroller_style_values
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview
@@ -190,6 +191,7 @@ all Settings.apk strings.xml default_vol_stream_title
 all Settings.apk strings.xml enterprise_privacy_enterprise_set_default_apps
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_summary
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_title
+all Settings.apk strings.xml game_driver_app_preference_default
 all Settings.apk strings.xml importance_default
 all Settings.apk strings.xml keywords_default_browser
 all Settings.apk strings.xml keywords_default_links
@@ -200,6 +202,7 @@ all Settings.apk strings.xml notification_channel_summary_default
 all Settings.apk strings.xml notification_importance_default_title
 all Settings.apk strings.xml notification_sound_default
 all Settings.apk strings.xml slider_vocie_online_default
+all Settings.apk strings.xml theme_customization_device_default
 all Settings.apk strings.xml usb_default_info
 all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default

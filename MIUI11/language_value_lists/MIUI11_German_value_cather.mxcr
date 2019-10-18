@@ -112,6 +112,10 @@ all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml com_facebook_tooltip_default
+all MiuiVideoGlobal.apk strings.xml gallery_video_item3_default_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item4_default_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item5_default_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item6_default_text
 all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
 all MiuiVideoGlobal.apk strings.xml plus_poster_reset_default
 all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
@@ -181,6 +185,7 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_tit
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk strings.xml accessibility_timeout_default
 all Settings.apk strings.xml account_dashboard_default_summary
 all Settings.apk strings.xml app_default_dashboard_title
 all Settings.apk strings.xml auto_brightness_default_title

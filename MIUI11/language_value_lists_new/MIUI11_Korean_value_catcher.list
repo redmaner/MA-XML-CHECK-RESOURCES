@@ -565,13 +565,13 @@ folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
 ---------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">Microsoft</string>
+ <string name="default_folder_title_microsoft">Microsoft</string> <string name="default_folder_title_microsoft">마이크로소프트</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
 ---------------------------------------------------------------------------------------
- <string name="default_folder_title_telcel">Telcel</string>
+ <string name="default_folder_title_telcel">Telcel</string> <string name="default_folder_title_telcel">텔셀</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -620,6 +620,24 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_services"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_services">서비스</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">메이투 앱</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_microsoft">Microsoft</string> <string name="default_folder_title_microsoft">마이크로소프트</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string> <string name="default_folder_title_telcel">텔셀</string>
 
 
 ---------------------------------------------------------------------------------------

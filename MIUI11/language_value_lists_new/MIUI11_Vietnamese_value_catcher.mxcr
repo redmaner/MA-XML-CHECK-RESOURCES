@@ -41,11 +41,11 @@ all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml entryvalues_settings_debug
 all Calendar.apk arrays.xml entryvalues_settings_debug
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
-all Calendar.apk strings.xml work_day_default_banner_title
-all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml default_reminder_later_time
-all Calendar.apk strings.xml preferences_alarm_default_event_title
+all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml preferences_alarms_default_event
+all Calendar.apk strings.xml work_day_default_banner_title
+all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml menstruation_card_default_title
 all CallFeaturesSetting.apk arrays.xml call_barring_outgoing_display_values
 all CallFeaturesSetting.apk arrays.xml call_barring_incoming_display_values
@@ -119,6 +119,7 @@ all framework-res.apk strings.xml fingerprint_default_name
 all framework-res.apk strings.xml biometric_dialog_default_title
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
+all HybridPlatform.apk strings.xml features_notification_channel_default
 all MiDrop.apk strings.xml default_lang
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name

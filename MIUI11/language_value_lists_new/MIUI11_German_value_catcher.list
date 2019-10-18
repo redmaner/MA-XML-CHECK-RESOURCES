@@ -683,6 +683,30 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item3_default_text">Emotionen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item4_default_text">Sonnenaufgang</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item5_default_text">Erinnerungen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item6_default_text">Freude</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
 ---------------------------------------------------------------------------------------
  <string name="ovp_default_plugin_name">HD-Plugin</string>
@@ -1094,6 +1118,12 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setti
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Klingelton</item> <item>Medien</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">Standard</string>
 
 
 ---------------------------------------------------------------------------------------

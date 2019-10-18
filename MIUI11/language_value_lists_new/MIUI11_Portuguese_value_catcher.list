@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">Não existe espaço suficiente no cartão SD para guardar o ficheiro de \"%1$s\"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Sem cartão SD. Insira um cartão SD para guardar os ficheiros transferidos</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="mw_js_dialog_title_default"
 ---------------------------------------------------------------------------------------
  <string name="mw_js_dialog_title_default">JavaScript</string>
@@ -122,6 +134,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_
 folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="work_day_default_banner_title">Bom trabalho!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Armazenamento Xiaomi Cloud</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -734,6 +752,12 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Personalizar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Não foi possível realizar a chamada. Código de erro 81</string>
 
 
 ---------------------------------------------------------------------------------------
