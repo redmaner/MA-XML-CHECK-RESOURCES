@@ -528,6 +528,13 @@
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="system_foreground_notification_whitelist"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="tts_demo_string_langs"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="arrays.xml" name="usa_mcc"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_bg_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_charging_mask_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_charging_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_progress_mask_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_progress_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_quick_charging_mask_path"/>
+	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="battery_meter_quick_charging_path"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="certinstaller_package"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_statusBarComponent"/>
 	<item folder="all" application="MiuiSystemUI.apk" file="strings.xml" name="config_systemUIFactoryComponent"/>
