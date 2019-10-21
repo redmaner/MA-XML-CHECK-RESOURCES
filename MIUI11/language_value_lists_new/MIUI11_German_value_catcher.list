@@ -1643,6 +1643,12 @@ folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_def
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="YellowPage.apk" xml="" name="mark_number_dialog_default_sub_title"
+---------------------------------------------------------------------------------------
+ <string name="mark_number_dialog_default_sub_title">Diese Infos werden auf unsere Server hochgeladen</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Standorte durchsuchen</string>

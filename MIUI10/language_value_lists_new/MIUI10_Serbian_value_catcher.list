@@ -17,6 +17,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
+---------------------------------------------------------------------------------------
+ <string name="menstruation_card_default_title">Нема записа о менструацији</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Обавештења</string>
@@ -155,6 +161,12 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Непознати уређај</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">Апликација %1$s тренутно није доступна. %2$s управља доступношћу.</string>
@@ -227,6 +239,12 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
+---------------------------------------------------------------------------------------
+ <string name="signature_default_content">"Увек верујте да ће се нешто предивно догодити"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">TextView</string>
@@ -245,6 +263,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Непознати уређај</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 ---------------------------------------------------------------------------------------
  <string name="default_relation_name">Нова група</string>
@@ -254,12 +278,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
 ---------------------------------------------------------------------------------------
  <string name="mark_myself_default_name">Ја</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
----------------------------------------------------------------------------------------
- <string name="movie_audio_default">Меморија</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -403,7 +421,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Нека задата подешавања</string>
+ <string name="launch_defaults_some">Неке задате поставке</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -421,7 +439,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_de
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
 ---------------------------------------------------------------------------------------
- <string name="nav_bar_default">(подразумевано)</string>
+ <string name="nav_bar_default">(задато)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -479,9 +497,57 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_default_music_text">Аутоматски</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item3_default_text">Емоције</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item4_default_text">Излазак сунца</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item5_default_text">Успомене</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item6_default_text">Радост</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
 ---------------------------------------------------------------------------------------
  <string name="ovp_default_plugin_name">HD додатак</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Врати задати омот</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Задато</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="subtitle_padding_default_hint">Подешавање превода…</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -503,9 +569,21 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
+---------------------------------------------------------------------------------------
+ <string name="todo_audio_default_content">"[Гласовни задатак] "</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
  <string name="default_list_type">Сортирај по времену пријема</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
+---------------------------------------------------------------------------------------
+ <string name="default_pay_app_removed">Изабрана услуга за функцију Додирни и плати је уклоњена. Желите ли да изаберете другу?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -577,13 +655,13 @@ folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragmen
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_open_title">Избриши подразумевано</string>
+ <string name="app_manager_default_open_title">Обриши задато</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_close_summary"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_close_summary">Нема подразумеваних подешавања.</string>
+ <string name="app_manager_default_close_summary">Нема задатих.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -619,25 +697,25 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_label">Подразумеванa апликација</string>
+ <string name="xspace_default_setting_label">Персонализација</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_title">Подразумеванa апликација</string>
+ <string name="xspace_default_app_title">Персонализација</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_summary">Подесите подразумевану апликацију за плаћања, дељење, омиљено и још много тога.</string>
+ <string name="xspace_default_app_summary">Изаберите апликације задате за пријављивање, дељење и гласовну асистенцију</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_dialog_title"> подразумевано</string>
+ <string name="xspace_default_setting_dialog_title"> задато</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -649,7 +727,7 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_main_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_main_title">Коришћење подразумеване апликације</string>
+ <string name="xspace_default_guide_notification_main_title">Коришћење задате апликације</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -823,7 +901,7 @@ folder="all" application="Settings.apk" xml="" name="default_launcher_set_system
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_title"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_title">Задати Покретач</string>
+ <string name="default_launcher_title">Задати покретач</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -901,7 +979,7 @@ folder="all" application="Settings.apk" xml="" name="media_output_default_summar
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
- <string name="notifi_importance_default">Репродукуј звук и прикажи на Закљ. екрану</string>
+ <string name="notifi_importance_default">Пусти звук</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1009,7 +1087,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_negative">Откажи</string>
+ <string name="change_default_dialer_dialog_negative">Откажите</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1105,7 +1183,7 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 ---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
- <string name="handy_mode_default_to_close_whether_open">Режим једне руке је искључен по задатим поставкама. Укључити Режим једне руке?</string>
+ <string name="handy_mode_default_to_close_whether_open">Рад једним руком је искључен према подразумеваним подешавањима. Укључите Рад једном руком?</string>
 
 
 ---------------------------------------------------------------------------------------

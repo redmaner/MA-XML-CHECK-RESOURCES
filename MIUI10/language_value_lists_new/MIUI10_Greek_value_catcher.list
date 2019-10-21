@@ -17,6 +17,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
+---------------------------------------------------------------------------------------
+ <string name="menstruation_card_default_title">Δεν υπάρχουν εγγραφές εμμηνόρροιας</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Ειδοποιήσεις</string>
@@ -155,6 +161,12 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Άγνωστη συσκευή</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">Η εφαρμογή %1$s δεν είναι διαθέσιμη αυτήν τη στιγμή. Η διαχείριση πραγματοποιείται από την εφαρμογή %2$s.</string>
@@ -227,6 +239,12 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
+---------------------------------------------------------------------------------------
+ <string name="signature_default_content">"Πάντα να πιστεύετε πως κάτι συναρπαστικό θα συμβεί"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">TextView</string>
@@ -245,6 +263,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Άγνωστη συσκευή</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 ---------------------------------------------------------------------------------------
  <string name="default_relation_name">Νέα ομάδα</string>
@@ -254,12 +278,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
 ---------------------------------------------------------------------------------------
  <string name="mark_myself_default_name">Εγώ</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
----------------------------------------------------------------------------------------
- <string name="movie_audio_default">Μνήμη</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -485,9 +503,57 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_default_music_text">Αυτόματο</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item3_default_text">Συναισθήματα</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item4_default_text">Ανατολή ηλίου</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item5_default_text">Αναμνήσεις</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item6_default_text">Χαρά</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
 ---------------------------------------------------------------------------------------
  <string name="ovp_default_plugin_name">HD plug-in</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Επαναφορά προεπιλεγμένου εξώφυλλου</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Προεπιλογή</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="subtitle_padding_default_hint">Γίνεται διόρθωση υποτίτλων…</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -506,6 +572,12 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
+---------------------------------------------------------------------------------------
+ <string name="todo_audio_default_content">"[Φωνητική εργασία] "</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -631,19 +703,19 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_label">Προεπιλεγμένη εφαρμογή</string>
+ <string name="xspace_default_setting_label">Εξατομίκευση</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_title">Προεπιλεγμένη εφαρμογή</string>
+ <string name="xspace_default_app_title">Εξατομίκευση</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_summary">Ορίστε προεπιλεγμένες εφαρμογές για πληρωμές, κοινοποίηση, αγαπημένα, και περισσότερα.</string>
+ <string name="xspace_default_app_summary">Επιλογή προεπιλεγμένων εφαρμογών που χρησιμοποιήθηκαν για σύνδεση, κοινοποίηση, και βοηθό φωνής</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -913,7 +985,7 @@ folder="all" application="Settings.apk" xml="" name="media_output_default_summar
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
- <string name="notifi_importance_default">Αναπαραγωγή ήχων και εμφάνιση στην Οθόνη κλειδώματος</string>
+ <string name="notifi_importance_default">Δημιουργία ήχου</string>
 
 
 ---------------------------------------------------------------------------------------

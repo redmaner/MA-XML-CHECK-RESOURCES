@@ -479,6 +479,12 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">알 수 없는 기기</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"항상 무언가를 믿는다 근사한 일이 일어날 것입니다"</string>
@@ -565,13 +571,13 @@ folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
 ---------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">Microsoft</string> <string name="default_folder_title_microsoft">마이크로소프트</string>
+ <string name="default_folder_title_microsoft">Microsoft</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
 ---------------------------------------------------------------------------------------
- <string name="default_folder_title_telcel">Telcel</string> <string name="default_folder_title_telcel">텔셀</string>
+ <string name="default_folder_title_telcel">Telcel</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -626,18 +632,6 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_servic
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">메이투 앱</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">Microsoft</string> <string name="default_folder_title_microsoft">마이크로소프트</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_telcel">Telcel</string> <string name="default_folder_title_telcel">텔셀</string>
 
 
 ---------------------------------------------------------------------------------------
