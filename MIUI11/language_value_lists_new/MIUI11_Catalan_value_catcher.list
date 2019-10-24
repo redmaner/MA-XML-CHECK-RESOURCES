@@ -497,33 +497,21 @@ folder="all" application="Settings.apk" xml="" name="common_password_business_cl
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="entryvalues_font_size"
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
- <string-array name="entryvalues_font_size"> <item>0,85</item> <item>1,0</item> <item>1,15</item> <item>1,30</item> </string-array>
+ <string-array name="default_vol_stream_entries"> <item>To de trucada</item> <item>Multimèdia</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="battery_indicator_style_values"
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
- <string-array name="battery_indicator_style_values"> <item>0</item> <item>1</item> <item>2</item> <item>2</item> </string-array>
+ <string name="accessibility_timeout_default">Per defecte</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="captioning_font_size_selector_values"
+folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
 ---------------------------------------------------------------------------------------
- <string-array name="captioning_font_size_selector_values"> <item>0,25</item> <item>0,5</item> <item>1,0</item> <item>1,5</item> <item>2,0</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="dark_ui_mode_values"
----------------------------------------------------------------------------------------
- <string-array name="dark_ui_mode_values"> <item>auto</item> <item>sí</item> <item>no</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="entryvalues_font_size"
----------------------------------------------------------------------------------------
- <string-array name="entryvalues_font_size"> <item>0,85</item> <item>1,0</item> <item>1,15</item> <item>1,30</item> </string-array>
+ <string name="account_dashboard_default_summary">No s\'ha afegit cap compte</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -551,6 +539,12 @@ folder="all" application="Settings.apk" xml="" name="connected_via_network_score
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="cutout_mode_default">Auto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
 ---------------------------------------------------------------------------------------
  <string name="default_calendar_app_title">Aplicació de calendari</string>
@@ -560,6 +554,48 @@ folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
 folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 ---------------------------------------------------------------------------------------
  <string name="default_contacts_app_title">Aplicació de contactes</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">Per defecte per a trucades</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Per defecte per a trucades i missatges</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Per defecte per a les dades mòbils</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">Per defecte per als missatges</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">Premeu el botó d\'inici per configurar Jeejen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">Premeu el botó d\'Inici per restaurar el llançador per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_title"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_title">Llançador per defecte</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -587,6 +623,12 @@ folder="all" application="Settings.apk" xml="" name="default_theme"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
+---------------------------------------------------------------------------------------
+ <string name="default_vol_stream_title">Barra de control del volum per defecte</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
 ---------------------------------------------------------------------------------------
  <string name="enterprise_privacy_enterprise_set_default_apps">Aplicacions per defecte</string>
@@ -605,6 +647,66 @@ folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Obre amb</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">per defecte, navegador per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">pagament, per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="media_output_default_summary">Aquest dispositiu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">Si configureu una aplicació de tercers com a navegador predeterminat, pot començar a recopilar l’historial de navegació i altres dades. Voleu establir-lo de totes maneres?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">Sona</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Capta l’atenció amb so o vibració</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_importance_default_title">Alta</string>
@@ -614,6 +716,30 @@ folder="all" application="Settings.apk" xml="" name="notification_importance_def
 folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 ---------------------------------------------------------------------------------------
  <string name="notification_sound_default">So de notificació per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Per defecte del dispositiu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">No s\'ha pogut restablir l\'apn per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Cap</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Per defecte del dispositiu</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -698,12 +824,6 @@ folder="all" application="Traceur.apk" xml="" name="usb_configuration_values"
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
  <string name="default_filedownloader_notification_content">FileDownloader s\'està executant.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
----------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_title">FileDownloader</string>
 
 
 ---------------------------------------------------------------------------------------

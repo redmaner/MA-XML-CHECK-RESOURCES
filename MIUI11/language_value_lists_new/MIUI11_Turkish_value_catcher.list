@@ -413,6 +413,12 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Fatura başlığı: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png A.Ş.</item> <item>Adres: Sokak, Apt, Şehir, Ülke/Bölge, İl, Posta kodu</item> <item>Lütfen paketi kapının yanına bırakın. Teşekkürler!</item> <item>Bir dakika bekle, hemen döneceğim.</item> <item>Toplantıdayım. Lütfen kısa mesaj gönderin.</item> <item>Şu anda konuşamam. En kısa zamanda seni ararım.</item> <item>Teşekkürler!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Kontrol sende - uygulamalarla paylaşmak istediğin bilgileri seç.</string>
@@ -482,6 +488,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_ta
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_take_picture">Resim</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_value_title">Yakınlaştır</string>
 
 
 ---------------------------------------------------------------------------------------
