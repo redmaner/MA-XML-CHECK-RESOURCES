@@ -117,6 +117,7 @@ all framework-res.apk strings.xml default_audio_route_name_hdmi
 all framework-res.apk strings.xml default_audio_route_name_usb
 all framework-res.apk strings.xml fingerprint_default_name
 all framework-res.apk strings.xml biometric_dialog_default_title
+all FrequentPhrase.apk arrays.xml default_phrases
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
 all HybridPlatform.apk strings.xml features_notification_channel_default
