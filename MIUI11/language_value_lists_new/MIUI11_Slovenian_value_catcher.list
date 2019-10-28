@@ -401,6 +401,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Glava računa: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Naslov: Ulica, Stanovanje, Mesto, Država/Regija, Pokrajina, Poštna številka</item> <item>Prosim da pustite paket pred vrati. Hvala!</item> <item>"Počakajte minuto, takoj pridem."</item> <item>"Sem na sestanku. Pošljite SMS."</item> <item>"Zdaj ne morem govoriti. Pokličem nazaj."</item> <item>Hvala!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
  <string name="improve_your_health_default_tips">Vadite in dovolj spite da boste ostali zdravi.</string>
@@ -446,6 +452,12 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Nekaj je bilo narobe!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Neznana naprava</string>
 
 
 ---------------------------------------------------------------------------------------

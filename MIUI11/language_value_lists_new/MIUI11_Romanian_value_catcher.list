@@ -479,6 +479,12 @@ folder="all" application="framework-res.apk" xml="" name="wifi_localhotspot_conf
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Antetul facturii: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Addresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item> <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item> <item>Așteaptă puțin, mă întorc în curând.</item> <item>Sunt într-o ședință. Trimite un mesaj text.</item> <item>Nu pot vorbi acum. Te sun înapoi cât mai curând.</item> <item>Mulțumesc!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Ceva nu a mers bine!</string>

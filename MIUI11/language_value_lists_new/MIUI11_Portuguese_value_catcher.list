@@ -239,6 +239,12 @@ folder="all" application="framework-res.apk" xml="" name="popup_window_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Factura: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Endereço: Rua, Cidade, País/Região, Província, Código Postal</item> <item>Por favor, deixe o pacote à porta. Obrigado!</item> <item>Espere um minuto que eu já volto</item> <item>Estou numa reunião. Por favor, envie uma mensagem </item> <item>Não posso falar agora. Eu ligo-lhe o mais breve possível</item> <item>Obrigado!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 ---------------------------------------------------------------------------------------
  <string name="msg_default_status">Coloque um código de barra dentro do rectângulo para o digitalizar</string>
@@ -503,6 +509,12 @@ folder="all" application="PersonalAssistant.apk" xml="" name="setting_uber_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_facemoji">" You must agree to Facemoji Privacy Policy before using this feature."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
  <string name="ad_btn_default_text">Saber mais</string>
@@ -611,6 +623,12 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">Predefinido</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
 ---------------------------------------------------------------------------------------
  <string name="app_default_dashboard_title">Aplicações predefinidas</string>
@@ -653,6 +671,42 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">Chamadas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Chamadas e SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Dados móveis</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">Press the Home button to set up Jeejen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">Press the Home button to restore default launcher</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_title"
 ---------------------------------------------------------------------------------------
  <string name="default_launcher_title">Launcher</string>
@@ -667,7 +721,7 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Assistente de notificações</string>
+ <string name="default_notification_assistant">Notificações adaptáveis</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -707,9 +761,27 @@ folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">Predefinido</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
  <string name="importance_default">Alta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Abrir com</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="media_output_default_summary">Este dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -725,6 +797,12 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Chama a sua atenção com som ou vibração</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_importance_default_title">Alta</string>
@@ -737,15 +815,39 @@ folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Predefinição do dispositivo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">Erro ao repor ponto de acesso (APN)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
  <string name="slider_vocie_online_default">Nenhum</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Predefinição do dispositivo</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="wallpaper_settings_summary_default">Predefinido</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Utilizar definições predefinidas</string>
 
 
 ---------------------------------------------------------------------------------------
