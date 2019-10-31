@@ -1,3 +1,5 @@
+all Bluetooth.apk strings.xml bt_sm_2_1_default
+all Bluetooth.apk strings.xml status_no_sd_card_default
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_js_dialog_title_default
 all Browser.apk strings.xml topic_content_default
@@ -80,8 +82,7 @@ all framework-res.apk strings.xml widget_default_package_name
 all framework-res.apk strings.xml wifi_localhotspot_configure_ssid_default
 all FrequentPhrase.apk arrays.xml default_phrases
 all MiRecycle.apk strings.xml default_error_msg
-all MiuiCamera.apk strings.xml pref_camera_zoom_mode_entryvalue_tele
-all MiuiCamera.apk strings.xml pref_camera_zoom_mode_entryvalue_wide
+all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
@@ -98,8 +99,6 @@ all MiuiCamera.apk strings.xml pref_camera_iso_value_iso640
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
-all MiuiCamera.apk strings.xml pref_camera_zoom_mode_entryvalue_tele
-all MiuiCamera.apk strings.xml pref_camera_zoom_mode_entryvalue_wide
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml pref_video_quality_entry_value_1080p_60fps
@@ -141,6 +140,11 @@ all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml com_facebook_tooltip_default
+all MiuiVideoGlobal.apk strings.xml gallery_video_default_music_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item3_default_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item4_default_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item5_default_text
+all MiuiVideoGlobal.apk strings.xml gallery_video_item6_default_text
 all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
 all MiuiVideoGlobal.apk strings.xml plus_poster_reset_default
 all MiuiVideoGlobal.apk strings.xml plus_sort_type_default

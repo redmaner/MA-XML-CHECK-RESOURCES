@@ -473,6 +473,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_waterm
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value">Pozlama</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_off">Kapalı</string>
@@ -553,7 +559,7 @@ folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
 ---------------------------------------------------------------------------------------
- <string name="photo_editor_font_default">&gt;Mi Lanting (Düzenli)</string>
+ <string name="photo_editor_font_default">Mi Lanting (Normal)</string>
 
 
 ---------------------------------------------------------------------------------------

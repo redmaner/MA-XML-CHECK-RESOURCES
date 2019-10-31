@@ -389,6 +389,12 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value">Naświetlenie</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_off">Wył.</string>

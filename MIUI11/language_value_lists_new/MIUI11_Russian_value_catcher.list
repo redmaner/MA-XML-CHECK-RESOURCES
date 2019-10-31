@@ -1031,12 +1031,6 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="aod_clock_style_values"
----------------------------------------------------------------------------------------
- <string-array name="aod_clock_style_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_summary_default_combination">%2$s: %1$s</string>

@@ -35,42 +35,6 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_always"
----------------------------------------------------------------------------------------
- <string name="pref_data_preload_value_always">ALWAYS</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_never"
----------------------------------------------------------------------------------------
- <string name="pref_data_preload_value_never">NEVER</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_wifi_only"
----------------------------------------------------------------------------------------
- <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_always"
----------------------------------------------------------------------------------------
- <string name="pref_link_prefetch_value_always">ALWAYS</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_never"
----------------------------------------------------------------------------------------
- <string name="pref_link_prefetch_value_never">NEVER</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_wifi_only"
----------------------------------------------------------------------------------------
- <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_always"
 ---------------------------------------------------------------------------------------
  <string name="pref_video_preload_value_always">ALWAYS</string>
@@ -482,6 +446,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_
 folder="all" application="MiuiCamera.apk" xml="" name="pref_google_lens_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_google_lens_default">true</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value">曝光</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -913,13 +883,13 @@ folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_valu
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">" Vous devez accepter la politique de confidentialité de Facemoji avant d'utiliser cette fonctionnalité."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">"r r Vous devez accepter la politique de confidentialité de Facemoji avant d'utiliser cette fonctionnalité."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">" Vous devez accepter la politique de confidentialité de Kika avant d'utiliser cette fonctionnalité."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">"r r Vous devez accepter la politique de confidentialité de Kika avant d'utiliser cette fonctionnalité."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1189,7 +1159,7 @@ folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterpri
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_summary">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela. Restreindre quand même ?</string>
+ <string name="firewall_set_bg_firewall_default_dialog_summary">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela. Restreindre quand même ?</string>
 
 
 ---------------------------------------------------------------------------------------

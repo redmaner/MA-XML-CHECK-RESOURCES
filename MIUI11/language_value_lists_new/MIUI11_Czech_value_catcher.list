@@ -6107,6 +6107,312 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
+---------------------------------------------------------------------------------------
+ <string name="app_suspended_default_message">Aplikace %1$s momentálně není dostupná. Tato předvolba se spravuje v aplikaci %2$s.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Potvrďte, že jste to vy</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_hdmi"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_hdmi">HDMI</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_usb">USB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_channel_label">Neklasifikováno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake">Zachovejte klid a přesuňte se na bezpečné místo v okolí.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake_and_tsunami">Zachovejte klid a přesuňte se na bezpečné místo v okolí.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_others"/>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_test">Test nouzových zpráv</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_tsunami">Z pobřežních oblastí a okolí řek se co nejrychleji přesuňte do většího bezpečí (například na výše položené místo).</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
+---------------------------------------------------------------------------------------
+ <string name="popup_window_default_title">Vyskakovací okno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_default_every_night_name">Spánek</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="mobile_data_disable_message_default_carrier"
+---------------------------------------------------------------------------------------
+ <string name="mobile_data_disable_message_default_carrier">vašeho operátora</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">Výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="account_dashboard_default_summary">Nebyly přidány žádné účty</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
+---------------------------------------------------------------------------------------
+ <string name="app_default_dashboard_title">Výchozí aplikace</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_default_title">Výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_summary_default">Je preferován výchozí jas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Automaticky připojeno přes poskytovatele hodnocení sítí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_calendar_app_title">Kalendářová aplikace</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_contacts_app_title">Aplikace pro kontakty</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">Výchozí pro hovory</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Výchozí pro hovory a SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Výchozí pro mobilní data</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">Výchozí pro SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_map_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_map_app_title">Mapová aplikace</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">Adaptivní oznámení</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">Výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="enterprise_privacy_enterprise_set_default_apps">Výchozí aplikace</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">Výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Otevřít pomocí aplikace</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">placení, výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="media_output_default_summary">Toto zařízení</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Upozorňuje vás pomocí zvuku a vibrací</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
+---------------------------------------------------------------------------------------
+ <string name="notification_importance_default_title">Vysoká</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Výchozí zvuk oznámení</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Výchozí nastavení zařízení</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Výchozí nastavení zařízení</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">Tato nastavení se použijí, když bude telefon odemknut a připojí se jiné zařízení. Připojujte pouze důvěryhodná zařízení.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">Výchozí konfigurace USB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_settings_summary_default">Výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Použít výchozí nastavení</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Automaticky připojeno přes poskytovatele hodnocení sítí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_domain_address">&lt;Nenastaveno&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_password">&lt;Nenastaveno&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_username">&lt;Nenastaveno&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Je nastaveno několik výchozích hodnot</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Neplatná hodnota identifikátoru transakce</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
@@ -8435,6 +8741,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value">EV</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
  <string name="channel_default_name">Nové funkce</string>
@@ -8603,6 +8915,360 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Nastavit jako výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_negative">Zrušit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_title">Chcete změnit výchozí aplikaci vytáčení?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_no_previous_app_set_text"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_no_previous_app_set_text">Chcete použít aplikaci %s jako výchozí aplikaci vytáčení?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_warning_message">Aplikace %s bude moci uskutečňovat hovory a spravovat všechny jejich aspekty. Jako výchozí aplikaci na telefonování byste měli nastavit jen aplikaci, které věříte.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_with_previous_app_set_text"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_with_previous_app_set_text">Chcete použít aplikaci %1$s namísto aplikace %2$s jako výchozí aplikaci pro vytáčení?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Automaticky připojeno přes poskytovatele hodnocení sítí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Nejsou nastaveny žádné výchozí hodnoty</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Je nastaveno několik výchozích hodnot</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="respond_via_sms_menu_reset_default_activity"
+---------------------------------------------------------------------------------------
+ <string name="respond_via_sms_menu_reset_default_activity">Obnovit výchozí apl.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Nastavení jazyka hlasu pro mluvený text</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Jazyk</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Určuje tón syntetizované řeči</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Výška</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Rychlost mluveného textu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Rychlost řeči</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTelecom.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Toto je příklad syntézy řeči</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="areacode_set_default"
+---------------------------------------------------------------------------------------
+ <string name="areacode_set_default">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="call_background_default"
+---------------------------------------------------------------------------------------
+ <string name="call_background_default">Výchozí obrázek</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="change_default_data"
+---------------------------------------------------------------------------------------
+ <string name="change_default_data">Změnit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_alert_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_alert_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_data_alert_title">Karta UIM musí být výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_card"
+---------------------------------------------------------------------------------------
+ <string name="change_default_data_card">Výchozí SIM pro data</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_card_summary"
+---------------------------------------------------------------------------------------
+ <string name="change_default_data_card_summary">Byla změněna SIM karta. Chcete nastavit tuto SIM jako výchozí pro mobilní data?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clir_choices_network_default"
+---------------------------------------------------------------------------------------
+ <string name="clir_choices_network_default">Výchozí síť</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="config_default_data_sim"
+---------------------------------------------------------------------------------------
+ <string name="config_default_data_sim">Nastavení</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="confirm_change_default_data"
+---------------------------------------------------------------------------------------
+ <string name="confirm_change_default_data">Změnit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Automaticky připojeno prostřednictvím poskytovatele hodnocení sítě</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="connection_service_default_label"
+---------------------------------------------------------------------------------------
+ <string name="connection_service_default_label">Vestavěná služba připojení</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_area_code_setting"
+---------------------------------------------------------------------------------------
+ <string name="default_area_code_setting">Default area code</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_areacode"
+---------------------------------------------------------------------------------------
+ <string name="default_areacode">Default area code</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_call_type"
+---------------------------------------------------------------------------------------
+ <string name="default_call_type">CSVoice</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_notification_description"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_description">Výchozí vyzvánění (%1$s)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary">Nenastaveno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_domain_address"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_domain_address">&lt;Nenastavené&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_password"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_password">&lt;Nenastavené&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_username"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_username">&lt;Nenastavené&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_sim_setting"
+---------------------------------------------------------------------------------------
+ <string name="default_sim_setting">Výchozí SIM jako:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Není předvolená pro žádné akce</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Předvolená pro některé akce</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_default_setting"
+---------------------------------------------------------------------------------------
+ <string name="msim_default_setting">Výchozí nastavení</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_disable_sim_card_summary_default_card"
+---------------------------------------------------------------------------------------
+ <string name="msim_disable_sim_card_summary_default_card">Tato karta je momentálně nastavena jako výchozí SIM pro mobilní data. Pokud ji zakážete, nebude možné uskutečnit hovory nebo využívat mobilní data. Tuto SIM kartu můžete zakázat až poté, co jako výchozí zvolíte druhou SIM."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_disable_sim_card_summary_non_default_card"
+---------------------------------------------------------------------------------------
+ <string name="msim_disable_sim_card_summary_non_default_card">Nebude možné uskutečnit hovory nebo využívat mobilní data. Zakázat používání %s SIM karty?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="not_change_default_data"
+---------------------------------------------------------------------------------------
+ <string name="not_change_default_data">Neměnit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="phone_accounts_default_account_label"
+---------------------------------------------------------------------------------------
+ <string name="phone_accounts_default_account_label">K dispozici není žádná síť</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="preference_dial_pad_touch_tone_default"
+---------------------------------------------------------------------------------------
+ <string name="preference_dial_pad_touch_tone_default">Výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="respond_via_sms_menu_reset_default_activity"
+---------------------------------------------------------------------------------------
+ <string name="respond_via_sms_menu_reset_default_activity">Resetovat výchozí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Předvolené</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="sim_description_default"
+---------------------------------------------------------------------------------------
+ <string name="sim_description_default">SIM karta, pozice: %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="sum_default_caller_id"
+---------------------------------------------------------------------------------------
+ <string name="sum_default_caller_id">Zobrazení čísla v odchozích hovorech se bude řídit výchozím nastavením operátora</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Nastavení jazyka hlasu pro mluvený text</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Jazyk</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Určuje zvuk syntetizovaného hlasu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Výška</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Rychlost mluveného textu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Rychlost řeči</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Toto je příklad syntézy řeči</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="voicemail_default"
+---------------------------------------------------------------------------------------
+ <string name="voicemail_default">Můj operátor</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Music.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Je to jen na vás – nastavte si, které informace chcete s aplikacemi sdílet.</string>
@@ -8726,6 +9392,18 @@ folder="all" application="PersonalAssistant.apk" xml="" name="notification_chann
 folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
 ---------------------------------------------------------------------------------------
  <string name="setting_didi_default_way">Default taxi route</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_facemoji">"r r Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních údajů Facemoji."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_kika">"r r Před použitím této funkce musíte souhlasit se Zásadami ochrany osobních údajů Kika."</string>
 
 
 ---------------------------------------------------------------------------------------

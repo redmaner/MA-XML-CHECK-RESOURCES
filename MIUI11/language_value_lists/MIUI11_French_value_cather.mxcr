@@ -4,12 +4,6 @@ all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_js_dialog_title_default
 all Browser.apk strings.xml topic_content_default
 all Browser.apk strings.xml mw_color_picker_value
-all Browser.apk strings.xml pref_data_preload_value_always
-all Browser.apk strings.xml pref_data_preload_value_never
-all Browser.apk strings.xml pref_data_preload_value_wifi_only
-all Browser.apk strings.xml pref_link_prefetch_value_always
-all Browser.apk strings.xml pref_link_prefetch_value_never
-all Browser.apk strings.xml pref_link_prefetch_value_wifi_only
 all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
@@ -79,6 +73,7 @@ all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml pref_google_lens_default
+all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_relation_name
