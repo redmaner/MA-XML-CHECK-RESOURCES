@@ -63,10 +63,17 @@
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yahoo_in_list"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yicha"/>
 	<item folder="all" application="Browser.apk" file="arrays.xml" name="yicha_in_list"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="bottom_sheet_behavior"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="fab_transformation_scrim_behavior"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="fab_transformation_sheet_behavior"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="navigate_feedback_report_input_length"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="mw_status_bar_notification_info_overflow"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="mw_time_picker_dialog_hour_minute_separator"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="mw_time_picker_dialog_minute_second_separator"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="path_password_eye"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="path_password_eye_mask_strike_through"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="path_password_eye_mask_visible"/>
+	<item folder="all" application="Browser.apk" file="strings.xml" name="path_password_strike_through"/
 	<item folder="all" application="Browser.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="Browser.apk" file="strings.xml" name="suggestion_topic_subtitle_navtitle_hyphen"/>
 	<item folder="all" application="BuiltInPrintService.apk" file="strings.xml" name="ip_hint"/>
@@ -346,6 +353,7 @@
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_jpegquality_value_normal"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_long_press_shutter_feature_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_long_pressing_burst_shooting_default"/>
+	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_manually_exposure_value"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_movie_solid_default"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_movie_solid_value_off"/>
 	<item folder="all" application="MiuiCamera.apk" file="strings.xml" name="pref_camera_movie_solid_value_on"/>
