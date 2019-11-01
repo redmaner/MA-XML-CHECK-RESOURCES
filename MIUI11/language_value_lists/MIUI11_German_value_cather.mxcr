@@ -46,6 +46,7 @@ all FindDevice.apk strings.xml default_debt_msg_words
 all framework-ext-res.apk strings.xml default_device_name
 all framework-ext-res.apk strings.xml subinfo_default_name
 all framework-res.apk strings.xml app_suspended_default_message
+all framework-res.apk strings.xml biometric_dialog_default_title
 all framework-res.apk strings.xml default_notification_channel_label
 all framework-res.apk strings.xml etws_primary_default_message_earthquake
 all framework-res.apk strings.xml etws_primary_default_message_earthquake_and_tsunami

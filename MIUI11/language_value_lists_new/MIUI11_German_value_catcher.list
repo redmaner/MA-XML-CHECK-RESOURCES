@@ -287,6 +287,12 @@ folder="all" application="framework-res.apk" xml="" name="app_suspended_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Authentifizierung</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
 ---------------------------------------------------------------------------------------
  <string name="default_notification_channel_label">Nicht kategorisiert</string>

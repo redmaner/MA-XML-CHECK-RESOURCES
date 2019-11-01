@@ -275,6 +275,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value">VE</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
  <string name="channel_default_name">Novas funcionalidades</string>
@@ -914,6 +920,12 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warnin
 folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Ligado automaticamente via fornecedor de classificação de rede</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Com algumas predefinições</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -84,6 +84,8 @@ all FrequentPhrase.apk arrays.xml default_phrases
 all MiRecycle.apk strings.xml default_error_msg
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
+all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
+all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml pref_camera_iso_value_iso1000

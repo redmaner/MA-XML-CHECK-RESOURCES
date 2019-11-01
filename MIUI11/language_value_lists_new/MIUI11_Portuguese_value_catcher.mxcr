@@ -44,6 +44,7 @@ all HybridPlatform.apk strings.xml msg_default_status
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiShare.apk strings.xml default_device_name
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml default_relation_name
@@ -151,5 +152,6 @@ all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml change_default_dialer_dialog_negative
 all Telecom.apk strings.xml change_default_dialer_warning_message
 all Telecom.apk strings.xml connected_via_network_scorer_default
+all TeleService.apk strings.xml launch_defaults_some
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open

@@ -53,6 +53,7 @@ all framework-res.apk strings.xml etws_primary_default_message_others
 all framework-res.apk strings.xml etws_primary_default_message_test
 all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
+all FrequentPhrase.apk arrays.xml default_phrases
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
@@ -202,6 +203,8 @@ all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk arrays.xml record_format_values
 all SoundRecorder.apk arrays.xml record_quality_values
 all SoundRecorder.apk arrays.xml record_scenes_values
+all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
+all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
 all Telecom.apk arrays.xml bluetooth_avrcp_version_values
 all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml change_default_dialer_dialog_negative

@@ -449,12 +449,6 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_google_lens_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value"
----------------------------------------------------------------------------------------
- <string name="pref_camera_manually_exposure_value">曝光</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Défaut</string>
@@ -727,7 +721,7 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_de
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
 ---------------------------------------------------------------------------------------
- <string name="plus_sort_type_default">Default</string>
+ <string name="plus_sort_type_default">Défaut</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -817,7 +811,7 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remai
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
- <string name="display_weather_default">Appuyez pour obtenir des informations météo</string>
+ <string name="display_weather_default">Aucune informations météo</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -329,6 +329,12 @@ folder="all" application="framework-res.apk" xml="" name="popup_window_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Заголовок счета: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png </item> <item>Адрес: улица, квартира, город, страна/регион, провинция, почтовый индекс</item> <item>Пожалуйста, оставьте пакет у двери. Спасибо!</item> <item>Подождите минуту, я сейчас вернусь.</item> <item>Я на совещании. Пожалуйста, отправьте текстовое сообщение.</item> <item>Я не могу сейчас говорить. Перезвоню как только смогу.</item> <item>Спасибо!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 минут</item> <item>30 минут</item> <item>45 минут</item> <item>1 час</item> </string-array>
@@ -1220,6 +1226,18 @@ folder="all" application="SoundRecorder.apk" xml="" name="record_quality_values"
 folder="all" application="SoundRecorder.apk" xml="" name="record_scenes_values"
 ---------------------------------------------------------------------------------------
  <string-array name="record_scenes_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_service_type_value">Онлайн транскрибирование аудио</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
+---------------------------------------------------------------------------------------
+ <string name="online_recognize_order_unit_price_value">%s CNY/час</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -515,6 +515,18 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
+---------------------------------------------------------------------------------------
+ <string name="device_ultra_pixel_watermark_default_text">Cameră triplă de 48MP</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
+---------------------------------------------------------------------------------------
+ <string name="device_watermark_default_text">AI Cameră triplă</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_video_encoder_default">h264</string>
