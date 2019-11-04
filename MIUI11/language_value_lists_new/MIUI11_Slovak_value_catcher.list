@@ -8939,12 +8939,6 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value"
----------------------------------------------------------------------------------------
- <string name="pref_camera_manually_exposure_value">EV</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Predvolené</string>

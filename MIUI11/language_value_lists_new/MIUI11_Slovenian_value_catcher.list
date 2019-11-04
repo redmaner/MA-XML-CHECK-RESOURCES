@@ -803,6 +803,12 @@ folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_som
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
+---------------------------------------------------------------------------------------
+ <string name="display_weather_default">Tapnite za vremenske informacije</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Poiščite elemente tukaj</string>

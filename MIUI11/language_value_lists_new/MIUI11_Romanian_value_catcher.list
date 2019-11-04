@@ -977,6 +977,12 @@ folder="all" application="NotificationCenter.apk" xml="" name="default_list_type
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
+---------------------------------------------------------------------------------------
+ <string name="default_pay_app_removed">Serviciul dvs preferat pentru atingere și plată a fost eliminat. Alegeți altul?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
@@ -1481,9 +1487,105 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Nu s-a putut realiza apelul. Cod eroare 81.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Modul operare cu o mână este oprit în mod implicit. Activați modul Operare cu o mână?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories"
+---------------------------------------------------------------------------------------
+ <string name="default_categories">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
+---------------------------------------------------------------------------------------
+ <string name="default_categories_restored">Categorii implicite restaurate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Nicio aplicație implicită setată</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Unele aplicații implicite setate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
+---------------------------------------------------------------------------------------
+ <string name="restore_default_categories">Restaurați categoriile implicite</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Setează vocea implicită pentru rostirea textului</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Limbă</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Afectează tonul vocii sintetizate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Pas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Viteza cu care se va rosti textul</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Viteza de rostire</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Acesta este un exemplu de rostire sintetizată</string>
 
 
 ---------------------------------------------------------------------------------------
