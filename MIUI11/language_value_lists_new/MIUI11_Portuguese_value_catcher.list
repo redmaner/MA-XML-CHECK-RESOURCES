@@ -281,6 +281,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_expo
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
+---------------------------------------------------------------------------------------
+ <string name="motion_photo_toast_default">Predefinido</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
  <string name="channel_default_name">Novas funcionalidades</string>

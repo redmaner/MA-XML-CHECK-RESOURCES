@@ -88,16 +88,6 @@ all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso1000
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso125
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso1250
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso160
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso2000
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso250
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso2500
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso320
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso500
-all MiuiCamera.apk strings.xml pref_camera_iso_value_iso640
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
@@ -134,6 +124,7 @@ all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_title
 all MiuiSystemUI.apk strings.xml nav_bar_default
 all MiuiSystemUI.apk strings.xml notification_default_channel_desc
 all MiuiSystemUI.apk strings.xml notification_header_default_channel
+all MiuiSystemUI.apk strings.xml preference_summary_default_combination
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_description
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_name
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
