@@ -917,6 +917,12 @@ folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
+---------------------------------------------------------------------------------------
+ <string name="display_weather_default">Pulsa para obtener información del clima</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_value_label"
 ---------------------------------------------------------------------------------------
  <string name="flybird_nopwd_value_label">Importe gratuito</string>

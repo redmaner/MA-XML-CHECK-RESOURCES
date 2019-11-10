@@ -11,42 +11,6 @@ folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_always"
----------------------------------------------------------------------------------------
- <string name="pref_data_preload_value_always">ВСЕГДА</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_never"
----------------------------------------------------------------------------------------
- <string name="pref_data_preload_value_never">НИКОГДА</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_data_preload_value_wifi_only"
----------------------------------------------------------------------------------------
- <string name="pref_data_preload_value_wifi_only">ТОЛЬКО WIFI</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_always"
----------------------------------------------------------------------------------------
- <string name="pref_link_prefetch_value_always">ВСЕГДА</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_never"
----------------------------------------------------------------------------------------
- <string name="pref_link_prefetch_value_never">НИКОГДА</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="pref_link_prefetch_value_wifi_only"
----------------------------------------------------------------------------------------
- <string name="pref_link_prefetch_value_wifi_only">ТОЛЬКО WIFI</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="BugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">Просмотр текста</string>

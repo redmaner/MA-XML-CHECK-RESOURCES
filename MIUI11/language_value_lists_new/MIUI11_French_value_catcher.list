@@ -11,6 +11,30 @@ folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_cancel">取消</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_confirm">确定</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_content"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_content">安全上网 保驾护航</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_title">设置为默认浏览器</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Chargement…</string>
@@ -404,6 +428,18 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
  <string-array name="default_phrases"> <item>En-tête de facture: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresse: Rue, Apt, Ville, Pays / Région, Province, Code postal</item> <item>"S'il vous plaît laissez le paquet par la porte. Merci !"</item> <item>"Attends une minute, je serai de retour."</item> <item>"Je suis en réunion. S'il vous plaît envoyer un message texte."</item> <item>"Je ne peux pas parler maintenant. Je vous rappelle dès que possible."</item> <item>Merci !</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_category"
+---------------------------------------------------------------------------------------
+ <string name="local_default_category">本地预置分类</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">系统默认</string>
 
 
 ---------------------------------------------------------------------------------------

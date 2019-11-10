@@ -143,21 +143,15 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
----------------------------------------------------------------------------------------
- <string name="free_day_default_banner_title">İyi tatiller!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
----------------------------------------------------------------------------------------
- <string name="work_day_default_banner_title">İş yerinde verimli bir gün geçirin!</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">\"Daha sonra hatırlat\" için varsayılan aralık</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="free_day_default_banner_title">İyi tatiller!</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -170,6 +164,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_e
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Etkinlikleri seç</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="work_day_default_banner_title">İş yerinde verimli bir gün geçirin!</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -341,15 +341,15 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
----------------------------------------------------------------------------------------
- <string name="subinfo_default_name">SIM %d</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="default_device_name">Bilinmeyen aygıt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -407,12 +407,6 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
----------------------------------------------------------------------------------------
- <string name="biometric_dialog_default_title">Siz olduğunuzu doğrulayın</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
  <string-array name="default_phrases"> <item>Fatura başlığı: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png A.Ş.</item> <item>Adres: Sokak, Apt, Şehir, Ülke/Bölge, İl, Posta kodu</item> <item>Lütfen paketi kapının yanına bırakın. Teşekkürler!</item> <item>Bir dakika bekle, hemen döneceğim.</item> <item>Toplantıdayım. Lütfen kısa mesaj gönderin.</item> <item>Şu anda konuşamam. En kısa zamanda seni ararım.</item> <item>Teşekkürler!</item> </string-array>
@@ -449,15 +443,9 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
+folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
 ---------------------------------------------------------------------------------------
- <string name="pref_video_encoder_default">h264</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="dualcamera_watermark_default"
----------------------------------------------------------------------------------------
- <string name="dualcamera_watermark_default">AI ÇİFT KAMERA</string>
+ <string name="device_ultra_pixel_watermark_default_text">48MP ÇİFT KAMERA</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -467,9 +455,15 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
+folder="all" application="MiuiCamera.apk" xml="" name="dualcamera_watermark_default"
 ---------------------------------------------------------------------------------------
- <string name="device_ultra_pixel_watermark_default_text">48MP ÇİFT KAMERA</string> 
+ <string name="dualcamera_watermark_default">AI ÇİFT KAMERA</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_encoder_default">h264</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -503,6 +497,18 @@ folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
+---------------------------------------------------------------------------------------
+ <string name="channel_default_name">Yeni özellikler</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Bilinmeyen aygıt</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 ---------------------------------------------------------------------------------------
  <string name="default_relation_name">Yeni Grup</string>
@@ -512,6 +518,24 @@ folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
 ---------------------------------------------------------------------------------------
  <string name="mark_myself_default_name">Bana</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
+---------------------------------------------------------------------------------------
+ <string name="movie_audio_default">Hafıza</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
+---------------------------------------------------------------------------------------
+ <string name="photo_editor_font_default">Mi Lanting (Normal)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="photomovie_audio_default"
+---------------------------------------------------------------------------------------
+ <string name="photomovie_audio_default">Hafıza</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -530,36 +554,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_de
 folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
 ---------------------------------------------------------------------------------------
  <string name="video_editor_text_default">Varsayılan</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="photomovie_audio_default"
----------------------------------------------------------------------------------------
- <string name="photomovie_audio_default">Hafıza</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="movie_audio_default"
----------------------------------------------------------------------------------------
- <string name="movie_audio_default">Hafıza</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
----------------------------------------------------------------------------------------
- <string name="channel_default_name">Yeni özellikler</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
----------------------------------------------------------------------------------------
- <string name="photo_editor_font_default">Mi Lanting (Normal)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
----------------------------------------------------------------------------------------
- <string name="default_device_name">Bilinmeyen aygıt</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -593,6 +587,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">Meitu uygulamaları</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_microsoft">Microsoft</string>
@@ -611,6 +611,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_turkcell_uygulamalar"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
  <string name="default_screen_preview_title">Varsayılan ekranı ayarla</string>
@@ -626,18 +632,6 @@ folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_1008
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Varsayılan ekranı ayarla</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_meitu">Meitu uygulamaları</string> 
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_turkcell_uygulamalar"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1200,15 +1194,15 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
----------------------------------------------------------------------------------------
- <string name="xspace_default_app_title">Kişiselleştirme</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
 ---------------------------------------------------------------------------------------
  <string name="xspace_default_app_summary">Oturum açma, paylaşma ve sesli yardımcı için kullanılan varsayılan uygulamaları seçin.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
+---------------------------------------------------------------------------------------
+ <string name="xspace_default_app_title">Kişiselleştirme</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1296,6 +1290,18 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">Jeejen\'i kurmak için Ana ekran düğmesine basın</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">Varsayılan başlatıcıyı geri yüklemek için Ana ekran düğmesine basın</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_title"
 ---------------------------------------------------------------------------------------
  <string name="default_launcher_title">Varsayılan Başlatıcı</string>
@@ -1326,6 +1332,12 @@ folder="all" application="Settings.apk" xml="" name="default_theme"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
+---------------------------------------------------------------------------------------
+ <string name="default_vol_stream_title">Ses kontrolü için varsayılan akış</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
 ---------------------------------------------------------------------------------------
  <string name="enterprise_privacy_enterprise_set_default_apps">Varsayılan uygulamalar</string>
@@ -1344,9 +1356,21 @@ folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">Varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
 ---------------------------------------------------------------------------------------
  <string name="modify_default_browser_message">Üçüncü taraf bir uygulamayı varsayılan tarayıcınız olarak ayarlarsanız, tarama geçmişinizi ve diğer verileri toplamaya başlayabilir. Yine de ayarlansın mı?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">Ses çıkar</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1368,30 +1392,6 @@ folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
----------------------------------------------------------------------------------------
- <string name="wallpaper_settings_summary_default">Varsayılan</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
----------------------------------------------------------------------------------------
- <string name="default_vol_stream_title">Ses kontrolü için varsayılan akış</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
----------------------------------------------------------------------------------------
- <string name="default_launcher_set_jeejen_message">Jeejen\'i kurmak için Ana ekran düğmesine basın</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
----------------------------------------------------------------------------------------
- <string name="default_launcher_set_system_message">Varsayılan başlatıcıyı geri yüklemek için Ana ekran düğmesine basın</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="usb_default_info"
 ---------------------------------------------------------------------------------------
  <string name="usb_default_info">Başka bir cihaz bağlandığında ve telefonunuzun kilidi açıldığında, bu ayarlar uygulanır. Yalnızca güvenilir cihazlara bağlanın.</string>
@@ -1404,15 +1404,9 @@ folder="all" application="Settings.apk" xml="" name="usb_default_label"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="importance_default"
+folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="importance_default">Varsayılan</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
----------------------------------------------------------------------------------------
- <string name="notifi_importance_default">Ses çıkar</string>
+ <string name="wallpaper_settings_summary_default">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1550,19 +1544,19 @@ folder="all" application="TeleService.apk" xml="" name="connected_via_network_sc
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">&lt;Ayarlanmadı></string>
+ <string name="default_preference_summary_domain_address">&lt;Ayarlanmadı&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">&lt;Ayarlanmadı></string>
+ <string name="default_preference_summary_password">&lt;Ayarlanmadı&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">&lt;Ayarlanmadı></string>
+ <string name="default_preference_summary_username">&lt;Ayarlanmadı&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1694,7 +1688,7 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_title">Dosyaİndirici</string> 
+ <string name="default_filedownloader_notification_title">Dosyaİndirici</string>
 
 
 ---------------------------------------------------------------------------------------
