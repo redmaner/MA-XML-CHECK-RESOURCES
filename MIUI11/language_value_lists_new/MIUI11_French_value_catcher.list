@@ -251,21 +251,111 @@ folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_sa
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="current_value"
+folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_default_notfiy"
 ---------------------------------------------------------------------------------------
- <string name="current_value">"Current value: "</string>
+ <string name="cit_tool_mbn_default_notfiy">default MBN</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="invalidvalues"
+folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_no_default_notfiy"
 ---------------------------------------------------------------------------------------
- <string name="invalidvalues">Invalid channel</string>
+ <string name="cit_tool_mbn_no_default_notfiy">No default MBN</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="proximity_sensor_test_values"
+folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_recovery_default"
 ---------------------------------------------------------------------------------------
- <string name="proximity_sensor_test_values">Proximity sensor values</string>
+ <string name="cit_tool_mbn_recovery_default">Recovery default MBN</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_modem_feature_config_default"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_modem_feature_config_default">current faeture config as default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_far_test_threshold_default">小于 0.002%</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_frr_test_threshold_default">小于 %1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="battery_value"
+---------------------------------------------------------------------------------------
+ <string name="battery_value">Electricity</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueF0">F0：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueF0"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueF0">F0:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueRe"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueRe">Re:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueT">Temp:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value_set"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_modem_test_device_value_set">modify device state</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="frr_filter_value"
+---------------------------------------------------------------------------------------
+ <string name="frr_filter_value">过滤后拒真率：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="frr_value"
+---------------------------------------------------------------------------------------
+ <string name="frr_value">拒真率：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_far_test_threshold_default">小于 0.002%</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_frr_test_threshold_default">小于 %1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_test_strategy_far"
+---------------------------------------------------------------------------------------
+ <string name="value_test_strategy_far">使用除当前测试手指外所有录入手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配成功，则认为发生一次FAR（即认假）</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_test_strategy_frr"
+---------------------------------------------------------------------------------------
+ <string name="value_test_strategy_frr">使用当前手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配失败，则认为发生一次FRR（即拒真）</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -349,7 +439,7 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="default_device_name">未知设备</string>
+ <string name="default_device_name">Appareil inconnu</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -649,7 +739,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_de
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
 ---------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_title">"Fond d'écran Carrousel"</string>
+ <string name="lock_screen_magazine_default_title">"Fond d'écran"</string>
 
 
 ---------------------------------------------------------------------------------------
