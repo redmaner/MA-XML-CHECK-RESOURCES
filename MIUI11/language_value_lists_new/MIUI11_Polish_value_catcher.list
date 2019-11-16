@@ -353,6 +353,12 @@ folder="all" application="MiBandTools.apk" xml="" name="settings_defaults_notify
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">Domyślne</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mipay.apk" xml="" name="mipay_nfc_bank_card_name_default"
 ---------------------------------------------------------------------------------------
  <string name="mipay_nfc_bank_card_name_default">A Bank</string>

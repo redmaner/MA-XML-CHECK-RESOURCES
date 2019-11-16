@@ -743,6 +743,18 @@ folder="all" application="Settings.apk" xml="" name="theme_customization_device_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">Quan hi ha un altre dispositiu connectat i el telèfon està desbloquejat, s\'aplica aquesta configuració. Connecta\'t només a dispositius de confiança.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">Configuració d\'USB per defecte</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="wallpaper_settings_summary_default">Per defecte</string>

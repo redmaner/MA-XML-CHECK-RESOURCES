@@ -48,6 +48,8 @@ all framework-res.apk strings.xml etws_primary_default_message_test
 all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
 all FrequentPhrase.apk arrays.xml default_phrases
+all MiGalleryLockscreen.apk strings.xml local_default_category
+all MiGalleryLockscreen.apk strings.xml system_default
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text

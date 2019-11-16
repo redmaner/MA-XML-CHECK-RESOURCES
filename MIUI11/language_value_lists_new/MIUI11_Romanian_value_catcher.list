@@ -497,6 +497,12 @@ folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Ceva nu a mers bine!</string>
@@ -1373,6 +1379,12 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Vă atrage atenția cu sunete sau vibrații</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_importance_default_title">Ridicată</string>
@@ -1382,6 +1394,30 @@ folder="all" application="Settings.apk" xml="" name="notification_importance_def
 folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 ---------------------------------------------------------------------------------------
  <string name="notification_sound_default">Sunet implicit pentru notificare</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Dispozitiv implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">Nu s-a putut reseta APN-ul implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Nimic</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Implicit pe dispozitiv</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1406,6 +1442,12 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_default"
 ---------------------------------------------------------------------------------------
  <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Utilizați setările implicite</string>
 
 
 ---------------------------------------------------------------------------------------

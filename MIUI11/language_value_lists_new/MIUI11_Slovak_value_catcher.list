@@ -9071,6 +9071,18 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_category"
+---------------------------------------------------------------------------------------
+ <string name="local_default_category">Lokálne</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">Lokálne</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
