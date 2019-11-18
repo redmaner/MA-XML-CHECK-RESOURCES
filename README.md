@@ -1,6 +1,6 @@
 What is this for?
 -------------------------------------------------------------------------------------
-- Languages.xml - contains all information about the languages available in MIUIAndroid multi-langauge ROMS.<br>
+- Languages.xml - contains all information about the languages available in MIUIAndroid multi-language ROMS.<br>
 
 - MIUIvX_untranslateable.xml - contains all strings that are untranslateable.<br>
 
