@@ -64,6 +64,7 @@ all FileExplorer.apk strings.xml user_desc_default_tip
 all FindDevice.apk strings.xml default_debt_msg_words
 all framework-ext-res.apk strings.xml default_device_name
 all framework-ext-res.apk strings.xml subinfo_default_name
+all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml config_defaultAccessibilityService
 all framework-res.apk strings.xml config_defaultAutofillService
 all framework-res.apk strings.xml config_defaultListenerAccessPackages
@@ -89,6 +90,7 @@ all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
+all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
@@ -104,6 +106,7 @@ all MiuiGallery.apk strings.xml mark_myself_default_name
 all MiuiGallery.apk strings.xml photo_editor_font_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
+all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview

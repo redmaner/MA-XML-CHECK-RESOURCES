@@ -641,6 +641,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">카테고리</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_focusmode_default">연속 사진</string>

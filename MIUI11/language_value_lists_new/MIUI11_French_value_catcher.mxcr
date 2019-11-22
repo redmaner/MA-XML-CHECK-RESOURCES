@@ -94,6 +94,7 @@ all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml pref_google_lens_default
+all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_relation_name
@@ -102,6 +103,7 @@ all MiuiGallery.apk strings.xml photo_editor_font_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiHome.apk arrays.xml fast_scroller_style_values
+all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview

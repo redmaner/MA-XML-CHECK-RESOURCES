@@ -769,7 +769,7 @@ folder="all" application="MiDrop.apk" xml="" name="default_lang"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
- <string name="system_default">Mặc định hệ thống</string>
+ <string name="system_default">Mặc định</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1022,6 +1022,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_turkce
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">Ứng dụng Meitu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">Danh mục</string>
 
 
 ---------------------------------------------------------------------------------------

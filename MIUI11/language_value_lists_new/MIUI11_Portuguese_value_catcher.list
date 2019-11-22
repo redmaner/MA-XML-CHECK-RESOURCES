@@ -323,6 +323,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">Categorias</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">Definir ecrã %1$d como predefinido</string>
@@ -529,7 +535,7 @@ folder="all" application="PersonalAssistant.apk" xml="" name="setting_uber_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">" You must agree to Facemoji Privacy Policy before using this feature."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Tem de concordar com a Política de Privacidade de Facemoji para utilizar esta funcionalidade"</string>
 
 
 ---------------------------------------------------------------------------------------

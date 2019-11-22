@@ -1,7 +1,13 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 ---------------------------------------------------------------------------------------
- <string name="defaultnumber">000000</string>
+ <string name="bt_sm_2_1_default">На SD-карце не хапае месца, каб захаваць файл ад адпраўшчыка \"%1$s\"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Няма SD-карты. Устаўце яе, каб захаваць перададзеныя файлы.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -11,15 +17,45 @@ folder="all" application="BugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
+---------------------------------------------------------------------------------------
+ <string-array name="default_reminder_later_time_labels"> <item>5 хвілін</item> <item>10 хвілін</item> <item>15 хвілін</item> <item>30 хвілін</item> <item>1 гадзіна</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>першы панядзелак</item> <item>першы аўторак</item> <item>першая серада</item> <item>першы чацвер</item> <item>першая пятніца</item> <item>першая субота</item> <item>першая нядзеля</item> <item>другі панядзелак</item> <item>другі аўторак</item> <item>другая серада</item> <item>другі чацвер</item> <item>другая пятніца</item> <item>другая субота</item> <item>другая нядзеля</item> <item>трэці панядзелак</item> <item>трэці аўторак</item> <item>трэцяя серада</item> <item>трэці чацвер</item> <item>трэцяя пятніца</item> <item>трэцяя субота</item> <item>трэцяя нядзеля</item> <item>чацвёрты панядзелак</item> <item>чацвёрты аўторак</item> <item>чацвёртая серада</item> <item>чацвёрты чацвер</item> <item>чацвёртая пятніца</item> <item>чацвёртая субота</item> <item>чацвёртая нядзеля</item> <item>апошні панядзелак</item> <item>апошні аўторак</item> <item>апошняя серада</item> <item>апошні чацвер</item> <item>апошняя пятніца</item> <item>апошняя субота</item> <item>апошняя нядзеля</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
- <string name="menstruation_card_default_title">Няма запісаў пра менструацыі</string>
+ <string name="default_reminder_later_time">Інтэрвал па змаўчанні для «Нагадаць пазней»</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="free_day_default_banner_title">Прыемнага адпачынку!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarms_default_event">Выбраць мерапрыемствы</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="work_day_default_banner_title">Удалага працоўнага дня!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Воблачнае сховішча</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -29,93 +65,9 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
----------------------------------------------------------------------------------------
- <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
----------------------------------------------------------------------------------------
- <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_five">5</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_one"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_one">1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_ten"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_ten">10</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_three"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_three">3</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_two"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_two">2</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Інтэрвал (у хвілінах)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_fifteen"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_fifteen">15</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_five"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_five">5</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_one"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_one">1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_ten"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_ten">10</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_thirty"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_thirty">30</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_twenty">20</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_twenty_five">25</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -143,7 +95,7 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_change_log"
+folder="all" application="FileExplorerGlobal.apk" xml="" name="default_change_log"
 ---------------------------------------------------------------------------------------
  <string name="default_change_log">Абновіце праграму і азнаёмцеся з новымі функцыямі.</string>
 
@@ -155,15 +107,15 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
----------------------------------------------------------------------------------------
- <string name="subinfo_default_name">SIM %d</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="default_device_name">Невядомая прылада</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -206,6 +158,12 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">Праграма \"%1$s\" цяпер недаступная. Яна кіруецца праграмай \"%2$s\".</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Спраўдзіце, што гэта вы</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -269,6 +227,36 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
+---------------------------------------------------------------------------------------
+ <string name="improve_your_health_default_tips">Трэніруйцеся і дастаткова спіце, каб заставацца здаровымі.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="preference_update_default_title"
+---------------------------------------------------------------------------------------
+ <string name="preference_update_default_title">Версія</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="revert_to_default"
+---------------------------------------------------------------------------------------
+ <string name="revert_to_default">Аднавіць налады па змаўчанні</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="sleep_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="sleep_tip_default">Паспрабуйце легчы спаць да 23:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="tips_default"
+---------------------------------------------------------------------------------------
+ <string name="tips_default">Няма дадзеных</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 хвілін</item> <item>30 хвілін</item> <item>45 хвілін</item> <item>1 гадзіна</item> </string-array>
@@ -281,15 +269,15 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">TextView</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Прыбліжэнне</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
+---------------------------------------------------------------------------------------
+ <string name="motion_photo_toast_default">Па змоўчанні</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -335,12 +323,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
----------------------------------------------------------------------------------------
- <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">Усталяваць экран %1$d як пачатковы</string>
@@ -359,21 +341,9 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_claro">Claro</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">Праграмы Meitu</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">Microsoft</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -383,21 +353,9 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_servic
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_telcel">Telcel</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
  <string name="default_screen_preview_title">Усталяваць пачатковы экран</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
----------------------------------------------------------------------------------------
- <string name="default_shortcut_title_10086">10086.cn</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -410,12 +368,6 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Функцыя па змаўчанні</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -599,12 +551,6 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
----------------------------------------------------------------------------------------
- <string name="audio_panel_time_counter_default">00:00</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
  <string name="todo_audio_default_content">"[Галасавая задача] "</string>
@@ -667,13 +613,13 @@ folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_opti
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">" Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Facemoji."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">"r r Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Facemoji."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">" Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Kika."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">"r r Перад выкарыстаннем гэтага сродку вам неабходна прыняць Палітыку канфідэнцыяльнасці Kika."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -683,21 +629,15 @@ folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
+folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
- <string name="traffic_setting_fragment_default">Выбраць</string>
+ <string name="ad_btn_default_text">Даведацца больш</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
 ---------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"Пра дыягностыку 1. Прылада падключыцца да сеткі аператара, адправіць дармовае паведамленне і будзе чакаць адказу. Гэта можа заняць каля 5 хвілін. 2. Гэтую старонку можна пакінуць на час дыягностыкі, працэс будзе выконвацца ў фоне."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
----------------------------------------------------------------------------------------
- <string name="app_manager_default_open_title">Выдаліць налады па змаўчанні</string>
+ <string name="app_manager_default_cleared">Ачышчана</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -713,21 +653,27 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_o
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_title">Выдаліць налады па змаўчанні</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
 ---------------------------------------------------------------------------------------
  <string name="app_manager_defaults_setting">Праграмы па змаўчанні</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
+folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_cleared">Ачышчана</string>
+ <string name="tc_diagnostic_fragment_default">"Пра дыягностыку 1. Прылада падключыцца да сеткі аператара, адправіць дармовае паведамленне і будзе чакаць адказу. Гэта можа заняць каля 5 хвілін. 2. Гэтую старонку можна пакінуць на час дыягностыкі, працэс будзе выконвацца ў фоне."</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
+folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="ad_btn_default_text">Даведацца больш</string>
+ <string name="traffic_setting_fragment_default">Выбраць</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -737,15 +683,15 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_label">Персаналізацыя</string>
+ <string name="space_des_default">Ізаляваная прастора з зашыфраванымі дадзенымі</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_title">Персаналізацыя</string>
+ <string name="space_name_default">Працоўная прастора</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -755,9 +701,9 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_s
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_dialog_title"> змаўчанні</string>
+ <string name="xspace_default_app_title">Персаналізацыя</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -779,15 +725,15 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="space_name_default">Працоўная прастора</string>
+ <string name="xspace_default_setting_dialog_title"> змаўчанні</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
 ---------------------------------------------------------------------------------------
- <string name="space_des_default">Ізаляваная прастора з зашыфраванымі дадзенымі</string>
+ <string name="xspace_default_setting_label">Персаналізацыя</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -839,6 +785,12 @@ folder="all" application="Settings.apk" xml="" name="silent_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="swipe_direction_values"
+---------------------------------------------------------------------------------------
+ <string-array name="swipe_direction_values"> <item>1</item> <item>0</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="traffic_balance_values"
 ---------------------------------------------------------------------------------------
  <string-array name="traffic_balance_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
@@ -863,21 +815,9 @@ folder="all" application="Settings.apk" xml="" name="whetstone_level_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
- <string-array name="wifi_calling_mode_values"> <item>2</item> <item>1</item> <item>0</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
----------------------------------------------------------------------------------------
- <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>2</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_tether_security_values"
----------------------------------------------------------------------------------------
- <string-array name="wifi_tether_security_values"> <item>4</item> <item>0</item> </string-array>
+ <string name="accessibility_timeout_default">Стандартны</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -929,6 +869,30 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">Стандартна для выклікаў</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Стандартна для выклікаў і SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Стандартна для мабільнай перадачы даных</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">Стандартна для SMS</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
 ---------------------------------------------------------------------------------------
  <string name="default_launcher_set_jeejen_message">Націсніце кнопку \"Дадому\" для налады Jeejen</string>
@@ -955,7 +919,7 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Памочнік па апавяшчэннях</string>
+ <string name="default_notification_assistant">Адаптыўныя апавяшчэнні</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -989,21 +953,21 @@ folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">Стандартна</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
  <string name="importance_default">Па змаўчанні</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_browser">стандартны, стандартны браўзер</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_links"
----------------------------------------------------------------------------------------
- <string name="keywords_default_links">стандартны</string>
+ <string name="keywords_app_default">Адкрыць з дапамогай</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1019,6 +983,12 @@ folder="all" application="Settings.apk" xml="" name="media_output_default_summar
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">Пабочная праграма, усталяваная ў якасці браўзэра па змаўчанні, можа начаць збіраць гісторыю праглядаў і іншыя дадзеныя. Усё роўна ўсталяваць?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
  <string name="notifi_importance_default">З гукам</string>
@@ -1027,7 +997,7 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">Высокая важнасць</string>
+ <string name="notification_channel_summary_default">Прыцягвае ўвагу гукам і вібрацыяй</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1043,6 +1013,12 @@ folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Стандартная налада</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%2$s: %1$s</string>
@@ -1052,6 +1028,12 @@ folder="all" application="Settings.apk" xml="" name="preference_summary_default_
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
  <string name="slider_vocie_online_default">Няма</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Стандартная налада</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1073,27 +1055,15 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Выкарыстоўваць стандартныя налады</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Карыстальніцкі</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_format_values"
----------------------------------------------------------------------------------------
- <string-array name="record_format_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_quality_values"
----------------------------------------------------------------------------------------
- <string-array name="record_quality_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_scenes_values"
----------------------------------------------------------------------------------------
- <string-array name="record_scenes_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1118,6 +1088,36 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Задаць як стандартную</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">Скасаваць</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">Зрабіць %s стандартнай праграмай фільтравання выклікаў?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">Праграма %s зможа бачыць інфармацыю аб абанентах, якія не ўключаны ў спіс вашых кантактаў, і блакіраваць іх выклікі. Прызначайце ў якасці стандартных тэлефонных праграмам толькі тыя, якім вы давяраеце.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">Праграма %s больш не зможа фільтраваць выклікі.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1219,7 +1219,7 @@ folder="all" application="TeleService.apk" xml="" name="preference_summary_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
- <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Няправільнае значэнне ідэнтыфікатара трансакцыі</string>
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Не атрымалася выканаць выклік. Код памылкі: 81.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1238,6 +1238,12 @@ folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_valu
 folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Аўтаматычна падключана праз пастаўшчыка паслугі ацэнкі сеткі</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories"
+---------------------------------------------------------------------------------------
+ <string name="default_categories">Стандартна</string>
 
 
 ---------------------------------------------------------------------------------------

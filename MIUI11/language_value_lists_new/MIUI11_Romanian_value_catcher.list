@@ -395,6 +395,12 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
+---------------------------------------------------------------------------------------
+ <string name="app_suspended_default_message">%1$s nu este disponibilă acum. Aceasta este gestionată de către %2$s.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="config_defaultAccessibilityService"
 ---------------------------------------------------------------------------------------
  <string name="config_defaultAccessibilityService">com.google.android.marvin.talkback/.TalkBackService</string>
@@ -545,6 +551,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value_abbr">EV</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_off">Oprit</string>
@@ -632,6 +644,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_de
 folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
 ---------------------------------------------------------------------------------------
  <string name="video_editor_text_default">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">Categorie</string>
 
 
 ---------------------------------------------------------------------------------------

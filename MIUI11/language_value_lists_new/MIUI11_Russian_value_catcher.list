@@ -17,6 +17,12 @@ folder="all" application="BugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="ln_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="ln_mathematical_value">ln</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 минут</item> <item>10 минут</item> <item>15 минут</item> <item>30 минут</item> <item>1 час</item> </string-array>
@@ -341,6 +347,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value_abbr">EV</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Приближение</string>
@@ -410,6 +422,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">Категории</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -1,7 +1,13 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 ---------------------------------------------------------------------------------------
- <string name="defaultnumber">000000</string>
+ <string name="bt_sm_2_1_default">‏אין מספיק שטח אחסון בכרטיס ה-SD לשמירת הקובץ מאת \"%1$s\"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">‏אין כרטיס SD. יש להכניס כרטיס SD כדי לשמור קבצים שהועברו.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -95,15 +101,45 @@ folder="all" application="BugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
+---------------------------------------------------------------------------------------
+ <string-array name="default_reminder_later_time_labels"> <item>חמש דקות</item> <item>10 דקות</item> <item>15 דקות</item> <item>30 דקות</item> <item>שעה אחת</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
- <string-array name="repeat_monthly_on_day_count_values"> <item>יום שני הראשון</item> <item>יום שלישי הראשון</item> <item>יום רביעי הראשון</item> <item>יום חמישי הראשון</item> <item>יום שישי הראשון</item> <item>שבת ראשונה</item> <item>יום ראשון הראשון</item> <item>"יום ב' השני"</item> <item>יום שלישי השני</item> <item>יום רביעי השני</item> <item>חמישי השני</item> <item>יום שישי השני</item> <item>יום שבת השני</item> <item>יום ראשון השני</item> <item>יום שלישי השני</item> <item>יום שלישי השלישי</item> <item>יום רביעי השלישי</item> <item>חמישי השלישי</item> <item>יום שישי שלישי</item> <item>שבת שלישית</item> <item>יום ראשון השלישי</item> <item>יום רביעי השני</item> <item>רביעי השלישי</item> <item>רביעי הרביעי</item> <item>יום חמישי הרביעי</item> <item>יום שישי הרביעי</item> <item>שבת רביעית</item> <item>ראשון הרביעי</item> <item>יום שני האחרון בחודש</item> <item>יום שלישי האחרון בחודש</item> <item>יום רביעי האחרון בחודש</item> <item>יום חמישי האחרון בחודש</item> <item>יום שישי האחרון בחודש</item> <item>יום שבת האחרון בחודש</item> <item>יום ראשון האחרון בחודש</item> </string-array>
+ <string-array name="repeat_monthly_on_day_count_values"> <item>שני ראשון</item> <item>שלישי ראשון</item> <item>רביעי הראשון</item> <item>חמישי הראשון</item> <item>יום שישי הראשון</item> <item>שבת ראשונה</item> <item>יום ראשון הראשון</item> <item>"יום ב' השני"</item> <item>שלישי השני</item> <item>רביעי השני</item> <item>חמישי השני</item> <item>יום שישי השני</item> <item>יום שבת השני</item> <item>"א' השני"</item> <item>יום שני, השלישי</item> <item>יום שלישי שלישי</item> <item>רביעי השלישי</item> <item>חמישי השלישי</item> <item>יום שישי שלישי</item> <item>שבת שלישית</item> <item>"יום א' השלישי"</item> <item>שני הרביעי</item> <item>שלישי רביעי</item> <item>רביעי הרביעי</item> <item>חמישי הרביעי</item> <item>"ו' הרביעי"</item> <item>שבת רביעית</item> <item>ראשון הרביעי</item> <item>שני אחרון</item> <item>שלישי האחרון</item> <item>רביעי האחרון</item> <item>חמישי האחרון</item> <item>שישי האחרון</item> <item>שבת אחרונה</item> <item>ראשון האחרון</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
+folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
- <string name="menstruation_card_default_title">אין תיעוד אודות המחזור הווסתי</string>
+ <string name="default_reminder_later_time">מרווח ברירת המחדל עבור \"תזכורת מאוחרת\"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="free_day_default_banner_title">שהות נעימה!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarms_default_event">בחר אירועים</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="work_day_default_banner_title">שיהיה לך יום פורה!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">אחסון בענן</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -113,93 +149,9 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
----------------------------------------------------------------------------------------
- <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
----------------------------------------------------------------------------------------
- <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_five">5</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_one"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_one">1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_ten"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_ten">10</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_three"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_three">3</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_two"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_two">2</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">מרווח הזמן (דקות)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_fifteen"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_fifteen">15</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_five"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_five">5</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_one"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_one">1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_ten"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_ten">10</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_thirty"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_thirty">30</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_twenty">20</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_twenty_five">25</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -233,15 +185,15 @@ folder="all" application="FileExplorer.apk" xml="" name="default_change_log"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FileExplorerGlobal.apk" xml="" name="default_change_log"
+---------------------------------------------------------------------------------------
+ <string name="default_change_log">עדכן את היישום כדי לבדוק את התכונות החדשות.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
  <string name="default_debt_msg_words">"מכשיר זה ננעל עקב איחור בתשלום. צור קשר עם סוכן המכירות שלך לקבלת פרטים."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
----------------------------------------------------------------------------------------
- <string name="subinfo_default_name">SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -251,9 +203,21 @@ folder="all" application="framework-ext-res.apk" xml="" name="default_device_nam
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">האפליקציה %1$s לא זמינה כרגע. את הזמינות שלה אפשר לנהל באפליקציה %2$s.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">אימות הזהות שלך</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -317,6 +281,36 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
+---------------------------------------------------------------------------------------
+ <string name="improve_your_health_default_tips">בצע פעילות גופנית וצבור מספיק שעות שינה על מנת להישאר בריא.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="preference_update_default_title"
+---------------------------------------------------------------------------------------
+ <string name="preference_update_default_title">גירסה</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="revert_to_default"
+---------------------------------------------------------------------------------------
+ <string name="revert_to_default">שחזור הגדרות ברירת המחדל</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="sleep_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="sleep_tip_default">נסה ללכת לישון לפני 23:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="tips_default"
+---------------------------------------------------------------------------------------
+ <string name="tips_default">אין נתונים</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="InCallUI.apk" xml="" name="clir_display_values"
 ---------------------------------------------------------------------------------------
  <string-array name="clir_display_values"> <item>רשת ברירת מחדל</item> <item>הסתר מספר</item> <item>הצג מספר</item> </string-array>
@@ -332,30 +326,6 @@ folder="all" application="InCallUI.apk" xml="" name="list_language_values"
 folder="all" application="InCallUI.apk" xml="" name="cdma_subscription_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="InCallUI.apk" xml="" name="sum_default_caller_id"
----------------------------------------------------------------------------------------
- <string name="sum_default_caller_id">השתמש בהגדרות ברירת המחדל של המפעיל כדי להציג את המספר שלי בשיחות יוצאות</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="InCallUI.apk" xml="" name="voicemail_default"
----------------------------------------------------------------------------------------
- <string name="voicemail_default">הספק שלי</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="InCallUI.apk" xml="" name="default_preference_summary"
----------------------------------------------------------------------------------------
- <string name="default_preference_summary">‏&lt;לא הוגדר></string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="InCallUI.apk" xml="" name="respond_via_sms_menu_reset_default_activity"
----------------------------------------------------------------------------------------
- <string name="respond_via_sms_menu_reset_default_activity">אפס את האפליקציה המוגדר כברירת מחדל</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -380,6 +350,12 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">זום</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
+---------------------------------------------------------------------------------------
+ <string name="motion_photo_toast_default">ברירת מחדל</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -425,12 +401,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
----------------------------------------------------------------------------------------
- <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">"הגדר את מסך %1$d כברירת המחדל עבור 'מסך הבית'"</string>
@@ -449,21 +419,9 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_claro">Claro</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">יישומי Meitu</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">Microsoft</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -473,21 +431,9 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_servic
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_telcel">Telcel</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
  <string name="default_screen_preview_title">הגדרת מסך ברירת מחדל</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
----------------------------------------------------------------------------------------
- <string name="default_shortcut_title_10086">10086.cn</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -500,12 +446,6 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">תכונה ברירת מחדל</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -761,12 +701,6 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
----------------------------------------------------------------------------------------
- <string name="audio_panel_time_counter_default">00:00</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
  <string name="todo_audio_default_content">"[משימה קולית] "</string>
@@ -823,13 +757,13 @@ folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_opti
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">" עליך להסכים למדיניות הפרטיות של Facemoji לפני שתוכל להשתמש בתכונה זו."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">"r r עליך להסכים למדיניות הפרטיות של Facemoji לפני שתוכל להשתמש בתכונה זו."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">" עליך להסכים למדיניות הפרטיות של Kika לפני שתוכל להשתמש בתכונה זו."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">"r r עליך להסכים למדיניות הפרטיות של Kika לפני שתוכל להשתמש בתכונה זו."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -839,27 +773,15 @@ folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_vibration_items_values"
+folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
- <string-array name="power_dialog_vibration_items_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+ <string name="ad_btn_default_text">מידע נוסף</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
 ---------------------------------------------------------------------------------------
- <string name="traffic_setting_fragment_default">בחירה</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
----------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"אודות האבחון 1. המכשיר יתחבר לרשת של הספק, ישלח הודעה חינמית וימתין לתגובת הספק. פעולה זו עשויה להימשך עד 5 דקות. 2. תוכל לעזוב את הדף במהלך האבחון אשר ימשיך להתבצע ברקע."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
----------------------------------------------------------------------------------------
- <string name="app_manager_default_open_title">ניקוי ברירות המחדל</string>
+ <string name="app_manager_default_cleared">נוקה</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -875,51 +797,27 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_o
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
+---------------------------------------------------------------------------------------
+ <string name="app_manager_default_open_title">ניקוי ברירות המחדל</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
 ---------------------------------------------------------------------------------------
  <string name="app_manager_defaults_setting">יישומי ברירת מחדל</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
+folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_cleared">נוקה</string>
+ <string name="tc_diagnostic_fragment_default">"אודות האבחון 1. המכשיר יתחבר לרשת של הספק, ישלח הודעה חינמית וימתין לתגובת הספק. פעולה זו עשויה להימשך עד 5 דקות. 2. תוכל לעזוב את הדף במהלך האבחון אשר ימשיך להתבצע ברקע."</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
+folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="ad_btn_default_text">מידע נוסף</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_auto_shutdown_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_custom_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_custom_summary_default">הגדרות חיסכון בסוללה</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_low_battery_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_low_battery_summary_default">הפעל מצב חיסכון כאשר הסוללה חלשה</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_center_on_time_summary_default"
----------------------------------------------------------------------------------------
- <string name="power_center_on_time_summary_default">מעבר מתוזמן בין פרופילי סוללה</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_delete_dialog_cannot_delete_default"
----------------------------------------------------------------------------------------
- <string name="power_dialog_delete_dialog_cannot_delete_default">נכון לעכשיו אתה משתמש בפרופיל הזה.</string>
+ <string name="traffic_setting_fragment_default">בחירה</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -929,15 +827,15 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_label">התאמה אישית</string>
+ <string name="space_des_default">שטח מבודד בעל נתונים מוצפנים</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_title">התאמה אישית</string>
+ <string name="space_name_default">שטח העבודה</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -947,9 +845,9 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_s
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_dialog_title"> ברירת מחדל</string>
+ <string name="xspace_default_app_title">התאמה אישית</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -971,15 +869,15 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="space_name_default">שטח העבודה</string>
+ <string name="xspace_default_setting_dialog_title"> ברירת מחדל</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
+folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
 ---------------------------------------------------------------------------------------
- <string name="space_des_default">שטח מבודד בעל נתונים מוצפנים</string>
+ <string name="xspace_default_setting_label">התאמה אישית</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -989,21 +887,9 @@ folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_val
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
+folder="all" application="Settings.apk" xml="" name="swipe_direction_values"
 ---------------------------------------------------------------------------------------
- <string-array name="wifi_calling_mode_values"> <item>2</item> <item>1</item> <item>0</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
----------------------------------------------------------------------------------------
- <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>2</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_tether_security_values"
----------------------------------------------------------------------------------------
- <string-array name="wifi_tether_security_values"> <item>4</item> <item>0</item> </string-array>
+ <string-array name="swipe_direction_values"> <item>1</item> <item>0</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1133,6 +1019,12 @@ folder="all" application="Settings.apk" xml="" name="importance_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">אם תגדיר יישום של צד שלישי כדפדפן ברירת המחדל, ייתכן שהוא יתחיל לאסוף את היסטוריית הגלישה שלך ונתונים אחרים. להגדיר בכל זאת?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
  <string name="notifi_importance_default">השמע צליל</string>
@@ -1154,6 +1046,12 @@ folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">מותאם אישית</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">ברירת מחדל</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1199,6 +1097,30 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">ברירת מחדל לשירות</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">‏ברירת מחדל לשיחות ו-SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">ברירת מחדל לחבילת גלישה</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">‏ברירת מחדל ל-SMS</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
  <string name="default_map_app_title">אפליקציית מפה</string>
@@ -1207,7 +1129,7 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">אסיסטנט ההודעות</string>
+ <string name="default_notification_assistant">התראות מותאמות</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1223,15 +1145,15 @@ folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterpri
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_browser">ברירת מחדל, דפדפן ברירת המחדל</string>
+ <string name="game_driver_app_preference_default">ברירת מחדל</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_links">ברירת מחדל</string>
+ <string name="keywords_app_default">פתיחה באמצעות</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1249,7 +1171,7 @@ folder="all" application="Settings.apk" xml="" name="media_output_default_summar
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">חשיבות גבוהה</string>
+ <string name="notification_channel_summary_default">מעוררת תשומת לב באמצעות צלילים או רטט</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1261,13 +1183,25 @@ folder="all" application="Settings.apk" xml="" name="notification_importance_def
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_sound_default">צליל ברירת המחדל להודעות</string>
+ <string name="notification_sound_default">צליל ברירת המחדל להתראות</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">ברירת המחדל של המכשיר</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">ברירת המחדל של המכשיר</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1289,21 +1223,9 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_format_values"
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
- <string-array name="record_format_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_quality_values"
----------------------------------------------------------------------------------------
- <string-array name="record_quality_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="record_scenes_values"
----------------------------------------------------------------------------------------
- <string-array name="record_scenes_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+ <string name="zen_mode_custom_behavior_summary_default">שימוש בהגדרות ברירת המחדל</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1346,6 +1268,36 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_warning_message">%s תוכל לבצע שיחות ולנהל את כל היבטי השיחות. עליך להגדיר רק אפליקציות אמינות כאפליקציית ברירת המחדל לשיחות טלפון.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">ברירת מחדל</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">ביטול</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">רוצה להפוך את %s לאפליקציית ברירת המחדל שלך לסינון שיחות?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">אפליקציית %s תוכל לראות מידע על מתקשרים שאינם באנשי הקשר שלך ולחסום שיחות מהם. מומלץ לבחור רק אפליקציות שסומכים עליהן כברירת המחדל לסינון שיחות.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">אפליקציית %s לא תוכל לסנן שיחות עוד.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1477,7 +1429,7 @@ folder="all" application="TeleService.apk" xml="" name="preference_summary_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
- <string name="clh_callFailed_invalid_transaction_identifier_value_txt">ערך מזהה הפעולה לא חוקי</string>
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">אי אפשר היה להשלים את השיחה. קוד שגיאה: 81.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1496,6 +1448,12 @@ folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_valu
 folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">מחובר אוטומטית דרך ספק של דירוג רשת</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories"
+---------------------------------------------------------------------------------------
+ <string name="default_categories">ברירת מחדל</string>
 
 
 ---------------------------------------------------------------------------------------

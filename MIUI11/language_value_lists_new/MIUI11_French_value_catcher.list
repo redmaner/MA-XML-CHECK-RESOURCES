@@ -575,6 +575,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_google_lens_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value_abbr">EV</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Défaut</string>
@@ -620,6 +626,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 folder="all" application="MiuiHome.apk" xml="" name="fast_scroller_style_values"
 ---------------------------------------------------------------------------------------
  <string-array name="fast_scroller_style_values"> <item>default</item> <item>letter</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">Catégorie</string>
 
 
 ---------------------------------------------------------------------------------------
