@@ -1,6 +1,7 @@
 all Bluetooth.apk strings.xml defaultnumber
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all BugReport.apk strings.xml default_text_view
+all Calculator.apk strings.xml ln_mathematical_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml prefValues_alerts_popup
 all Calendar.apk arrays.xml prefValues_alerts_popup
@@ -55,6 +56,7 @@ all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_hdr_value_default
+all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiCamera.apk strings.xml pref_hdr_value_default
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
@@ -67,6 +69,7 @@ all MiuiGallery.apk strings.xml photomovie_template_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiHome.apk arrays.xml cell_layout_size_values
+all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview

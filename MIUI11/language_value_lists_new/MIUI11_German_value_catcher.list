@@ -341,6 +341,30 @@ folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
+---------------------------------------------------------------------------------------
+ <string name="improve_your_health_default_tips">Trainieren und schlafen Sie genug, um gesund zu bleiben</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="revert_to_default"
+---------------------------------------------------------------------------------------
+ <string name="revert_to_default">Standardwerte wiederherstellen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="sleep_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="sleep_tip_default">Versuchen Sie, vor 23:00 Uhr ins Bett zu gehen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="tips_default"
+---------------------------------------------------------------------------------------
+ <string name="tips_default">Keine Daten</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Sie bestimmen, welche Informationen Sie mit Apps teilen möchten.</string>
@@ -350,12 +374,6 @@ folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_
 folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 ---------------------------------------------------------------------------------------
  <string name="msg_default_status">Barcode im Suchfenster fixieren, um ihn zu scannen</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
----------------------------------------------------------------------------------------
- <string name="system_default">Standard</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -464,12 +482,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_de
 folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
 ---------------------------------------------------------------------------------------
  <string name="video_editor_text_default">Standard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
----------------------------------------------------------------------------------------
- <string name="all_app_category_default">Kategorie</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1135,7 +1147,7 @@ folder="all" application="PermissionController.apk" xml="" name="request_role_se
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
- <string name="display_weather_default">Hier tippen, um Wetterinformationen zu erhalten</string>
+ <string name="display_weather_default">Tippen, um Wetterinfos zu erhalten</string>
 
 
 ---------------------------------------------------------------------------------------
