@@ -95,42 +95,6 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_reminder_default_value"
----------------------------------------------------------------------------------------
- <string name="preferences_default_allday_reminder_default_value">480</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_default_value"
----------------------------------------------------------------------------------------
- <string name="preferences_default_reminder_default_value">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_default_value"
----------------------------------------------------------------------------------------
- <string name="preferences_default_reminder_later_time_default_value">300000</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_reminder_default_value"
----------------------------------------------------------------------------------------
- <string name="preferences_default_allday_reminder_default_value">480</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_default_value"
----------------------------------------------------------------------------------------
- <string name="preferences_default_reminder_default_value">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_default_value"
----------------------------------------------------------------------------------------
- <string name="preferences_default_reminder_later_time_default_value">300000</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_values"
 ---------------------------------------------------------------------------------------
  <string-array name="alert_reminder_interval_values"> <item>1</item> <item>2</item> <item>5</item> <item>15</item> <item>0</item> </string-array>
@@ -758,6 +722,12 @@ folder="all" application="Settings.apk" xml="" name="usb_default_label"
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="wallpaper_settings_summary_default">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Utilitza la configuració per defecte</string>
 
 
 ---------------------------------------------------------------------------------------

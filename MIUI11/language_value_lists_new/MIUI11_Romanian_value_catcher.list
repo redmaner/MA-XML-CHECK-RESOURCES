@@ -401,27 +401,21 @@ folder="all" application="framework-res.apk" xml="" name="app_suspended_default_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_defaultAccessibilityService"
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
 ---------------------------------------------------------------------------------------
- <string name="config_defaultAccessibilityService">com.google.android.marvin.talkback/.TalkBackService</string>
+ <string name="biometric_dialog_default_title">Verificăm că sunteți dvs</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_defaultAutofillService"
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_hdmi"
 ---------------------------------------------------------------------------------------
- <string name="config_defaultAutofillService"/>
+ <string name="default_audio_route_name_hdmi">HDMI</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_defaultListenerAccessPackages"
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
 ---------------------------------------------------------------------------------------
- <string name="config_defaultListenerAccessPackages"/>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_defaultNetworkRecommendationProviderPackage"
----------------------------------------------------------------------------------------
- <string name="config_defaultNetworkRecommendationProviderPackage"/>
+ <string name="default_audio_route_name_usb">USB</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -497,9 +491,57 @@ folder="all" application="framework-res.apk" xml="" name="wifi_localhotspot_conf
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_default_every_night_name">Somn</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
  <string-array name="default_phrases"> <item>Antetul facturii: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item> <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item> <item>Așteaptă puțin, mă întorc imediat.</item> <item>Sunt într-o ședință. Vă rog să-mi trimiteți mesaj.</item> <item>Nu pot vorbi acum. Revin cu un telefon imediat.</item> <item>Mulțumesc!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
+---------------------------------------------------------------------------------------
+ <string name="improve_your_health_default_tips">Faceți exerciții și odihniți-vă îndeajuns pentru a vă menține sănătos.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="preference_update_default_title"
+---------------------------------------------------------------------------------------
+ <string name="preference_update_default_title">Versiune</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="revert_to_default"
+---------------------------------------------------------------------------------------
+ <string name="revert_to_default">Restaurați setările implicite</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="sleep_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="sleep_tip_default">Încercați să mergeți la culcare înainte de ora 23:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="tips_default"
+---------------------------------------------------------------------------------------
+ <string name="tips_default">Nu există date</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="text_no_value"
+---------------------------------------------------------------------------------------
+ <string name="text_no_value">--</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -85,6 +85,11 @@ all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
 all framework-res.apk strings.xml zen_mode_default_every_night_name
 all FrequentPhrase.apk arrays.xml default_phrases
+all Health.apk strings.xml improve_your_health_default_tips
+all Health.apk strings.xml preference_update_default_title
+all Health.apk strings.xml revert_to_default
+all Health.apk strings.xml sleep_tip_default
+all Health.apk strings.xml tips_default
 all MiGalleryLockscreen.apk strings.xml local_default_category
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiRadio.apk arrays.xml sleep_duration_values
@@ -243,7 +248,6 @@ all Telecom.apk strings.xml preference_summary_default_combination
 all TeleService.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml cdma_subscription_values
 all TeleService.apk arrays.xml list_language_values
-all TeleService.apk arrays.xml preferred_network_mode_values_world_mode
 all TeleService.apk strings.xml connected_via_network_scorer_default
 all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password

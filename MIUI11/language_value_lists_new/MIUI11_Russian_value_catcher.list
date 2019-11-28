@@ -293,6 +293,48 @@ folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="weight_line_chart_default_y"
+---------------------------------------------------------------------------------------
+ <integer-array name="weight_line_chart_default_y"> <item>42</item> <item>45</item> <item>48</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
+---------------------------------------------------------------------------------------
+ <string name="improve_your_health_default_tips">Тренируйтесь и высыпайтесь, чтобы оставаться здоровым.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="preference_update_default_title"
+---------------------------------------------------------------------------------------
+ <string name="preference_update_default_title">Версия</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="revert_to_default"
+---------------------------------------------------------------------------------------
+ <string name="revert_to_default">Восстановить по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="sleep_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="sleep_tip_default">Старайтесь ложиться спать до 23:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="tips_default"
+---------------------------------------------------------------------------------------
+ <string name="tips_default">Нет данных</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_category"
 ---------------------------------------------------------------------------------------
  <string name="local_default_category">По умолчанию</string>
