@@ -14,12 +14,6 @@ all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml preferences_alarms_default_event
-all Calendar.apk strings.xml preferences_default_allday_reminder_default_value
-all Calendar.apk strings.xml preferences_default_reminder_default_value
-all Calendar.apk strings.xml preferences_default_reminder_later_time_default_value
-all Calendar.apk strings.xml preferences_default_allday_reminder_default_value
-all Calendar.apk strings.xml preferences_default_reminder_default_value
-all Calendar.apk strings.xml preferences_default_reminder_later_time_default_value
 all CellBroadcastReceiver.apk arrays.xml alert_reminder_interval_values
 all CellBroadcastReceiver.apk arrays.xml alert_reminder_interval_active_values
 all CellBroadcastReceiver.apk strings.xml alert_reminder_interval_default_value
@@ -125,6 +119,7 @@ all Settings.apk strings.xml theme_customization_device_default
 all Settings.apk strings.xml usb_default_info
 all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
+all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml tether_limit_value_custom
 all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml change_default_dialer_dialog_negative

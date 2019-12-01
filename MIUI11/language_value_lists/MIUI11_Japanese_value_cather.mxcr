@@ -26,11 +26,17 @@ all EmergencyInfo.apk strings.xml tts_default_sample_string
 all framework-ext-res.apk strings.xml default_device_name
 all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml popup_window_default_title
+all Health.apk strings.xml improve_your_health_default_tips
+all Health.apk strings.xml preference_update_default_title
+all Health.apk strings.xml revert_to_default
+all Health.apk strings.xml sleep_tip_default
+all Health.apk strings.xml tips_default
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml mark_myself_default_name
 all MiuiGallery.apk strings.xml photo_editor_font_default
+all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview

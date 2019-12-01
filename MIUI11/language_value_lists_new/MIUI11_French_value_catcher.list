@@ -535,19 +535,19 @@ folder="all" application="Health.apk" xml="" name="preference_update_default_tit
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="revert_to_default"
 ---------------------------------------------------------------------------------------
- <string name="revert_to_default">Restore defaults</string>
+ <string name="revert_to_default">Réinitialiser par défault</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="sleep_tip_default"
 ---------------------------------------------------------------------------------------
- <string name="sleep_tip_default">Try to go to bed before 23:00</string>
+ <string name="sleep_tip_default">"Essayez d'aller au lit avant 23:00"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="tips_default"
 ---------------------------------------------------------------------------------------
- <string name="tips_default">No data</string>
+ <string name="tips_default">Aucune donnée</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -722,6 +722,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_titl
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">"Définir l'écran par défaut"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">perform an unknown action</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1646,6 +1652,12 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
  <string name="default_filedownloader_notification_title">Téléchargeur de fichiers</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="news_load_more_default"
+---------------------------------------------------------------------------------------
+ <string name="news_load_more_default">上拉刷新</string>
 
 
 ---------------------------------------------------------------------------------------

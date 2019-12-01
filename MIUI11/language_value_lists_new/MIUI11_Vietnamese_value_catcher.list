@@ -1061,6 +1061,12 @@ folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">Thực hiện hành động chưa biết</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Tính năng mặc định</string>

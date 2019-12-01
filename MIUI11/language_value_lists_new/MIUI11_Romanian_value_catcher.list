@@ -761,6 +761,78 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">ruleze o acțiune necunoscută</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Nicio aplicație implicită setată</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Unele aplicații implicite sunt setate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Setează vocea specifică pentru rostirea textului</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Limbă</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Afectează tonul vocii sintetizate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Pas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Viteza cu care este rostit textul</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Rată de rostire</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Acesta este un exemplu de rostire sintetizată</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default_array"
 ---------------------------------------------------------------------------------------
  <string-array name="pref_camera_focusmode_default_array"> <item>continuous-picture</item> <item>auto</item> </string-array>
@@ -1010,18 +1082,6 @@ folder="all" application="NotificationCenter.apk" xml="" name="default_list_type
 folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
 ---------------------------------------------------------------------------------------
  <string name="default_pay_app_removed">Serviciul dvs preferat pentru atingere și plată a fost eliminat. Alegeți altul?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Unele aplicații implicite sunt setate</string>
 
 
 ---------------------------------------------------------------------------------------

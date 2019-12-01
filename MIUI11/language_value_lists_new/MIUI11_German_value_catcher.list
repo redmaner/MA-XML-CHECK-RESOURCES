@@ -533,66 +533,6 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permiss
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_none"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Keine Voreinstellungen gesetzt</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Einige Standardwerte gesetzt</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="screen_zoom_summary_default"
----------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Standard</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Sprache</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Beeinflusst den Ton der synthetisierten Sprache</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Tonhöhe</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Geschwindigkeit, mit der der Text gesprochen wird</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Sprechrate</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_sample_string"
----------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Dies ist ein Beispiel für Sprachsynthese</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_focusmode_default">Kontinuierliches Bild</string>
@@ -1850,6 +1790,12 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="Weather.apk" xml="" name="information_manager_default_weather_bg"
 ---------------------------------------------------------------------------------------
  <string name="information_manager_default_weather_bg">Standardwetterhintergrund</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="news_load_more_default"
+---------------------------------------------------------------------------------------
+ <string name="news_load_more_default">Pull-up refresh</string>
 
 
 ---------------------------------------------------------------------------------------
