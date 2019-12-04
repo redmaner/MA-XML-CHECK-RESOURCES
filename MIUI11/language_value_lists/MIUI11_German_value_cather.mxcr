@@ -87,16 +87,6 @@ all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiPackageInstaller.apk strings.xml default_permission_description
-all MiuiPackageInstaller.apk strings.xml launch_defaults_none
-all MiuiPackageInstaller.apk strings.xml launch_defaults_some
-all MiuiPackageInstaller.apk strings.xml screen_zoom_summary_default
-all MiuiPackageInstaller.apk strings.xml tts_default_lang_summary
-all MiuiPackageInstaller.apk strings.xml tts_default_lang_title
-all MiuiPackageInstaller.apk strings.xml tts_default_pitch_summary
-all MiuiPackageInstaller.apk strings.xml tts_default_pitch_title
-all MiuiPackageInstaller.apk strings.xml tts_default_rate_summary
-all MiuiPackageInstaller.apk strings.xml tts_default_rate_title
-all MiuiPackageInstaller.apk strings.xml tts_default_sample_string
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default
@@ -307,6 +297,7 @@ all Traceur.apk strings.xml tts_default_rate_title
 all Traceur.apk strings.xml tts_default_sample_string
 all Updater.apk strings.xml default_filedownloader_notification_content
 all Weather.apk strings.xml information_manager_default_weather_bg
+all Weather.apk strings.xml news_load_more_default
 all Weather.apk strings.xml realtime_cityname_default
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all XMRemoteController.apk strings.xml feedback_desc_default

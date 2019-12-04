@@ -413,6 +413,36 @@ folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
+---------------------------------------------------------------------------------------
+ <string name="improve_your_health_default_tips">건강을 유지하기 위해 운동하고 충분한 수면을 취하십시오.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="preference_update_default_title"
+---------------------------------------------------------------------------------------
+ <string name="preference_update_default_title">버전</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="revert_to_default"
+---------------------------------------------------------------------------------------
+ <string name="revert_to_default">기본값 복원</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="sleep_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="sleep_tip_default">23:00 전에 잠자리에 들으십시오</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="tips_default"
+---------------------------------------------------------------------------------------
+ <string name="tips_default">데이터 없음</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="imssettings.apk" xml="" name="ims_settings_no_default_value"
 ---------------------------------------------------------------------------------------
  <string name="ims_settings_no_default_value">무</string>

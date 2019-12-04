@@ -1681,7 +1681,7 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
- <string name="msim_select_default_time_left">(%d s)</string>
+ <string name="msim_select_default_time_left">(%ds)</string>
 
 
 ---------------------------------------------------------------------------------------

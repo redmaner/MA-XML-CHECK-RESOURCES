@@ -119,6 +119,7 @@ all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_folder_title_telcel
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
 all MiuiSystemUI.apk arrays.xml data_type_name_mcc_mnc_value
@@ -273,5 +274,6 @@ all Traceur.apk strings.xml tts_default_rate_title
 all Traceur.apk strings.xml tts_default_sample_string
 all Updater.apk strings.xml default_filedownloader_notification_content
 all Updater.apk strings.xml default_filedownloader_notification_title
+all Weather.apk strings.xml news_load_more_default
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all XMRemoteController.apk strings.xml feedback_desc_default

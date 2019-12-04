@@ -527,6 +527,12 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">выполнить неизвестное действие</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">По умолчанию</string>
@@ -692,6 +698,54 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_de
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
 ---------------------------------------------------------------------------------------
  <string name="cast_tracks_chooser_dialog_default_track_name">Трек %1$d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
+---------------------------------------------------------------------------------------
+ <string name="com_facebook_tooltip_default">Выберите, какая информация будет доступна приложениям.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_default_music_text">Авто</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item3_default_text">Эмоции</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item4_default_text">Восход</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item5_default_text">Воспоминания</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item6_default_text">Радость</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Restore default cover</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">По умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------

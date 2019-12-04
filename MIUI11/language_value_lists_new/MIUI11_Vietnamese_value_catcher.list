@@ -833,6 +833,12 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Thiết bị không xác định</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">TextView</string>
@@ -1655,6 +1661,12 @@ folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_pr
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_desc"
+---------------------------------------------------------------------------------------
+ <string name="password_change_value_preference_desc">Mật khẩu màn hình khóa ở Không gian chính sẽ được dùng để thoát khỏi Không gian của trẻ</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
 ---------------------------------------------------------------------------------------
  <string name="traffic_setting_fragment_default">Chọn</string>
@@ -2456,6 +2468,12 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="Weather.apk" xml="" name="information_manager_default_weather_bg"
 ---------------------------------------------------------------------------------------
  <string name="information_manager_default_weather_bg">Nền thời tiết mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="news_load_more_default"
+---------------------------------------------------------------------------------------
+ <string name="news_load_more_default">Kéo lên để tải thêm</string>
 
 
 ---------------------------------------------------------------------------------------
