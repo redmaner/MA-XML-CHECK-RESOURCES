@@ -13,25 +13,25 @@ folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
 ---------------------------------------------------------------------------------------
- <string name="browser_default_setting_cancel">取消</string>
+ <string name="browser_default_setting_cancel">Cancel</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
 ---------------------------------------------------------------------------------------
- <string name="browser_default_setting_confirm">确定</string>
+ <string name="browser_default_setting_confirm">OK</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_content"
 ---------------------------------------------------------------------------------------
- <string name="browser_default_setting_content">安全上网 保驾护航</string>
+ <string name="browser_default_setting_content">Fast and secure web browsing</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
 ---------------------------------------------------------------------------------------
- <string name="browser_default_setting_title">设置为默认浏览器</string>
+ <string name="browser_default_setting_title">Set as default browser</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -485,12 +485,6 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_others" />
-
-
----------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
 ---------------------------------------------------------------------------------------
  <string name="etws_primary_default_message_test">"Test de messages d'urgence"</string>
@@ -740,12 +734,6 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="data_type_name_mcc_mnc_value"
----------------------------------------------------------------------------------------
- <array name="data_type_name_mcc_mnc_value" /> <string-array name="debug_hw_overdraw_entries">
 
 
 ---------------------------------------------------------------------------------------
@@ -1451,12 +1439,6 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_values"
----------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_dialog_affirmative">"Définir comme application d'appel par défaut"</string>
@@ -1484,24 +1466,6 @@ folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer
 folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s/%2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_values"
----------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values"
----------------------------------------------------------------------------------------
- <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="list_language_values"
----------------------------------------------------------------------------------------
- <string-array name="list_language_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

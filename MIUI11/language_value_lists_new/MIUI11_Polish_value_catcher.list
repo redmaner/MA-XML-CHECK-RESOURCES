@@ -29,6 +29,30 @@ folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_cancel">Anuluj</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_confirm">OK</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_content"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_content">Szybko i bezpiecznie przeglądaj sieć</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_title">Ustaw jako domyślną przeglądarkę</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Chwileczkę…</string>

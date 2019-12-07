@@ -137,6 +137,7 @@ all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
 all MiRecycle.apk strings.xml default_error_msg
+all MiShare.apk strings.xml default_device_name
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_default
 all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_off
@@ -274,6 +275,7 @@ all QuickSearchBox.apk strings.xml default_download_path_prefix
 all QuickSearchBox.apk strings.xml hint_default
 all QuickSearchBox.apk strings.xml reader_history_default_subtitle
 all SecurityAdd.apk strings.xml password_change_value_preference_title
+all SecurityAdd.apk strings.xml password_change_value_preference_desc
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
 all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default
@@ -408,6 +410,7 @@ all Traceur.apk strings.xml default_categories
 all Updater.apk strings.xml default_filedownloader_notification_content
 all Updater.apk strings.xml default_filedownloader_notification_title
 all Weather.apk strings.xml information_manager_default_weather_bg
+all Weather.apk strings.xml news_load_more_default
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all YellowPage.apk strings.xml navigation_search_default_hint
 all YellowPage.apk strings.xml mark_number_dialog_default_sub_title

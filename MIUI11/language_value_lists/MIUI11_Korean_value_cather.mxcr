@@ -67,6 +67,11 @@ all framework-res.apk strings.xml zen_mode_default_every_night_name
 all framework-res.apk strings.xml biometric_dialog_default_title
 all framework-res.apk strings.xml gsm_alphabet_default_charset
 all FrequentPhrase.apk arrays.xml default_phrases
+all Health.apk strings.xml improve_your_health_default_tips
+all Health.apk strings.xml preference_update_default_title
+all Health.apk strings.xml revert_to_default
+all Health.apk strings.xml sleep_tip_default
+all Health.apk strings.xml tips_default
 all imssettings.apk strings.xml ims_settings_no_default_value
 all imssettings.apk strings.xml ims_apn_value_invalid
 all imssettings.apk strings.xml ims_settings_no_default_value

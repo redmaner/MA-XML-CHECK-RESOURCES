@@ -689,6 +689,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
+---------------------------------------------------------------------------------------
+ <string name="alert_dialog_download_default_title">Загрузка приложения</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
 ---------------------------------------------------------------------------------------
  <string name="cast_notification_default_channel_name">Трансляция</string>
@@ -697,19 +703,19 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_de
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
 ---------------------------------------------------------------------------------------
- <string name="cast_tracks_chooser_dialog_default_track_name">Трек %1$d</string>
+ <string name="cast_tracks_chooser_dialog_default_track_name">Трек %1$d</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">Выберите, какая информация будет доступна приложениям.</string>
+ <string name="com_facebook_tooltip_default">Контроль над данными — выберите, какой информацией вы хотите делиться с приложениями.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_default_music_text">Авто</string>
+ <string name="gallery_video_default_music_text">Автоматически</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -727,7 +733,7 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item5_default_text">Воспоминания</string>
+ <string name="gallery_video_item5_default_text">Сюжеты</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -737,9 +743,15 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
+---------------------------------------------------------------------------------------
+ <string name="ovp_default_plugin_name">HD плагин</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
 ---------------------------------------------------------------------------------------
- <string name="plus_poster_reset_default">Restore default cover</string>
+ <string name="plus_poster_reset_default">Восстановить обложку по умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -752,6 +764,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_defau
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="subtitle_padding_default_hint">Настройка субтитров…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="t_lv_subtitle_padding_default_hint">Настройка субтитров…</string>
 
 
 ---------------------------------------------------------------------------------------
