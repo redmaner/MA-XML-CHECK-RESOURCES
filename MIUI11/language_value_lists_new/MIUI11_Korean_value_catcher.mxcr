@@ -4,6 +4,10 @@ all Bluetooth.apk strings.xml map_defaultnumber
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_js_dialog_title_default
 all Browser.apk strings.xml topic_content_default
+all Browser.apk strings.xml browser_default_setting_cancel
+all Browser.apk strings.xml browser_default_setting_confirm
+all Browser.apk strings.xml browser_default_setting_content
+all Browser.apk strings.xml browser_default_setting_title
 all Browser.apk strings.xml mw_color_picker_value
 all Browser.apk strings.xml pref_data_preload_value_always
 all Browser.apk strings.xml pref_data_preload_value_never

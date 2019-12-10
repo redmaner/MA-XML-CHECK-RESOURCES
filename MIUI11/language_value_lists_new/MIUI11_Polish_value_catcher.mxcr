@@ -66,6 +66,8 @@ all Mipay.apk strings.xml mipay_nfc_bank_card_name_default
 all Mipay.apk strings.xml mipay_nfc_shop_name_default
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRecycle.apk strings.xml default_error_msg
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value

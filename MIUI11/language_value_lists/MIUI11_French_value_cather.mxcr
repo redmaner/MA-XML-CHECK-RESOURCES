@@ -79,7 +79,6 @@ all framework-res.apk strings.xml default_audio_route_name_usb
 all framework-res.apk strings.xml default_notification_channel_label
 all framework-res.apk strings.xml etws_primary_default_message_earthquake
 all framework-res.apk strings.xml etws_primary_default_message_earthquake_and_tsunami
-all framework-res.apk strings.xml etws_primary_default_message_others
 all framework-res.apk strings.xml etws_primary_default_message_test
 all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
@@ -122,7 +121,6 @@ all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
-all MiuiSystemUI.apk arrays.xml data_type_name_mcc_mnc_value
 all MiuiSystemUI.apk arrays.xml tts_rate_values
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default
 all MiuiSystemUI.apk strings.xml default_lockscreen_unlock_hint_text
@@ -240,15 +238,11 @@ all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
 all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
-all Telecom.apk arrays.xml bluetooth_avrcp_version_values
 all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml change_default_dialer_dialog_negative
 all Telecom.apk strings.xml change_default_dialer_warning_message
 all Telecom.apk strings.xml connected_via_network_scorer_default
 all Telecom.apk strings.xml preference_summary_default_combination
-all TeleService.apk arrays.xml bluetooth_avrcp_version_values
-all TeleService.apk arrays.xml cdma_subscription_values
-all TeleService.apk arrays.xml list_language_values
 all TeleService.apk strings.xml connected_via_network_scorer_default
 all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password

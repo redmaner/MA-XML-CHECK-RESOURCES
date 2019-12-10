@@ -47,6 +47,8 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all HybridPlatform.apk strings.xml msg_default_status
 all MiRadio.apk arrays.xml sleep_duration_values
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
@@ -65,6 +67,7 @@ all MiuiHome.apk strings.xml default_folder_title_meitu
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk strings.xml default_lockscreen_unlock_hint_text
 all MiuiSystemUI.apk strings.xml default_theme
