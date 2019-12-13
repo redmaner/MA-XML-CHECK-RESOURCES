@@ -149,6 +149,12 @@ folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">Standard-SIM für Anrufe</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Benachrichtigungen</string>
@@ -659,15 +665,69 @@ folder="all" application="MiuiVideo.apk" xml="" name="alert_dialog_download_defa
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="notification_default_title"
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_default_music_text"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_title">Offline-Video</string>
+ <string name="gallery_video_default_music_text">Auto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item3_default_text">Emotionen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item4_default_text">Sonnenaufgang</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item5_default_text">Erinnerungen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item6_default_text">Vergnügen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Standardcover wiederherstellen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Standard</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="send_comment_default_txt"
+---------------------------------------------------------------------------------------
+ <string name="send_comment_default_txt">Kommentar eingeben</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="small_video_author_des_default"
+---------------------------------------------------------------------------------------
+ <string name="small_video_author_des_default">Immer daran glauben, dass etwas Wunderbares passieren wird.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="subtitle_padding_default_hint">Untertitel anpassen…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="v_defaultsearch_name"
+---------------------------------------------------------------------------------------
+ <string name="v_defaultsearch_name">Nach beliebten TV-Sendungen suchen</string>
 
 
 ---------------------------------------------------------------------------------------

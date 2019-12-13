@@ -497,6 +497,12 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">SIM mặc định cho cuộc gọi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CtRoamingSettings.apk" xml="" name="device_info_default"
 ---------------------------------------------------------------------------------------
  <string name="device_info_default">Không biết</string>
@@ -830,6 +836,18 @@ folder="all" application="MiRadio.apk" xml="" name="empty_view_default_text"
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Có gì đó sai sai!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Khôi phục mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Giá trị</string>
 
 
 ---------------------------------------------------------------------------------------

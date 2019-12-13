@@ -1693,6 +1693,8 @@ all MiLauncherGlobal.apk strings.xml setting_default_title
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml settings_revert_defaults_title
 all MiRecycle.apk strings.xml default_error_msg
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name

@@ -4,6 +4,10 @@ all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml defaultnumber
 all Bluetooth.apk strings.xml status_no_sd_card_default
 all Browser.apk strings.xml ad_btn_default_text
+all Browser.apk strings.xml browser_default_setting_cancel
+all Browser.apk strings.xml browser_default_setting_confirm
+all Browser.apk strings.xml browser_default_setting_content
+all Browser.apk strings.xml browser_default_setting_title
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
@@ -49,6 +53,8 @@ all Health.apk strings.xml preference_update_default_title
 all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default

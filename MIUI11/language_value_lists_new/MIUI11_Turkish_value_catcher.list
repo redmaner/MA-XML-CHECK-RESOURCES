@@ -227,6 +227,12 @@ folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">Çağrılar için varsayılan SIM</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Bildirimler</string>
@@ -500,6 +506,18 @@ folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 dakika</item> <item>30 dakika</item> <item>45 dakika</item> <item>1 saat</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Varsayılanları geri yükle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Değer</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -812,6 +830,60 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 folder="all" application="MiuiVideo.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
  <string name="alert_dialog_download_default_title">Uygulamasını aç</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_default_music_text">Otomatik</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item3_default_text">Duygular</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item4_default_text">Gündoğumu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item5_default_text">Hatıralar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="gallery_video_item6_default_text">Sevinç</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Varsayılan kapağı geri yükle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="send_comment_default_txt"
+---------------------------------------------------------------------------------------
+ <string name="send_comment_default_txt">Yorum yaz</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="small_video_author_des_default"
+---------------------------------------------------------------------------------------
+ <string name="small_video_author_des_default">Daima harika bir şeyin olacağına inan</string>
 
 
 ---------------------------------------------------------------------------------------

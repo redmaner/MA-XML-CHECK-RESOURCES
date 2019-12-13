@@ -60,7 +60,16 @@ all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
 all MiuiBugReport.apk strings.xml default_text_view
+all MiuiCamera.apk strings.xml pref_camera_recordlocation_default
 all MiuiCamera.apk strings.xml pref_hdr_value_default
+all MiuiCamera.apk strings.xml pref_live_volumekey_function_default
+all MiuiCamera.apk strings.xml pref_camera_iso_value_auto
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso100
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso1600
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso200
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso3200
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso400
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso800
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiCamera.apk strings.xml pref_hdr_value_default
@@ -188,6 +197,7 @@ all Settings.apk arrays.xml wifi_calling_mode_values_without_wifi_only
 all Settings.apk arrays.xml status_bar_settings_qs_layout_values
 all Settings.apk arrays.xml default_vol_stream_values
 all Settings.apk strings.xml accessibility_summary_default_combination
+all Settings.apk strings.xml accessibility_timeout_default
 all Settings.apk strings.xml app_default_dashboard_title
 all Settings.apk strings.xml auto_brightness_default_title
 all Settings.apk strings.xml auto_brightness_summary_default

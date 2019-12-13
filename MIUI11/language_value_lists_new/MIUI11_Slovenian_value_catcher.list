@@ -245,6 +245,12 @@ folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">Privzeta SIM kartica za klice</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Obvestila</string>
@@ -455,6 +461,18 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Vrni na privzeto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Vrednost</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiShare.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="default_device_name">Neznana naprava</string>
@@ -572,6 +590,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_titl
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Nastavi privzeti zaslon</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">izvršiti neznano opravilo</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -17,6 +17,18 @@ folder="all" application="Bluetooth.apk" xml="" name="map_defaultnumber"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">"SD카드에 \"%1$s\"에서 파일을 저장하기에 충분한 공간이 없습니다"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">SD 카드가 없습니다. 전송된 파일을 저장하려면 SD카드를 삽입하세요.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">잠시만 기다려 주십시오…</string>
@@ -233,9 +245,21 @@ folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">통화용 기본 SIM</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
+---------------------------------------------------------------------------------------
+ <string name="contacts_default_notification_channel">알림</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
- <string name="snooze_duration_value">반복 (분)</string>
+ <string name="snooze_duration_value">반복(분)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -523,7 +547,13 @@ folder="all" application="imssettings.apk" xml="" name="ims_band_settings_only_w
 ---------------------------------------------------------------------------------------
 folder="all" application="imssettings.apk" xml="" name="ims_band_settings_wide_preferred_value"
 ---------------------------------------------------------------------------------------
- <string name="ims_band_settings_wide_preferred_value">광대역 지원 우선</string> 
+ <string name="ims_band_settings_wide_preferred_value">광대역 지원 우선</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">기본값</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -536,6 +566,18 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">무언가 잘못되었습니다!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">기본값 복원</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">설정값</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1756,6 +1798,36 @@ folder="all" application="Telecom.apk" xml="" name="default_notification_descrip
 folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">네트워크 제공자를 통해 자동 연결됨</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">기본 설정</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">취소</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">기본 통화 차단 앱을 %s로 만드시겠습니까?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s는 연락처에 없는 발신자에 대한 정보를 볼 수 있으며 이러한 통화를 차단할 수 있습니다. 신뢰할 수 있는 앱만 기본 통화 차단 앱으로 설정해야합니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s는 더 이상 전화를 걸 수 없습니다.</string>
 
 
 ---------------------------------------------------------------------------------------

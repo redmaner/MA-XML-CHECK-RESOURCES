@@ -30,6 +30,7 @@ all Cit.apk strings.xml cit_audio_cali_valueF0
 all Cit.apk strings.xml cit_audio_cali_valueR
 all Cit.apk strings.xml cit_audio_cali_valueT
 all CloudService.apk strings.xml cloud_storage_default_title
+all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk strings.xml repeat_count_value_five
 all DeskClock.apk strings.xml repeat_count_value_one
@@ -95,6 +96,8 @@ all Health.apk strings.xml text_no_value
 all Health.apk strings.xml user_invalid_value
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiRecycle.apk strings.xml default_error_msg
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
