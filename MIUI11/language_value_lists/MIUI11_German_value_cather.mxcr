@@ -65,6 +65,7 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
+all MiGalleryLockscreen.apk strings.xml system_default
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
@@ -85,6 +86,7 @@ all MiuiGallery.apk strings.xml photomovie_audio_default
 all MiuiGallery.apk strings.xml photomovie_template_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
+all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview
@@ -270,9 +272,6 @@ all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml tether_limit_value_custom
-all Settings.apk strings.xml game_driver_app_preference_default
-all Settings.apk strings.xml keywords_app_default
-all Settings.apk strings.xml notification_channel_summary_default
 all SoundRecorder.apk strings.xml default_record_name
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value

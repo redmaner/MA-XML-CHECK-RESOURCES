@@ -389,63 +389,9 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_recordlocation_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_recordlocation_default">Нет</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_hdr_value_default">откл.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_live_volumekey_function_default"
----------------------------------------------------------------------------------------
- <string name="pref_live_volumekey_function_default">громкость</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_auto"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_auto">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso100"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso100">100</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso1600"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso1600">1600</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso200"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso200">200</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso3200"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso3200">3200</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso400"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso400">400</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso800"
----------------------------------------------------------------------------------------
- <string name="pref_camera_iso_value_iso800">800</string>
 
 
 ---------------------------------------------------------------------------------------
