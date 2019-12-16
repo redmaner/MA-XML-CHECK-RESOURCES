@@ -39,6 +39,7 @@ all CellBroadcastReceiver.apk strings.xml tts_default_rate_summary
 all CellBroadcastReceiver.apk strings.xml tts_default_rate_title
 all CellBroadcastReceiver.apk strings.xml tts_default_sample_string
 all CloudService.apk strings.xml cloud_storage_default_title
+all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk strings.xml snooze_duration_value
 all EasterEgg.apk strings.xml default_cat_name
@@ -74,6 +75,8 @@ all Health.apk strings.xml tips_default
 all Health.apk strings.xml text_no_value
 all Health.apk strings.xml user_invalid_value
 all MiRecycle.apk strings.xml default_error_msg
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml device_48m_watermark_default_text
@@ -94,6 +97,7 @@ all MiuiHome.apk strings.xml default_folder_title_meitu
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default
 all MiuiSystemUI.apk strings.xml default_lockscreen_unlock_hint_text

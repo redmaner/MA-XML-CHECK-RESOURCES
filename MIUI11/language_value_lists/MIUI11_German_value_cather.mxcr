@@ -23,6 +23,7 @@ all Cit.apk strings.xml cit_tool_modem_feature_config_default
 all Cit.apk strings.xml battery_value
 all Cit.apk strings.xml cit_tool_modem_test_device_value_set
 all CloudService.apk strings.xml cloud_storage_default_title
+all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk strings.xml snooze_duration_value
 all Email.apk strings.xml default_opening_attchemnt_mode
@@ -108,8 +109,17 @@ all MiuiSystemUI.apk strings.xml notification_header_default_channel
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_description
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_name
 all MiuiVideo.apk strings.xml alert_dialog_download_default_title
-all MiuiVideo.apk strings.xml notification_default_title
+all MiuiVideo.apk strings.xml gallery_video_default_music_text
+all MiuiVideo.apk strings.xml gallery_video_item3_default_text
+all MiuiVideo.apk strings.xml gallery_video_item4_default_text
+all MiuiVideo.apk strings.xml gallery_video_item5_default_text
+all MiuiVideo.apk strings.xml gallery_video_item6_default_text
+all MiuiVideo.apk strings.xml plus_poster_reset_default
+all MiuiVideo.apk strings.xml plus_sort_type_default
+all MiuiVideo.apk strings.xml send_comment_default_txt
+all MiuiVideo.apk strings.xml small_video_author_des_default
 all MiuiVideo.apk strings.xml subtitle_padding_default_hint
+all MiuiVideo.apk strings.xml v_defaultsearch_name
 all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name

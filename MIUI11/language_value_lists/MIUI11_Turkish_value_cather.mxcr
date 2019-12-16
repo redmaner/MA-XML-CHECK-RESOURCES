@@ -36,6 +36,7 @@ all Cit.apk strings.xml cit_tool_mbn_no_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_recovery_default
 all Cit.apk strings.xml battery_value
 all CloudService.apk strings.xml cloud_storage_default_title
+all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
 all DeskClock.apk strings.xml snooze_duration_value
 all Email.apk strings.xml default_exchange
@@ -82,6 +83,8 @@ all HybridPlatform.apk strings.xml msg_default_status
 all MiGalleryLockscreen.apk strings.xml local_default_category
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiRadio.apk arrays.xml sleep_duration_values
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
@@ -134,6 +137,15 @@ all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_description
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_name
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all MiuiVideo.apk strings.xml alert_dialog_download_default_title
+all MiuiVideo.apk strings.xml gallery_video_default_music_text
+all MiuiVideo.apk strings.xml gallery_video_item3_default_text
+all MiuiVideo.apk strings.xml gallery_video_item4_default_text
+all MiuiVideo.apk strings.xml gallery_video_item5_default_text
+all MiuiVideo.apk strings.xml gallery_video_item6_default_text
+all MiuiVideo.apk strings.xml plus_poster_reset_default
+all MiuiVideo.apk strings.xml plus_sort_type_default
+all MiuiVideo.apk strings.xml send_comment_default_txt
+all MiuiVideo.apk strings.xml small_video_author_des_default
 all MiuiVideo.apk strings.xml subtitle_padding_default_hint
 all MiuiVideo.apk strings.xml v_defaultsearch_name
 all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title

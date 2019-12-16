@@ -81,6 +81,7 @@ all CloudPrint2.apk strings.xml account_item_default
 all CloudService.apk strings.xml cloud_storage_default_title
 all ConferenceDialer.apk strings.xml default_notification_description
 all Contacts.apk strings.xml contacts_default_notification_channel
+all Contacts.apk strings.xml bind_simcard_default
 all CtRoamingSettings.apk strings.xml device_info_default
 all DeskClock.apk strings.xml snooze_duration_value
 all Email.apk strings.xml default_signature_2
@@ -137,6 +138,8 @@ all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
 all MiRecycle.apk strings.xml default_error_msg
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_default

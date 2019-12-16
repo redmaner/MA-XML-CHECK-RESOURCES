@@ -611,6 +611,24 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_google_lens_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Désactiver</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Film</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Image</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_manually_exposure_value_abbr">EV</string>
@@ -620,6 +638,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_expo
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Défaut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Appareil inconnu</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -752,6 +776,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version
 folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
 ---------------------------------------------------------------------------------------
  <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">Par défaut</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -913,19 +943,19 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_paddin
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_default_sending_method">Default sending method</string>
+ <string name="rcs_pref_default_sending_method">"Méthode d'envoi par défaut"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_picture_message_default_quality">Image compressing options</string>
+ <string name="rcs_pref_picture_message_default_quality">"Options de compression d'image"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_video_message_default_quality">Video compressing options</string>
+ <string name="rcs_pref_video_message_default_quality">Options de compression vidéo</string>
 
 
 ---------------------------------------------------------------------------------------
