@@ -461,6 +461,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_pro_video_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_pro_video_volumekey_function_default">Verschluss</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Standard</string>
@@ -1532,6 +1538,12 @@ folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_de
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
  <string name="importance_default">Standard</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Öffnen mit</string>
 
 
 ---------------------------------------------------------------------------------------

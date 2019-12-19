@@ -75,6 +75,7 @@ all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_tilt_shift_default
+all MiuiCamera.apk strings.xml pref_pro_video_volumekey_function_default
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
@@ -254,6 +255,7 @@ all Settings.apk strings.xml enterprise_privacy_enterprise_set_default_apps
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_summary
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_title
 all Settings.apk strings.xml importance_default
+all Settings.apk strings.xml keywords_app_default
 all Settings.apk strings.xml keywords_default_browser
 all Settings.apk strings.xml keywords_default_links
 all Settings.apk strings.xml keywords_default_payment_app
