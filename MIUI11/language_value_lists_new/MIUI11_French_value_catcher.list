@@ -523,7 +523,7 @@ folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
- <string name="improve_your_health_default_tips">Exercise and get enough sleep to stay healthy.</string>
+ <string name="improve_your_health_default_tips">"Faites de l'exercice et dormez suffisamment pour rester en bonne santé."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1334,6 +1334,12 @@ folder="all" application="Settings.apk" xml="" name="default_notification_assist
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
  <string name="default_rule_name">Minuteur 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">默认（推荐）</string>
 
 
 ---------------------------------------------------------------------------------------
