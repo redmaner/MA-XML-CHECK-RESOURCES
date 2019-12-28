@@ -13,11 +13,11 @@ all Calendar.apk arrays.xml prefValues_alerts_vibrateWhen
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
+all Calendar.apk strings.xml pref_default_popup_alert_value
 all Calendar.apk strings.xml preferences_alarms_default_event
-all CellBroadcastReceiver.apk arrays.xml alert_reminder_interval_values
-all CellBroadcastReceiver.apk arrays.xml alert_reminder_interval_active_values
-all CellBroadcastReceiver.apk strings.xml alert_reminder_interval_default_value
-all CellBroadcastReceiver.apk strings.xml alert_reminder_interval_default_value
+all Calendar.apk strings.xml work_day_default_banner_title
+all Calendar.apk strings.xml pref_default_popup_alert_value
+all Cit.apk strings.xml battery_value
 all Email.apk strings.xml default_signature_2
 all Email.apk strings.xml file_default_save_path_title
 all FileExplorer.apk strings.xml default_prize_text
