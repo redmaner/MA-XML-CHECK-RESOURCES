@@ -1717,6 +1717,12 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">기본(권장)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">사용자 지정</string>

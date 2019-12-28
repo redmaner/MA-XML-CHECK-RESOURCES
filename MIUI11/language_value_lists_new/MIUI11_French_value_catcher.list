@@ -1343,6 +1343,12 @@ folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">If you set a third party app as your default browser, it might start collecting your browsing history and other data. Set anyway?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
  <string name="default_theme">Par défaut</string>

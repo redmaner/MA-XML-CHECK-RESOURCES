@@ -89,33 +89,33 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_default_popup_alert_value">intel·ligent</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Seleccioneu esdeveniments</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_values"
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
- <string-array name="alert_reminder_interval_values"> <item>1</item> <item>2</item> <item>5</item> <item>15</item> <item>0</item> </string-array>
+ <string name="work_day_default_banner_title">Que tingueu un dia productiu a la feina!</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_active_values"
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
 ---------------------------------------------------------------------------------------
- <string-array name="alert_reminder_interval_active_values"> <item>1</item> <item>2</item> <item>15</item> <item>0</item> </string-array>
+ <string name="pref_default_popup_alert_value">intel·ligent</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_default_value"
+folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
- <string name="alert_reminder_interval_default_value">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_default_value"
----------------------------------------------------------------------------------------
- <string name="alert_reminder_interval_default_value">0</string>
+ <string name="battery_value">Electricitat</string>
 
 
 ---------------------------------------------------------------------------------------
