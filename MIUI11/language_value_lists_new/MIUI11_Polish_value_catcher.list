@@ -1427,6 +1427,12 @@ folder="all" application="Settings.apk" xml="" name="default_rule_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">Domyślny (zalecane)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
  <string name="default_theme">Domyślny</string>

@@ -53,6 +53,12 @@ folder="all" application="Browser.apk" xml="" name="topic_content_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="tt_web_title_default"
+---------------------------------------------------------------------------------------
+ <string name="tt_web_title_default">广告</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
  <string name="mw_color_picker_value">Value</string>
@@ -584,12 +590,6 @@ folder="all" application="MiRadio.apk" xml="" name="empty_view_default_text"
 folder="all" application="MiSettings.apk" xml="" name="restore_default"
 ---------------------------------------------------------------------------------------
  <string name="restore_default">Réinitialiser</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">Affichage</string>
 
 
 ---------------------------------------------------------------------------------------
