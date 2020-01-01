@@ -3222,6 +3222,12 @@ folder="all" application="VoiceAssist.apk" xml="" name="resource_comment_name_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="news_load_more_default"
+---------------------------------------------------------------------------------------
+ <string name="news_load_more_default">Оновлення</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Weather.apk" xml="" name="information_manager_default_weather_bg"
 ---------------------------------------------------------------------------------------
  <string name="information_manager_default_weather_bg">Типове тло погоди</string>

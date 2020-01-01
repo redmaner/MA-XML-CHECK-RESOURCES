@@ -1446,6 +1446,12 @@ folder="all" application="Settings.apk" xml="" name="default_rule_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">Zadano (preporučeno)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
  <string name="default_theme">Zadano</string>
