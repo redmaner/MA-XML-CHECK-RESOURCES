@@ -63,7 +63,19 @@ all MiRadio.apk strings.xml empty_view_default_text
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiBugReport.apk strings.xml default_text_view
+all MiuiCamera.apk strings.xml pref_camera_autoexposure_default
+all MiuiCamera.apk strings.xml pref_camera_coloreffect_default
+all MiuiCamera.apk strings.xml pref_camera_recordlocation_default
 all MiuiCamera.apk strings.xml pref_hdr_value_default
+all MiuiCamera.apk strings.xml pref_live_volumekey_function_default
+all MiuiCamera.apk strings.xml pref_video_volumekey_function_default
+all MiuiCamera.apk strings.xml pref_camera_iso_value_auto
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso100
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso1600
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso200
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso3200
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso400
+all MiuiCamera.apk strings.xml pref_camera_iso_value_iso800
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiCamera.apk strings.xml pref_hdr_value_default
@@ -208,6 +220,7 @@ all Settings.apk strings.xml default_launcher_title
 all Settings.apk strings.xml default_map_app_title
 all Settings.apk strings.xml default_notification_assistant
 all Settings.apk strings.xml default_rule_name
+all Settings.apk strings.xml default_suppression_title
 all Settings.apk strings.xml default_theme
 all Settings.apk strings.xml default_vol_stream_title
 all Settings.apk strings.xml enterprise_privacy_enterprise_set_default_apps
