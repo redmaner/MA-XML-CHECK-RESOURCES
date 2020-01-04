@@ -72,6 +72,7 @@ all Cit.apk strings.xml cit_audio_cali_valueT
 all Cit.apk strings.xml cit_audio_spk_cal_valueF0
 all Cit.apk strings.xml cit_audio_spk_cal_valueRe
 all Cit.apk strings.xml cit_audio_spk_cal_valueT
+all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
 all Contacts.apk strings.xml resource_alarm_default
 all Contacts.apk strings.xml resource_comment_edit_text_default
@@ -245,6 +246,8 @@ all Mipay.apk strings.xml mipay_bill_rmb_usd_value
 all Mipay.apk strings.xml mipay_order_denom_value
 all Mipay.apk strings.xml mipay_order_discount_value
 all Mipay.apk strings.xml mipay_order_denom_value_with_discount
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiShop.apk strings.xml category_default_name
 all MiShop.apk strings.xml msg_default_status
 all MiShop.apk strings.xml phone_number_default
@@ -253,6 +256,7 @@ all MiShop.apk strings.xml filter_default
 all MiShop.apk strings.xml recharge_value_text
 all MiuiCamera.apk strings.xml pref_camera_tilt_shift_default
 all MiuiCamera.apk strings.xml pref_video_encoder_default
+all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiFramework.apk arrays.xml screen_key_long_press_default_action
@@ -271,6 +275,8 @@ all MiuiGallery.apk strings.xml set_bg_picker_default_title
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiGallery.apk strings.xml default_device_name
+all MiuiHome.apk strings.xml all_app_category_default
+all MiuiHome.apk strings.xml default_folder_title_other_apps
 all MiuiHome.apk strings.xml default_folder_title_meitu
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
