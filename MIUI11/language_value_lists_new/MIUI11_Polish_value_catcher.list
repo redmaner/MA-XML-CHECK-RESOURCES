@@ -1007,6 +1007,12 @@ folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Nigdy</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
  <string name="todo_audio_default_content">"[Zadanie głosowe] "</string>

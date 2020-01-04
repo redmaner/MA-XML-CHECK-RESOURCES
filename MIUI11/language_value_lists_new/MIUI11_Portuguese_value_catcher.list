@@ -557,6 +557,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_paddin
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Nunca</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
  <string name="todo_audio_default_content">"[Voice task] "</string>

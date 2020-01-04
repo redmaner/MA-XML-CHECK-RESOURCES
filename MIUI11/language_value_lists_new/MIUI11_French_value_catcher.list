@@ -83,6 +83,24 @@ folder="all" application="Browser.apk" xml="" name="pref_video_preload_value_wif
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cabl_level_values"> <item>Faible</item> <item>Moyen</item> <item>Haut</item> <item>Auto</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_info_default"
+---------------------------------------------------------------------------------------
+ <string name="cabl_info_default">Inconnue</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_default"
+---------------------------------------------------------------------------------------
+ <string name="cabl_level_default">Auto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minutes</item> <item>10 minutes</item> <item>15 minutes</item> <item>30 minutes</item> <item>1 heure</item> </string-array>
@@ -1339,7 +1357,7 @@ folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 ---------------------------------------------------------------------------------------
- <string name="default_suppression_title">Default (Recommended)</string>
+ <string name="default_suppression_title">Par défaut (recommandé)</string>
 
 
 ---------------------------------------------------------------------------------------

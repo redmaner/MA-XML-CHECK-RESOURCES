@@ -12,6 +12,9 @@ all Browser.apk strings.xml mw_color_picker_value
 all Browser.apk strings.xml pref_video_preload_value_always
 all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
+all CABLService.apk arrays.xml cabl_level_values
+all CABLService.apk strings.xml cabl_info_default
+all CABLService.apk strings.xml cabl_level_default
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml prefValues_alerts_popup
 all Calendar.apk arrays.xml prefValues_alerts_popup

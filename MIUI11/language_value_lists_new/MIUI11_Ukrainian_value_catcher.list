@@ -443,6 +443,12 @@ folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueT"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">SIM-карта за замовчуванням для викликів</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Повідомлення</string>
@@ -1481,6 +1487,18 @@ folder="all" application="Mipay.apk" xml="" name="mipay_order_denom_value_with_d
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Відновити за замовчуванням</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Значення</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiShop.apk" xml="" name="category_default_name"
 ---------------------------------------------------------------------------------------
  <string name="category_default_name">分类</string>
@@ -1526,6 +1544,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_de
 folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_video_encoder_default">h264</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value_abbr">Експозиція</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1634,6 +1658,18 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="default_device_name">Невідомий пристрій</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">Категорія</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">Iнші</string>
 
 
 ---------------------------------------------------------------------------------------

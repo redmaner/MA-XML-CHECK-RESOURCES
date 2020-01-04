@@ -11087,6 +11087,12 @@ folder="all" application="Music.apk" xml="" name="com_facebook_tooltip_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Nikdy</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
  <string name="default_list_type">Triediť podľa času prijatia</string>

@@ -1775,6 +1775,12 @@ folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Không bao giờ</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
  <string name="default_list_type">Sắp xếp theo thời gian nhận</string>

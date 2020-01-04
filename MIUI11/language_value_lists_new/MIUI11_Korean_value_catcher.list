@@ -1121,6 +1121,12 @@ folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">사용 안함</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
  <string name="default_list_type">설치된 순서로 정렬</string>

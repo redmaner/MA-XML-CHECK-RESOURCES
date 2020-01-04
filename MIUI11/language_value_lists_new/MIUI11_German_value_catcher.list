@@ -59,6 +59,24 @@ folder="all" application="BugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="default_separator_text">Von</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_text"
+---------------------------------------------------------------------------------------
+ <string name="default_text">Ich</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="relationship_default_separator_text">von</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_0"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_currency_0">EUR</string>
@@ -254,6 +272,12 @@ folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_rate_title
 folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">Dies ist ein Beispiel für Sprachsynthese</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FashionGallery.apk" xml="" name="glance_language_default"
+---------------------------------------------------------------------------------------
+ <string name="glance_language_default">Standard</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -566,6 +590,12 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">Meitu Apps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">Andere Apps</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1076,6 +1106,12 @@ folder="all" application="Music.apk" xml="" name="signup_type_user_default"
 folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 ---------------------------------------------------------------------------------------
  <string name="default_pay_app_removed">Ihr bevorzugter Service für Tippen &amp; Zahlen wurde entfernt. Einen anderen wählen?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Niemals</string>
 
 
 ---------------------------------------------------------------------------------------
