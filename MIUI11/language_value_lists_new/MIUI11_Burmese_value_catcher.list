@@ -161,6 +161,18 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
+---------------------------------------------------------------------------------------
+ <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
 ---------------------------------------------------------------------------------------
  <string name="repeat_count_value_five">၅</string>
@@ -236,6 +248,12 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twen
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value_twenty_five">၂၅</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">မူရင်းအက်ပ်များကိုသုံး၍ ပူးတွဲဖိုင်ကို ဖွင့်မည်</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -413,6 +431,12 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>၁၅ မိနစ်</item> <item>မိနစ် ၃၀</item> <item>၄၅ မိနစ်</item> <item>၁ နာရီ</item> </string-array>
@@ -485,6 +509,18 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cell_layout_size_values"> <item>၄x၄</item> <item>၄x၅</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">အမျိုးအစားအုပ်စု</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">မျက်နှာပြင် %1$d အား မူလ ပင်မ မျက်နှာပြင်အဖြစ် သတ်မှတ်မည်</string>
@@ -503,6 +539,12 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">Meitu အက်ပ်</string>
@@ -515,15 +557,33 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_micros
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">အခြားအက်ပ်များ</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_services"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_services">ဝန်ဆောင်မှုများ</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
  <string name="default_screen_preview_title">မူလမျက်နှာပြင် သတ်မှတ်မည်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
+---------------------------------------------------------------------------------------
+ <string name="default_shortcut_title_10086">10086.cn</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -536,6 +596,12 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">မူလ သတ်မှတ်ချက်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
+---------------------------------------------------------------------------------------
+ <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -788,6 +854,12 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">၀၀:၀၀</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Never</string>
 
 
 ---------------------------------------------------------------------------------------

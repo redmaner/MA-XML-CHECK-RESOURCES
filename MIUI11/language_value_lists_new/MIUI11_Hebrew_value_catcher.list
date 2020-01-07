@@ -5,6 +5,12 @@ folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
+---------------------------------------------------------------------------------------
+ <string name="defaultnumber">000000</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 ---------------------------------------------------------------------------------------
  <string name="status_no_sd_card_default">‏אין כרטיס SD. יש להכניס כרטיס SD כדי לשמור קבצים שהועברו.</string>
@@ -149,9 +155,99 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
+---------------------------------------------------------------------------------------
+ <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_five">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_one"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_one">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_ten"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_ten">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_three"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_three">3</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_two"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_two">2</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">מרווח הזמן (דקות)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_fifteen"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_fifteen">15</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_five"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_five">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_one"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_one">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_ten"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_ten">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_thirty"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_thirty">30</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_twenty">20</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_twenty_five">25</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">פתח קבצים מצורפים בשימוש ביישומי ברירת מחדל</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -311,6 +407,12 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="InCallUI.apk" xml="" name="clir_display_values"
 ---------------------------------------------------------------------------------------
  <string-array name="clir_display_values"> <item>רשת ברירת מחדל</item> <item>הסתר מספר</item> <item>הצג מספר</item> </string-array>
@@ -401,6 +503,18 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">קטגוריה</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">"הגדר את מסך %1$d כברירת המחדל עבור 'מסך הבית'"</string>
@@ -419,9 +533,27 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">יישומי Meitu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_microsoft">Microsoft</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">אפליקציות אחרות</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -431,9 +563,21 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_servic
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
  <string name="default_screen_preview_title">הגדרת מסך ברירת מחדל</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
+---------------------------------------------------------------------------------------
+ <string name="default_shortcut_title_10086">10086.cn</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -446,6 +590,12 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">תכונה ברירת מחדל</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
+---------------------------------------------------------------------------------------
+ <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -698,6 +848,18 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 ---------------------------------------------------------------------------------------
  <string-array name="switch_sdk_value"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
+---------------------------------------------------------------------------------------
+ <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Never</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -137,6 +137,12 @@ folder="all" application="Browser.apk" xml="" name="browser_default_setting_titl
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="tt_web_title_default"
+---------------------------------------------------------------------------------------
+ <string name="tt_web_title_default">Quảng cáo</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="color_picker_value"
 ---------------------------------------------------------------------------------------
  <string name="color_picker_value">Giá trị</string>

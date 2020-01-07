@@ -5,6 +5,12 @@ folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
+---------------------------------------------------------------------------------------
+ <string name="defaultnumber">000000</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 ---------------------------------------------------------------------------------------
  <string name="status_no_sd_card_default">‏لا تتوفّر بطاقة SD. يمكنك إدخال بطاقة SD لحفظ الملفات المنقولة.</string>
@@ -53,9 +59,27 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Cloud storage</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">الإشعارات</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
+---------------------------------------------------------------------------------------
+ <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -134,6 +158,12 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twen
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value_twenty_five">٢٥</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">افتح المرفقات باستخدام التطبيقات الافتراضية</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -287,6 +317,12 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>١٥ دقيقة</item> <item>٣٠ دقيقة</item> <item>٤٥ دقيقة</item> <item>١ ساعة</item> </string-array>
@@ -296,6 +332,12 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"دائماً اعتقد ان شيئاً رائعا على وشك الحدوث"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
+---------------------------------------------------------------------------------------
+ <string name="default_text_view">TextView</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -359,6 +401,12 @@ folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
+---------------------------------------------------------------------------------------
+ <string name="all_app_category_default">الفئة</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">تعيين الصفحة %1$d كالصفحة الرئيسية الإفتراضية</string>
@@ -395,6 +443,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_micros
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">تطبيقات أخرى</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_services"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_services">خدمات</string>
@@ -428,6 +482,12 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">الميزة الافتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
+---------------------------------------------------------------------------------------
+ <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -623,6 +683,12 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Never</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
  <string name="todo_audio_default_content">"[مهمة صوتية] "</string>
@@ -638,24 +704,6 @@ folder="all" application="NotificationCenter.apk" xml="" name="default_list_type
 folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
 ---------------------------------------------------------------------------------------
  <string name="default_pay_app_removed">تمت إزالة خدمتك المفضلة للتوصيل والدفع. هل تريد اختيار خدمة أخرى؟</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="setting_uber_default_way"
----------------------------------------------------------------------------------------
- <string name="setting_uber_default_way">الافتراضي</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
----------------------------------------------------------------------------------------
- <string name="upgrade_log_default">"١. تحسين الأداء. ٢. إصلاح المشاكل."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="current_optimization_value"
----------------------------------------------------------------------------------------
- <string name="current_optimization_value">المخاطر تقلل من أمن جهازك</string>
 
 
 ---------------------------------------------------------------------------------------

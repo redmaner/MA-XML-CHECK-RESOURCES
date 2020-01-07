@@ -443,12 +443,6 @@ folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueT"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
----------------------------------------------------------------------------------------
- <string name="bind_simcard_default">SIM-карта за замовчуванням для викликів</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Повідомлення</string>
@@ -494,6 +488,12 @@ folder="all" application="Contacts.apk" xml="" name="resource_notification_defau
 folder="all" application="Contacts.apk" xml="" name="resource_ringtone_default"
 ---------------------------------------------------------------------------------------
  <string name="resource_ringtone_default">Мелодії</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">SIM-карта за замовчуванням для викликів</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1499,6 +1499,12 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Xiaomi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiShop.apk" xml="" name="category_default_name"
 ---------------------------------------------------------------------------------------
  <string name="category_default_name">分类</string>
@@ -1667,18 +1673,6 @@ folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_other_apps">Iнші</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_meitu">Meitu</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">Екран %1$d призначено домашнім</string>
@@ -1703,9 +1697,21 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">Meitu</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_microsoft">Microsoft</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">Iнші</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2225,6 +2231,12 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Ніколи</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
  <string name="default_list_type">Сортувати за часом</string>
@@ -2724,57 +2736,15 @@ folder="all" application="Settings.apk" xml="" name="vip_mode_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="usb_default_info"
+folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
 ---------------------------------------------------------------------------------------
- <string name="usb_default_info">"Ці налаштування будуть застосовуватися, коли Ваш телефон розблоковано і до нього приєднано інший пристрій. Встановлюйте з'єднання тільки з надійними пристроями"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="usb_default_label"
----------------------------------------------------------------------------------------
- <string name="usb_default_label">"Конфігурація USB за замовчуванням"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
----------------------------------------------------------------------------------------
- <string name="keywords_default_browser">"стандартно, стандартний браузер"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_links"
----------------------------------------------------------------------------------------
- <string name="keywords_default_links">"стандартно"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
----------------------------------------------------------------------------------------
- <string name="keywords_default_payment_app">"оплата, стандартно"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
----------------------------------------------------------------------------------------
- <string name="media_output_default_summary">"Цей пристрій"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
----------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">"Висока важливість"</string>
+ <string name="accessibility_summary_default_combination">%1$s: %2$s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
 ---------------------------------------------------------------------------------------
  <string name="account_dashboard_default_summary">"Акаунтів немає"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="accessibility_summary_default_combination">%1$s: %2$s</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2868,6 +2838,12 @@ folder="all" application="Settings.apk" xml="" name="default_rule_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">За замовчуванням (рекомендується)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
  <string name="default_theme">"За замовчуванням"</string>
@@ -2898,6 +2874,36 @@ folder="all" application="Settings.apk" xml="" name="importance_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">"стандартно, стандартний браузер"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">"стандартно"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">"оплата, стандартно"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="media_output_default_summary">"Цей пристрій"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">Якщо ви встановите сторонній браузер за замовчуванням, він зможе збирати історію переглядів та інші дані. Продовжити?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="mtp_default_title"
 ---------------------------------------------------------------------------------------
  <string name="mtp_default_title">Режим USB за замовчуванням</string>
@@ -2907,6 +2913,12 @@ folder="all" application="Settings.apk" xml="" name="mtp_default_title"
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
  <string name="notifi_importance_default">Відтворювати звуки і показувати на екрані блокування</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">"Висока важливість"</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2934,15 +2946,21 @@ folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">"Ці налаштування будуть застосовуватися, коли Ваш телефон розблоковано і до нього приєднано інший пристрій. Встановлюйте з'єднання тільки з надійними пристроями"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">"Конфігурація USB за замовчуванням"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="wallpaper_settings_summary_default">"За замовчуванням"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
----------------------------------------------------------------------------------------
- <string name="modify_default_browser_message">Якщо ви встановите сторонній браузер за замовчуванням, він зможе збирати історію переглядів та інші дані. Продовжити?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3128,7 +3146,7 @@ folder="all" application="TeleService.apk" xml="" name="preferred_network_mode_v
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Автоматично під\'єднано через постачальника оцінки якості мережі</string>
+ <string name="connected_via_network_scorer_default">"Автоматично під\'єднано через постачальника оцінки якості мережі"</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3147,6 +3165,12 @@ folder="all" application="TeleService.apk" xml="" name="default_preference_summa
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
 ---------------------------------------------------------------------------------------
  <string name="default_preference_summary_username">&lt;Не задано></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">За замовчуванням (рекомендується)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3258,12 +3282,6 @@ folder="all" application="VoiceAssist.apk" xml="" name="resource_comment_name_de
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Weather.apk" xml="" name="news_load_more_default"
----------------------------------------------------------------------------------------
- <string name="news_load_more_default">Оновлення</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Weather.apk" xml="" name="information_manager_default_weather_bg"
 ---------------------------------------------------------------------------------------
  <string name="information_manager_default_weather_bg">Типове тло погоди</string>
@@ -3315,6 +3333,12 @@ folder="all" application="Weather.apk" xml="" name="resource_notification_defaul
 folder="all" application="Weather.apk" xml="" name="resource_ringtone_default"
 ---------------------------------------------------------------------------------------
  <string name="resource_ringtone_default">Мелодії</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="news_load_more_default"
+---------------------------------------------------------------------------------------
+ <string name="news_load_more_default">Оновлення</string>
 
 
 ---------------------------------------------------------------------------------------

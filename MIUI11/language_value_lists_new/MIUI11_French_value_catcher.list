@@ -95,6 +95,12 @@ folder="all" application="CABLService.apk" xml="" name="cabl_info_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_default"
+---------------------------------------------------------------------------------------
+ <string name="cabl_level_default">Auto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minutes</item> <item>10 minutes</item> <item>15 minutes</item> <item>30 minutes</item> <item>1 heure</item> </string-array>
@@ -968,6 +974,12 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default
 folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
 ---------------------------------------------------------------------------------------
  <string name="rcs_pref_video_message_default_quality">Options de compression vidéo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Jamais</string>
 
 
 ---------------------------------------------------------------------------------------
