@@ -102,6 +102,9 @@ all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
+all MiuiCamera.apk strings.xml pref_camera_coloreffect_default
+all MiuiCamera.apk strings.xml pref_camera_long_press_shutter_feature_default
+all MiuiCamera.apk strings.xml pref_camera_volumekey_function_default
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
@@ -241,6 +244,7 @@ all Settings.apk strings.xml default_launcher_title
 all Settings.apk strings.xml default_map_app_title
 all Settings.apk strings.xml default_notification_assistant
 all Settings.apk strings.xml default_rule_name
+all Settings.apk strings.xml default_suppression_title
 all Settings.apk strings.xml default_theme
 all Settings.apk strings.xml default_vol_stream_title
 all Settings.apk strings.xml enterprise_privacy_enterprise_set_default_apps
