@@ -4,8 +4,6 @@ all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_js_dialog_title_default
 all Browser.apk strings.xml topic_content_default
 all Browser.apk strings.xml mw_color_picker_value
-all Calculator.apk strings.xml default_separator_text
-all Calculator.apk strings.xml default_text
 all Calculator.apk strings.xml relationship_default_separator_text
 all Calculator.apk strings.xml relationship_default_text
 all Calendar.apk arrays.xml default_reminder_later_time_labels
@@ -45,6 +43,8 @@ all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
 all framework-res.apk strings.xml wifi_localhotspot_configure_ssid_default
 all framework-res.apk strings.xml zen_mode_default_every_night_name
+all MiSettings.apk strings.xml restore_default
+all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
@@ -85,9 +85,9 @@ all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
+all MiuiVideoGlobal.apk strings.xml plus_poster_reset_default
+all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
-all MiuiVideoLeo.apk strings.xml defaults
-all MiuiVideoLeo.apk strings.xml notification_default_title
 all NfcNci.apk strings.xml default_pay_app_removed
 all Notes.apk strings.xml audio_panel_time_counter_default
 all Notes.apk strings.xml todo_audio_default_content
@@ -164,10 +164,12 @@ all Settings.apk strings.xml importance_default
 all Settings.apk strings.xml keywords_app_default
 all Settings.apk strings.xml media_output_default_summary
 all Settings.apk strings.xml notifi_importance_default
+all Settings.apk strings.xml notification_channel_summary_default
 all Settings.apk strings.xml notification_importance_default_title
 all Settings.apk strings.xml notification_sound_default
 all Settings.apk strings.xml overlay_option_device_default
 all Settings.apk strings.xml reset_default_apn_failed
+all Settings.apk strings.xml slider_vocie_online_default
 all Settings.apk strings.xml theme_customization_device_default
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default

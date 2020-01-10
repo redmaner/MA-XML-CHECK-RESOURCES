@@ -623,6 +623,24 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_coloreffect_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_coloreffect_default">niciunul</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_press_shutter_feature_default">rafală</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_default">temporizator</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_video_encoder_default">h264</string>
@@ -1097,6 +1115,12 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Niciodată</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
  <string name="todo_audio_default_content">"[Sarcină vocală] "</string>
@@ -1327,7 +1351,7 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setti
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="data_network_type_name_default"
 ---------------------------------------------------------------------------------------
- <string-array name="data_network_type_name_default"> <item>4G</item> <item>4G+</item> </string-array>
+ <string-array name="data_network_type_name_default"> <item>4G</item> <item>4G+</item> <item>5G</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

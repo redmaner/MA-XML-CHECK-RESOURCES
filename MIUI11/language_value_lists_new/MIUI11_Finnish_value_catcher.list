@@ -35,18 +35,6 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="default_separator_text"
----------------------------------------------------------------------------------------
- <string name="default_separator_text">的</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="default_text"
----------------------------------------------------------------------------------------
- <string name="default_text">我</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
 ---------------------------------------------------------------------------------------
  <string name="relationship_default_separator_text">的</string>
@@ -278,6 +266,18 @@ folder="all" application="framework-res.apk" xml="" name="wifi_localhotspot_conf
 folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
 ---------------------------------------------------------------------------------------
  <string name="zen_mode_default_every_night_name">Nukkuminen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Palauta oletukset</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Arvo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -521,21 +521,21 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_n
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Palauta oletuskansi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Oletus</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="t_lv_subtitle_padding_default_hint">Säädetään tekstitykisä…</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
----------------------------------------------------------------------------------------
- <string name="defaults">Oletus</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_title"
----------------------------------------------------------------------------------------
- <string name="notification_default_title">Offline video</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -925,7 +925,7 @@ folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Ilmoitusapuri</string>
+ <string name="default_notification_assistant">Mukautuvat ilmoitukset</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -995,6 +995,12 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Kiinnittää huomion äänellä tai värinällä</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_importance_default_title">Korkea</string>
@@ -1016,6 +1022,12 @@ folder="all" application="Settings.apk" xml="" name="overlay_option_device_defau
 folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
  <string name="reset_default_apn_failed">Oletus apn:n palauttaminen epäonnistui</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Ei mitään</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -53,12 +53,6 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="BugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">TextView</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="lg_mathematical_value"
 ---------------------------------------------------------------------------------------
  <string name="lg_mathematical_value">log</string>
@@ -140,6 +134,12 @@ folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_va
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
  <string name="battery_value">Electricitat</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Emmagatzematge al núvol</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -317,24 +317,6 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="default_text"
----------------------------------------------------------------------------------------
- <string name="default_text">Per defecte</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="language_default"
----------------------------------------------------------------------------------------
- <string name="language_default">Idioma per defecte</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiVideo.apk" xml="" name="toast_screen_text_default"
----------------------------------------------------------------------------------------
- <string name="toast_screen_text_default">Mida per defecte</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_vibrateWhen"> <item>always</item> <item>en silenci</item> <item>mai</item> </string-array>
@@ -344,18 +326,6 @@ folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_vibrateWhen"> <item>always</item> <item>en silenci</item> <item>mai</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">S\'han establert alguns predeterminats</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -836,17 +806,5 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">"Teniu el control - tria quina informació vols compartir amb les aplicacions."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
----------------------------------------------------------------------------------------
- <string name="feedback_desc_default">"Alguns botons no funcionen"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
----------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">Cerca ubicacions</string>
 
 
