@@ -14,6 +14,7 @@ all Browser.apk strings.xml pref_video_preload_value_never
 all Browser.apk strings.xml pref_video_preload_value_wifi_only
 all CABLService.apk arrays.xml cabl_level_values
 all CABLService.apk strings.xml cabl_info_default
+all CABLService.apk strings.xml cabl_level_default
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml prefValues_alerts_popup
 all Calendar.apk arrays.xml prefValues_alerts_popup
@@ -77,6 +78,8 @@ all Email.apk strings.xml recognize_hotel_user_names_value
 all FindDevice.apk strings.xml default_debt_msg_words
 all framework-ext-res.apk strings.xml default_device_name
 all framework-ext-res.apk strings.xml subinfo_default_name
+all framework-res.apk strings.xml biometric_dialog_default_title
+all framework-res.apk strings.xml wifi_localhotspot_configure_ssid_default
 all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml default_audio_route_name_hdmi
 all framework-res.apk strings.xml default_audio_route_name_usb
@@ -99,6 +102,7 @@ all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
 all MiSettings.apk strings.xml restore_default
+all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml pref_google_lens_default
@@ -115,6 +119,7 @@ all MiuiGallery.apk strings.xml photo_editor_font_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiHome.apk arrays.xml fast_scroller_style_values
+all MiuiHome.apk strings.xml default_folder_title_other_apps
 all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
