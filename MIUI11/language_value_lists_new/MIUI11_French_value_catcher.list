@@ -95,6 +95,12 @@ folder="all" application="CABLService.apk" xml="" name="cabl_info_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_default"
+---------------------------------------------------------------------------------------
+ <string name="cabl_level_default">Auto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minutes</item> <item>10 minutes</item> <item>15 minutes</item> <item>30 minutes</item> <item>1 heure</item> </string-array>
@@ -473,6 +479,18 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">"Vérifiez que c'est bien vous"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="wifi_localhotspot_configure_ssid_default"
+---------------------------------------------------------------------------------------
+ <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">"L'application %1$s n'est pas disponible pour le moment. Cette suspension est gérée par l'application %2$s."</string>
@@ -605,6 +623,12 @@ folder="all" application="MiSettings.apk" xml="" name="restore_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
+---------------------------------------------------------------------------------------
+ <string name="signature_default_content">"Toujours croire que quelque chose de merveilleux est sur le point d'arriver"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_ultra_pixel_watermark_default_text">DOUBLE APPAREIL PHOTO 48MP</string>
@@ -698,6 +722,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 folder="all" application="MiuiHome.apk" xml="" name="fast_scroller_style_values"
 ---------------------------------------------------------------------------------------
  <string-array name="fast_scroller_style_values"> <item>default</item> <item>letter</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">Autres applications</string>
 
 
 ---------------------------------------------------------------------------------------

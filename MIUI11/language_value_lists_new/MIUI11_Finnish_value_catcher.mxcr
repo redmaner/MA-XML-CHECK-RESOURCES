@@ -12,8 +12,6 @@ all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml work_day_default_banner_title
-all CellBroadcastReceiver.apk strings.xml alert_reminder_interval_default_value
-all CellBroadcastReceiver.apk strings.xml alert_reminder_interval_default_value
 all Cit.apk strings.xml cit_tool_mbn_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_no_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_recovery_default
@@ -49,6 +47,7 @@ all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
+all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_relation_name
 all MiuiGallery.apk strings.xml mark_myself_default_name
@@ -88,6 +87,9 @@ all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
 all MiuiVideoGlobal.apk strings.xml plus_poster_reset_default
 all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
+all Mms.apk strings.xml rcs_pref_default_sending_method
+all Mms.apk strings.xml rcs_pref_picture_message_default_quality
+all Mms.apk strings.xml rcs_pref_video_message_default_quality
 all NfcNci.apk strings.xml default_pay_app_removed
 all Notes.apk strings.xml audio_panel_time_counter_default
 all Notes.apk strings.xml todo_audio_default_content
@@ -136,6 +138,7 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_tit
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk strings.xml modify_default_browser_message
 all Settings.apk strings.xml accessibility_timeout_default
 all Settings.apk strings.xml app_default_dashboard_title
 all Settings.apk strings.xml auto_brightness_default_title
