@@ -99,6 +99,8 @@ all MiuiHome.apk strings.xml default_folder_title_other_apps
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default

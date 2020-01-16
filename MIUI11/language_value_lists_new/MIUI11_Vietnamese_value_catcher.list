@@ -1097,6 +1097,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Bật</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Tắt</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">Thực hiện hành động chưa biết</string>

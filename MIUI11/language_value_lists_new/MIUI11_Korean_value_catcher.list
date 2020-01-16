@@ -743,6 +743,18 @@ folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">꺼짐</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">켜짐</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_focusmode_default">연속 사진</string>

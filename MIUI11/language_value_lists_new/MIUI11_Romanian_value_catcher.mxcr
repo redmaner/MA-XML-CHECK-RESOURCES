@@ -102,6 +102,9 @@ all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
+all MiuiCamera.apk strings.xml pref_camera_coloreffect_default
+all MiuiCamera.apk strings.xml pref_camera_long_press_shutter_feature_default
+all MiuiCamera.apk strings.xml pref_camera_volumekey_function_default
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
@@ -130,6 +133,8 @@ all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_folder_title_turkcell_uygulamalar
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml connected_via_network_scorer_default
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiPackageInstaller.apk strings.xml launch_defaults_none

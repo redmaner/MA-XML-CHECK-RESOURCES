@@ -95,6 +95,12 @@ folder="all" application="CABLService.apk" xml="" name="cabl_info_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_default"
+---------------------------------------------------------------------------------------
+ <string name="cabl_level_default">Auto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minutes</item> <item>10 minutes</item> <item>15 minutes</item> <item>30 minutes</item> <item>1 heure</item> </string-array>
@@ -205,7 +211,7 @@ folder="all" application="CellBroadcastReceiver.apk" xml="" name="usb_configurat
 ---------------------------------------------------------------------------------------
 folder="all" application="CellBroadcastReceiver.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+ <string name="connected_via_network_scorer_default">Connecté automatiquement via le fournisseur de notation réseau</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1123,13 +1129,13 @@ folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_valu
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">"r r Vous devez accepter la politique de confidentialité de Facemoji avant d'utiliser cette fonctionnalité."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Vous devez accepter la politique de confidentialité de Facemoji avant d'utiliser cette fonctionnalité."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">"r r Vous devez accepter la politique de confidentialité de Kika avant d'utiliser cette fonctionnalité."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">" Vous devez accepter la politique de confidentialité de Kika avant d'utiliser cette fonctionnalité."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1598,12 +1604,6 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
  <string name="msim_select_default_time_left">(%d s)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s/%2$s</string>
 
 
 ---------------------------------------------------------------------------------------

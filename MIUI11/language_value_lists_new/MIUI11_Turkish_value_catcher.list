@@ -533,18 +533,6 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
----------------------------------------------------------------------------------------
- <string name="device_ultra_pixel_watermark_default_text">48MP ÇİFT KAMERA</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
----------------------------------------------------------------------------------------
- <string name="device_watermark_default_text">AI ÇİFT KAMERA</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="dualcamera_watermark_default"
 ---------------------------------------------------------------------------------------
  <string name="dualcamera_watermark_default">AI ÇİFT KAMERA</string>
@@ -728,6 +716,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_1008
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Varsayılan ekranı ayarla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Kapalı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Açık</string>
 
 
 ---------------------------------------------------------------------------------------

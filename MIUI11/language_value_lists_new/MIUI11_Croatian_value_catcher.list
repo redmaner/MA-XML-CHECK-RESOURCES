@@ -606,6 +606,18 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Isključeno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Uključeno</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">izvršiti nepoznatu radnju</string>
