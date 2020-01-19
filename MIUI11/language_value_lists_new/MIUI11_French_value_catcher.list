@@ -809,15 +809,9 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
----------------------------------------------------------------------------------------
- <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+ <string-array name="overlay_display_devices_values"> <item>720x480/142,sécurisé</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

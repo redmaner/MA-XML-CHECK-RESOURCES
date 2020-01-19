@@ -87,8 +87,6 @@ all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
 all MiuiAod.apk strings.xml signature_default_content
-all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
-all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml dualcamera_watermark_default
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
@@ -120,6 +118,8 @@ all MiuiHome.apk strings.xml default_folder_title_turkcell_uygulamalar
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml default_shortcut_title_10086
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
