@@ -133,6 +133,13 @@ all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml setting_default_function
+all MiuiScanner.apk strings.xml pref_camera_focusmode_default
+all MiuiScanner.apk strings.xml language_value_english
+all MiuiScanner.apk strings.xml language_value_french
+all MiuiScanner.apk strings.xml language_value_german
+all MiuiScanner.apk strings.xml language_value_japanese
+all MiuiScanner.apk strings.xml language_value_korean
+all MiuiScanner.apk strings.xml language_value_spanish
 all MiuiSystemUI.apk arrays.xml overlay_display_devices_values
 all MiuiSystemUI.apk strings.xml default_theme
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default
@@ -258,7 +265,6 @@ all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml change_default_dialer_dialog_negative
 all Telecom.apk strings.xml change_default_dialer_warning_message
 all Telecom.apk strings.xml connected_via_network_scorer_default
-all Telecom.apk strings.xml preference_summary_default_combination
 all TeleService.apk strings.xml connected_via_network_scorer_default
 all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password

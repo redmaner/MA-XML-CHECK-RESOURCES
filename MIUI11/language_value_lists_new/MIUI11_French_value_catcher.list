@@ -415,19 +415,19 @@ folder="all" application="EasterEgg.apk" xml="" name="default_cat_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="prefValues_autoAdvance"
 ---------------------------------------------------------------------------------------
- <string-array name="prefValues_autoAdvance"> <item>jamais</item> <item>anicien</item> <item>liste</item> </string-array>
+ <string-array name="prefValues_autoAdvance"> <item>jamais</item> <item>ancien</item> <item>liste</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="prefValues_autoAdvance"
 ---------------------------------------------------------------------------------------
- <string-array name="prefValues_autoAdvance"> <item>jamais</item> <item>anicien</item> <item>liste</item> </string-array>
+ <string-array name="prefValues_autoAdvance"> <item>jamais</item> <item>ancien</item> <item>liste</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="general_preference_text_zoom_values"
 ---------------------------------------------------------------------------------------
- <string-array name="general_preference_text_zoom_values"> <item>tiny</item> <item>small</item> <item>normal</item> <item>large</item> <item>huge</item> </string-array>
+ <string-array name="general_preference_text_zoom_values"> <item>minuscule</item> <item>petite</item> <item>normal</item> <item>grand</item> <item>énorme</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -806,6 +806,48 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permiss
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Fonctionnalité par défaut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_focusmode_default">continuous-picture</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_english"
+---------------------------------------------------------------------------------------
+ <string name="language_value_english">english</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_french"
+---------------------------------------------------------------------------------------
+ <string name="language_value_french">french</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_german"
+---------------------------------------------------------------------------------------
+ <string name="language_value_german">german</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_japanese"
+---------------------------------------------------------------------------------------
+ <string name="language_value_japanese">japanese</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_korean"
+---------------------------------------------------------------------------------------
+ <string name="language_value_korean">korean</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_spanish"
+---------------------------------------------------------------------------------------
+ <string name="language_value_spanish">spanish</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1556,12 +1598,6 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warnin
 folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">"Connecté automatiquement via un fournisseur d'évaluation de l'état du réseau"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s/%2$s</string>
 
 
 ---------------------------------------------------------------------------------------
