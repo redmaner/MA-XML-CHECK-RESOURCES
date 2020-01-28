@@ -179,6 +179,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_default_popup_alert_value">스마트</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">\"나중에 알리기\"를 위한 기본 알림 간격</string>
@@ -206,6 +212,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_e
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">일정 선택</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_default_popup_alert_value">스마트</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1984,6 +1996,18 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
 folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">이것은 음성 합성의 한 예입니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_content">파일 다운로더가 실행 중입니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_title">파일 다운로더</string>
 
 
 ---------------------------------------------------------------------------------------

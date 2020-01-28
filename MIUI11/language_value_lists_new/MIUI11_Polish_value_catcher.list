@@ -29,6 +29,18 @@ folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">Za mało miejsca na karcie SD do zapisania pliku z urządzenia „%1$s”.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Brak karty SD. Włóż kartę SD, by zapisać przesłane pliki.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
 ---------------------------------------------------------------------------------------
  <string name="browser_default_setting_cancel">Anuluj</string>
