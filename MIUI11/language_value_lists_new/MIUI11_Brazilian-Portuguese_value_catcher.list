@@ -709,7 +709,7 @@ folder="all" application="PermissionController.apk" xml="" name="car_default_app
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_app_no_apps"
 ---------------------------------------------------------------------------------------
- <string name="default_app_no_apps">Sem apps</string>
+ <string name="default_app_no_apps">Sem aplicativos</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -733,7 +733,7 @@ folder="all" application="PermissionController.apk" xml="" name="default_app_sys
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="default_apps"
 ---------------------------------------------------------------------------------------
- <string name="default_apps">Apps padrão</string>
+ <string name="default_apps">Aplicativos padrão</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -763,7 +763,7 @@ folder="all" application="PermissionController.apk" xml="" name="default_permiss
 ---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="no_default_apps"
 ---------------------------------------------------------------------------------------
- <string name="no_default_apps">Sem apps padrão</string>
+ <string name="no_default_apps">Sem aplicativos padrão</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -185,9 +185,153 @@ folder="all" application="BugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="default_separator_text">的</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_text"
+---------------------------------------------------------------------------------------
+ <string name="default_text">我</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="relationship_default_separator_text">的</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="relationship_default_text"
+---------------------------------------------------------------------------------------
+ <string name="relationship_default_text">我</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_0">sq.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_1">sq.cm</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_0"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_currency_0">EUR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_1">USD</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_2"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_2">EUR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_radix_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_radix_0">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_radix_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_radix_1">2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_0">C</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_1">F</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_0">min</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_1">s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_0">mps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_1">kmps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_0">cu.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_1">cu.cm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="cos_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="cos_mathematical_value">cos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="e_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="e_mathematical_value">e</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="lg_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="lg_mathematical_value">lg</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="ln_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="ln_mathematical_value">ln</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="sin_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="sin_mathematical_value">sin</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="tan_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="tan_mathematical_value">tan</string>
 
 
 ---------------------------------------------------------------------------------------
