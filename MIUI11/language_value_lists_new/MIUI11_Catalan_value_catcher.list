@@ -155,6 +155,12 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value">Interval (minuts)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_signature_2"
 ---------------------------------------------------------------------------------------
  <string name="default_signature_2">Enviat des del meu %s</string>
