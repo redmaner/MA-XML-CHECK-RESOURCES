@@ -1853,16 +1853,6 @@ all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml status_no_sd_card_default
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all BugReport.apk strings.xml default_text_view
-all Calculator.apk strings.xml unit_data_default_area_0
-all Calculator.apk strings.xml unit_data_default_area_1
-all Calculator.apk strings.xml unit_data_default_temperature_0
-all Calculator.apk strings.xml unit_data_default_temperature_1
-all Calculator.apk strings.xml unit_data_default_time_0
-all Calculator.apk strings.xml unit_data_default_time_1
-all Calculator.apk strings.xml unit_data_default_velocity_0
-all Calculator.apk strings.xml unit_data_default_velocity_1
-all Calculator.apk strings.xml unit_data_default_volume_0
-all Calculator.apk strings.xml unit_data_default_volume_1
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
@@ -1913,6 +1903,7 @@ all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiHome.apk strings.xml all_app_category_default
+all MiuiHome.apk strings.xml default_folder_title_other_apps
 all MiuiPackageInstaller.apk strings.xml connected_via_network_scorer_default
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiPackageInstaller.apk strings.xml launch_defaults_none

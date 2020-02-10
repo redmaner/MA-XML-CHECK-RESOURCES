@@ -41,30 +41,6 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="default_separator_text"
----------------------------------------------------------------------------------------
- <string name="default_separator_text">的</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="default_text"
----------------------------------------------------------------------------------------
- <string name="default_text">我</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
----------------------------------------------------------------------------------------
- <string name="relationship_default_separator_text">的</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="relationship_default_text"
----------------------------------------------------------------------------------------
- <string name="relationship_default_text">我</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_area_0">sq.m</string>
@@ -109,7 +85,7 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_tempera
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_time_0">min</string>
+ <string name="unit_data_default_time_0">dak</string>
 
 
 ---------------------------------------------------------------------------------------

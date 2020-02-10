@@ -11129,66 +11129,6 @@ folder="all" application="BugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_area_0">sq.m</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_area_1">sq.cm</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_0"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_temperature_0">C</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_1"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_temperature_1">F</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_0"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_time_0">min</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_1"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_time_1">sek</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_0"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_velocity_0">m/s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_1"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_velocity_1">km/s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_volume_0">cu.m</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
----------------------------------------------------------------------------------------
- <string name="unit_data_default_volume_1">cu.cm</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minut</item> <item>10 minut</item> <item>15 minut</item> <item>30 minut</item> <item>1 hodinu</item> </string-array>
@@ -11486,6 +11426,12 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 ---------------------------------------------------------------------------------------
  <string name="all_app_category_default">Kategorie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">Ostatní aplikace</string>
 
 
 ---------------------------------------------------------------------------------------

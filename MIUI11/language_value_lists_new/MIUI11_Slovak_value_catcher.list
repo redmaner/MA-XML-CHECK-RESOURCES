@@ -11393,6 +11393,12 @@ folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">Ostatné aplikácie</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Automaticky pripojené prostredníctvom poskytovateľa hodnotenia siete</string>
