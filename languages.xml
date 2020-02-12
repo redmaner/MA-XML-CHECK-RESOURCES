@@ -22,7 +22,7 @@
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI-11-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI-11-XML-Vietnamese.git" branch="master"/>
 
 	<!-- MIUI11 Global repo's - Alfabetical order-->
-	<language check="check_all_fix" fix="fix_all" miui="11" name="Dutch" iso="nl" url="https://github.com/Redmaner/MIUI10-XML-DUTCH" git="git@github.com:Redmaner/MIUI10-XML-DUTCH.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="11" name="Dutch" iso="nl" url="https://github.com/ingbrzy/MA-XML-11-DUTCH-Global" git="git@github.com:ingbrzy/MA-XML-11-DUTCH-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Hungarian" iso="hu" url="https://github.com/ingbrzy/MA-XML-10-HUNGARIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-HUNGARIAN-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Serbian" iso="sr" url="https://github.com/ingbrzy/MA-XML-10-SERBIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-SERBIAN-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="11" name="Ukrainian" iso="uk" url="https://github.com/bentezhniy/miui_10_ukrainian_public" git="git@github.com:bentezhniy/miui_10_ukrainian_public.git" branch="master"/>
