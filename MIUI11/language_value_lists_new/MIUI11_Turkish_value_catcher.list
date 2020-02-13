@@ -1184,17 +1184,19 @@ folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">
-
-Bu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir.</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Bu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">
+ <string name="terms_of_use_lable_default_input_method_kika">" Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerekir."</string>
 
-Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerekir.</string>
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmelisiniz."</string>
 
 
 ---------------------------------------------------------------------------------------

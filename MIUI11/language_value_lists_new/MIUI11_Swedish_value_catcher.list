@@ -293,12 +293,6 @@ folder="all" application="Health.apk" xml="" name="improve_your_health_default_t
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Health.apk" xml="" name="preference_update_default_title"
----------------------------------------------------------------------------------------
- <string name="preference_update_default_title">Version</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="revert_to_default"
 ---------------------------------------------------------------------------------------
  <string name="revert_to_default">Återställ till standardvärden</string>
@@ -317,12 +311,6 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Health.apk" xml="" name="user_invalid_value"
----------------------------------------------------------------------------------------
- <string name="user_invalid_value">--</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 minuter</item> <item>30 minuter</item> <item>45 minuter</item> <item>1 timme</item> </string-array>
@@ -332,12 +320,6 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Tro alltid att något underbart kommer hända"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">TextView</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -479,15 +461,21 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Av</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">På</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Standardfunktion</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -685,7 +673,7 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 ---------------------------------------------------------------------------------------
- <string name="repeat_mode_default">Never</string>
+ <string name="repeat_mode_default">Aldrig</string>
 
 
 ---------------------------------------------------------------------------------------

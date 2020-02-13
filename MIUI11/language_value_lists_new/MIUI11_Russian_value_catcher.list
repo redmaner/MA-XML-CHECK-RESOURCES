@@ -17,6 +17,96 @@ folder="all" application="BugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_0">кв.м.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_1">кв.см.</string> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_0">CNY</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_1">USD</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_2"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_2">EUR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_radix_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_radix_0">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_radix_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_radix_1">2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_0">C</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_1">F</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_0">мин.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_1">с</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_0">м/с</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_1">км/с</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_0">куб.м</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_1">куб.см</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="ln_mathematical_value"
 ---------------------------------------------------------------------------------------
  <string name="ln_mathematical_value">ln</string>

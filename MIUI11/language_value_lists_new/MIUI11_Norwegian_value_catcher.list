@@ -317,12 +317,6 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Health.apk" xml="" name="user_invalid_value"
----------------------------------------------------------------------------------------
- <string name="user_invalid_value">--</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 minutter</item> <item>30 minutter</item> <item>45 minutter</item> <item>1 time</item> </string-array>
@@ -479,15 +473,21 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Av</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">På</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Standardfunksjon</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -685,7 +685,7 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 ---------------------------------------------------------------------------------------
- <string name="repeat_mode_default">Never</string>
+ <string name="repeat_mode_default">Aldri</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -317,12 +317,6 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Health.apk" xml="" name="user_invalid_value"
----------------------------------------------------------------------------------------
- <string name="user_invalid_value">--</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 λεπτά</item> <item>30 λεπτά</item> <item>45 λεπτά</item> <item>1 ώρα</item> </string-array>
@@ -395,12 +389,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
----------------------------------------------------------------------------------------
- <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 ---------------------------------------------------------------------------------------
  <string name="all_app_category_default">Κατηγορία</string>
@@ -425,21 +413,9 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_claro">Claro</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">Εφαρμογές Meitu</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">Microsoft</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -455,21 +431,9 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_servic
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_telcel">Telcel</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
  <string name="default_screen_preview_title">Ορισμός προεπιλεγμένης οθόνης</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
----------------------------------------------------------------------------------------
- <string name="default_shortcut_title_10086">10086.cn</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -479,15 +443,21 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Ανενεργή</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Ενεργή</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Προεπιλεγμένη λειτουργία</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -593,12 +563,6 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_downloa
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
----------------------------------------------------------------------------------------
- <string name="cast_notification_default_channel_name">Cast</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
 ---------------------------------------------------------------------------------------
  <string name="cast_tracks_chooser_dialog_default_track_name">Εντοπισμός %1$d</string>
@@ -641,12 +605,6 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
----------------------------------------------------------------------------------------
- <string name="ovp_default_plugin_name">HD plug-in</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
 ---------------------------------------------------------------------------------------
  <string name="plus_poster_reset_default">Επαναφορά προεπιλεγμένου εξώφυλλου</string>
@@ -685,7 +643,7 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 ---------------------------------------------------------------------------------------
- <string name="repeat_mode_default">Never</string>
+ <string name="repeat_mode_default">Ποτέ</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -65,30 +65,6 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
----------------------------------------------------------------------------------------
- <string-array name="prefValues_alerts_popup"> <item>cap</item> <item>tots</item> <item>smart</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
----------------------------------------------------------------------------------------
- <string-array name="prefValues_alerts_vibrateWhen"> <item>sempre</item> <item>en silenci</item> <item>mai</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
----------------------------------------------------------------------------------------
- <string-array name="prefValues_alerts_popup"> <item>cap</item> <item>tots</item> <item>smart</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
----------------------------------------------------------------------------------------
- <string-array name="prefValues_alerts_vibrateWhen"> <item>sempre</item> <item>en silenci</item> <item>mai</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>primer dilluns</item> <item>primer dimarts</item> <item>primer dimecres</item> <item>primer dijous</item> <item>primer divendres</item> <item>primer dissabte</item> <item>primer diumenge</item> <item>segon dilluns</item> <item>segon dimarts</item> <item>segon dimecres</item> <item>segon dijous</item> <item>segon divendres</item> <item>segon dissabte</item> <item>segon diumenge</item> <item>tercer dilluns</item> <item>tercer dimarts</item> <item>tercer dimecres</item> <item>tercer dijous</item> <item>tercer divendres</item> <item>tercer dissabte</item> <item>tercer diumenge</item> <item>quart dilluns</item> <item>quart dimarts</item> <item>quart dimecres</item> <item>quart dijous</item> <item>quart divendres</item> <item>quart dissabte</item> <item>quart diumenge</item> <item>darrer dilluns</item> <item>darrer dimarts</item> <item>darrer dimecres</item> <item>darrer dijous</item> <item>darrer divendres</item> <item>darrer dissabte</item> <item>darrer diumenge</item> </string-array>
@@ -107,12 +83,6 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
----------------------------------------------------------------------------------------
- <string name="pref_default_popup_alert_value">intel·ligent</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Seleccioneu esdeveniments</string>
@@ -122,12 +92,6 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_
 folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="work_day_default_banner_title">Que tingueu un dia productiu a la feina!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
----------------------------------------------------------------------------------------
- <string name="pref_default_popup_alert_value">intel·ligent</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -161,6 +125,12 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">Obre els fitxers adjunts mitjançant les aplicacions per defecte</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_signature_2"
 ---------------------------------------------------------------------------------------
  <string name="default_signature_2">Enviat des del meu %s</string>
@@ -173,27 +143,33 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_prize_text"
----------------------------------------------------------------------------------------
- <string name="default_prize_text">Això va directament al meu tresor!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_user_desc"
----------------------------------------------------------------------------------------
- <string name="default_user_desc">"Aquesta persona encara no ha afegit una descripció"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
----------------------------------------------------------------------------------------
- <string name="user_desc_default_tip">Inicieu sessió per acumular punts i guanyar premis.</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
  <string name="default_debt_msg_words">"Aquest dispositiu està bloquejat a causa d\'un pagament endarrerit. Contacteu amb el seu agent de vendes per a més detalls."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Dispositiu desconegut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Dispositiu desconegut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------

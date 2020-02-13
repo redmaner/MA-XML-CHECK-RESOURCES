@@ -1193,6 +1193,12 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Przed użyciem tej funkcji musisz zaakceptować warunki Polityki prywatności Mint Keyboard."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_subtitle"
 ---------------------------------------------------------------------------------------
  <string name="common_use_default_download_path_subtitle">Przywróć ustawienia domyślne</string>

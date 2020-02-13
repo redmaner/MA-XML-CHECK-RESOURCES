@@ -293,12 +293,6 @@ folder="all" application="Health.apk" xml="" name="improve_your_health_default_t
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Health.apk" xml="" name="preference_update_default_title"
----------------------------------------------------------------------------------------
- <string name="preference_update_default_title">Version</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="revert_to_default"
 ---------------------------------------------------------------------------------------
  <string name="revert_to_default">Gendan standardindstillinger</string>
@@ -317,12 +311,6 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Health.apk" xml="" name="user_invalid_value"
----------------------------------------------------------------------------------------
- <string name="user_invalid_value">--</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 minutter</item> <item>30 minutter</item> <item>45 minutter</item> <item>En time</item> </string-array>
@@ -332,12 +320,6 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Tro altid på, at noget vidunderligt er lige om hjørnet"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">TextView</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -395,12 +377,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
----------------------------------------------------------------------------------------
- <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 ---------------------------------------------------------------------------------------
  <string name="all_app_category_default">Kategori</string>
@@ -425,21 +401,9 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_claro">Claro</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">Meitu-apper</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">Microsoft</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -455,21 +419,9 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_servic
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_telcel">Telcel</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
  <string name="default_screen_preview_title">Indstil standardskærm</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
----------------------------------------------------------------------------------------
- <string name="default_shortcut_title_10086">10086.cn</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -479,15 +431,21 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Slukket</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Tændt</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Standard funktion</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
----------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -677,21 +635,9 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
----------------------------------------------------------------------------------------
- <string name="audio_panel_time_counter_default">00:00</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 ---------------------------------------------------------------------------------------
- <string name="repeat_mode_default">Never</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
----------------------------------------------------------------------------------------
- <string name="todo_audio_default_content">"[Voice task] "</string>
+ <string name="repeat_mode_default">Aldrig</string>
 
 
 ---------------------------------------------------------------------------------------
