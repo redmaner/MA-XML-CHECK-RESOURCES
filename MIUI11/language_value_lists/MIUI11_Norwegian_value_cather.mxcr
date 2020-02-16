@@ -51,7 +51,6 @@ all Health.apk strings.xml preference_update_default_title
 all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
-all Health.apk strings.xml user_invalid_value
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiBugReport.apk strings.xml default_text_view
@@ -78,8 +77,9 @@ all MiuiHome.apk strings.xml default_folder_title_telcel
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml default_shortcut_title_10086
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiScanner.apk strings.xml setting_default_function
-all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_resolution_values
 all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
 all MiuiSystemUI.apk arrays.xml data_type_name_mcc_mnc_value
 all MiuiSystemUI.apk arrays.xml tts_rate_values

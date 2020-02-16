@@ -223,6 +223,15 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_tit
 all SecurityCoreAdd.apk strings.xml space_name_default
 all SecurityCoreAdd.apk strings.xml space_des_default
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk strings.xml accessibility_timeout_default
+all Settings.apk strings.xml default_for_calls
+all Settings.apk strings.xml default_for_calls_and_sms
+all Settings.apk strings.xml default_for_mobile_data
+all Settings.apk strings.xml default_for_sms
+all Settings.apk strings.xml keywords_app_default
+all Settings.apk strings.xml overlay_option_device_default
+all Settings.apk strings.xml reset_default_apn_failed
+all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml account_dashboard_default_summary
 all Settings.apk strings.xml app_default_dashboard_title
 all Settings.apk strings.xml auto_brightness_default_title
