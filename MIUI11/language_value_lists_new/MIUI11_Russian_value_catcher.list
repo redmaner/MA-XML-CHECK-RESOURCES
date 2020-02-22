@@ -5,6 +5,30 @@ folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_cancel">Отмена</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_confirm">ОК</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_content"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_content">Быстрый и безопасный просмотр веб-страниц</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_title">Установить браузером по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">секундочку…</string>
