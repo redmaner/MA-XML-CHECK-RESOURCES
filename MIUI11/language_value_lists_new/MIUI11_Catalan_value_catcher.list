@@ -173,6 +173,24 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
+---------------------------------------------------------------------------------------
+ <string name="app_suspended_default_message">%1$s no està disponible ara mateix. Això és gestionat per %2$s.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Verifica que ets tu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_usb">USB</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
 ---------------------------------------------------------------------------------------
  <string name="default_notification_channel_label">Sense categoria</string>
@@ -200,6 +218,24 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
 ---------------------------------------------------------------------------------------
  <string name="etws_primary_default_message_tsunami">Evacueu immediatament des de les regions costaneres i les zones riberenques fins a un lloc més segur com el sòl alt.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
+---------------------------------------------------------------------------------------
+ <string name="app_suspended_default_message">%1$s no està disponible ara mateix. Això és gestionat per %2$s.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Verifica que ets tu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
+---------------------------------------------------------------------------------------
+ <string name="default_audio_route_name_usb">USB</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -311,6 +347,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
+---------------------------------------------------------------------------------------
+ <string name="lock_screen_magazine_default_title">Cavallets de fons de pantalla</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_vibrateWhen"> <item>always</item> <item>en silenci</item> <item>mai</item> </string-array>
@@ -338,12 +380,6 @@ folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_
 folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
 ---------------------------------------------------------------------------------------
  <string name="setting_didi_default_way">Ruta de taxi per defecte</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
----------------------------------------------------------------------------------------
- <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
