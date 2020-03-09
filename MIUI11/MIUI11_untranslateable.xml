@@ -89,6 +89,11 @@
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="date_time_fmt"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="tag_action_bar_in_feed"/>
 	<item folder="all" application="Calendar.apk" file="strings.xml" name="tag_feed_list_container"/>
+	<item folder="all" application="CleanMaster.apk" file="arrays.xml" name="hide_installed_packages"/>
+	<item folder="all" application="CleanMaster.apk" file="arrays.xml" name="hide_path"/>
+	<item folder="all" application="CleanMaster.apk" file="arrays.xml" name="hide_packages"/>
+	<item folder="all" application="CleanMaster.apk" file="arrays.xml" name="white_list_cache"/>
+	<item folder="all" application="CleanMaster.apk" file="arrays.xml" name="white_list_ad"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="appcleaner_wechat_pref_size_100_MB"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="appcleaner_wechat_pref_size_1_GB"/>
 	<item folder="all" application="CleanMaster.apk" file="strings.xml" name="appcleaner_wechat_pref_size_300_MB"/>
@@ -282,6 +287,16 @@
 	<item folder="all" application="MiGalleryLockscreen.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="miui.apk" file="strings.xml" name="empty"/>
 	<item folder="all" application="miui.apk" file="strings.xml" name="size_suffix"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="appbar_scrolling_view_behavior"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="bottom_sheet_behavior"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="fab_transformation_scrim_behavior"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="fab_transformation_sheet_behavior"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="hide_bottom_view_on_scroll_behavior"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="path_password_eye"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="path_password_eye_mask_strike_through"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="path_password_eye_mask_visible"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="path_password_strike_through"/>
+	<item folder="all" application="MiuiAod.apk" file="strings.xml" name="status_bar_notification_info_overflow"/>
 	<item folder="all" application="MiuiBluetooth.apk" file="strings.xml" name="ble_profile_1"/>
 	<item folder="all" application="MiuiBluetooth.apk" file="strings.xml" name="ble_profile_2"/>
 	<item folder="all" application="MiuiBugReport.apk" file="strings.xml" name="pic_view_format"/>
