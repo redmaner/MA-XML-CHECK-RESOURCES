@@ -1369,7 +1369,7 @@ folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
 ---------------------------------------------------------------------------------------
- <string name="default_for_mobile_data">Par défaut pour les données mobiles</string>
+ <string name="default_for_mobile_data">Par défaut pour les données cellulaires</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1495,7 +1495,7 @@ folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
 ---------------------------------------------------------------------------------------
- <string name="modify_default_browser_message">If you set a third party app as your default browser, it might start collecting your browsing history and other data. Set anyway?</string>
+ <string name="modify_default_browser_message">"Si vous utilisez une application tierce comme navigateur par défaut, elle pourrait collecter votre historique de navigation et d'autres données. Régler quand même ?"</string>
 
 
 ---------------------------------------------------------------------------------------
