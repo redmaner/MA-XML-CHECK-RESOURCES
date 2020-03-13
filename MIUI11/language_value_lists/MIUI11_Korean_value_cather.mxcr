@@ -112,8 +112,6 @@ all MiuiGallery.apk strings.xml photo_editor_font_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiGallery.apk strings.xml default_device_name
-all MiuiHome.apk strings.xml default_folder_title_microsoft
-all MiuiHome.apk strings.xml default_folder_title_telcel
 all MiuiHome.apk strings.xml default_folder_title_claro
 all MiuiHome.apk strings.xml default_shortcut_title_10086
 all MiuiHome.apk strings.xml menu_default_screen_preview
@@ -124,6 +122,9 @@ all MiuiHome.apk strings.xml announce_for_open_default_preview
 all MiuiHome.apk strings.xml default_folder_title_services
 all MiuiHome.apk strings.xml default_folder_title_meitu
 all MiuiHome.apk strings.xml all_app_category_default
+all MiuiHome.apk strings.xml default_folder_title_microsoft
+all MiuiHome.apk strings.xml default_folder_title_other_apps
+all MiuiHome.apk strings.xml default_folder_title_telcel
 all MiuiHome.apk strings.xml launcher_search_bar_value_disable
 all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml default_permission_description

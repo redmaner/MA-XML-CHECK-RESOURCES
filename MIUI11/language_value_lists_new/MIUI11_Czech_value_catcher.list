@@ -11399,6 +11399,12 @@ folder="all" application="framework-ext-res.apk" xml="" name="default_device_nam
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Příjdu za chvíli.</item> <item>OK, budu tam.</item> <item>Děkuji!</item> <item>Kde jsi?</item> <item>Příjdeš?</item> <item>Budeš tam?</item> <item>Příjdu za chvilku.</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
  <string name="improve_your_health_default_tips">Pro udržení kondice pravidelně cvičte a dopřejte si dostatek spánku.</string>
