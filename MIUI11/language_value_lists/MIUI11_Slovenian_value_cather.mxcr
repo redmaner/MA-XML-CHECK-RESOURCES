@@ -74,6 +74,10 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml text_no_value
 all Health.apk strings.xml user_invalid_value
+all MiRadio.apk arrays.xml sleep_duration_values
+all MiRadio.apk arrays.xml sleep_duration_values_seconds
+all MiRadio.apk strings.xml default_songtab_name
+all MiRadio.apk strings.xml empty_view_default_text
 all MiRecycle.apk strings.xml default_error_msg
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
