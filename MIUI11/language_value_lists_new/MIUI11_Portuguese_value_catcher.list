@@ -605,6 +605,12 @@ folder="all" application="PersonalAssistant.apk" xml="" name="notification_chann
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default_description"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_default_description">Outras notificações</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
 ---------------------------------------------------------------------------------------
  <string name="setting_didi_default_way">Rota de táxi padrão</string>

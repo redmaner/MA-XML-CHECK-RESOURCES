@@ -599,6 +599,12 @@ folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_nopassword_pay_threshold_values"
+---------------------------------------------------------------------------------------
+ <string-array name="mibi_nopassword_pay_threshold_values"> <item>10000</item> <item>20000</item> <item>50000</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected"
 ---------------------------------------------------------------------------------------
  <string name="car_default_app_selected">Selecionados</string>

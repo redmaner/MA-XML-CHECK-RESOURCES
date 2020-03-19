@@ -1085,6 +1085,12 @@ folder="all" application="PersonalAssistant.apk" xml="" name="notification_chann
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">"1. Улучшение производительности. 2. Исправление ошибок."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_value_label"
 ---------------------------------------------------------------------------------------
  <string name="flybird_nopwd_value_label">Сумма без пароля</string>
