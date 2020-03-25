@@ -1129,7 +1129,7 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
 ---------------------------------------------------------------------------------------
- <string name="device_ultra_pixel_watermark_default_text">DOUBLE APPAREIL PHOTO 48MP</string>
+ <string name="device_ultra_pixel_watermark_default_text">DOUBLE APPAREIL PHOTO 48 MPX</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1214,12 +1214,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_de
 folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
 ---------------------------------------------------------------------------------------
  <string name="video_editor_text_default">Par défaut</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="fast_scroller_style_values"
----------------------------------------------------------------------------------------
- <string-array name="fast_scroller_style_values"> <item>default</item> <item>letter</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

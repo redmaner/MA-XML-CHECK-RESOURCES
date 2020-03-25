@@ -521,6 +521,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_coloreffect_d
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_exposuretime_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_exposuretime_default">0</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_recordlocation_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_recordlocation_default">Нет</string>

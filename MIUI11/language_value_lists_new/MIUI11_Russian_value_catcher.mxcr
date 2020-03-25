@@ -85,6 +85,7 @@ all MiuiAod.apk strings.xml signature_default_content
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_autoexposure_default
 all MiuiCamera.apk strings.xml pref_camera_coloreffect_default
+all MiuiCamera.apk strings.xml pref_camera_exposuretime_default
 all MiuiCamera.apk strings.xml pref_camera_recordlocation_default
 all MiuiCamera.apk strings.xml pref_hdr_value_default
 all MiuiCamera.apk strings.xml pref_live_volumekey_function_default
