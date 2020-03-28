@@ -65,6 +65,12 @@ folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">SIM по подразбиране за обаждания</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Известия</string>
@@ -317,9 +323,27 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 минути</item> <item>30 минути</item> <item>45 минути</item> <item>1 час</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">Възстанови по подразбиране</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">Стойност</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -389,6 +413,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 ---------------------------------------------------------------------------------------
  <string name="all_app_category_default">Категория</string>
@@ -413,9 +443,21 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">Meitu приложения</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_microsoft">Microsoft</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -431,27 +473,27 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_servic
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
  <string name="default_screen_preview_title">Задай екран по подразбиране</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
+---------------------------------------------------------------------------------------
+ <string name="default_shortcut_title_10086">10086.cn</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Задай екран по подразбиране</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
----------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_disable">Изкл.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
----------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_enable">Вкл.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -697,13 +739,13 @@ folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_opti
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">"r r Вие трябва да се съгласите с политиката за поверителност на Емоджи, преди да използвате тази услуга."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Вие трябва да се съгласите с политиката за поверителност на Емоджи, преди да използвате тази услуга."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">"r r Вие трябва да се съгласите с политиката за поверителност на Кика, преди да използвате тази услуга."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">" Вие трябва да се съгласите с политиката за поверителност на Кика, преди да използвате тази услуга."</string>
 
 
 ---------------------------------------------------------------------------------------

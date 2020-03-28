@@ -145,7 +145,7 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
- <string name="default_debt_msg_words">"Aquest dispositiu està bloquejat a causa d\'un pagament endarrerit. Contacteu amb el seu agent de vendes per a més detalls."</string>
+ <string name="default_debt_msg_words">"Aquest dispositiu està bloquejat a causa d'un pagament endarrerit. Contacteu amb el seu agent de vendes per a més detalls."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -266,6 +266,12 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
 ---------------------------------------------------------------------------------------
  <string name="etws_primary_default_message_tsunami">Evacueu immediatament des de les regions costaneres i les zones riberenques fins a un lloc més segur com el sòl alt.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Capçalera de factura: </item> <item>Adreça: Carrer, Apt., Ciutat, País / Regió, Província, Codi postal</item> <item>Deixeu el paquet a la porta. Gràcies!</item> <item>"Espereu un minut i estaré disponible."</item> <item>"Ara estic reunit. Envia'm un missatge de text."</item> <item>"Ara no puc parlar. Us truco tan aviat com pugui."</item> <item>Gràcies!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

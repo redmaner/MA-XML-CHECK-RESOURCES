@@ -5,6 +5,12 @@ folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
+---------------------------------------------------------------------------------------
+ <string name="defaultnumber">000000</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 ---------------------------------------------------------------------------------------
  <string name="status_no_sd_card_default">ไม่มีการ์ด SD ใส่การ์ด SD เพื่อบันทึกไฟล์ที่ถ่ายโอน</string>
@@ -62,6 +68,12 @@ folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder
 folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
  <string name="cloud_storage_default_title">ที่จัดเก็บข้อมูลคลาวด์</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
+---------------------------------------------------------------------------------------
+ <string name="bind_simcard_default">ซิมเริ่มต้นสำหรับการโทร</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -317,9 +329,27 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="user_invalid_value"
+---------------------------------------------------------------------------------------
+ <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 ---------------------------------------------------------------------------------------
  <string-array name="sleep_duration_values"> <item>15 นาที</item> <item>30 นาที</item> <item>45 นาที</item> <item>1 ชั่วโมง</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="restore_default"
+---------------------------------------------------------------------------------------
+ <string name="restore_default">เรียกคืนค่าเริ่มต้น</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
+---------------------------------------------------------------------------------------
+ <string name="hsv_space_color_value">ค่า</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -389,6 +419,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 ---------------------------------------------------------------------------------------
  <string name="all_app_category_default">หมวดหมู่</string>
@@ -413,9 +449,21 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_p
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_meitu">แอป Meitu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_microsoft">Microsoft</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -431,9 +479,21 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_servic
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
  <string name="default_screen_preview_title">ตั้งค่าหน้าจอเริ่มต้น</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
+---------------------------------------------------------------------------------------
+ <string name="default_shortcut_title_10086">10086.cn</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -443,21 +503,15 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
----------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_disable">ปิด</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
----------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_enable">เปิด</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">คุณลักษณะเริ่มต้น</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
+---------------------------------------------------------------------------------------
+ <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -697,13 +751,13 @@ folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_opti
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">"r r คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Facemoji ก่อนที่จะใช้คุณลักษณะนี้"</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Facemoji ก่อนที่จะใช้คุณลักษณะนี้"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">"r r คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Kika ก่อนที่จะใช้คุณลักษณะนี้"</string>
+ <string name="terms_of_use_lable_default_input_method_kika">" คุณต้องยอมรับนโยบายความเป็นส่วนตัวของ Kika ก่อนที่จะใช้คุณลักษณะนี้"</string>
 
 
 ---------------------------------------------------------------------------------------
