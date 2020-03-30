@@ -1085,6 +1085,12 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_q
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">아래로 밀어 개인 폴더를 엽니 다</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Music2.apk" xml="" name="default_album_radio_description"
 ---------------------------------------------------------------------------------------
  <string name="default_album_radio_description">%1$s에서 방송되는 음악과 유사한 음악 듣기</string>

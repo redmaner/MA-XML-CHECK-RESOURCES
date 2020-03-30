@@ -743,6 +743,12 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Przesuń w dół, aby otworzyć prywatne wiadomości</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MtkTeleService.apk" xml="" name="clir_display_values"
 ---------------------------------------------------------------------------------------
  <string-array name="clir_display_values"> <item>Domyślna wartość dla sieci</item> <item>Ukryj numer</item> <item>Pokaż numer</item> </string-array>

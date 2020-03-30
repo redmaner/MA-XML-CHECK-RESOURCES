@@ -1751,6 +1751,18 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Вимкнено</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Увімкнено</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiKeyguard.apk" xml="" name="pincode_set_to_default_msg"
 ---------------------------------------------------------------------------------------
  <string name="pincode_set_to_default_msg">Встановлений PIN код 1234, Ви можете змінити його тут:</string>

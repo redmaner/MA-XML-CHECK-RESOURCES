@@ -1321,37 +1321,37 @@ folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_de
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_english"
 ---------------------------------------------------------------------------------------
- <string name="language_value_english">english</string>
+ <string name="language_value_english">anglais</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_french"
 ---------------------------------------------------------------------------------------
- <string name="language_value_french">french</string>
+ <string name="language_value_french">français</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_german"
 ---------------------------------------------------------------------------------------
- <string name="language_value_german">german</string>
+ <string name="language_value_german">allemand</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_japanese"
 ---------------------------------------------------------------------------------------
- <string name="language_value_japanese">japanese</string>
+ <string name="language_value_japanese">japonais</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_korean"
 ---------------------------------------------------------------------------------------
- <string name="language_value_korean">korean</string>
+ <string name="language_value_korean">coréen</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_spanish"
 ---------------------------------------------------------------------------------------
- <string name="language_value_spanish">spanish</string>
+ <string name="language_value_spanish">espagnol</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1423,7 +1423,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_def
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_description"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_cast_device_default_description">Prêt à caster</string>
+ <string name="quick_settings_cast_device_default_description">Prêt à diffuser</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1447,7 +1447,7 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_downloa
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
 ---------------------------------------------------------------------------------------
- <string name="cast_notification_default_channel_name">Caster</string>
+ <string name="cast_notification_default_channel_name">Diffusion</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2318,11 +2318,5 @@ folder="all" application="Weather.apk" xml="" name="news_load_more_default"
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">"Vous avez le contrôle: choisissez les informations que vous souhaitez partager avec les applications."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
----------------------------------------------------------------------------------------
- <string name="feedback_desc_default">Certains boutons ne fonctionnent pas</string>
 
 

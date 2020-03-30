@@ -983,6 +983,12 @@ folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Özel klasörü açmak için aşağı kaydırın</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 ---------------------------------------------------------------------------------------
  <string name="rcs_pref_default_sending_method">Varsayılan gönderme yöntemi</string>

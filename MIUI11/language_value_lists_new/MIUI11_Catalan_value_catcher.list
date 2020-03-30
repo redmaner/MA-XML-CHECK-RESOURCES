@@ -185,6 +185,18 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="db_default_journal_mode"
+---------------------------------------------------------------------------------------
+ <string name="db_default_journal_mode">PERSISTIR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="db_default_sync_mode"
+---------------------------------------------------------------------------------------
+ <string name="db_default_sync_mode">NORMAL</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
 ---------------------------------------------------------------------------------------
  <string name="default_audio_route_name_usb">USB</string>
@@ -218,6 +230,18 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
 ---------------------------------------------------------------------------------------
  <string name="etws_primary_default_message_tsunami">Evacueu immediatament des de les regions costaneres i les zones riberenques fins a un lloc més segur com el sòl alt.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
+---------------------------------------------------------------------------------------
+ <string name="popup_window_default_title">Finestra emergent</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_default_every_night_name">Dormint</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -233,6 +257,18 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="db_default_journal_mode"
+---------------------------------------------------------------------------------------
+ <string name="db_default_journal_mode">PERSISTIR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="db_default_sync_mode"
+---------------------------------------------------------------------------------------
+ <string name="db_default_sync_mode">NORMAL</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
 ---------------------------------------------------------------------------------------
  <string name="default_audio_route_name_usb">USB</string>
@@ -266,6 +302,18 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
 ---------------------------------------------------------------------------------------
  <string name="etws_primary_default_message_tsunami">Evacueu immediatament des de les regions costaneres i les zones riberenques fins a un lloc més segur com el sòl alt.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
+---------------------------------------------------------------------------------------
+ <string name="popup_window_default_title">Finestra emergent</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_default_every_night_name">Dormint</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -608,6 +656,12 @@ folder="all" application="Settings.apk" xml="" name="default_notification_assist
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
  <string name="default_rule_name">Temporitzador 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">Per defecte (Recomanat)</string>
 
 
 ---------------------------------------------------------------------------------------
