@@ -401,6 +401,12 @@ folder="all" application="Health.apk" xml="" name="improve_your_health_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="preference_update_default_title"
+---------------------------------------------------------------------------------------
+ <string name="preference_update_default_title">App-Version</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="revert_to_default"
 ---------------------------------------------------------------------------------------
  <string name="revert_to_default">Standardwerte wiederherstellen</string>
