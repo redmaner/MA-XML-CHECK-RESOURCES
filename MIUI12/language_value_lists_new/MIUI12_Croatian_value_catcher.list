@@ -275,9 +275,27 @@ folder="all" application="EasterEgg.apk" xml="" name="default_tile_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_exchange"
+---------------------------------------------------------------------------------------
+ <string name="default_exchange">EXCHANGE</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_imap"
+---------------------------------------------------------------------------------------
+ <string name="default_imap">IMAP</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
 ---------------------------------------------------------------------------------------
  <string name="default_opening_attchemnt_mode">Otvorite privitke pomoću zadanih aplikacija</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_pop3"
+---------------------------------------------------------------------------------------
+ <string name="default_pop3">POP3</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -447,6 +465,114 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 folder="all" application="Health.apk" xml="" name="user_invalid_value"
 ---------------------------------------------------------------------------------------
  <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="announce_for_choose_default_screen"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_choose_default_screen">Postavi zaslon %1$d kao zadani Početni zaslon</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="announce_for_close_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_close_default_preview">Zatvorene zadane postavke Poč. zaslona</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="announce_for_open_default_preview"
+---------------------------------------------------------------------------------------
+ <string name="announce_for_open_default_preview">Otvorene zadane postavke Poč. zaslona</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_claro"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_claro">Claro</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_game"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_game">Igre</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">Meitu apl.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_microsoft"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_microsoft">Microsoft</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_recommend"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_recommend">Više aplikacija</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_security"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_security">Sustav</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_services"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_services">Usluge</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_telcel"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_telcel">Telcel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_tools"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_tools">Alati</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_screen_preview_title"
+---------------------------------------------------------------------------------------
+ <string name="default_screen_preview_title">Postavi zadani zaslon</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="default_shortcut_title_10086"
+---------------------------------------------------------------------------------------
+ <string name="default_shortcut_title_10086">10086.cn</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="menu_default_screen_preview"
+---------------------------------------------------------------------------------------
+ <string name="menu_default_screen_preview">Postavi zadani zaslon</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="recommend_apps_default_title"
+---------------------------------------------------------------------------------------
+ <string name="recommend_apps_default_title">Prazno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 minuta</item> <item>30 minuta</item> <item>45 minuta</item> <item>1 sat</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

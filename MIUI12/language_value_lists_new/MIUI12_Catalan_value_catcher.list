@@ -641,93 +641,15 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_t
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money"
----------------------------------------------------------------------------------------
- <string name="mibi_recharge_value_money">Compra %s CNY de Mi Coins</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money_special_unit"
----------------------------------------------------------------------------------------
- <string name="mibi_recharge_value_money_special_unit">Compra %1$s %2$s de Mi Coins</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value"
----------------------------------------------------------------------------------------
- <string name="mibi_unit_value">%1$s Mi Coins</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redeemed"
----------------------------------------------------------------------------------------
- <string name="mibi_unit_value_redeemed">%1$s Mi Coins bescanviades</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
----------------------------------------------------------------------------------------
- <string name="mibi_unit_value_remained">Resten %1$s Mi Coins</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
----------------------------------------------------------------------------------------
- <string name="display_weather_default">Toqueu per obtenir la informació meteorològica</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Cerca elements aquí</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default"
----------------------------------------------------------------------------------------
- <string name="notification_channel_default">Per defecte</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default_description"
----------------------------------------------------------------------------------------
- <string name="notification_channel_default_description">Altres notificacions</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
 ---------------------------------------------------------------------------------------
  <string name="setting_didi_default_way">Ruta de taxi per defecte</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
----------------------------------------------------------------------------------------
- <string name="upgrade_log_default">"1. Millora del rendiment. 2. S'han solucionat els errors."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
----------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">" Heu d’acceptar la Política de privadesa de Facemoji abans d’utilitzar aquesta funció."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
----------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">" Heu d’acceptar la Política de privadesa de Kika abans d’utilitzar aquesta funció."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
----------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">" Heu d’acceptar la Política de privadesa de Facemoji abans d’utilitzar aquesta funció."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
----------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">" Heu d’acceptar la Política de privadesa de Kika abans d’utilitzar aquesta funció."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -769,19 +691,13 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"Quant al diagnòstic 1. El dispositiu es connectarà a la xarxa de l'operador, enviarà un missatge de franc i esperarà la resposta de la companyia. Això pot trigar fins a 5 minuts. 2. Podreu sortir d'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla."</string>
+ <string name="tc_diagnostic_fragment_default">"Quant al diagnòstic 1. El dispositiu es connectarà a la xarxa de l\'operador, enviarà un missatge de franc i esperarà la resposta de la companyia. Això pot trigar fins a 5 minuts. 2. Podreu sortir d\'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
 ---------------------------------------------------------------------------------------
  <string name="traffic_setting_fragment_default">Trieu</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
----------------------------------------------------------------------------------------
- <string name="daily_card_setting_fragment_daily_card_brand_value">Seleccioneu l\'operador</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -824,12 +740,6 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_xspace_title"
 ---------------------------------------------------------------------------------------
  <string name="xspace_default_guide_notification_xspace_title">S\'està utilitzant aplicacions duals</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
----------------------------------------------------------------------------------------
- <string name="xspace_default_setting_dialog_title"> per defecte</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1124,24 +1034,6 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Personalitzat</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
----------------------------------------------------------------------------------------
- <string name="err_msg_pending_value">S\'està estimant el cost…</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
----------------------------------------------------------------------------------------
- <string name="online_recognize_order_service_type_value">Transcripció d’àudio en línia</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
----------------------------------------------------------------------------------------
- <string name="online_recognize_order_unit_price_value">%s CNY/hora</string>
 
 
 ---------------------------------------------------------------------------------------

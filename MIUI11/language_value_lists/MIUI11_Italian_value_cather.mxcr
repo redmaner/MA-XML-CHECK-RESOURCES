@@ -127,6 +127,7 @@ all MiuiGallery.apk strings.xml movie_audio_default
 all MiuiGallery.apk strings.xml photo_editor_font_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
+all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
 all MiuiHome.apk strings.xml announce_for_close_default_preview
 all MiuiHome.apk strings.xml announce_for_open_default_preview
@@ -265,6 +266,8 @@ all Traceur.apk strings.xml tts_default_pitch_title
 all Traceur.apk strings.xml tts_default_rate_summary
 all Traceur.apk strings.xml tts_default_rate_title
 all Traceur.apk strings.xml tts_default_sample_string
+all Updater.apk strings.xml default_filedownloader_notification_content
+all Updater.apk strings.xml default_filedownloader_notification_title
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all XMRemoteController.apk strings.xml feedback_desc_default
 all YellowPage.apk strings.xml mark_number_dialog_default_sub_title
