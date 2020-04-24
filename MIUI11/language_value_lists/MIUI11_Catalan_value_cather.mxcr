@@ -105,8 +105,21 @@ all Notes.apk strings.xml repeat_mode_default
 all Notes.apk strings.xml todo_audio_default_content
 all NQNfcNci.apk strings.xml default_pay_app_removed
 all PaymentService.apk strings.xml mibi_prepaid_picker_title_default
+all PaymentService.apk strings.xml mibi_recharge_value_money
+all PaymentService.apk strings.xml mibi_recharge_value_money_special_unit
+all PaymentService.apk strings.xml mibi_unit_value
+all PaymentService.apk strings.xml mibi_unit_value_redeemed
+all PaymentService.apk strings.xml mibi_unit_value_remained
+all PersonalAssistant.apk strings.xml display_weather_default
 all PersonalAssistant.apk strings.xml navigation_search_default_hint
+all PersonalAssistant.apk strings.xml notification_channel_default
+all PersonalAssistant.apk strings.xml notification_channel_default_description
 all PersonalAssistant.apk strings.xml setting_didi_default_way
+all PersonalAssistant.apk strings.xml upgrade_log_default
+all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
+all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
+all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
+all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
 all SecurityCenter.apk strings.xml ad_btn_default_text
 all SecurityCenter.apk strings.xml app_manager_default_cleared
 all SecurityCenter.apk strings.xml app_manager_default_close_summary
@@ -115,6 +128,7 @@ all SecurityCenter.apk strings.xml app_manager_default_open_title
 all SecurityCenter.apk strings.xml app_manager_defaults_setting
 all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
+all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all SecurityCoreAdd.apk strings.xml space_des_default
 all SecurityCoreAdd.apk strings.xml space_name_default
 all SecurityCoreAdd.apk strings.xml xspace_default_app_summary
@@ -122,6 +136,7 @@ all SecurityCoreAdd.apk strings.xml xspace_default_app_title
 all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_content
 all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_main_title
 all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_title
+all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all Settings.apk arrays.xml common_password_business_clickable_default
 all Settings.apk arrays.xml default_vol_stream_entries
@@ -171,6 +186,9 @@ all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml tether_limit_value_custom
+all SoundRecorder.apk strings.xml err_msg_pending_value
+all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
+all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
 all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml change_default_dialer_dialog_negative
 all Telecom.apk strings.xml change_default_dialer_warning_message
