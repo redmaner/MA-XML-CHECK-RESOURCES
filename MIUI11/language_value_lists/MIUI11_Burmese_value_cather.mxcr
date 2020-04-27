@@ -66,6 +66,7 @@ all framework-res.apk strings.xml etws_primary_default_message_test
 all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
 all framework-res.apk strings.xml zen_mode_default_every_night_name
+all FrequentPhrase.apk arrays.xml default_phrases
 all Health.apk strings.xml improve_your_health_default_tips
 all Health.apk strings.xml preference_update_default_title
 all Health.apk strings.xml revert_to_default
@@ -76,7 +77,6 @@ all MiRadio.apk arrays.xml sleep_duration_values
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAod.apk strings.xml signature_default_content
-all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
@@ -100,6 +100,8 @@ all MiuiHome.apk strings.xml default_folder_title_telcel
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml default_shortcut_title_10086
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiScreenRecorder.apk arrays.xml screenrecorder_settings_resolution_values
 all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
@@ -196,6 +198,7 @@ all Settings.apk strings.xml default_launcher_set_jeejen_message
 all Settings.apk strings.xml default_launcher_set_system_message
 all Settings.apk strings.xml default_launcher_title
 all Settings.apk strings.xml default_rule_name
+all Settings.apk strings.xml default_suppression_title
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_summary
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_title
 all Settings.apk strings.xml importance_default
