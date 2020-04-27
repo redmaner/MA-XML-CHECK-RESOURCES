@@ -61,7 +61,7 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 ---------------------------------------------------------------------------------------
 folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
- <string name="cloud_storage_default_title">Cloud storage</string>
+ <string name="cloud_storage_default_title">Складиште cloud-а</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -293,6 +293,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Заглавље фактуре: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Адреса: улица, број, град, држава/регион, провинција, поштански број</item> <item>Молим Вас оставите пакет испред врата. Хвала!</item> <item>Сачекајте минут, враћам се брзо.</item> <item>На састанку сам. Молим Вас пошаљите ми текстуалну поруку.</item> <item>Не могу сада да разговарам. Назваћу Вас чим то буде могуће.</item> <item>Хвала!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
  <string name="improve_your_health_default_tips">Вежбајте и довољно спавајте да бисте остали здрави.</string>
@@ -350,12 +356,6 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Увек верујте да ће се нешто предивно догодити"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">TextView</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -433,13 +433,13 @@ folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_close_default_preview"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_close_default_preview">Затворене су поставке задатог Почетног екрана</string>
+ <string name="announce_for_close_default_preview">Затворена су подешавања задатог Почетног екрана</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_preview"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_open_default_preview">Отворене су поставке задатог Почетног екрана</string>
+ <string name="announce_for_open_default_preview">Отворена су подешавања задатог Почетног екрана</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -494,6 +494,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_1008
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Постави задати екран</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Иск.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Ук.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1052,6 +1064,12 @@ folder="all" application="Settings.apk" xml="" name="default_notification_assist
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
  <string name="default_rule_name">Тајмер 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">Задато (Препоручено)</string>
 
 
 ---------------------------------------------------------------------------------------

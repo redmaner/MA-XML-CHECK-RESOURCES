@@ -59,9 +59,45 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="cit.apk" xml="" name="dsi_value"
+---------------------------------------------------------------------------------------
+ <string name="dsi_value">‏‮DSI‬‏ ‏‮value‬‏</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="cit.apk" xml="" name="invalidvalues"
+---------------------------------------------------------------------------------------
+ <string name="invalidvalues">‏‮Invalid‬‏ ‏‮channel‬‏</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="cit.apk" xml="" name="max_value"
+---------------------------------------------------------------------------------------
+ <string name="max_value">‏‮Max:‬‏</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="cit.apk" xml="" name="min_value"
+---------------------------------------------------------------------------------------
+ <string name="min_value">‏‮Min:‬‏</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="cit.apk" xml="" name="proximity_sensor_test_values"
+---------------------------------------------------------------------------------------
+ <string name="proximity_sensor_test_values">‏‮Proximity‬‏ ‏‮sensor‬‏ ‏‮values‬‏</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="cit.apk" xml="" name="sarsensordifftest_direction_currentvalue"
+---------------------------------------------------------------------------------------
+ <string name="sarsensordifftest_direction_currentvalue">‏‮Current‬‏ ‏‮Value:‬‏</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
- <string name="cloud_storage_default_title">Cloud storage</string>
+ <string name="cloud_storage_default_title">تخزين Cloud</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -293,6 +329,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>عنوان الفاتورة: شركة ***</item> <item>العنوان: الشارع، شقة، المدينة، البلد/المنطقة، المقاطعة، الرمز البريدي</item> <item>من فضلك اترك البريد بجانب الباب. شكرا!</item> <item>انتظر قليلا، أنا في الطريق أليك.</item> <item>أنا في أجتماع. من فضلك أرسل رساله نصية.</item> <item>لا يمكنني التحدث الآن. سأتصل بك في أقرب وقت ممكن.</item> <item>شكرا!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
  <string name="improve_your_health_default_tips">تمرن ونم جيدا للبقاء في في صحة جيدة.</string>
@@ -350,12 +392,6 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"دائماً اعتقد ان شيئاً رائعا على وشك الحدوث"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">TextView</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -494,6 +530,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_1008
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">تعيين الشاشة الإفتراضية</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">متوقف</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">مشغل</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1058,6 +1106,12 @@ folder="all" application="Settings.apk" xml="" name="default_notification_assist
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
  <string name="default_rule_name">المؤقت ١</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">افتراضي (موصى به)</string>
 
 
 ---------------------------------------------------------------------------------------

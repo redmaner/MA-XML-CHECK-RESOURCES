@@ -383,6 +383,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>כותרת חשבונית: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>כתובת: רחוב, דירה, עיר, מדינה/מחוז, חבל, מיקוד</item> <item>נא להשאיר את החבילה ליד הדלת. תודה!</item> <item>חכו רגע, מיד אשוב.</item> <item>אני בישיבה. נא לשלוח הודעת טקסט.</item> <item>לא אוכל לדבר עכשיו. אחזור אליכם בהקדם האפשרי.</item> <item>תודה!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
  <string name="improve_your_health_default_tips">בצע פעילות גופנית וצבור מספיק שעות שינה על מנת להישאר בריא.</string>
@@ -458,12 +464,6 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">האמן תמיד כי משהו נפלא עומד להתרחש</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">תצוגת טקסט</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -602,6 +602,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_1008
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">הגדרת מסך ברירת מחדל</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">כיבוי</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">הפעלה</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1178,6 +1190,12 @@ folder="all" application="Settings.apk" xml="" name="default_launcher_title"
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
  <string name="default_rule_name">טיימר 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">ברירת המחדל (מומלץ)</string>
 
 
 ---------------------------------------------------------------------------------------

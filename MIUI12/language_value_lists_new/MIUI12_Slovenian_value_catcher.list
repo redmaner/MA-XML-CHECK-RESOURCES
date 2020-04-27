@@ -275,9 +275,27 @@ folder="all" application="EasterEgg.apk" xml="" name="default_tile_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_exchange"
+---------------------------------------------------------------------------------------
+ <string name="default_exchange">EXCHANGE</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_imap"
+---------------------------------------------------------------------------------------
+ <string name="default_imap">IMAP</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
 ---------------------------------------------------------------------------------------
  <string name="default_opening_attchemnt_mode">Odpri priponke z privzeto aplikacijo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_pop3"
+---------------------------------------------------------------------------------------
+ <string name="default_pop3">POP3</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -926,6 +944,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_def
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="t_lv_subtitle_padding_default_hint">Prilagajanje podnapisov…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Povleci dol za odpiranje zasebne mape</string>
 
 
 ---------------------------------------------------------------------------------------

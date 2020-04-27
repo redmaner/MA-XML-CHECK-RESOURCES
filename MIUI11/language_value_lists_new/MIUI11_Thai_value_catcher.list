@@ -299,6 +299,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>ส่วนหัวของใบแจ้งหนี้: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>ที่อยู่: ุถนน, อพาร์ทเม้น, เมือง, ประเทศ/ภูมิภาค, จังหวัด, รหัสไปรษณีย์</item> <item>กรุณาวางแพคเกจไว้ที่ประตู ขอบคุณ!</item> <item>รอสักครู่ เดี๋ยวฉันจะกลับมา</item> <item>ฉันกำลังประชุม กรุณาส่งข้อความ</item> <item>ฉันไม่สามารถคุยได้ตอนนี้ ฉันจะโทรกลับหาคุณโดยเร็วที่สุด</item> <item>ขอบคุณ!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
  <string name="improve_your_health_default_tips">ออกกำลังกายและนอนหลับให้เพียงพอเพื่อสุขภาพที่ดี</string>
@@ -356,12 +362,6 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"เชื่ออยู่เสมอว่าสิ่งดีๆ กำลังจะเกิดขึ้น"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">TextView</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -500,6 +500,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_1008
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">ตั้งค่าหน้าจอเริ่มต้น</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">ปิด</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">เปิด</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1063,7 +1075,13 @@ folder="all" application="Settings.apk" xml="" name="default_notification_assist
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
- <string name="default_rule_name">กำหนดเวลา 1</string>
+ <string name="default_rule_name">ตัวจับเวลา 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">ค่าเริ่มต้น (แนะนำ)</string>
 
 
 ---------------------------------------------------------------------------------------
