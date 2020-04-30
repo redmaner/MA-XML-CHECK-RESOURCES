@@ -29,6 +29,10 @@ all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml work_day_default_banner_title
+all Calendar.apk strings.xml load_more_events_default
+all Calendar.apk strings.xml miuix_search_history_default_title
+all Calendar.apk strings.xml miuix_search_recommendation_default_title
+all Calendar.apk strings.xml pull_refresh_events_default
 all Cit.apk strings.xml cit_tool_mbn_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_no_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_recovery_default
@@ -83,7 +87,10 @@ all MiRadio.apk arrays.xml sleep_duration_values
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
+all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
+all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml dualcamera_watermark_default
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
@@ -101,6 +108,7 @@ all MiuiGallery.apk strings.xml photomovie_audio_default
 all MiuiGallery.apk strings.xml photomovie_template_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
+all MiuiGallery.apk strings.xml security_share_subtitle_default
 all MiuiHome.apk arrays.xml wallpaper_scroll_values
 all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
@@ -166,6 +174,7 @@ all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
 all Mms.apk strings.xml rcs_pref_video_message_default_quality
 all Notes.apk strings.xml audio_panel_time_counter_default
+all Notes.apk strings.xml private_entry_default
 all Notes.apk strings.xml repeat_mode_default
 all Notes.apk strings.xml todo_audio_default_content
 all NotificationCenter.apk strings.xml default_list_type
@@ -248,6 +257,7 @@ all Settings.apk strings.xml slider_vocie_online_default
 all Settings.apk strings.xml usb_default_info
 all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
+all Settings.apk strings.xml default_keyboard
 all Settings.apk strings.xml tether_limit_value_custom
 all Settings.apk strings.xml accessibility_timeout_default
 all Settings.apk strings.xml default_for_calls
@@ -299,3 +309,6 @@ all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all YellowPage.apk strings.xml mark_number_dialog_default_sub_title
 all YellowPage.apk strings.xml navigation_search_default_hint
 all YellowPage.apk strings.xml recharge_charge_value
+all Zman.apk strings.xml first_settings_default_camera_title
+all Zman.apk strings.xml first_settings_default_location_subtitle
+all Zman.apk strings.xml first_settings_default_location_title
