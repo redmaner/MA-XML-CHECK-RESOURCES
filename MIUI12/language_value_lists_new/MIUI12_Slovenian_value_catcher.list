@@ -155,9 +155,33 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Pokaži dogodke naslednjega leta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Zgodovina iskanja</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Morda vas bo zanimalo</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Izberite dogodke</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Pokaži dogodke iz preteklega leta</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -629,6 +653,78 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Samodejno vzpostavljena povezava prek ponudnika ocenjevanja omrežij</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Ni privzetih nastavitev</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s/%2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Nastavite glas, odvisen od jezika, za govorjeno besedilo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Jezik</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Vpliva na ton sintetiziranega govora</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Višina tona</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Hitrost govorjenega besedila</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Hitrost govora</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">To je primer sinteze govora.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_48m_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
@@ -674,6 +770,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name
 folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
 ---------------------------------------------------------------------------------------
  <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Zaščita zasebnosti</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1286,6 +1388,12 @@ folder="all" application="Music.apk" xml="" name="com_facebook_tooltip_default"
 folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 ---------------------------------------------------------------------------------------
  <string name="default_pay_app_removed">Vaša izbrana storitev za opcijo Tapni in plačaj je odstranjena. Želite izbrati drugo?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Podrsaj dol za odpiranje zasebne mape</string>
 
 
 ---------------------------------------------------------------------------------------

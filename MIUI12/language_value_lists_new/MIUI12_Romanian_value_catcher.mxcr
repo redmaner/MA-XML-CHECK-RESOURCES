@@ -24,7 +24,11 @@ all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
+all Calendar.apk strings.xml load_more_events_default
+all Calendar.apk strings.xml miuix_search_history_default_title
+all Calendar.apk strings.xml miuix_search_recommendation_default_title
 all Calendar.apk strings.xml preferences_alarms_default_event
+all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml work_day_default_banner_title
 all Cit.apk strings.xml cit_audio_cali_valueF0
 all Cit.apk strings.xml cit_audio_cali_valueR
@@ -102,9 +106,6 @@ all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
-all MiuiCamera.apk strings.xml pref_camera_coloreffect_default
-all MiuiCamera.apk strings.xml pref_camera_long_press_shutter_feature_default
-all MiuiCamera.apk strings.xml pref_camera_volumekey_function_default
 all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_video_hfr_entryvalue_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr

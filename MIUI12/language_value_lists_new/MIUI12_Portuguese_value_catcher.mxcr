@@ -171,5 +171,10 @@ all Telecom.apk strings.xml change_default_dialer_dialog_negative
 all Telecom.apk strings.xml change_default_dialer_warning_message
 all Telecom.apk strings.xml connected_via_network_scorer_default
 all TeleService.apk strings.xml launch_defaults_some
+all TeleService.apk strings.xml msim_setting_default_data
+all TeleService.apk strings.xml msim_setting_default_voice
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all Zman.apk strings.xml first_settings_default_camera_title
+all Zman.apk strings.xml first_settings_default_location_subtitle
+all Zman.apk strings.xml first_settings_default_location_title

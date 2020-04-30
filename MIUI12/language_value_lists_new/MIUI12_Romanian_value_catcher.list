@@ -1,295 +1,313 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
----------------------------------------------------------------------------------------
- <string name="default_notification_channel_label">Nema kategorije</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake">Ostanite mirni i potražite sklonište u blizini.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake_and_tsunami">Ostanite mirni i potražite sklonište u blizini.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_test">Test hitnih poruka</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_tsunami">Odmah se evakuirajte s obalnih područja i područja uz rijeku na sigurnije mjesto, primjerice povišeno područje.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="accessibility_summary_default_combination">%1$s/%2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
----------------------------------------------------------------------------------------
- <string name="app_default_dashboard_title">Zadane aplikacije</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
----------------------------------------------------------------------------------------
- <string name="auto_brightness_default_title">Zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
----------------------------------------------------------------------------------------
- <string name="auto_brightness_summary_default">Željena je svjetlina zadana</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
----------------------------------------------------------------------------------------
- <string name="default_calendar_app_title">Aplikacija Kalendar</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
----------------------------------------------------------------------------------------
- <string name="default_contacts_app_title">Aplikacija Kontakti</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_map_app_title"
----------------------------------------------------------------------------------------
- <string name="default_map_app_title">Aplikacija Karta</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
----------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Pomoćnik za obavijesti</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_theme"
----------------------------------------------------------------------------------------
- <string name="default_theme">Zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
----------------------------------------------------------------------------------------
- <string name="enterprise_privacy_enterprise_set_default_apps">Zadane aplikacije</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
----------------------------------------------------------------------------------------
- <string name="notification_importance_default_title">Visoka</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notification_sound_default"
----------------------------------------------------------------------------------------
- <string name="notification_sound_default">Zadani zvuk obavijesti</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
----------------------------------------------------------------------------------------
- <string name="wallpaper_settings_summary_default">Zadano</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 ---------------------------------------------------------------------------------------
- <string name="bt_sm_2_1_default">Na SD kartici nema dovoljno prostora za spremanje datoteke koju šalje \"%1$s\"</string>
+ <string name="bt_sm_2_1_default">"Nu există suficient spaţiu pe cardul SD pentru a salva fişierul de la \"%1$s\""</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 ---------------------------------------------------------------------------------------
- <string name="status_no_sd_card_default">Nema SD kartice. Umetnite SD karticu kako biste spremili prenesene datoteke.</string>
+ <string name="status_no_sd_card_default">Nu există niciun card SD. Introduceți un card SD pentru a salva fișierele transferate.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_cancel">Renunțați</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_confirm">OK</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_content"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_content">Navigare pe internet rapidă și sigură</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_title">Setați ca browser implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
- <string name="download_dialog_file_length_default_txt">Samo trenutak…</string>
+ <string name="download_dialog_file_length_default_txt">Doar o secundă…</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+folder="all" application="Browser.apk" xml="" name="mw_js_dialog_title_default"
 ---------------------------------------------------------------------------------------
- <string name="mw_color_picker_value">Vrijednost</string>
+ <string name="mw_js_dialog_title_default">JavaScript</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="topic_content_default"
+---------------------------------------------------------------------------------------
+ <string name="topic_content_default">subiect</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_0">sq.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_1">sq.cm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_0">CNY</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_1">USD</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_2"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_2">EUR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_0">C</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_1">F</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_0">min</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_1">s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_0">mps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_1">kmps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_0">cu.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_1">cu.cm</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
- <string-array name="default_reminder_later_time_labels"> <item>5 minuta</item> <item>10 minuta</item> <item>15 minuta</item> <item>30 minuta</item> <item>1 sat</item> </string-array>
+ <string-array name="default_reminder_later_time_labels"> <item>5 minute</item> <item>10 minute</item> <item>15 minute</item> <item>30 de minute</item> <item>1 oră</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
- <string-array name="repeat_monthly_on_day_count_values"> <item>prvi ponedeljak</item> <item>prvi utorak</item> <item>prva srijeda</item> <item>prvi četvrtak</item> <item>prvi petak</item> <item>prva subota</item> <item>prva nedjelja</item> <item>drugi ponedeljak</item> <item>drugi utorak</item> <item>druga srijeda</item> <item>drugi četvrtak</item> <item>drugi petak</item> <item>druga subota</item> <item>druga nedjelja</item> <item>treći ponedeljak</item> <item>treći utorak</item> <item>treća srijeda</item> <item>treći četvrtak</item> <item>treći petak</item> <item>treća subota</item> <item>treća nedjelja</item> <item>četvrti ponedeljak</item> <item>četvrti utorak</item> <item>četvrta srijeda</item> <item>četvrti četvrtak</item> <item>četvrti petak</item> <item>četvrta subota</item> <item>četvrta nedjelja</item> <item>zadnji ponedeljak</item> <item>zadnji utorak</item> <item>zadnja srijeda</item> <item>zadnji četvrtak</item> <item>zadnji petak</item> <item>zadnja subota</item> <item>zadnja nedjelja</item> </string-array>
+ <string-array name="repeat_monthly_on_day_count_values"> <item>prima zi de Luni</item> <item>prima zi de Marți</item> <item>prima zi de Miercuri</item> <item>prima zi de Joi</item> <item>prima zi de Vineri</item> <item>prima zi de Sâmbătă</item> <item>prima zi de Duminică</item> <item>a doua zi de Luni</item> <item>a doua zi de Marți</item> <item>a doua zi de Miercuri</item> <item>a doua zi de Joi</item> <item>a doua zi de Vineri</item> <item>a doua zi de Sâmbătă</item> <item>a doua zi de Duminică</item> <item>a treia zi de Luni</item> <item>a treia zi de Marți</item> <item>a treia zi de Miercuri</item> <item>a treia zi de Joi</item> <item>a treia zi de Vineri</item> <item>a treia zi de Sâmbătă</item> <item>a treia zi de Duminică</item> <item>a patra zi de Luni</item> <item>a patra zi de Marți</item> <item>a patra zi de Miercuri</item> <item>a patra zi de Joi</item> <item>a patra zi de Vineri</item> <item>a patra zi de Sâmbătă</item> <item>a patra zi de Duminică</item> <item>ultima zi de Luni</item> <item>ultima zi de Marți</item> <item>ultima zi de Miercuri</item> <item>ultima zi de Joi</item> <item>ultima zi de Vineri</item> <item>ultima zi de Sâmbătă</item> <item>ultima zi de Duminică</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
- <string name="default_reminder_later_time">Zadani interval za \"Podsjeti kasnije\"</string>
+ <string name="default_reminder_later_time">Intervalul implicit pentru \"Amintește-mi mai târziu\"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="free_day_default_banner_title">Bucurați-vă de vacanță!</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
 ---------------------------------------------------------------------------------------
- <string name="load_more_events_default">Prikaži događaje sljedeće godine</string>
+ <string name="load_more_events_default">Vedeți evenimentele de anul viitor</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
 ---------------------------------------------------------------------------------------
- <string name="miuix_search_history_default_title">Povijest pretraživanja</string>
+ <string name="miuix_search_history_default_title">Istoric de căutare</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
 ---------------------------------------------------------------------------------------
- <string name="miuix_search_recommendation_default_title">Možda će vas ovo zanimati</string>
+ <string name="miuix_search_recommendation_default_title">V-ar putea interesa astea</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
- <string name="preferences_alarms_default_event">Odaberite događaje</string>
+ <string name="preferences_alarms_default_event">Selectați evenimentele</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
 ---------------------------------------------------------------------------------------
- <string name="pull_refresh_events_default">Prikaži događaje iz prethodne godine</string>
+ <string name="pull_refresh_events_default">Vedeți evenimentele de anul trecut</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="bluetooth_avrcp_version_values"
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string name="work_day_default_banner_title">Să aveți o zi productivă la servici!</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="connected_via_network_scorer_default"
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
+ <string name="cit_audio_cali_valueF0">F0:</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="launch_defaults_none"
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueR"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Nema zadanih postavki</string>
+ <string name="cit_audio_cali_valueR">Ref_diff:</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="launch_defaults_some"
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s/%2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="screen_zoom_summary_default"
----------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_lang_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Postavlja jezik govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_lang_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Jezik</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_pitch_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_pitch_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Visina glasa</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_rate_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_rate_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Brzina govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CellBroadcastReceiver.apk" xml="" name="tts_default_sample_string"
----------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
+ <string name="cit_audio_cali_valueT">Temp_act:</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
- <string name="cloud_storage_default_title">Cloud pohrana</string>
+ <string name="cloud_storage_default_title">Stocare în cloud</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
 ---------------------------------------------------------------------------------------
- <string name="bind_simcard_default">Zadana SIM kartica za pozive</string>
+ <string name="bind_simcard_default">Cartela SIM implicită pentru apeluri</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
- <string name="contacts_default_notification_channel">Obavijesti</string>
+ <string name="contacts_default_notification_channel">Notificări</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_five">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_one"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_one">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_ten"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_ten">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_three"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_three">3</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_two"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_two">2</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
- <string name="snooze_duration_value">Interval (min.)</string>
+ <string name="snooze_duration_value">Interval (minute)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_fifteen"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_fifteen">15</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_five"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_five">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_one"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_one">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_ten"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_ten">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_thirty"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_thirty">30</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_twenty">20</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_twenty_five">25</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="EasterEgg.apk" xml="" name="default_cat_name"
 ---------------------------------------------------------------------------------------
- <string name="default_cat_name">Mačka #%s</string>
+ <string name="default_cat_name">Pisica #%s</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -313,7 +331,7 @@ folder="all" application="Email.apk" xml="" name="default_imap"
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
 ---------------------------------------------------------------------------------------
- <string name="default_opening_attchemnt_mode">Otvorite privitke pomoću zadanih aplikacija</string>
+ <string name="default_opening_attchemnt_mode">Deschideți atașamentele utilizând aplicațiile implicite</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -325,56 +343,121 @@ folder="all" application="Email.apk" xml="" name="default_pop3"
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_signature_2"
 ---------------------------------------------------------------------------------------
- <string name="default_signature_2">Poslano s mog %s</string>
+ <string name="default_signature_2">Trimis de pe %s-ul meu</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 ---------------------------------------------------------------------------------------
- <string name="file_default_save_path_title">Zadana lokacija za privitke</string>
+ <string name="file_default_save_path_title">Locația implicită pentru salvarea atașamentelor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">No defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Some defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Language</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Pitch</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Speech rate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">This is an example of speech synthesis</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_prize_text"
+---------------------------------------------------------------------------------------
+ <string name="default_prize_text">Asta intră direct în comoara mea!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_user_desc"
+---------------------------------------------------------------------------------------
+ <string name="default_user_desc">"Această persoană nu a adăugat nicio descriere încă"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
 ---------------------------------------------------------------------------------------
- <string name="user_desc_default_tip">Prijavite se da sakupljate bodove i osvojite vrijedne nagrade.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorerGlobal.apk" xml="" name="default_cache_type"
----------------------------------------------------------------------------------------
- <string name="default_cache_type">Podatkovne datoteke</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorerGlobal.apk" xml="" name="default_change_log"
----------------------------------------------------------------------------------------
- <string name="default_change_log">Ažurirajte aplikaciju da biste provjerili nove značajke.</string>
+ <string name="user_desc_default_tip">Autentificați-vă pentru a colecta puncte și a câștiga premii.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
- <string name="default_debt_msg_words">"Ovaj je uređaj zaključan zbog kasne rate plaćanja.
-Kontaktirajte svog prodajnog agenta za detalje."</string>
+ <string name="default_debt_msg_words">"Acest telefon este blocat din cauza unei plăți neefectuate la timp. Contactați agentul de vânzări pentru mai multe detalii."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="default_device_name">Nepoznati uređaj</string>
+ <string name="default_device_name">Dispozitiv necunoscut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">Cartela SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
- <string name="app_suspended_default_message">Aplikacija %1$s trenutačno nije dostupna. Ovime upravlja aplikacija %2$s.</string>
+ <string name="app_suspended_default_message">%1$s nu este disponibilă acum. Aceasta este gestionată de către %2$s.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
 ---------------------------------------------------------------------------------------
- <string name="biometric_dialog_default_title">Potvrdite da ste to vi</string>
+ <string name="biometric_dialog_default_title">Verificăm că sunteți dvs</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -390,39 +473,57 @@ folder="all" application="framework-res.apk" xml="" name="default_audio_route_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_browser"
+---------------------------------------------------------------------------------------
+ <string name="default_browser"/>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_channel_label">Nema kategorije</string>
+ <string name="default_notification_channel_label">Fără categorie</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake">Ostanite mirni i potražite sklonište u blizini.</string>
+ <string name="etws_primary_default_message_earthquake">Rămâneți calm și căutați un adăpost în apropiere.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake_and_tsunami">Ostanite mirni i potražite sklonište u blizini.</string>
+ <string name="etws_primary_default_message_earthquake_and_tsunami">Rămâneți calm și căutați un adăpost în apropiere.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_others"/>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_test">Test hitnih poruka</string>
+ <string name="etws_primary_default_message_test">Test mesaje de urgență</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_tsunami">Odmah se evakuirajte s obalnih područja i područja uz rijeku na sigurnije mjesto, primjerice povišeno područje.</string>
+ <string name="etws_primary_default_message_tsunami">Evacuați imediat zonele de coastă și cele din apropierea râurilor și căutați un loc mai sigur cum ar fi un deal.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="gsm_alphabet_default_charset"
+---------------------------------------------------------------------------------------
+ <string name="gsm_alphabet_default_charset"/>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
 ---------------------------------------------------------------------------------------
- <string name="popup_window_default_title">Skočni prozor</string>
+ <string name="popup_window_default_title">Fereastră pop-up</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -446,43 +547,49 @@ folder="all" application="framework-res.apk" xml="" name="wifi_localhotspot_conf
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
 ---------------------------------------------------------------------------------------
- <string name="zen_mode_default_every_night_name">Spavanje</string>
+ <string name="zen_mode_default_every_night_name">Somn</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Zaglavlje računa: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresa: Ulica, Stan, Grad, Država/Regija, Pokrajina, Poštanski broj</item> <item>Molim vas, ostavite paket pred vratima. Hvala!</item> <item>"Pričekajte minutu, odmah se vraćam."</item> <item>"Na sastanku sam. Pošaljite SMS poruku."</item> <item>"Ne mogu sada razgovarati. Nazvat ću te što prije."</item> <item>Hvala!</item> </string-array>
+ <string-array name="default_phrases"> <item>Antetul facturii: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item> <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item> <item>Așteaptă puțin, mă întorc imediat.</item> <item>Sunt într-o ședință. Vă rog să-mi trimiteți mesaj.</item> <item>Nu pot vorbi acum. Revin cu un telefon imediat.</item> <item>Mulțumesc!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
- <string name="improve_your_health_default_tips">Vježbajte i dovoljno spavajte da biste ostali zdravi.</string>
+ <string name="improve_your_health_default_tips">Faceți exerciții și odihniți-vă îndeajuns pentru a vă menține sănătos.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="preference_update_default_title"
 ---------------------------------------------------------------------------------------
- <string name="preference_update_default_title">Verzija</string>
+ <string name="preference_update_default_title">Versiune</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="revert_to_default"
 ---------------------------------------------------------------------------------------
- <string name="revert_to_default">Vrati na zadane postavke</string>
+ <string name="revert_to_default">Restaurați setările implicite</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="sleep_tip_default"
 ---------------------------------------------------------------------------------------
- <string name="sleep_tip_default">Pokušajte otići u krevet prije 23:00</string>
+ <string name="sleep_tip_default">Încercați să mergeți la culcare înainte de ora 23:00</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="tips_default"
 ---------------------------------------------------------------------------------------
- <string name="tips_default">Ovdje još nema ničega.</string>
+ <string name="tips_default">Nu există date</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="text_no_value"
+---------------------------------------------------------------------------------------
+ <string name="text_no_value">--</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -492,501 +599,435 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_values"
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
- <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="announce_for_choose_default_screen"
----------------------------------------------------------------------------------------
- <string name="announce_for_choose_default_screen">Postavi zaslon %1$d kao zadani Početni zaslon</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="announce_for_close_default_preview"
----------------------------------------------------------------------------------------
- <string name="announce_for_close_default_preview">Zatvorene zadane postavke Poč. zaslona</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="announce_for_open_default_preview"
----------------------------------------------------------------------------------------
- <string name="announce_for_open_default_preview">Otvorene zadane postavke Poč. zaslona</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_claro"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_claro">Claro</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_game"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_game">Igre</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_meitu"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_meitu">Meitu apl.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_microsoft"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">Microsoft</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_recommend"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_recommend">Više aplikacija</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_security"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_security">Sustav</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_services"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_services">Usluge</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_telcel"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_telcel">Telcel</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_folder_title_tools"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_tools">Alati</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_screen_preview_title"
----------------------------------------------------------------------------------------
- <string name="default_screen_preview_title">Postavi zadani zaslon</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="default_shortcut_title_10086"
----------------------------------------------------------------------------------------
- <string name="default_shortcut_title_10086">10086.cn</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="menu_default_screen_preview"
----------------------------------------------------------------------------------------
- <string name="menu_default_screen_preview">Postavi zadani zaslon</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiLauncherGlobal.apk" xml="" name="recommend_apps_default_title"
----------------------------------------------------------------------------------------
- <string name="recommend_apps_default_title">Prazno</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
----------------------------------------------------------------------------------------
- <string-array name="sleep_duration_values"> <item>15 minuta</item> <item>30 minuta</item> <item>45 minuta</item> <item>1 sat</item> </string-array>
+ <string name="system_default">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
- <string name="default_error_msg">Nešto je pošlo po zlu!</string>
+ <string name="default_error_msg">Ceva nu a mers bine!</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiSettings.apk" xml="" name="restore_default"
 ---------------------------------------------------------------------------------------
- <string name="restore_default">Vrati na zadane postavke</string>
+ <string name="restore_default">Restaurați setările implicite</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 ---------------------------------------------------------------------------------------
- <string name="hsv_space_color_value">Vrijednost</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiShare.apk" xml="" name="default_device_name"
----------------------------------------------------------------------------------------
- <string name="default_device_name">Nepoznati uređaj</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
----------------------------------------------------------------------------------------
- <string name="preference_value_create_shortcut">Create</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
----------------------------------------------------------------------------------------
- <string name="preference_value_has_shortcut">Created</string>
+ <string name="hsv_space_color_value">Valoare</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
- <string name="signature_default_content">"Samo za vas; by MASVA"</string>
+ <string name="signature_default_content">"Crede întotdeauna că ceva minunat urmează să se întâmple"</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_scorer_default"
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
+ <string name="pref_video_hfr_entryvalue_default">5:120</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_none"
+folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Nema zadanih postavki</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s / %2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="screen_zoom_summary_default"
----------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Postavlja jezik govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Jezik</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Visina glasa</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Brzina govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
----------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">Pregled teksta</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
----------------------------------------------------------------------------------------
- <string name="custom_sound_default">Zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_48m_watermark_default_text"
----------------------------------------------------------------------------------------
- <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
+ <string name="device_ultra_pixel_watermark_default_text">Cameră triplă de 48MP</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
 ---------------------------------------------------------------------------------------
- <string name="device_watermark_default_text">AI DVOJNA KAMERA</string>
+ <string name="device_watermark_default_text">AI Cameră triplă</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_encoder_default">h264</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_hfr_entryvalue_default">5:120</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value_abbr">EV</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Oprit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Film</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Fotografie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_value_title">Zoom</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_hfr_entryvalue_default">5:120</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_1080p_60fps"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_4kuhd_60fps"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
- <string name="motion_photo_toast_default">Zadano</string>
+ <string name="motion_photo_toast_default">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
- <string name="channel_default_name">Nove značajke</string>
+ <string name="channel_default_name">Caracteristici noi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="default_device_name">Nepoznati uređaj</string>
+ <string name="default_device_name">Dispozitiv necunoscut</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 ---------------------------------------------------------------------------------------
- <string name="default_relation_name">Nova grupa</string>
+ <string name="default_relation_name">Grup nou</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
 ---------------------------------------------------------------------------------------
- <string name="mark_myself_default_name">Ja</string>
+ <string name="mark_myself_default_name">Eu</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
 ---------------------------------------------------------------------------------------
- <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
----------------------------------------------------------------------------------------
- <string name="security_share_subtitle_default">Zaštita privatnosti</string>
+ <string name="photo_editor_font_default">Mi Lanting (Obișnuit)</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
 ---------------------------------------------------------------------------------------
- <string name="text_edit_dialog_font_default">Zadano</string>
+ <string name="text_edit_dialog_font_default">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
 ---------------------------------------------------------------------------------------
- <string name="video_editor_text_default">Zadano</string>
+ <string name="video_editor_text_default">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 ---------------------------------------------------------------------------------------
- <string name="all_app_category_default">Kategorija</string>
+ <string name="all_app_category_default">Categorie</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_choose_default_screen">Postavi zaslon %1$d kao zadani početni zaslon</string>
+ <string name="announce_for_choose_default_screen">Setați ecranul %1$d ca și ecran Acasă implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_close_default_preview"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_close_default_preview">Zatvorene zadane postavke Poč. zaslona</string>
+ <string name="announce_for_close_default_preview">S-au închis setările implicite ale ecranului Acasă</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_preview"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_open_default_preview">Otvorili ste zadane postavke Poč. zaslona</string>
+ <string name="announce_for_open_default_preview">S-au dechis setările implicite ale ecranului Acasă</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
 ---------------------------------------------------------------------------------------
- <string name="default_folder_title_meitu">Meitu aplikacije</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
----------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">Microsoft</string>
+ <string name="default_folder_title_meitu">Aplicații Meitu</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
 ---------------------------------------------------------------------------------------
- <string name="default_folder_title_other_apps">Ostale aplikacije</string>
+ <string name="default_folder_title_other_apps">Alte aplicații</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_services"
 ---------------------------------------------------------------------------------------
- <string name="default_folder_title_services">Usluge</string>
+ <string name="default_folder_title_services">Servicii</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_turkcell_uygulamalar"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
- <string name="default_screen_preview_title">Postavi zadani zaslon</string>
+ <string name="default_screen_preview_title">Setați ecranul implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
- <string name="menu_default_screen_preview">Postavi zadani zaslon</string>
+ <string name="menu_default_screen_preview">Setare ecran implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
 ---------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_disable">Isključeno</string>
+ <string name="launcher_search_bar_value_disable">Oprit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
 ---------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_enable">Uključeno</string>
+ <string name="launcher_search_bar_value_enable">Pornit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
- <string name="default_permission_description">izvršiti nepoznatu radnju</string>
+ <string name="default_permission_description">ruleze o acțiune necunoscută</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Nicio aplicație implicită setată</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Unele aplicații implicite sunt setate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Setează vocea specifică pentru rostirea textului</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Limbă</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Afectează tonul vocii sintetizate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Pas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Viteza cu care este rostit textul</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Rată de rostire</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Acesta este un exemplu de rostire sintetizată</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default_array"
+---------------------------------------------------------------------------------------
+ <string-array name="pref_camera_focusmode_default_array"> <item>continuous-picture</item> <item>auto</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_focusmode_default">fotografiere continuă</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
- <string name="setting_default_function">Zadana značajka</string>
+ <string name="setting_default_function">Caracteristică implicită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
+ <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlock_hint_text"
 ---------------------------------------------------------------------------------------
- <string name="default_lockscreen_unlock_hint_text">Povuci gore za otključavanje.</string>
+ <string name="default_lockscreen_unlock_hint_text">Glisați în sus pentru a debloca</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
- <string name="default_theme">Zadana</string>
+ <string name="default_theme">Implicită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_default"
 ---------------------------------------------------------------------------------------
- <string name="keyguard_carrier_default">Nema usluge.</string>
+ <string name="keyguard_carrier_default">Fără serviciu</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Neke su zadane postavljene</string>
+ <string name="launch_defaults_some">Unele aplicații implicite setate</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
 ---------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_content">Dnevni dio svježih slika</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_entry_title"
----------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_entry_title">Detalji o slici pozadine</string>
+ <string name="lock_screen_magazine_default_content">Porția zilnică de imagini noi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
 ---------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="mobile_data_disable_message_default_carrier"
----------------------------------------------------------------------------------------
- <string name="mobile_data_disable_message_default_carrier">vaš mobilni operater</string>
+ <string name="lock_screen_magazine_default_title">Carusel de imagini de fundal</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
 ---------------------------------------------------------------------------------------
- <string name="nav_bar_default">(zadano)</string>
+ <string name="nav_bar_default">(implicit)</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_channel_desc"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_channel_desc">Ova aplikacija nema kategorije obavijesti</string>
+ <string name="notification_default_channel_desc">"Această aplicație nu are categorii de notificări"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_default_channel"
 ---------------------------------------------------------------------------------------
- <string name="notification_header_default_channel">Obavijesti</string>
+ <string name="notification_header_default_channel">Notificări</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_description"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_cast_device_default_description">Spreman za emitiranje</string>
+ <string name="quick_settings_cast_device_default_description">Pregătit de proiecție</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_name"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_cast_device_default_name">Uređaj bez naziva</string>
+ <string name="quick_settings_cast_device_default_name">Dispozitiv fără nume</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
- <string name="accessibility_quick_settings_rotation_value">Način: %s</string>
+ <string name="accessibility_quick_settings_rotation_value">Mod %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideo.apk" xml="" name="notification_default_title"
+---------------------------------------------------------------------------------------
+ <string name="notification_default_title">Videoclip off-line</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
- <string name="alert_dialog_download_default_title">Preuzmi aplikaciju</string>
+ <string name="alert_dialog_download_default_title">Descărcați aplicația</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
 ---------------------------------------------------------------------------------------
- <string name="cast_notification_default_channel_name">Emitiraj</string>
+ <string name="cast_notification_default_channel_name">Proiectare</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
 ---------------------------------------------------------------------------------------
- <string name="cast_tracks_chooser_dialog_default_track_name">Zapis %1$d</string>
+ <string name="cast_tracks_chooser_dialog_default_track_name">Înregistrarea audio %1$d</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">Vi odlučujete – odaberite koje informacije želite podijeliti s aplikacijama.</string>
+ <string name="com_facebook_tooltip_default">"Dețineți controlul - alegeți ce informații doriți să partajați cu aplicațiile."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -998,895 +1039,625 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item3_default_text">Emocije</string>
+ <string name="gallery_video_item3_default_text">Emoții</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item4_default_text">Izlazak sunca</string>
+ <string name="gallery_video_item4_default_text">Răsărit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item5_default_text">Uspomene</string>
+ <string name="gallery_video_item5_default_text">Amintiri</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item6_default_text">Radost</string>
+ <string name="gallery_video_item6_default_text">Fericire</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
 ---------------------------------------------------------------------------------------
- <string name="ovp_default_plugin_name">HD dodatak</string>
+ <string name="ovp_default_plugin_name">Supliment HD</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
 ---------------------------------------------------------------------------------------
- <string name="plus_poster_reset_default">Vrati zadani omot</string>
+ <string name="plus_poster_reset_default">Restaurați coperta implicită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
 ---------------------------------------------------------------------------------------
- <string name="plus_sort_type_default">Zadano</string>
+ <string name="plus_sort_type_default">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
- <string name="subtitle_padding_default_hint">Prilagodba titlova…</string>
+ <string name="subtitle_padding_default_hint">Ajustare subtitrare…</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
- <string name="t_lv_subtitle_padding_default_hint">Podešavanje titlova…</string>
+ <string name="t_lv_subtitle_padding_default_hint">Se ajustează subtitrări</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
- <string name="private_entry_default">Povuci dolje za otvaranje privatne mape</string>
+ <string name="private_entry_default">Glisați în jos pentru a deschide dosarul privat</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_default_sending_method">Zadani način slanja</string>
+ <string name="rcs_pref_default_sending_method">Metodă de trimitere implicită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_picture_message_default_quality">Opcije komprimiranja slike</string>
+ <string name="rcs_pref_picture_message_default_quality">Opțiuni de compresie a imaginii</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_video_message_default_quality">Opcije komprimiranja videozapisa</string>
+ <string name="rcs_pref_video_message_default_quality">Opțiuni de compresie video</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+folder="all" application="ModemTestMode.apk" xml="" name="default_protocol"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Postavi kao zadanu aplikaciju</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_dialog_negative"
----------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_negative">Odustani</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_dialog_title"
----------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_title">Želite li postaviti %s kao zadanu aplikaciju telefona?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="change_default_dialer_warning_message"
----------------------------------------------------------------------------------------
- <string name="change_default_dialer_warning_message">%s će moći uspostaviti poziv i upravljati svim njegovim aspektima. Kao zadanu aplikaciju telefona postavite samo aplikaciju koju smatrate pouzdanom.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="launch_defaults_none"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Nema zadanih postavki</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s / %2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="screen_zoom_summary_default"
----------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="tts_default_lang_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Postavlja jezik govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="tts_default_lang_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Jezik</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="tts_default_pitch_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="tts_default_pitch_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Visina glasa</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="tts_default_rate_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="tts_default_rate_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Brzina govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTelecom.apk" xml="" name="tts_default_sample_string"
----------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="clir_display_values"
----------------------------------------------------------------------------------------
- <string-array name="clir_display_values"> <item>Network default</item> <item>Hide number</item> <item>Show number</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="cb_default_new_channel_name"
----------------------------------------------------------------------------------------
- <string name="cb_default_new_channel_name">New Channel</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_card"
----------------------------------------------------------------------------------------
- <string name="change_default_data_card">Zadani SIM mobilni podaci</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_card_summary"
----------------------------------------------------------------------------------------
- <string name="change_default_data_card_summary">Izgleda da ste promijenili SIM kartice. Postaviti ovu karticu kao zadani SIM za mobilnu podatkovnu vezu?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="clir_choices_network_default"
----------------------------------------------------------------------------------------
- <string name="clir_choices_network_default">Mreža određuje</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="config_default_data_sim"
----------------------------------------------------------------------------------------
- <string name="config_default_data_sim">Postavke</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="connection_service_default_label"
----------------------------------------------------------------------------------------
- <string name="connection_service_default_label">Ugrađena usluga povezivanja</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="default_notification_description"
----------------------------------------------------------------------------------------
- <string name="default_notification_description">Zadani zvuk (%1$s)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary"
----------------------------------------------------------------------------------------
- <string name="default_preference_summary">Nije postavljeno</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_domain_address"
----------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">Nije postavljeno</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_password"
----------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">Nije postavljeno</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_username"
----------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">Nije postavljeno</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="ip_prefix_edit_default_sum"
----------------------------------------------------------------------------------------
- <string name="ip_prefix_edit_default_sum">Enter prefix number for IP dial</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="launch_defaults_none"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Nema zadanih postavki</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="msim_default_setting"
----------------------------------------------------------------------------------------
- <string name="msim_default_setting">Zadane postavke</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="msim_disable_sim_card_summary_default_card"
----------------------------------------------------------------------------------------
- <string name="msim_disable_sim_card_summary_default_card">"Ova kartica je trenutno postavljena kao zadana SIM kartica. Ako je prestanete koristiti, nećete moći upućivati pozive ili koristiti mobilnu podatkovnu vezu. Možete zaustaviti ovu SIM karticu nakon postavljanja druge SIM kartice kao zadane."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="msim_disable_sim_card_summary_non_default_card"
----------------------------------------------------------------------------------------
- <string name="msim_disable_sim_card_summary_non_default_card">Nećete moći upućivati pozive ili koristiti mobilnu podatkovnu vezu. Prestati koristiti %s SIM karticu?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="msim_select_default_time_left"
----------------------------------------------------------------------------------------
- <string name="msim_select_default_time_left">(%d s)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="phone_accounts_default_account_label"
----------------------------------------------------------------------------------------
- <string name="phone_accounts_default_account_label">Nema dostupne mreže</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="preference_dial_pad_touch_tone_default"
----------------------------------------------------------------------------------------
- <string name="preference_dial_pad_touch_tone_default">Zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="respond_via_sms_menu_reset_default_activity"
----------------------------------------------------------------------------------------
- <string name="respond_via_sms_menu_reset_default_activity">Vrati zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="screen_zoom_summary_default"
----------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Zadano</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="sim_description_default"
----------------------------------------------------------------------------------------
- <string name="sim_description_default">SIM kartica, utor: %s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="sum_default_caller_id"
----------------------------------------------------------------------------------------
- <string name="sum_default_caller_id">Koristiti zadane postavke operatera za prikaz mog broja kod odlaznih poziva</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="tts_default_lang_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Postavlja jezik govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="tts_default_lang_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Jezik</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="tts_default_pitch_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="tts_default_pitch_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Visina glasa</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="tts_default_rate_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="tts_default_rate_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Brzina govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="tts_default_sample_string"
----------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="voicemail_default"
----------------------------------------------------------------------------------------
- <string name="voicemail_default">Vaš mobilni operater</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MtkTeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
----------------------------------------------------------------------------------------
- <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Nevažeća vrijednost identifikatora transakcije</string>
+ <string name="default_protocol">IP</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Music.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">"Vi imate kontrolu - odaberite koje informacije želite podijeliti s aplikacijama."</string>
+ <string name="com_facebook_tooltip_default">"Dețineți controlul - alegeți ce informații doriți să partajați cu aplicațiile."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 ---------------------------------------------------------------------------------------
- <string name="default_pay_app_removed">Vaša je odabrana usluga za opciju Dodirni i plati uklonjena. Želite li odabrati drugu?</string>
+ <string name="default_pay_app_removed">Serviciul dvs. preferat pentru atingere și plată a fost eliminat. Selectați un altul?</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Notes.apk" xml="" name="private_entry_default"
+folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
- <string name="private_entry_default">Povuci dolje za otvaranje privatne mape</string>
+ <string name="audio_panel_time_counter_default">00:00</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 ---------------------------------------------------------------------------------------
- <string name="repeat_mode_default">Nikad</string>
+ <string name="repeat_mode_default">Niciodată</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
- <string name="todo_audio_default_content">"[Glasovni zadatak] "</string>
+ <string name="todo_audio_default_content">"[Sarcină vocală] "</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
- <string name="default_list_type">Poredaj po vremenu primitka</string>
+ <string name="default_list_type">Sortați după data recepționării</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
+---------------------------------------------------------------------------------------
+ <string name="default_pay_app_removed">Serviciul dvs preferat pentru atingere și plată a fost eliminat. Alegeți altul?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_title_default"
+---------------------------------------------------------------------------------------
+ <string name="mibi_prepaid_picker_title_default">Selectați suma</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money"
+---------------------------------------------------------------------------------------
+ <string name="mibi_recharge_value_money">Achiziționați Monede Mi în valoare de %s CNY</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money_special_unit"
+---------------------------------------------------------------------------------------
+ <string name="mibi_recharge_value_money_special_unit">Achiziționați Monede Mi în valoare de %1$s %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value">%1$s Monede Mi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redeemed"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_redeemed">%1$s Monede Mi răscumpărate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_remained">%1$s Monede Mi rămase</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="display_temperature_default"
+---------------------------------------------------------------------------------------
+ <string name="display_temperature_default">--℃</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
+---------------------------------------------------------------------------------------
+ <string name="display_weather_default">Atingeți pentru a obține informații despre starea vremii</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">Traži stavke ovdje</string>
+ <string name="navigation_search_default_hint">Căutați elementele aici</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_default">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="notification_channel_default_description"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_default_description">Alte notificări</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_default_way"
 ---------------------------------------------------------------------------------------
- <string name="setting_didi_default_way">Zadana taksi ruta</string>
+ <string name="setting_didi_default_way">Ruta de taxi împlicită</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="setting_uber_default_way"
+folder="all" application="PersonalAssistant.apk" xml="" name="time_default"
 ---------------------------------------------------------------------------------------
- <string name="setting_uber_default_way">Zadana vrsta</string>
+ <string name="time_default">—:—</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
 ---------------------------------------------------------------------------------------
- <string name="upgrade_log_default">"1. Poboljšane performanse. 2. Ispravljene pogreške."</string>
+ <string name="upgrade_log_default">"1. Performanță îmbunătățită. 2. Erori remediate."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PrimaryCardController.apk" xml="" name="default_sim_setting"
+---------------------------------------------------------------------------------------
+ <string name="default_sim_setting">Setări implicite cartelă SIM:</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">" Morate se složiti s Facemoji Pravila o Privatnosti prije korištenja ove značajke."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">" Trebuie să acceptați Politica de Confidențialitate Facemoji înainte de a utiliza această caracteristică."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">" Morate se složiti s Kika Pravila o Privatnosti prije korištenja ove značajke."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
----------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_mint">" Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Keyboard."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_subtitle"
----------------------------------------------------------------------------------------
- <string name="common_use_default_download_path_subtitle">Vrati na zadane postavke</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_title"
----------------------------------------------------------------------------------------
- <string name="common_use_default_download_path_title">Vrati zadanu lokaciju</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="QuickSearchBox.apk" xml="" name="default_download_path_dialog_title"
----------------------------------------------------------------------------------------
- <string name="default_download_path_dialog_title">Vratiti na zadanu lokaciju preuzimanja?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="QuickSearchBox.apk" xml="" name="default_download_path_prefix"
----------------------------------------------------------------------------------------
- <string name="default_download_path_prefix">Zadana lokacija:</string> 
+ <string name="terms_of_use_lable_default_input_method_kika">" Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
- <string name="ad_btn_default_text">Saznajte više</string>
+ <string name="ad_btn_default_text">Aflați mai multe</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_cleared"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_cleared">Očišćeno</string>
+ <string name="app_manager_default_cleared">Golit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_close_summary"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_close_summary">Nema zadanih postavki.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open"
----------------------------------------------------------------------------------------
- <string name="app_manager_default_open">Otvori prema zadanim postavkama</string>
+ <string name="app_manager_default_close_summary">Nicio valoare predefinită setată.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_summary"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_open_summary">Odlučili ste pokrenuti ovu aplikaciju po zadanoj postavci za neke radnje.</string>
+ <string name="app_manager_default_open_summary">Ați ales să lansați această aplicație în mod implicit pentru anumite acțiuni.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_title"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_open_title">Izbriši zadano</string>
+ <string name="app_manager_default_open_title">Ștergeți valorile implicite</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_defaults_setting">Zadane aplikacije</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default"
----------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default">Autom. (preporučeno)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default_short"
----------------------------------------------------------------------------------------
- <string name="cpu_usage_app_bg_restrict_default_short">Autom.</string>
+ <string name="app_manager_defaults_setting">Aplicații implicite</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"O dijagnostici 1. Uređaj će se povezati na mrežu          operatora, poslati besplatnu poruku i čekati odgovor operatora. To može potrajati i do 5 minuta. 2. Možete          napustiti ovu stranicu za dijagnostiku, to će se provesti u pozadini."</string>
+ <string name="tc_diagnostic_fragment_default">"Despre diagnosticare 1. Telefonul se va conecta la rețeaua operatorului, va trimite un mesaj gratuit și va aștepta răspunsul operatorului. Acest lucru poate dura până la 5 minute. 2. Puteți părăsi această pagină în timpul diagnosticării; ea va fi menținută activă în fundal."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
 ---------------------------------------------------------------------------------------
- <string name="traffic_setting_fragment_default">Zadano</string>
+ <string name="traffic_setting_fragment_default">Selectați</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
- <string name="daily_card_setting_fragment_daily_card_brand_value">Odaberite davatelja usluga</string>
+ <string name="daily_card_setting_fragment_daily_card_brand_value">Selectați operatorul</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
 ---------------------------------------------------------------------------------------
- <string name="space_des_default">Izolirani prostor sa šifriranim podacima</string>
+ <string name="space_des_default">Spațiu izolat cu date criptate</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="space_name_default"
 ---------------------------------------------------------------------------------------
- <string name="space_name_default">Radni prostor</string>
+ <string name="space_name_default">Spațiul pentru Servici</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_summary"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_summary">Odaberite zadane aplikacije koje se koriste za prijavu, dijeljenje i glasovnog pomoćnika</string>
+ <string name="xspace_default_app_summary">Setați aplicațiile implicite pentru conectare, partajare și asistență vocală.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_app_title">Personalizacija</string>
+ <string name="xspace_default_app_title">Personalizare</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_content">Dodirnite za promjenu</string>
+ <string name="xspace_default_guide_notification_content">Atingeți pentru a modifica</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_main_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_main_title">Upotreba zadane aplikacije</string>
+ <string name="xspace_default_guide_notification_main_title">Utilizând aplicația implicită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_xspace_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_xspace_title">Upotreba dvojne aplikacije</string>
+ <string name="xspace_default_guide_notification_xspace_title">Utilizând aplicația clonată</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_dialog_title">Zadano</string>
+ <string name="xspace_default_setting_dialog_title"> implicită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_label">Zadana aplik.</string>
+ <string name="xspace_default_setting_label">Personalizare</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="data_network_type_name_default"
+---------------------------------------------------------------------------------------
+ <string-array name="data_network_type_name_default"> <item>4G</item> <item>4G+</item> <item>5G</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Melodija zvona</item> <item>Mediji</item> </string-array>
+ <string-array name="default_vol_stream_entries"> <item>Sunet de apel</item> <item>Media</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
- <string name="accessibility_timeout_default">Zadano</string>
+ <string name="accessibility_timeout_default">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
 ---------------------------------------------------------------------------------------
- <string name="account_dashboard_default_summary">Nije dodan nijedan račun</string>
+ <string name="account_dashboard_default_summary">Niciun cont adăugat</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
 ---------------------------------------------------------------------------------------
- <string name="app_default_dashboard_title">Zadane aplikacije</string>
+ <string name="app_default_dashboard_title">Aplicații implicite</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
 ---------------------------------------------------------------------------------------
- <string name="auto_brightness_default_title">Zadano</string>
+ <string name="auto_brightness_default_title">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="auto_brightness_summary_default">Željena je svjetlina zadana</string>
+ <string name="auto_brightness_summary_default">Nivelul de iluminare preferat este cel implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
+ <string name="connected_via_network_scorer_default">Conectat în mod automat prin rețeaua operatorului</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
 ---------------------------------------------------------------------------------------
- <string name="cutout_mode_default">Autom.</string>
+ <string name="cutout_mode_default">Auto</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
 ---------------------------------------------------------------------------------------
- <string name="default_calendar_app_title">Aplikacija Kalendar</string>
+ <string name="default_calendar_app_title">Aplicația Calendar</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 ---------------------------------------------------------------------------------------
- <string name="default_contacts_app_title">Aplikacija Kontakti</string>
+ <string name="default_contacts_app_title">Aplicația Contacte</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_calls"
 ---------------------------------------------------------------------------------------
- <string name="default_for_calls">Zadano za pozive</string>
+ <string name="default_for_calls">Implicit pentru apeluri</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_calls_and_sms">Zadano za pozive i SMS-ove</string>
+ <string name="default_for_calls_and_sms">Implicit pentru apeluri și SMS-uri</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
 ---------------------------------------------------------------------------------------
- <string name="default_for_mobile_data">Zadano za mobilne podatke</string>
+ <string name="default_for_mobile_data">Implicit pentru date mobile</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_sms">Zadano za SMS-ove</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_keyboard"
----------------------------------------------------------------------------------------
- <string name="default_keyboard">Zadano</string>
+ <string name="default_for_sms">Implicit pentru SMS-uri</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_set_jeejen_message">Pritisnite tipku Početna da biste postavili Jeejen</string>
+ <string name="default_launcher_set_jeejen_message">Apăsați butonul Acasă pentru a seta Jeejen</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_set_system_message">Pritisnite tipku Početna da biste vratili zadani pokretač</string>
+ <string name="default_launcher_set_system_message">Apăsați butonul Acasă pentru a restaura lansatorul implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_title"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_title">Zadani Pokretač</string>
+ <string name="default_launcher_title">Lansator implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_map_app_title"
 ---------------------------------------------------------------------------------------
- <string name="default_map_app_title">Aplikacija Karta</string>
+ <string name="default_map_app_title">Aplicația pentru hărți</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">Prilagodljive obavijesti</string>
+ <string name="default_notification_assistant">Asistent notificări</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
- <string name="default_rule_name">Timer 1</string>
+ <string name="default_rule_name">Regula programată nr. 1</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 ---------------------------------------------------------------------------------------
- <string name="default_suppression_title">Zadano (preporučeno)</string>
+ <string name="default_suppression_title">Implicit (Recomandat)</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
- <string name="default_theme">Zadano</string>
+ <string name="default_theme">Implicită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
 ---------------------------------------------------------------------------------------
- <string name="default_vol_stream_title">Zadana kontrola glasnoće streama</string>
+ <string name="default_vol_stream_title">Control volum flux implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
 ---------------------------------------------------------------------------------------
- <string name="enterprise_privacy_enterprise_set_default_apps">Zadane aplikacije</string>
+ <string name="enterprise_privacy_enterprise_set_default_apps">Aplicații implicite</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_summary">"Ako ograničite pozadinsku vezu, nove aplikacije se neće moći povezati s internetom u pozadini nakon što ih instalirate. Nakon toga neće biti u mogućnosti primati poruke ili preuzeti sadržaj. Ograničiti svejedno?"</string>
+ <string name="firewall_set_bg_firewall_default_dialog_summary">"Dacă restricționați conectarea în fundal, noile aplicații nu se vor putea conecta la internet în fundal după ce se vor instala. Este posibil ca acestea să nu poată primi mesaje sau să descarce conținut după aceasta. Restricționați oricum?"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_title">Ograniči pozadinsku vezu za nove aplikacije</string>
+ <string name="firewall_set_bg_firewall_default_dialog_title">Restricționați conectarea în fundal pentru aplicațiile noi</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
 ---------------------------------------------------------------------------------------
- <string name="game_driver_app_preference_default">Zadano</string>
+ <string name="game_driver_app_preference_default">Implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="help_uri_default"
+---------------------------------------------------------------------------------------
+ <string name="help_uri_default"/>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
- <string name="importance_default">Zadano</string>
+ <string name="importance_default">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_app_default">Otvori u aplikaciji</string>
+ <string name="keywords_app_default">Deschideți cu</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_browser">zadano, zadani preglednik</string>
+ <string name="keywords_default_browser">implicit, browser implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="keywords_default_links"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_links">zadano</string>
+ <string name="keywords_default_links">implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_payment_app">plaćanje, zadano</string>
+ <string name="keywords_default_payment_app">plată, implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
 ---------------------------------------------------------------------------------------
- <string name="media_output_default_summary">Ovaj uređaj</string>
+ <string name="media_output_default_summary">Acest dispozitiv</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
 ---------------------------------------------------------------------------------------
- <string name="modify_default_browser_message">Ako postavite aplikaciju treće strane kao svoj zadani preglednik, ona će možda početi prikupljati vašu povijest pregledavanja i druge podatke. Svejedno postaviti?</string>
+ <string name="modify_default_browser_message">Dacă setați o altă aplicație terță ca și browser implicit, este posibil ca aceasta să colecteze istoricul de navigare și alte date. Setați oricum?</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
- <string name="notifi_importance_default">Reproduciraj zvuk</string>
+ <string name="notifi_importance_default">Redă un sunet</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">Privlači vašu pažnju zvučnim signalima ili vibracijama</string>
+ <string name="notification_channel_summary_default">Vă atrage atenția cu sunete sau vibrații</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
- <string name="notification_importance_default_title">Visoka</string>
+ <string name="notification_importance_default_title">Ridicată</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_sound_default">Zadani zvuk obavijesti</string>
+ <string name="notification_sound_default">Sunet implicit pentru notificare</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
 ---------------------------------------------------------------------------------------
- <string name="overlay_option_device_default">Zadana postavka uređaja</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s / %2$s</string>
+ <string name="overlay_option_device_default">Dispozitiv implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
- <string name="reset_default_apn_failed">Poništavanje zadanih APN-a nije uspjelo</string>
+ <string name="reset_default_apn_failed">Nu s-a putut reseta APN-ul implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
- <string name="slider_vocie_online_default">Ništa</string>
+ <string name="slider_vocie_online_default">Nimic</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
 ---------------------------------------------------------------------------------------
- <string name="theme_customization_device_default">Zadana postavka uređaja</string>
+ <string name="theme_customization_device_default">Implicit pe dispozitiv</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="usb_default_info"
 ---------------------------------------------------------------------------------------
- <string name="usb_default_info">Te će se postavke primjenjivati kada je povezan drugi uređaj, a vaš je telefon otključan. Povežite se samo s pouzdanim uređajima.</string>
+ <string name="usb_default_info">Se vor aplica aceste setări când este conectat un dispozitiv și telefonul este deblocat. Conectați numai dispozitive de încredere.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="usb_default_label"
 ---------------------------------------------------------------------------------------
- <string name="usb_default_label">Zadana konfiguracija USB-a</string>
+ <string name="usb_default_label">Configurație USB implicită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="wallpaper_settings_summary_default">Zadano</string>
+ <string name="wallpaper_settings_summary_default">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1898,282 +1669,246 @@ folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_def
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="zen_mode_custom_behavior_summary_default">Upotrijebi zadane postavke</string>
+ <string name="zen_mode_custom_behavior_summary_default">Utilizați setările implicite</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
- <string name="tether_limit_value_custom">Vlastito</string>
+ <string name="tether_limit_value_custom">Personalizată</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_affirmative">Postavi zadano</string>
+ <string name="err_msg_pending_value">Estimare cost…</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_negative">Otkaži</string>
+ <string name="online_recognize_order_service_type_value">Transcriere audio online</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
+folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_title">Želite li postaviti %s kao zadanu aplikaciju za filtriranje poziva?</string>
+ <string name="online_recognize_order_unit_price_value">%s CNY/oră</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
+folder="all" application="SpacesPolicyApp.apk" xml="" name="default_space_name"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_warning_message">%s će moći vidjeti podatke o pozivateljima koji se ne nalaze u vašim kontaktima i blokirati ih. Kao zadanu aplikaciju za filtriranje poziva postavite samo aplikaciju koju smatrate pouzdanom.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
----------------------------------------------------------------------------------------
- <string name="change_default_call_screening_warning_message_for_disable_old_app">%s više neće moći pregledavati pozive na zaslonu.</string>
+ <string name="default_space_name">Spațiu nedenumit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Postavi kao zadanu aplikaciju</string>
+ <string name="change_default_dialer_dialog_affirmative">Setați Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_negative">Odustani</string>
+ <string name="change_default_dialer_dialog_negative">Renunțați</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_warning_message">%s će moći uspostaviti poziv i upravljati svim njegovim aspektima. Kao zadanu aplikaciju telefona postavite samo aplikaciju koju smatrate pouzdanom.</string>
+ <string name="change_default_dialer_warning_message">%s va putea să realizeze și să controleze toate aspectele apelurilor. Doar aplicațiile în care aveți încredere ar trebui setate ca aplicații implicite de apelare.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s / %2$s</string>
+ <string name="connected_via_network_scorer_default">Conectat în mod automat prin rețeaua furnizorului</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
+ <string name="connected_via_network_scorer_default">Conectat în mod automat prin rețeaua furnizorului</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">Nije postavljeno</string>
+ <string name="default_preference_summary_domain_address">&lt;Nesetat&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">Nije postavljeno</string>
+ <string name="default_preference_summary_password">&lt;Nesetat&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">Nije postavljeno</string>
+ <string name="default_preference_summary_username">&lt;Nesetat&gt;</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="dialer_default_class"
+---------------------------------------------------------------------------------------
+ <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
+ <string name="launch_defaults_some">Unele aplicații implicite setate</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
- <string name="msim_select_default_time_left">(%d s)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
----------------------------------------------------------------------------------------
- <string name="msim_setting_default_data">Podatkovna kartica</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
----------------------------------------------------------------------------------------
- <string name="msim_setting_default_voice">Zadano za pozive</string>
+ <string name="msim_select_default_time_left">(%ds)</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
- <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Nevažeća vrijednost identifikatora transakcije</string>
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Nu s-a putut realiza apelul. Cod eroare 81.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
- <string name="handy_mode_default_to_close_whether_open">Rad jednom rukom isključen je prema zadanim postavkama. Uključiti Rad jednom rukom?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
----------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string name="handy_mode_default_to_close_whether_open">Modul operare cu o mână este oprit în mod implicit. Activați modul Operare cu o mână?</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
+ <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="default_categories"
 ---------------------------------------------------------------------------------------
- <string name="default_categories">Zadano</string>
+ <string name="default_categories">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
 ---------------------------------------------------------------------------------------
- <string name="default_categories_restored">Zadane su kategorije vraćene</string>
+ <string name="default_categories_restored">Categorii implicite restaurate</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_none">Nema zadanih postavki</string>
+ <string name="launch_defaults_none">Nicio aplicație implicită setată</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
+ <string name="launch_defaults_some">Unele aplicații implicite setate</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s/%2$s</string>
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
 ---------------------------------------------------------------------------------------
- <string name="restore_default_categories">Vrati zadane kategorije</string>
+ <string name="restore_default_categories">Restaurați categoriile implicite</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="screen_zoom_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Zadano</string>
+ <string name="screen_zoom_summary_default">Implicit</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_lang_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Postavlja jezik govora</string>
+ <string name="tts_default_lang_summary">Setează vocea implicită pentru rostirea textului</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Jezik</string>
+ <string name="tts_default_lang_title">Limbă</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Utječe na ton sintetiziranog govora</string>
+ <string name="tts_default_pitch_summary">Afectează tonul vocii sintetizate</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Visina glasa</string>
+ <string name="tts_default_pitch_title">Pas</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_rate_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Brzina kojom se izgovara tekst</string>
+ <string name="tts_default_rate_summary">Viteza cu care se va rosti textul</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Brzina govora</string>
+ <string name="tts_default_rate_title">Viteza de rostire</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
+ <string name="tts_default_sample_string">Acesta este un exemplu de rostire sintetizată</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_content">Preuzimatelj datoteka je pokrenut.</string>
+ <string name="default_filedownloader_notification_content">DescărcareaFișierelor rulează.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_title">Preuzimatelj datoteka</string>
+ <string name="default_filedownloader_notification_title">DescărcareaFișierelor</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Weather.apk" xml="" name="information_manager_default_weather_bg"
+folder="all" application="Weather.apk" xml="" name="temperature_unit_default"
 ---------------------------------------------------------------------------------------
- <string name="information_manager_default_weather_bg">Zadana pozadina</string>
+ <string name="temperature_unit_default">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="wind_power_unit_default"
+---------------------------------------------------------------------------------------
+ <string name="wind_power_unit_default">0</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">"Vi imate kontrolu - odaberite informacije koje želite dijeliti s aplikacijama."</string>
+ <string name="com_facebook_tooltip_default">"Dețineți controlul - selectați ce informații doriți să partajați cu aplicațiile."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
 ---------------------------------------------------------------------------------------
- <string name="feedback_desc_default">"Neke tipke ne rade"</string>
+ <string name="feedback_desc_default">"Unele butoane nu funcționează"</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">Unesite riječi koje želite pretražiti</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
----------------------------------------------------------------------------------------
- <string name="first_settings_default_camera_title">Podijeli bez metapodataka prema zadanim postavkama</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
----------------------------------------------------------------------------------------
- <string name="first_settings_default_location_subtitle">Ukloni informacije o lokaciji s dijeljenih fotografija</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
----------------------------------------------------------------------------------------
- <string name="first_settings_default_location_title">Podijeli bez informacija o lokaciji prema zadanim postavkama</string>
+ <string name="navigation_search_default_hint">Căutați locații</string>
 
 

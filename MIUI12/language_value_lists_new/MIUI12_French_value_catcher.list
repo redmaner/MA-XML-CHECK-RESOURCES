@@ -2309,12 +2309,6 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Weather.apk" xml="" name="news_load_more_default"
----------------------------------------------------------------------------------------
- <string name="news_load_more_default">上拉刷新</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">"Vous avez le contrôle: choisissez les informations que vous souhaitez partager avec les applications."</string>

@@ -11759,6 +11759,18 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Zobraziť udalosti na budúci rok</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Zobraziť predchádzajúce udalosti</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
  <string name="cloud_storage_default_title">Cloudové úložisko</string>
@@ -11999,6 +12011,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">Predvolený</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Predvolené</string>
@@ -12080,6 +12098,18 @@ folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_other_apps">Ostatné aplikácie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Vyp</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Zap</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -12260,6 +12290,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Režim %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Potiahnite nižšie pre otvorenie súkromnej zložky</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -12629,6 +12665,12 @@ folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Potiahnite nadol pre otvorenie súkromnej zložky</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
  <string name="default_list_type">Triediť podľa času prijatia</string>
@@ -12953,6 +12995,12 @@ folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Predvolené</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_dialog_affirmative">Nastaviť ako predvolené</string>
@@ -13004,6 +13052,18 @@ folder="all" application="TeleService.apk" xml="" name="default_preference_summa
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Predvolená pre niektoré akcie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Dáta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Hovory</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -13142,5 +13202,23 @@ folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_d
 folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
 ---------------------------------------------------------------------------------------
  <string name="feedback_desc_default">Niektoré tlačidlá nefungujú</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Zdieľať bez metadát ako predvolené</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Odstrániť informácie o polohe na fotografii</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Zdieľať bez informácie o polohe ako predvolené</string>
 
 

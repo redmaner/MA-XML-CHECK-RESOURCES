@@ -83,9 +83,33 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Veure esdeveniments de l\'any següent</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Historial de cerques</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Potser ús interessa això</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Seleccioneu esdeveniments</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Veure els esdeveniments de l\'any anterior</string>
 
 
 ---------------------------------------------------------------------------------------

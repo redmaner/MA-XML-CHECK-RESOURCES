@@ -167,9 +167,33 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Pokaż zdarzenia w przyszłym roku</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Historia wyszukiwania</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Możesz być tym zainteresowany</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Wybierz wydarzenia</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Pokaż wydarzenia z ubiegłego roku</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -461,6 +485,12 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">Domyślny</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_manually_exposure_value">Ręczna ekspozycja</string>
@@ -542,6 +572,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_de
 folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
 ---------------------------------------------------------------------------------------
  <string name="video_editor_text_default">Domyślny</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Ochrona prywatności</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1049,6 +1085,12 @@ folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Przeciągnij w dół, aby otworzyć folder prywatny</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 ---------------------------------------------------------------------------------------
  <string name="repeat_mode_default">Nigdy</string>
@@ -1445,6 +1487,12 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Domyślna</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
 ---------------------------------------------------------------------------------------
  <string name="default_launcher_set_jeejen_message">Kliknij przycisk Ekranu głównego, aby ustawić launcher Jeejen</string>
@@ -1685,6 +1733,18 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Do Internetu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Domyślna do rozmów</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Tryb jednej dłoni jest domyślnie wyłączony. Włączyć teraz?</string>
@@ -1712,5 +1772,23 @@ folder="all" application="Weather.apk" xml="" name="realtime_cityname_default"
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">"Masz kontrolę - wybierz informacje, które chcesz udostępnić aplikacjom."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Udostępniaj domyślnie bez metadanych</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Usuń informacje o lokalizacji z udostępnianych zdjęć</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Udostępniaj domyślnie bez informacji o lokalizacji</string>
 
 

@@ -102,6 +102,8 @@ all MiRecycle.apk strings.xml default_error_msg
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
+all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
+all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiBluetooth.apk strings.xml connected_via_network_scorer_default
 all MiuiBluetooth.apk strings.xml launch_defaults_none
@@ -115,6 +117,8 @@ all MiuiBluetooth.apk strings.xml tts_default_pitch_title
 all MiuiBluetooth.apk strings.xml tts_default_rate_summary
 all MiuiBluetooth.apk strings.xml tts_default_rate_title
 all MiuiBluetooth.apk strings.xml tts_default_sample_string
+all MiuiBugReport.apk strings.xml default_text_view
+all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml device_48m_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
@@ -236,6 +240,7 @@ all PersonalAssistant.apk strings.xml setting_uber_default_way
 all PersonalAssistant.apk strings.xml upgrade_log_default
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
+all Provision.apk strings.xml terms_of_use_lable_default_input_method_mint
 all QuickSearchBox.apk strings.xml common_use_default_download_path_subtitle
 all QuickSearchBox.apk strings.xml common_use_default_download_path_title
 all QuickSearchBox.apk strings.xml default_download_path_dialog_title
@@ -275,6 +280,7 @@ all Settings.apk strings.xml default_for_calls
 all Settings.apk strings.xml default_for_calls_and_sms
 all Settings.apk strings.xml default_for_mobile_data
 all Settings.apk strings.xml default_for_sms
+all Settings.apk strings.xml default_keyboard
 all Settings.apk strings.xml default_launcher_set_jeejen_message
 all Settings.apk strings.xml default_launcher_set_system_message
 all Settings.apk strings.xml default_launcher_title
@@ -326,6 +332,8 @@ all TeleService.apk strings.xml default_preference_summary_password
 all TeleService.apk strings.xml default_preference_summary_username
 all TeleService.apk strings.xml launch_defaults_some
 all TeleService.apk strings.xml msim_select_default_time_left
+all TeleService.apk strings.xml msim_setting_default_data
+all TeleService.apk strings.xml msim_setting_default_voice
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
 all Traceur.apk arrays.xml bluetooth_avrcp_version_values
@@ -350,3 +358,6 @@ all Weather.apk strings.xml information_manager_default_weather_bg
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all XMRemoteController.apk strings.xml feedback_desc_default
 all YellowPage.apk strings.xml navigation_search_default_hint
+all Zman.apk strings.xml first_settings_default_camera_title
+all Zman.apk strings.xml first_settings_default_location_subtitle
+all Zman.apk strings.xml first_settings_default_location_title

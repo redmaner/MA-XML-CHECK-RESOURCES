@@ -1996,6 +1996,8 @@ all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
+all Calendar.apk strings.xml load_more_events_default
+all Calendar.apk strings.xml pull_refresh_events_default
 all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
@@ -2031,6 +2033,7 @@ all MiRouter.apk strings.xml tool_over_valued_service
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
@@ -2045,6 +2048,8 @@ all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml default_folder_title_other_apps
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml connected_via_network_scorer_default
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiPackageInstaller.apk strings.xml launch_defaults_none
@@ -2075,6 +2080,7 @@ all MiuiSystemUI.apk strings.xml preference_summary_default_combination
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_description
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_name
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all Mms.apk strings.xml private_entry_default
 all MtkTelecom.apk strings.xml change_default_dialer_dialog_affirmative
 all MtkTelecom.apk strings.xml change_default_dialer_dialog_negative
 all MtkTelecom.apk strings.xml change_default_dialer_dialog_title
@@ -2136,6 +2142,7 @@ all MtkTeleService.apk strings.xml tts_default_sample_string
 all MtkTeleService.apk strings.xml voicemail_default
 all Music.apk strings.xml com_facebook_tooltip_default
 all Notes.apk strings.xml repeat_mode_default
+all Notes.apk strings.xml private_entry_default
 all NotificationCenter.apk strings.xml default_list_type
 all PackageInstaller.apk strings.xml launch_defaults_some
 all PermissionController.apk strings.xml car_default_app_selected
@@ -2188,6 +2195,7 @@ all Settings.apk strings.xml modify_default_browser_message
 all Settings.apk strings.xml notifi_importance_default
 all Settings.apk strings.xml slider_vocie_online_default
 all Settings.apk strings.xml default_suppression_title
+all Settings.apk strings.xml default_keyboard
 all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml change_default_dialer_dialog_negative
 all Telecom.apk strings.xml change_default_dialer_warning_message
@@ -2197,6 +2205,8 @@ all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password
 all TeleService.apk strings.xml default_preference_summary_username
 all TeleService.apk strings.xml launch_defaults_some
+all TeleService.apk strings.xml msim_setting_default_data
+all TeleService.apk strings.xml msim_setting_default_voice
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
 all Traceur.apk arrays.xml bluetooth_avrcp_version_values
 all Traceur.apk strings.xml connected_via_network_scorer_default
@@ -2220,3 +2230,6 @@ all Weather.apk strings.xml information_manager_default_weather_bg
 all Weather.apk strings.xml realtime_cityname_default
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
 all XMRemoteController.apk strings.xml feedback_desc_default
+all Zman.apk strings.xml first_settings_default_camera_title
+all Zman.apk strings.xml first_settings_default_location_subtitle
+all Zman.apk strings.xml first_settings_default_location_title

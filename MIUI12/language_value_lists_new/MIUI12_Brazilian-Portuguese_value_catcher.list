@@ -359,6 +359,12 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">Padrão</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Zoom</string>
@@ -416,6 +422,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="photomovie_audio_default
 folder="all" application="MiuiGallery.apk" xml="" name="photomovie_template_default"
 ---------------------------------------------------------------------------------------
  <string name="photomovie_template_default">Lento</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Proteção de privacidade</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -617,6 +629,12 @@ folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Deslize para baixo para abrir a pasta particular</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
  <string name="default_list_type">Ordenar por hora de recebimento</string>
@@ -761,6 +779,60 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Você precisa concordar com a Política de Privacidade do Mint Keyboard antes de usar este recurso."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="common_use_default_download_path_subtitle">Restaurar as configurações padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_title"
+---------------------------------------------------------------------------------------
+ <string name="common_use_default_download_path_title">Restaurar a localização padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="default_download_path_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="default_download_path_dialog_title">Restaurar o local padrão de download?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="default_download_path_prefix"
+---------------------------------------------------------------------------------------
+ <string name="default_download_path_prefix">Local padrão:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="default_hf_hint"
+---------------------------------------------------------------------------------------
+ <string name="default_hf_hint">Pesquise por vídeos, notícias, artigos…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="download_dialog_default_path_invalid"
+---------------------------------------------------------------------------------------
+ <string name="download_dialog_default_path_invalid">O local do download que você selecionou é inválido. Salvando no local padrão…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="hint_default"
+---------------------------------------------------------------------------------------
+ <string name="hint_default">Pesquisar por itens relacionados</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="reader_history_default_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="reader_history_default_subtitle">Visto recentemente</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityAdd.apk" xml="" name="xspace_default_app_summary"
 ---------------------------------------------------------------------------------------
  <string name="xspace_default_app_summary">Selecione os aplicativos padrão para fazer login, compartilhar e assistente de voz</string>
@@ -788,6 +860,30 @@ folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_vibration_items_values"
 ---------------------------------------------------------------------------------------
  <string-array name="power_dialog_vibration_items_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="priority_storage_value"
+---------------------------------------------------------------------------------------
+ <string-array name="priority_storage_value"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="st_antispam_handle_methods_value"
+---------------------------------------------------------------------------------------
+ <string-array name="st_antispam_handle_methods_value"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="st_antispam_handle_methods_value_intl"
+---------------------------------------------------------------------------------------
+ <string-array name="st_antispam_handle_methods_value_intl"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="st_antispam_notification_show_types_value"
+---------------------------------------------------------------------------------------
+ <string-array name="st_antispam_notification_show_types_value"> <item>0</item> <item>1</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
