@@ -725,6 +725,12 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_str
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_48m_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
@@ -1457,6 +1463,12 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitve."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_subtitle"
 ---------------------------------------------------------------------------------------
  <string name="common_use_default_download_path_subtitle">Vrni na privzete nastavitve</string>
@@ -1688,6 +1700,12 @@ folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
 folder="all" application="Settings.apk" xml="" name="default_for_sms"
 ---------------------------------------------------------------------------------------
  <string name="default_for_sms">Privzeto za SMS-je</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Privzeto</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1994,6 +2012,18 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
  <string name="msim_select_default_time_left">(%d s)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Podatkovna kartica</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Privzeto za klice</string>
 
 
 ---------------------------------------------------------------------------------------

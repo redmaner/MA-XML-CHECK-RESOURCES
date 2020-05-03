@@ -11,6 +11,30 @@ folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_cancel">Peruuta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_confirm">OK</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_content"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_content">Nopeaa ja turvallista selaamista</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_title">Aseta oletusselaimeksi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Odota hetki…</string>
@@ -107,15 +131,63 @@ folder="all" application="Cit.apk" xml="" name="cit_tool_modem_feature_config_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_far_test_threshold_default">小于 0.002%</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_frr_test_threshold_default">小于 %1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="battery_value"
+---------------------------------------------------------------------------------------
+ <string name="battery_value">Sähkö</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueRe"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueRe">Re:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueT">Lämpötila:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value_set"
 ---------------------------------------------------------------------------------------
  <string name="cit_tool_modem_test_device_value_set">Muokkaa laitteen tilaa</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="CloudPrint2.apk" xml="" name="default_document_title"
+folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
 ---------------------------------------------------------------------------------------
- <string name="default_document_title">Nimetön</string>
+ <string name="value_far_test_threshold_default">小于 0.002%</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_frr_test_threshold_default">小于 %1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_test_strategy_far"
+---------------------------------------------------------------------------------------
+ <string name="value_test_strategy_far">使用除当前测试手指外所有录入手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配成功，则认为发生一次FAR（即认假）</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_test_strategy_frr"
+---------------------------------------------------------------------------------------
+ <string name="value_test_strategy_frr">使用当前手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配失败，则认为发生一次FRR（即拒真）</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -317,6 +389,24 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="sound_source_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sound_source_values"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_create_shortcut">Create</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_has_shortcut">Created</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">TextView</string>
@@ -449,6 +539,12 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">perform an unknown action</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Oletustoiminto</string>
@@ -536,6 +632,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="preference_summary_defa
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%s tila</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
+---------------------------------------------------------------------------------------
+ <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -635,12 +737,6 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_q
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
----------------------------------------------------------------------------------------
- <string name="default_pay_app_removed">Napauttamalla maksamiseen valitsemasi palvelu poistettiin. Haluatko valita toisen?</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">00.00</string>
@@ -668,90 +764,6 @@ folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
 folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_title_default"
 ---------------------------------------------------------------------------------------
  <string name="mibi_prepaid_picker_title_default">Valitse Summa</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected"
----------------------------------------------------------------------------------------
- <string name="car_default_app_selected">Valittu</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="car_default_app_selected_with_info"
----------------------------------------------------------------------------------------
- <string name="car_default_app_selected_with_info">Valittu – %1$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="default_app_no_apps"
----------------------------------------------------------------------------------------
- <string name="default_app_no_apps">Ei sovelluksia</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="default_app_none"
----------------------------------------------------------------------------------------
- <string name="default_app_none">Ei mitään</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="default_app_search_keyword"
----------------------------------------------------------------------------------------
- <string name="default_app_search_keyword">oletussovellukset</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="default_app_system_default"
----------------------------------------------------------------------------------------
- <string name="default_app_system_default">(Järjestelmän oletusarvo)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="default_apps"
----------------------------------------------------------------------------------------
- <string name="default_apps">Oletussovellukset</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="default_apps_for_work"
----------------------------------------------------------------------------------------
- <string name="default_apps_for_work">Työkäytön oletus</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="default_apps_manage_domain_urls"
----------------------------------------------------------------------------------------
- <string name="default_apps_manage_domain_urls">Linkkien avaaminen</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="default_apps_more"
----------------------------------------------------------------------------------------
- <string name="default_apps_more">Lisää oletuksia</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="default_permission_description"
----------------------------------------------------------------------------------------
- <string name="default_permission_description">suorita tuntematon toiminto</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="no_default_apps"
----------------------------------------------------------------------------------------
- <string name="no_default_apps">Ei oletussovelluksia</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="request_role_current_default"
----------------------------------------------------------------------------------------
- <string name="request_role_current_default">Nykyinen oletus</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PermissionController.apk" xml="" name="request_role_set_as_default"
----------------------------------------------------------------------------------------
- <string name="request_role_set_as_default">Aseta oletukseksi</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1283,6 +1295,252 @@ folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="color_mode_ids"
+---------------------------------------------------------------------------------------
+ <integer-array name="color_mode_ids"> <item>0</item> <item>-1</item> <item>7</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="animator_duration_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="animator_duration_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="app_process_limit_values"
+---------------------------------------------------------------------------------------
+ <string-array name="app_process_limit_values"> <item>-1</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_a2dp_codec_bits_per_sample_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_bits_per_sample_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_a2dp_codec_channel_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_channel_mode_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_a2dp_codec_ldac_playback_quality_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values"> <item>1000</item> <item>1001</item> <item>1002</item> <item>1003</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_a2dp_codec_sample_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_sample_rate_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> <item>8</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_a2dp_codec_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_values"> <item>1000000</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bt_hci_snoop_log_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bt_hci_snoop_log_values"> <item>disabled</item> <item>filtered</item> <item>snoopheadersfiltered</item> <item>mediapktsfiltered</item> <item>full</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="debug_hw_overdraw_values"
+---------------------------------------------------------------------------------------
+ <string-array name="debug_hw_overdraw_values"> <item>false</item> <item>show</item> <item>show_deuteranomaly</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="enable_opengl_traces_values"
+---------------------------------------------------------------------------------------
+ <string-array name="enable_opengl_traces_values"> <item>0</item> <item>1</item> <item>systrace</item> <item>error</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>never</item> <item>drm-only</item> <item>always</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,secure</item> <item>1280x720/213</item> <item>1280x720/213,secure</item> <item>1920x1080/320</item> <item>1920x1080/320,secure</item> <item>3840x2160/320</item> <item>3840x2160/320,secure</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,secure</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="select_logd_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logd_size_values"> <item>32768</item> <item>65536</item> <item>262144</item> <item>1048576</item> <item>4194304</item> <item>16777216</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item></item> <item>all</item> <item>default,security,kernel</item> <item>kernel</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>hide</item> <item>region</item> <item>highlight</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="simulate_color_space_values"
+---------------------------------------------------------------------------------------
+ <string-array name="simulate_color_space_values"> <item>-1</item> <item>0</item> <item>2</item> <item>1</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="track_frame_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="track_frame_time_values"> <item>false</item> <item>visual_bars</item> <item>true</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="transition_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="transition_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="usb_configuration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="usb_configuration_values"> <item>none</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="window_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="window_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_buffer_size"
+---------------------------------------------------------------------------------------
+ <string name="default_buffer_size">16384</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories"
+---------------------------------------------------------------------------------------
+ <string name="default_categories">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
+---------------------------------------------------------------------------------------
+ <string name="default_categories_restored">Default categories restored</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_long_trace_duration"
+---------------------------------------------------------------------------------------
+ <string name="default_long_trace_duration">30</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_long_trace_size"
+---------------------------------------------------------------------------------------
+ <string name="default_long_trace_size">10240</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">No defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Some defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
+---------------------------------------------------------------------------------------
+ <string name="restore_default_categories">Restore default categories</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Language</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Pitch</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Speech rate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">This is an example of speech synthesis</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
  <string name="default_filedownloader_notification_content">FileDownloader on käynnissä.</string>
@@ -1301,8 +1559,20 @@ folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_d
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
- <string name="feedback_desc_default">Jotkut painikkeet ei toimi</string>
+ <string name="first_settings_default_camera_title">Share without metadata by default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Remove location info from shared photos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Share without location info by default</string>
 
 

@@ -965,6 +965,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_indicator_entryv
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Thu phóng</string>
@@ -1076,6 +1082,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_defaul
 folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="default_device_name">Thiết bị chưa biết</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Bảo vệ riêng tư</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1195,7 +1207,7 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1376,6 +1388,30 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
 ---------------------------------------------------------------------------------------
  <string name="gallery_video_item4_default_text">Bình minh</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item5_default_text">Kỷ niệm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_default_music_text">Tự động</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item4_default_text">Bình minh</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item3_default_text">Cảm xúc</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1883,6 +1919,12 @@ folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Kéo xuống để mở thư mục riêng tư</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="NotificationCenter.apk" xml="" name="default_list_type"
 ---------------------------------------------------------------------------------------
  <string name="default_list_type">Sắp xếp theo thời gian nhận</string>
@@ -2111,6 +2153,12 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard trước khi sử dụng tính năng này."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="download_dialog_default_path_invalid"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_default_path_invalid">Vị trí tải xuống bạn đã chọn là không hợp lệ. Đang lưu vị trí mặc định…</string>
@@ -2329,7 +2377,7 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2615,6 +2663,12 @@ folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Tùy chỉnh</string>
@@ -2785,7 +2839,7 @@ folder="all" application="StorageManager.apk" xml="" name="deletion_helper_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2851,7 +2905,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2897,6 +2951,18 @@ folder="all" application="TeleService.apk" xml="" name="default_call_switch_err_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">SIM dữ liệu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Mặc định để gọi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Số định danh giao dịch không hợp lệ</string>
@@ -2911,7 +2977,7 @@ folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -3044,5 +3110,23 @@ folder="all" application="YellowPage.apk" xml="" name="mark_number_dialog_defaul
 folder="all" application="YellowPage.apk" xml="" name="recharge_charge_value"
 ---------------------------------------------------------------------------------------
  <string name="recharge_charge_value">Giá: %s NDT</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Mặc định chia sẻ không có siêu dữ liệu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Mặc định chia sẻ không có thông tin vị trí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Gỡ thông tin vị trí từ ảnh đã chia sẻ</string>
 
 

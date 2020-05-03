@@ -551,12 +551,6 @@ folder="all" application="Browser.apk" xml="" name="topic_content_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Browser.apk" xml="" name="tt_web_title_default"
----------------------------------------------------------------------------------------
- <string name="tt_web_title_default">广告</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
  <string name="mw_color_picker_value">Value</string>
@@ -593,6 +587,12 @@ folder="all" application="CABLService.apk" xml="" name="cabl_info_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_default"
+---------------------------------------------------------------------------------------
+ <string name="cabl_level_default">Auto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minutes</item> <item>10 minutes</item> <item>15 minutes</item> <item>30 minutes</item> <item>1 heure</item> </string-array>
@@ -626,12 +626,6 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="free_day_default_banner_title">Enjoy your holiday!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
----------------------------------------------------------------------------------------
- <string name="menstruation_card_default_title">暂无经期助手数据</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -791,87 +785,15 @@ folder="all" application="Cit.apk" xml="" name="cit_tool_modem_feature_config_de
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
----------------------------------------------------------------------------------------
- <string name="value_far_test_threshold_default">小于 0.002%</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
----------------------------------------------------------------------------------------
- <string name="value_frr_test_threshold_default">小于 %1</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
  <string name="battery_value">Electricity</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
----------------------------------------------------------------------------------------
- <string name="cit_audio_cali_valueF0">F0：</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueF0"
----------------------------------------------------------------------------------------
- <string name="cit_audio_spk_cal_valueF0">F0:</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueRe"
----------------------------------------------------------------------------------------
- <string name="cit_audio_spk_cal_valueRe">Re:</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueT"
----------------------------------------------------------------------------------------
- <string name="cit_audio_spk_cal_valueT">Temp:</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value_set"
 ---------------------------------------------------------------------------------------
  <string name="cit_tool_modem_test_device_value_set">modify device state</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="frr_filter_value"
----------------------------------------------------------------------------------------
- <string name="frr_filter_value">过滤后拒真率：</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="frr_value"
----------------------------------------------------------------------------------------
- <string name="frr_value">拒真率：</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
----------------------------------------------------------------------------------------
- <string name="value_far_test_threshold_default">小于 0.002%</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
----------------------------------------------------------------------------------------
- <string name="value_frr_test_threshold_default">小于 %1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="value_test_strategy_far"
----------------------------------------------------------------------------------------
- <string name="value_test_strategy_far">使用除当前测试手指外所有录入手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配成功，则认为发生一次FAR（即认假）</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Cit.apk" xml="" name="value_test_strategy_frr"
----------------------------------------------------------------------------------------
- <string name="value_test_strategy_frr">使用当前手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配失败，则认为发生一次FRR（即拒真）</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1172,6 +1094,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_expo
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Défaut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Protection de la vie privée</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1613,30 +1541,6 @@ folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_de
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel"
----------------------------------------------------------------------------------------
- <string name="flybird_default_channel">默认付款方式</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel_main"
----------------------------------------------------------------------------------------
- <string name="flybird_default_channel_main">默认付款方式</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="flybird_setting_use_default"
----------------------------------------------------------------------------------------
- <string name="flybird_setting_use_default">默认使用</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="mini_error_title_default"
----------------------------------------------------------------------------------------
- <string name="mini_error_title_default">提示</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Search items here</string>
@@ -1667,12 +1571,6 @@ folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_defaul
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_value_label"
----------------------------------------------------------------------------------------
- <string name="flybird_nopwd_value_label">免密金额</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
  <string name="terms_of_use_lable_default_input_method_facemoji">" Vous devez accepter la politique de confidentialité de Facemoji avant d'utiliser cette fonctionnalité."</string>
@@ -1688,18 +1586,6 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 folder="all" application="QuickSearchBox.apk" xml="" name="default_corpora"
 ---------------------------------------------------------------------------------------
  <string-array name="default_corpora"> <item>web</item> <item>conseils</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_desc"
----------------------------------------------------------------------------------------
- <string name="password_change_value_preference_desc">初始空间锁屏密码将会用于退出儿童空间时进行验证</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_title"
----------------------------------------------------------------------------------------
- <string name="password_change_value_preference_title">修改密码</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1850,6 +1736,12 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_timeout_default">Par défaut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Défaut</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2165,6 +2057,18 @@ folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Données</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Appels</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">"Connecté automatiquement via un fournisseur d'évaluation de l'état du réseau"</string>
@@ -2312,5 +2216,23 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">"Vous avez le contrôle: choisissez les informations que vous souhaitez partager avec les applications."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Partager sans métadonnées par défaut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Supprimer les informations de localisation des photos partagées</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Partager sans informations de localisation par défaut</string>
 
 

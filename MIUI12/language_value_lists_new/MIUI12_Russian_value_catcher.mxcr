@@ -38,6 +38,10 @@ all Calendar.apk strings.xml pref_default_popup_alert_value
 all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
+all Contacts.apk strings.xml load_more_events_default
+all Contacts.apk strings.xml miuix_search_history_default_title
+all Contacts.apk strings.xml miuix_search_recommendation_default_title
+all Contacts.apk strings.xml pull_refresh_events_default
 all DeskClock.apk strings.xml repeat_count_value_five
 all DeskClock.apk strings.xml repeat_count_value_one
 all DeskClock.apk strings.xml repeat_count_value_ten

@@ -18,8 +18,10 @@ all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
+all Calendar.apk strings.xml load_more_events_default
 all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
+all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml work_day_default_banner_title
 all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml bind_simcard_default
@@ -51,13 +53,17 @@ all MiRadio.apk arrays.xml sleep_duration_values
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
+all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
+all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml default_relation_name
 all MiuiGallery.apk strings.xml mark_myself_default_name
+all MiuiGallery.apk strings.xml security_share_subtitle_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiHome.apk strings.xml all_app_category_default
@@ -93,6 +99,8 @@ all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
 all MiuiVideoGlobal.apk strings.xml signup_type_silent_default
 all MiuiVideoGlobal.apk strings.xml signup_type_user_default
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
+all Mms.apk strings.xml private_entry_default
+all Notes.apk strings.xml private_entry_default
 all Notes.apk strings.xml repeat_mode_default
 all Notes.apk strings.xml todo_audio_default_content
 all NotificationCenter.apk strings.xml default_list_type
@@ -103,6 +111,7 @@ all PersonalAssistant.apk strings.xml notification_channel_default_description
 all PersonalAssistant.apk strings.xml setting_didi_default_way
 all PersonalAssistant.apk strings.xml setting_uber_default_way
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
+all Provision.apk strings.xml terms_of_use_lable_default_input_method_mint
 all SecurityCenter.apk strings.xml ad_btn_default_text
 all SecurityCenter.apk strings.xml app_manager_default_cleared
 all SecurityCenter.apk strings.xml app_manager_default_close_summary
@@ -133,6 +142,7 @@ all Settings.apk strings.xml default_for_calls
 all Settings.apk strings.xml default_for_calls_and_sms
 all Settings.apk strings.xml default_for_mobile_data
 all Settings.apk strings.xml default_for_sms
+all Settings.apk strings.xml default_keyboard
 all Settings.apk strings.xml default_launcher_set_jeejen_message
 all Settings.apk strings.xml default_launcher_set_system_message
 all Settings.apk strings.xml default_launcher_title

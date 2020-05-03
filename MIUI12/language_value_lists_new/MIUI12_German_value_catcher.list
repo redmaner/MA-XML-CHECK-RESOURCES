@@ -503,6 +503,18 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_create_shortcut">Erstellen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_has_shortcut">Erstellt</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Glaubt immer daran, dass etwas Wunderbares passieren wird."</string>
@@ -518,6 +530,72 @@ folder="all" application="miui.apk" xml="" name="preference_value_create_shortcu
 folder="all" application="miui.apk" xml="" name="preference_value_has_shortcut"
 ---------------------------------------------------------------------------------------
  <string name="preference_value_has_shortcut">Erstellt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Automatische Verbindung via Netzwerk-Rating-Provider</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Kein Standard gesetzt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Einige Standards gesetzt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Standard</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Legt die sprachspezifische Stimme für den gesprochenen Text fest</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Sprache</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Beeinflusst den Ton der synthetisierten Sprache</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Tonhöhe</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Geschwindigkeit, mit der der Text gesprochen wird</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Sprechrate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Dies ist ein Beispiel für Sprachsynthese</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -905,6 +983,30 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item3_default_text">Gefühle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item4_default_text">Sonnenaufgang</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item5_default_text">Erinnerungen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item6_default_text">Freude</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
 ---------------------------------------------------------------------------------------
  <string name="ovp_default_plugin_name">HD-Plugin</string>
@@ -956,6 +1058,12 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_default_title">Offline-Video</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Runter schieben zum Öffnen privater Ordner</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1189,7 +1297,7 @@ folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
- <string name="private_entry_default">Nach unten schieben zum Öffnen privater Ordner</string>
+ <string name="private_entry_default">Runter schieben zum Öffnen privater Ordner</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1916,6 +2024,18 @@ folder="all" application="TeleService.apk" xml="" name="default_preference_summa
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Einige Standards gesetzt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Datenkarte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Standard für Anrufe</string>
 
 
 ---------------------------------------------------------------------------------------
