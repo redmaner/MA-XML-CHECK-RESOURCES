@@ -142,6 +142,8 @@ all MiRecycle.apk strings.xml default_error_msg
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
+all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
+all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiBluetooth.apk arrays.xml bluetooth_avrcp_version_values
 all MiuiBluetooth.apk strings.xml tts_default_lang_title
 all MiuiBluetooth.apk strings.xml tts_default_rate_title
@@ -328,6 +330,7 @@ all PaymentService.apk strings.xml mibi_recharge_value_money
 all PaymentService.apk strings.xml mibi_recharge_value_money_special_unit
 all PaymentService.apk strings.xml mibi_unit_value_redeemed
 all PaymentService.apk strings.xml mibi_unit_value_remained
+all PaymentService.apk strings.xml mibi_unit_value
 all PermissionController.apk strings.xml default_permission_description
 all PermissionController.apk strings.xml no_default_apps
 all PermissionController.apk strings.xml car_default_app_selected

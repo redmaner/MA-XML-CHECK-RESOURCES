@@ -545,9 +545,87 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_autoexposure_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_autoexposure_default">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_coloreffect_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_coloreffect_default">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_exposuretime_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_exposuretime_default">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_recordlocation_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_recordlocation_default">Нет</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_hdr_value_default">откл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_live_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_live_volumekey_function_default">громкость</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_volumekey_function_default">затвор</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_auto"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_iso_value_auto">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso100"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_iso_value_iso100">100</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso1600"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_iso_value_iso1600">1600</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso200"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_iso_value_iso200">200</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso3200"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_iso_value_iso3200">3200</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso400"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_iso_value_iso400">400</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso800"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_iso_value_iso800">800</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1103,6 +1181,60 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Вы должны согласиться с Политикой конфиденциальности Mint Keyboard перед использованием."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="common_use_default_download_path_subtitle">Restore default settings</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_title"
+---------------------------------------------------------------------------------------
+ <string name="common_use_default_download_path_title">Restore default location</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="default_download_path_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="default_download_path_dialog_title">Restore the default download location?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="default_download_path_prefix"
+---------------------------------------------------------------------------------------
+ <string name="default_download_path_prefix">Default location:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="default_hf_hint"
+---------------------------------------------------------------------------------------
+ <string name="default_hf_hint">Search videos, news, articles…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="download_dialog_default_path_invalid"
+---------------------------------------------------------------------------------------
+ <string name="download_dialog_default_path_invalid">"The download location you've selected is invalid. Saving to default location…"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="hint_default"
+---------------------------------------------------------------------------------------
+ <string name="hint_default">Search related items</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="QuickSearchBox.apk" xml="" name="reader_history_default_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="reader_history_default_subtitle">Viewed recently</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
  <string name="ad_btn_default_text">Подробнее</string>
@@ -1123,7 +1255,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_c
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_summary"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_open_summary">Вы выбрали запуск этого приложения по умолчанию для совершения некоторых действий</string>
+ <string name="app_manager_default_open_summary">Вы назначили это приложение для некоторых действий по умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1718,6 +1850,18 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
  <string name="msim_select_default_time_left">(%d с)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Данные</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Вызовы</string>
 
 
 ---------------------------------------------------------------------------------------

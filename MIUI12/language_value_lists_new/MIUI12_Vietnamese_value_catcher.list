@@ -863,6 +863,18 @@ folder="all" application="MiShare.apk" xml="" name="default_device_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_create_shortcut">Tạo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_has_shortcut">Đã tạo</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
@@ -1976,6 +1988,12 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redee
 folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
 ---------------------------------------------------------------------------------------
  <string name="mibi_unit_value_remained">%1$s Mi Credit còn lại</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value">%1$s Mi Coin</string>
 
 
 ---------------------------------------------------------------------------------------

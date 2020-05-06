@@ -839,6 +839,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Protejarea confidențialității</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
 ---------------------------------------------------------------------------------------
  <string name="text_edit_dialog_font_default">Implicit</string>
@@ -1127,33 +1133,33 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_default_music_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_default_music_text">Auto</string>
+ <string name="galleryplus_gallery_video_default_music_text">Auto</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item3_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item3_default_text">Emoții</string>
+ <string name="galleryplus_gallery_video_item3_default_text">Emoții</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item4_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item4_default_text">Răsărit</string>
+ <string name="galleryplus_gallery_video_item4_default_text">Răsărit</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item5_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item5_default_text">Amintiri</string>
+ <string name="galleryplus_gallery_video_item5_default_text">Amintiri</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item6_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item6_default_text">Fericire</string>
+ <string name="galleryplus_gallery_video_item6_default_text">Fericire</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1232,6 +1238,12 @@ folder="all" application="NfcNci.apk" xml="" name="default_pay_app_removed"
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Glisați în jos pentru a deschide dosarul privat</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1358,6 +1370,12 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
  <string name="terms_of_use_lable_default_input_method_kika">" Trebuie să acceptați Politica de Confidențialitate Kika înainte de a utiliza această caracteristică."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte de a utiliza această caracteristică."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1865,6 +1883,18 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Cartelă pentru date</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Implicită pentru apeluri</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Nu s-a putut realiza apelul. Cod eroare 81.</string>
@@ -2006,5 +2036,23 @@ folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_def
 folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Căutați locații</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Partajați fără metadate în mod implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Elimină informațiile despre locație din fotografiile partajate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Partajați fără informațiile despre locație în mod implicit</string>
 
 
