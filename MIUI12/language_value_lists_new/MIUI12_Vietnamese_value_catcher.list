@@ -323,6 +323,30 @@ folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Bạn có thể thích những điều này</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Hiển thị sự kiện năm sau</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Lịch sử tìm kiếm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Xem sự kiện năm ngoái</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CallFeaturesSetting.apk" xml="" name="call_barring_outgoing_display_values"
 ---------------------------------------------------------------------------------------
  <string-array name="call_barring_outgoing_display_values"> <item>Cuộc gọi đi</item> <item>Cuộc gọi quốc tế</item> <item>Cuộc gọi chuyển vùng quốc tế</item> </string-array>

@@ -1,16 +1,4 @@
 ---------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_image_type"
----------------------------------------------------------------------------------------
- <string name="avrcp_cover_art_default_image_type">immagine</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_mimetype"
----------------------------------------------------------------------------------------
- <string name="avrcp_cover_art_default_mimetype">JPEG</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Solo un attimo…</string>
@@ -125,9 +113,69 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="preferences_default_reminder_later_time_values"> <item>300000</item> <item>600000</item> <item>900000</item> <item>1800000</item> <item>3600000</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
+---------------------------------------------------------------------------------------
+ <string-array name="entryvalues_settings_debug"> <item>无</item> <item>导出并发送日志</item> <item>生成日志至文件管理器</item> <item>查看统计设备标识</item> <item>立即更新服务端配置</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_popup"> <item>nessuno</item> <item>tutti</item> <item>smart</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>sempre</item> <item>silenzioso</item> <item>mai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_popup"> <item>nessuno</item> <item>tutti</item> <item>smart</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_alerts_vibrateWhen"> <item>sempre</item> <item>silenzioso</item> <item>mai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
+---------------------------------------------------------------------------------------
+ <string-array name="entryvalues_settings_debug"> <item>无</item> <item>导出并发送日志</item> <item>生成日志至文件管理器</item> <item>查看统计设备标识</item> <item>立即更新服务端配置</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="preferences_default_reminder_later_time_values"> <item>300000</item> <item>600000</item> <item>900000</item> <item>1800000</item> <item>3600000</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_week_start_day_values"
+---------------------------------------------------------------------------------------
+ <string-array name="preferences_week_start_day_values"> <item>-1</item> <item>7</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>primo Lunedì</item> <item>primo Martedì</item> <item>primo Mercoledì</item> <item>primo Giovedì</item> <item>primo Venerdì</item> <item>primo Sabato</item> <item>prima Domenica</item> <item>secondo Lunedì</item> <item>secondo Martedì</item> <item>secondo Mercoledì</item> <item>secondo Giovedì</item> <item>secondo Venerdì</item> <item>secondo Sabato</item> <item>seconda Domenica</item> <item>terzo Lunedì</item> <item>terzo Martedì</item> <item>terzo Mercoledì</item> <item>terzo Giovedì</item> <item>terzo Venerdì</item> <item>terzo Sabato</item> <item>terza Domenica</item> <item>quarto Lunedì</item> <item>quarto Martedì</item> <item>quarto Mercoledì</item> <item>quarto Giovedì</item> <item>quarto Venerdì</item> <item>quarto Sabato</item> <item>quarta Domenica</item> <item>ultimo Lunedì</item> <item>ultimo Martedì</item> <item>ultimo Mercoledì</item> <item>ultimo Giovedì</item> <item>ultimo Venerdì</item> <item>ultimo Sabato</item> <item>ultima Domenica</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="timezone_values_v3"
+---------------------------------------------------------------------------------------
+ <string-array name="timezone_values_v3"> <item>Pacific/Majuro</item> <item>Pacific/Midway</item> <item>Pacific/Honolulu</item> <item>America/Anchorage</item> <item>America/Los_Angeles</item> <item>America/Tijuana</item> <item>America/Phoenix</item> <item>America/Chihuahua</item> <item>America/Denver</item> <item>America/Costa_Rica</item> <item>America/Chicago</item> <item>America/Mexico_City</item> <item>America/Regina</item> <item>America/Bogota</item> <item>America/New_York</item> <item>America/Caracas</item> <item>America/Barbados</item> <item>America/Halifax</item> <item>America/Manaus</item> <item>America/Santiago</item> <item>America/St_Johns</item> <item>America/Sao_Paulo</item> <item>America/Argentina/Buenos_Aires</item> <item>America/Godthab</item> <item>America/Montevideo</item> <item>Atlantic/South_Georgia</item> <item>Atlantic/Azores</item> <item>Atlantic/Cape_Verde</item> <item>Africa/Casablanca</item> <item>Europe/London</item> <item>Europe/Dublin</item> <item>Europe/Amsterdam</item> <item>Europe/Berlin</item> <item>Europe/Belgrade</item> <item>Europe/Brussels</item> <item>Europe/Sarajevo</item> <item>Africa/Windhoek</item> <item>Africa/Brazzaville</item> <item>Asia/Amman</item> <item>Europe/Athens</item> <item>Europe/Istanbul</item> <item>Asia/Beirut</item> <item>Africa/Cairo</item> <item>Europe/Helsinki</item> <item>Asia/Jerusalem</item> <item>Europe/Minsk</item> <item>Africa/Harare</item> <item>Asia/Baghdad</item> <item>Europe/Moscow</item> <item>Asia/Kuwait</item> <item>Africa/Nairobi</item> <item>Asia/Tehran</item> <item>Asia/Baku</item> <item>Asia/Tbilisi</item> <item>Asia/Yerevan</item> <item>Asia/Dubai</item> <item>Asia/Kabul</item> <item>Asia/Karachi</item> <item>Asia/Oral</item> <item>Asia/Yekaterinburg</item> <item>Asia/Calcutta</item> <item>Asia/Colombo</item> <item>Asia/Katmandu</item> <item>Asia/Almaty</item> <item>Asia/Rangoon</item> <item>Asia/Krasnoyarsk</item> <item>Asia/Bangkok</item> <item>Asia/Shanghai</item> <item>Asia/Chongqing</item> <item>Asia/Hong_Kong</item> <item>Asia/Macao</item> <item>Asia/Singapore</item> <item>Asia/Irkutsk</item> <item>Asia/Kuala_Lumpur</item> <item>Australia/Perth</item> <item>Asia/Taipei</item> <item>Asia/Seoul</item> <item>Asia/Tokyo</item> <item>Asia/Yakutsk</item> <item>Australia/Adelaide</item> <item>Australia/Darwin</item> <item>Australia/Brisbane</item> <item>Australia/Hobart</item> <item>Australia/Sydney</item> <item>Australia/Canberra</item> <item>Asia/Vladivostok</item> <item>Pacific/Guam</item> <item>Asia/Magadan</item> <item>Pacific/Auckland</item> <item>Pacific/Fiji</item> <item>Pacific/Tongatapu</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -137,15 +185,111 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="free_day_default_banner_title">Goditi le vacanze!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Visualizza eventi del prossimo anno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
+---------------------------------------------------------------------------------------
+ <string name="menstruation_card_default_title">暂无经期助手数据</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Cronologia di ricerca</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Potresti essere interessato a</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_default_popup_alert_value">smart</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarm_default_event_title">设置闹钟提醒</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Seleziona eventi</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_allday_reminder_default_value">480</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_later_time_default_value">300000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Visualizza eventi dell\'anno precedente</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="work_day_default_banner_title">Buona giornata! Che sia molto produttiva!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_default_popup_alert_value">smart</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_allday_reminder_default_value">480</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_later_time_default_value">300000</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_default_notfiy"
 ---------------------------------------------------------------------------------------
- <string name="cit_tool_mbn_default_notfiy">default MBN</string>
+ <string name="cit_tool_mbn_default_notfiy">MBN predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -167,15 +311,105 @@ folder="all" application="Cit.apk" xml="" name="cit_tool_modem_feature_config_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_far_test_threshold_default">小于 0.002%</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_frr_test_threshold_default">小于 %1</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
  <string name="battery_value">Elettricitá</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueF0">F0：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueR"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueR">Ref_diff：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueT">Temp_acc：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueF0"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueF0">F0:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueRe"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueRe">Re:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueT">Temp:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value_set"
 ---------------------------------------------------------------------------------------
  <string name="cit_tool_modem_test_device_value_set">modifica lo stato del dispositivo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="frr_filter_value"
+---------------------------------------------------------------------------------------
+ <string name="frr_filter_value">过滤后拒真率：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="frr_value"
+---------------------------------------------------------------------------------------
+ <string name="frr_value">拒真率：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_far_test_threshold_default">小于 0.002%</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
+---------------------------------------------------------------------------------------
+ <string name="value_frr_test_threshold_default">小于 %1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_test_strategy_far"
+---------------------------------------------------------------------------------------
+ <string name="value_test_strategy_far">使用除当前测试手指外所有录入手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配成功，则认为发生一次FAR（即认假）</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="value_test_strategy_frr"
+---------------------------------------------------------------------------------------
+ <string name="value_test_strategy_frr">使用当前手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配失败，则认为发生一次FRR（即拒真）</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CleanMaster.apk" xml="" name="preference_key_default_expand_cache_group"
+---------------------------------------------------------------------------------------
+ <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1343,6 +1577,12 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="record_format_values"
+---------------------------------------------------------------------------------------
+ <string-array name="record_format_values"> <item>1</item> <item>2</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
 ---------------------------------------------------------------------------------------
  <string name="err_msg_pending_value">valutazione in corso</string>
@@ -1493,6 +1733,18 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Scheda dati</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Predefinita per le chiamate</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
@@ -1616,6 +1868,18 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
  <string name="default_filedownloader_notification_title">FileDownloader</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="temperature_unit_default"
+---------------------------------------------------------------------------------------
+ <string name="temperature_unit_default">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="wind_power_unit_default"
+---------------------------------------------------------------------------------------
+ <string name="wind_power_unit_default">0</string>
 
 
 ---------------------------------------------------------------------------------------

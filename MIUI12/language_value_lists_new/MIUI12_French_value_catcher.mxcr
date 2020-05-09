@@ -103,6 +103,10 @@ all Calendar.apk arrays.xml prefValues_alerts_popup
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
+all Calendar.apk strings.xml miuix_search_history_default_title
+all Calendar.apk strings.xml miuix_search_recommendation_default_title
+all Calendar.apk strings.xml load_more_events_default
+all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml pref_default_popup_alert_value
 all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
@@ -172,7 +176,10 @@ all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml default_songtab_name
 all MiRadio.apk strings.xml empty_view_default_text
 all MiSettings.apk strings.xml restore_default
+all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
+all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiCamera.apk strings.xml pref_live_volumekey_function_default
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml pref_google_lens_default
@@ -244,6 +251,7 @@ all Mms.apk strings.xml private_entry_default
 all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
 all Mms.apk strings.xml rcs_pref_video_message_default_quality
+all Notes.apk strings.xml private_entry_default
 all Notes.apk strings.xml repeat_mode_default
 all Notes.apk strings.xml todo_audio_default_content
 all NotificationCenter.apk strings.xml default_list_type

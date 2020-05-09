@@ -563,6 +563,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_exposuretime_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_press_shutter_feature_default">серия</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_recordlocation_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_recordlocation_default">Нет</string>
@@ -635,6 +641,24 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_expo
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Выкл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Видео</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Фото</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Приближение</string>
@@ -686,6 +710,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="photomovie_audio_default
 folder="all" application="MiuiGallery.apk" xml="" name="photomovie_template_default"
 ---------------------------------------------------------------------------------------
  <string name="photomovie_template_default">Медленный</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Защита конфиденциальности</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1049,6 +1079,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_paddin
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Потяните вниз, чтобы открыть приватную папку</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 ---------------------------------------------------------------------------------------
  <string name="rcs_pref_default_sending_method">Способ отправки по умолчанию</string>
@@ -1070,6 +1106,12 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_q
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Потяните вниз, чтобы открыть приватную папку</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1904,5 +1946,23 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
 ---------------------------------------------------------------------------------------
  <string name="feedback_desc_default">Некоторые кнопки не работают</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Отправка без метаданных по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Удалять информацию о местоположении из общих фотографий</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Отправка без информации о местоположении по умолчанию</string>
 
 

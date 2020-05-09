@@ -629,6 +629,30 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Search history</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">You might be interested in these</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">View next year events</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">View previous year events</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
 ---------------------------------------------------------------------------------------
  <string name="pref_default_popup_alert_value">intelligente</string>
@@ -1043,9 +1067,27 @@ folder="all" application="MiSettings.apk" xml="" name="restore_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_create_shortcut">Créer</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_has_shortcut">Créé</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Toujours croire que quelque chose de merveilleux est sur le point d'arriver"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_live_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_live_volumekey_function_default">volume</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1472,6 +1514,12 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default
 folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
 ---------------------------------------------------------------------------------------
  <string name="rcs_pref_video_message_default_quality">Options de compression vidéo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Pull down to open private folder</string>
 
 
 ---------------------------------------------------------------------------------------

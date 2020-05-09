@@ -35,6 +35,150 @@ folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_js_dialog_title_default"
+---------------------------------------------------------------------------------------
+ <string name="mw_js_dialog_title_default">JavaScript</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser">Establecer como navegador predeterminado</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_don_ask"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_don_ask">No volver a preguntar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_msg"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_msg">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Establecer Mi Navegador como su navegador predeterminado?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_no_keep_it"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_no_keep_it">Mantener Mi Navegador</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_no_thanks"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_no_thanks">No, gracias</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_set"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_set">Establecer</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_set_another"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_set_another">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_sure_to_clear"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_sure_to_clear">¿Cambiar navegadores?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_switch"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_switch">Cambiar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Valor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_js_dialog_title_default"
+---------------------------------------------------------------------------------------
+ <string name="mw_js_dialog_title_default">JavaScript</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser">Seleccionar como navegador predeterminado</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_don_ask"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_don_ask">No volver a preguntar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_msg"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_msg">El Navegador Mi hace que navegar en internet sea rápido, conveniente y seguro. ¿Establecer el Navegador Mi como tu navegador predeterminado?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_no_keep_it"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_no_keep_it">Mantener Navegador Mi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_no_thanks"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_no_thanks">No, gracias</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_set"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_set">Establecer</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_set_another"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_set_another">El Navegador Mi hace que navegar en internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_sure_to_clear"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_sure_to_clear">¿Cambiar entre navegadores?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_switch"
+---------------------------------------------------------------------------------------
+ <string name="pref_set_default_browser_switch">Cambiar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Valor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="e_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="e_mathematical_value">e</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="sin_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="sin_mathematical_value">sen</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>primer lunes</item> <item>primer martes</item> <item>primer miércoles</item> <item>primer jueves</item> <item>primer viernes</item> <item>primer sábado</item> <item>primer domingo</item> <item>segundo lunes</item> <item>segundo martes</item> <item>segundo miércoles</item> <item>segundo jueves</item> <item>segundo viernes</item> <item>segundo sábado</item> <item>segundo domingo</item> <item>tercer lunes</item> <item>tercer martes</item> <item>tercer miércoles</item> <item>tercer jueves</item> <item>tercer viernes</item> <item>tercer sábado</item> <item>tercer domingo</item> <item>cuarto lunes</item> <item>cuarto martes</item> <item>cuarto miércoles</item> <item>cuarto jueves</item> <item>cuarto viernes</item> <item>cuarto sábado</item> <item>cuarto domingo</item> <item>último lunes</item> <item>último martes</item> <item>último miércoles</item> <item>último jueves</item> <item>último viernes</item> <item>último sábado</item> <item>último domingo</item> </string-array>
@@ -56,6 +200,48 @@ folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_t
 folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
 ---------------------------------------------------------------------------------------
  <string name="menstruation_card_default_title">Sin registros de menstruación</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CalendarProvider.apk" xml="" name="default_reminder_later_time"
+---------------------------------------------------------------------------------------
+ <string name="default_reminder_later_time">Intervalo predeterminado para \"Recordar más tarde\"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CalendarProvider.apk" xml="" name="free_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="free_day_default_banner_title">¡Disfrute sus vacaciones!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CalendarProvider.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Ver los eventos del próximo año</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CalendarProvider.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Historial de búsqueda</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CalendarProvider.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Te pueden interesar estos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CalendarProvider.apk" xml="" name="preferences_alarms_default_event"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarms_default_event">Seleccionar eventos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CalendarProvider.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Ver eventos del año anterior</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -296,6 +482,12 @@ folder="all" application="Email.apk" xml="" name="default_signature_2"
 folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 ---------------------------------------------------------------------------------------
  <string name="file_default_save_path_title">Ubicación predeterminada para los archivos adjuntos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">Abrir archivos adjuntos con aplicaciones predeterminadas</string>
 
 
 ---------------------------------------------------------------------------------------
