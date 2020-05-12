@@ -191,6 +191,24 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Cледующий год</string> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">История поиска</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Вас может заинтересовать</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
 ---------------------------------------------------------------------------------------
  <string name="pref_default_popup_alert_value">умные</string>
@@ -206,6 +224,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_e
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Выберите события</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Предыдущий год</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1231,49 +1255,49 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 ---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_subtitle"
 ---------------------------------------------------------------------------------------
- <string name="common_use_default_download_path_subtitle">Restore default settings</string>
+ <string name="common_use_default_download_path_subtitle">Восстановить папку по умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="common_use_default_download_path_title"
 ---------------------------------------------------------------------------------------
- <string name="common_use_default_download_path_title">Restore default location</string>
+ <string name="common_use_default_download_path_title">Папка по умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="default_download_path_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="default_download_path_dialog_title">Restore the default download location?</string>
+ <string name="default_download_path_dialog_title">Восстановить папку по умолчанию?</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="default_download_path_prefix"
 ---------------------------------------------------------------------------------------
- <string name="default_download_path_prefix">Default location:</string>
+ <string name="default_download_path_prefix">Путь по умолчанию:</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="default_hf_hint"
 ---------------------------------------------------------------------------------------
- <string name="default_hf_hint">Search videos, news, articles…</string>
+ <string name="default_hf_hint">Поиск видео, новостей и статей…</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="download_dialog_default_path_invalid"
 ---------------------------------------------------------------------------------------
- <string name="download_dialog_default_path_invalid">"The download location you've selected is invalid. Saving to default location…"</string>
+ <string name="download_dialog_default_path_invalid">Папка для загрузок выбрана неверно. Сохранение в папку по умолчанию…</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="hint_default"
 ---------------------------------------------------------------------------------------
- <string name="hint_default">Search related items</string>
+ <string name="hint_default">Поиск похожих объектов</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="QuickSearchBox.apk" xml="" name="reader_history_default_subtitle"
 ---------------------------------------------------------------------------------------
- <string name="reader_history_default_subtitle">Viewed recently</string>
+ <string name="reader_history_default_subtitle">Недавно просмотренные</string>
 
 
 ---------------------------------------------------------------------------------------

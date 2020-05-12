@@ -83,33 +83,9 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
----------------------------------------------------------------------------------------
- <string name="load_more_events_default">Veure esdeveniments de l\'any següent</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
----------------------------------------------------------------------------------------
- <string name="miuix_search_history_default_title">Historial de cerques</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
----------------------------------------------------------------------------------------
- <string name="miuix_search_recommendation_default_title">Potser ús interessa això</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Seleccioneu esdeveniments</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
----------------------------------------------------------------------------------------
- <string name="pull_refresh_events_default">Veure els esdeveniments de l\'any anterior</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -119,9 +95,39 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_default_notfiy"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_mbn_default_notfiy">MBN per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_no_default_notfiy"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_mbn_no_default_notfiy">No hi ha MBN per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_recovery_default"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_mbn_recovery_default">Restaura el MBN per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_modem_feature_config_default"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_modem_feature_config_default">la configuració de la falla actual és la per defecte</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
  <string name="battery_value">Electricitat</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_tool_modem_test_device_value_set"
+---------------------------------------------------------------------------------------
+ <string name="cit_tool_modem_test_device_value_set">modifica l\'estat del dispositiu</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -344,6 +350,42 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
  <string-array name="default_phrases"> <item>Capçalera de factura: </item> <item>Adreça: Carrer, Apt., Ciutat, País / Regió, Província, Codi postal</item> <item>Deixeu el paquet a la porta. Gràcies!</item> <item>"Espereu un minut i estaré disponible."</item> <item>"Ara estic reunit. Envia'm un missatge de text."</item> <item>"Ara no puc parlar. Us truco tan aviat com pugui."</item> <item>Gràcies!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
+---------------------------------------------------------------------------------------
+ <string name="improve_your_health_default_tips">Feu exercici i dormiu prou per mantenir-vos sans.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="preference_update_default_title"
+---------------------------------------------------------------------------------------
+ <string name="preference_update_default_title">Versió</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="revert_to_default"
+---------------------------------------------------------------------------------------
+ <string name="revert_to_default">Restaura els valors per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="sleep_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="sleep_tip_default">Intenteu anar al llit abans de les 23:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="tips_default"
+---------------------------------------------------------------------------------------
+ <string name="tips_default">Sense dades</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">Per defecte</string>
 
 
 ---------------------------------------------------------------------------------------

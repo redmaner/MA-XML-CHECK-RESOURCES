@@ -485,12 +485,6 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Health.apk" xml="" name="text_no_value"
----------------------------------------------------------------------------------------
- <string name="text_no_value">--</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="user_invalid_value"
 ---------------------------------------------------------------------------------------
  <string name="user_invalid_value">--</string>
@@ -647,6 +641,18 @@ folder="all" application="MiShare.apk" xml="" name="default_device_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_create_shortcut">Napravi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_has_shortcut">Končano</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Samo za vas; od BOŠTJAN-a"</string>
@@ -722,6 +728,12 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title
 folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">To je primer sinteze govora.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
+---------------------------------------------------------------------------------------
+ <string name="default_text_view">TextView</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2168,5 +2180,23 @@ folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_def
 folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Vnesite besede ki jih želite iskati</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Skupna raba brez metapodatkov privzeto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Odstrani podatke o lokaciji iz deljenih fotografij</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Deli brez podatkov o lokaciji privzeto</string>
 
 
