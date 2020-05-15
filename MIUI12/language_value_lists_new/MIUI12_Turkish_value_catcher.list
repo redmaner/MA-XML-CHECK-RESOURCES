@@ -167,30 +167,6 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
----------------------------------------------------------------------------------------
- <string name="preferences_alarm_default_event_title">Bir alarm hatırlatıcısı ayarlayın</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
----------------------------------------------------------------------------------------
- <string name="preferences_alarms_default_event">Etkinlikleri seç</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
----------------------------------------------------------------------------------------
- <string name="work_day_default_banner_title">İş yerinde verimli bir gün geçirin!</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
----------------------------------------------------------------------------------------
- <string name="load_more_events_default">Gelecek yıl etkinliklerini görüntüle</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
 ---------------------------------------------------------------------------------------
  <string name="miuix_search_history_default_title">Arama geçmişi</string>
@@ -203,9 +179,33 @@ folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarm_default_event_title">Bir alarm hatırlatıcısı ayarlayın</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarms_default_event">Etkinlikleri seç</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
 ---------------------------------------------------------------------------------------
  <string name="pull_refresh_events_default">Önceki yıl etkinliklerini görüntüle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
+---------------------------------------------------------------------------------------
+ <string name="work_day_default_banner_title">İş yerinde verimli bir gün geçirin!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Gelecek yıl etkinliklerini görüntüle</string>
 
 
 ---------------------------------------------------------------------------------------

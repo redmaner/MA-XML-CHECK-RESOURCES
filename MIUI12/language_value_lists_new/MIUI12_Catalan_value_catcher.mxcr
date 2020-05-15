@@ -66,6 +66,7 @@ all MiGalleryLockscreen.apk strings.xml system_default
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiBluetooth.apk arrays.xml overlay_display_devices_values
 all MiuiCamera.apk strings.xml device_poco_watermark_default_text
 all MiuiCamera.apk strings.xml pref_camera_long_press_shutter_feature_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
@@ -197,6 +198,11 @@ all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml tether_limit_value_custom
+all Telecom.apk strings.xml change_default_call_screening_dialog_affirmative
+all Telecom.apk strings.xml change_default_call_screening_dialog_negative
+all Telecom.apk strings.xml change_default_call_screening_dialog_title
+all Telecom.apk strings.xml change_default_call_screening_warning_message
+all Telecom.apk strings.xml change_default_call_screening_warning_message_for_disable_old_app
 all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml change_default_dialer_dialog_negative
 all Telecom.apk strings.xml change_default_dialer_warning_message
@@ -207,6 +213,5 @@ all TeleService.apk strings.xml default_preference_summary_password
 all TeleService.apk strings.xml default_preference_summary_username
 all TeleService.apk strings.xml launch_defaults_some
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
-all Traceur.apk arrays.xml usb_configuration_values
 all Updater.apk strings.xml default_filedownloader_notification_content
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default

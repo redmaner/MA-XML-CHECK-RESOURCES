@@ -237,6 +237,12 @@ all Notes.apk strings.xml private_entry_default
 all Notes.apk strings.xml repeat_mode_default
 all Notes.apk strings.xml todo_audio_default_content
 all NotificationCenter.apk strings.xml default_list_type
+all Permissioncontroller.apk strings.xml default_app_no_apps
+all Permissioncontroller.apk strings.xml default_app_none
+all Permissioncontroller.apk strings.xml default_apps
+all Permissioncontroller.apk strings.xml default_apps_for_work
+all Permissioncontroller.apk strings.xml default_permission_description
+all Permissioncontroller.apk strings.xml no_default_apps
 all PersonalAssistant.apk strings.xml display_weather_default
 all PersonalAssistant.apk strings.xml navigation_search_default_hint
 all PersonalAssistant.apk strings.xml setting_didi_default_way

@@ -11,9 +11,21 @@ folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_mi
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">На SD-карте нет места для сохранения файла с устройства \"%1$s\"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
 ---------------------------------------------------------------------------------------
  <string name="defaultnumber">000000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -563,9 +575,93 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">Просмотр текста</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">вспышка</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_focus"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">фокус</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_record"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">запись</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_circle"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_circle">круг</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_parallel"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_parallel">параллель</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_shutter"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_shutter">затвор</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_timer"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_timer">таймер</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_volume"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_volume">громкость</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_zoom"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_zoom">зум</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_mirror_entryvalue_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_mirror_entryvalue_off">выкл</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_mirror_entryvalue_on"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_mirror_entryvalue_on">вкл</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_focusmode_entryvalue_auto"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_focusmode_entryvalue_auto">авто</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_focusmode_entryvalue_continuous"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_focusmode_entryvalue_continuous">непрерывное видео</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -587,6 +683,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_exposuretime_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_focusmode_value_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_focusmode_value_default">непрерывное фото</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_long_press_shutter_feature_default">серия</string>
@@ -596,6 +698,18 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_sh
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_recordlocation_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_recordlocation_default">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_default">таймер</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_mirror_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_mirror_default">вкл</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -611,9 +725,21 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_live_volumekey_funct
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_pro_video_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_pro_video_volumekey_function_default">затвор</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_video_volumekey_function_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_video_volumekey_function_default">затвор</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_focusmode_value_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_focusmode_value_default">непрерывное фото</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -659,6 +785,42 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_iso_value_iso
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_jpegquality_value_high"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_jpegquality_value_high">высокое</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_jpegquality_value_low"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_jpegquality_value_low">низкое</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_jpegquality_value_normal"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_jpegquality_value_normal">среднее</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">вспышка</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_focus"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">фокус</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_record"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">запись</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_manually_exposure_value_abbr">EV</string>
@@ -683,15 +845,75 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_ta
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_circle"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_circle">круг</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_parallel"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_parallel">параллель</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_shutter"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_shutter">затвор</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_timer"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_timer">таймер</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_volume"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_volume">громкость</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_entryvalue_zoom"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_entryvalue_zoom">зум</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Приближение</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_mirror_entryvalue_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_mirror_entryvalue_off">выкл</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_mirror_entryvalue_on"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_mirror_entryvalue_on">вкл</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_hdr_value_default">откл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_focusmode_entryvalue_auto"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_focusmode_entryvalue_auto">авто</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_focusmode_entryvalue_continuous"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_focusmode_entryvalue_continuous">непрерывное видео</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -956,6 +1178,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_s
 folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlock_hint_text"
 ---------------------------------------------------------------------------------------
  <string name="default_lockscreen_unlock_hint_text">Проведите вверх для разблокировки</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">Стандартная</string>
 
 
 ---------------------------------------------------------------------------------------

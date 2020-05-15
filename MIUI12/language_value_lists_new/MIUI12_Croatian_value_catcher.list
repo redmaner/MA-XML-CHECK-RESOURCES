@@ -1416,6 +1416,42 @@ folder="all" application="NotificationCenter.apk" xml="" name="default_list_type
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_app_no_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_app_no_apps">Nema aplikacija</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_app_none"
+---------------------------------------------------------------------------------------
+ <string name="default_app_none">Nijedna</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_apps">Zadane aplikacije</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_apps_for_work"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_for_work">Zadano za posao</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">izvršiti nepoznatu radnju</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Permissioncontroller.apk" xml="" name="no_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="no_default_apps">Nema zadanih aplikacija</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">Traži stavke ovdje</string>

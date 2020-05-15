@@ -407,6 +407,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142, segur</item> <item>1280x720/213</item> <item>1280x720/213,segur</item> <item>1920x1080/320</item> <item>1920x1080/320,segur</item> <item>3840x2160/320</item> <item>3840x2160/320,segur</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320 | 3840x2160/640,segur</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_poco_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_poco_watermark_default_text">PRESA AMB POCO PHONE</string>
@@ -1193,6 +1199,36 @@ folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Estableix per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">Cancel·la</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">Voleu que %s sigui l\'aplicació per defecte per la filtració de trucades?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s podrà veure la informació sobre les persones que no estan als contactes i podrà bloquejar aquestes trucades. Només les aplicacions de confiança s\'han de definir com a aplicació per defecte de filtratge de trucades.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s deixarà de filtrar les trucades.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_dialog_affirmative">Estableix com a aplicació telefònica per defecte</string>
@@ -1250,12 +1286,6 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">El mode d\'una sola mà està desactivat de manera predeterminada. Voleu activar el mode d\'una sola mà?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="usb_configuration_values"
----------------------------------------------------------------------------------------
- <string-array name="usb_configuration_values"> <item>cap</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
