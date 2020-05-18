@@ -85,6 +85,7 @@ all Health.apk strings.xml preference_update_default_title
 all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
+all Health.apk strings.xml text_no_value
 all Health.apk strings.xml user_invalid_value
 all MiGalleryLockscreen.apk strings.xml local_default_category
 all MiGalleryLockscreen.apk strings.xml system_default
@@ -109,6 +110,7 @@ all MiuiCamera.apk strings.xml pref_front_mirror_entryvalue_off
 all MiuiCamera.apk strings.xml pref_front_mirror_entryvalue_on
 all MiuiCamera.apk strings.xml pref_video_focusmode_entryvalue_auto
 all MiuiCamera.apk strings.xml pref_video_focusmode_entryvalue_continuous
+all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml pref_camera_autoexposure_default
 all MiuiCamera.apk strings.xml pref_camera_coloreffect_default
 all MiuiCamera.apk strings.xml pref_camera_exposuretime_default
@@ -198,7 +200,6 @@ all MiuiSystemUI.apk strings.xml default_lockscreen_unlock_hint_text
 all MiuiSystemUI.apk strings.xml default_theme
 all MiuiSystemUI.apk strings.xml keyguard_carrier_default
 all MiuiSystemUI.apk strings.xml launch_defaults_some
-all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_content
 all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_title
 all MiuiSystemUI.apk strings.xml nav_bar_default
 all MiuiSystemUI.apk strings.xml notification_default_channel_desc

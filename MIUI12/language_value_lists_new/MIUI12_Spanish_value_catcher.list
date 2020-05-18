@@ -1277,6 +1277,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="default_theme"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_tiles_default"
+---------------------------------------------------------------------------------------
+ <string name="quick_settings_tiles_default">celular,wifi,linterna,silencio,captura de pantalla,bt,brillo automático,avión,bloqueo de pantalla,gps,rotación,modo papel,noche,modo silencioso,ahorro de batería,ahorro extremo de batería,personalizado(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizado(com.milink.service/com.milink.ui.service.MiLinkTileService),personalizado(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,personalizado(com.miui.screenrecorder/.service.QuickService ),vibrar,zona activa,sincronización,botón de pantalla,energía inalámbrica,nfc,editar</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%s modo</string>

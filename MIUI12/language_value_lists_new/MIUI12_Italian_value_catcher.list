@@ -1619,6 +1619,42 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="editing_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="editing_mode_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="global_search_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="global_search_mode_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="global_search_provider_values"
+---------------------------------------------------------------------------------------
+ <string-array name="global_search_provider_values"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="transformation_values"
+---------------------------------------------------------------------------------------
+ <string-array name="transformation_values"> <item>1</item> <item>2</item> <item>3</item> <item>5</item> <item>7</item> <item>8</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="wallpaper_scroll_values"
+---------------------------------------------------------------------------------------
+ <string-array name="wallpaper_scroll_values"> <item>byTheme</item> <item>center</item> <item>left</item> <item>right</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 ---------------------------------------------------------------------------------------
  <string name="all_app_category_default">Categoria</string>
@@ -1649,9 +1685,21 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_claro"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_meitu"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_meitu">App Meitu</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_microsoft">Microsoft</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">Altre app</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1664,6 +1712,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_servic
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_telcel">Telcel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_turkcell_uygulamalar"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1682,6 +1736,24 @@ folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_1008
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Imposta schermata predefinita</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Spenta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Attivo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
+---------------------------------------------------------------------------------------
+ <string name="default_permission_description">eseguire un\'azione sconosciuta</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1793,6 +1865,102 @@ folder="all" application="MiuiVideo.apk" xml="" name="toast_screen_text_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_vibrateWhen"> <item>sempre</item> <item>silenzioso</item> <item>mai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="prefValues_vibrateWhen"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_vibrateWhen"> <item>sempre</item> <item>silenzioso</item> <item>mai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="contact_values"
+---------------------------------------------------------------------------------------
+ <string-array name="contact_values"> <item>vnd.android.cursor.item/name</item> <item>vnd.android.cursor.item/nickname</item> <item>vnd.android.cursor.item/phone_v2</item> <item>vnd.android.cursor.item/email_v2</item> <item>vnd.android.cursor.item/organization</item> <item>vnd.android.cursor.item/im</item> <item>vnd.android.cursor.item/sip_address</item> <item>vnd.android.cursor.item/contact_event</item> <item>vnd.android.cursor.item/website</item> <item>vnd.android.cursor.item/postal-address_v2</item> <item>vnd.android.cursor.item/note</item> <item>vnd.android.cursor.item/relation</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="entries_mms_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string-array name="entries_mms_validity_period_value"> <item>0</item> <item>172800</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="entries_sms_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string-array name="entries_sms_validity_period_value"> <item>-1</item> <item>60</item> <item>360</item> <item>720</item> <item>1440</item> <item>635040</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="message_sending_method_value"
+---------------------------------------------------------------------------------------
+ <string-array name="message_sending_method_value"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_fallback_value"
+---------------------------------------------------------------------------------------
+ <string-array name="rcs_fallback_value"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_quality_value"
+---------------------------------------------------------------------------------------
+ <string-array name="rcs_quality_value"> <item>-1</item> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rf_value"
+---------------------------------------------------------------------------------------
+ <string-array name="rf_value"> <item>RF1</item> <item>RF2</item> <item>RF3</item> <item>RF4</item> <item>RF5</item> <item>RF6</item> <item>RF7</item> <item>RF8</item> <item>RF9</item> <item>RF10</item> <item>RF11</item> <item>RF12</item> <item>RF13</item> <item>RF14</item> <item>RF15</item> <item>RF16</item> <item>RF17</item> <item>RF18</item> <item>RF19</item> <item>RF20</item> <item>RF21</item> <item>RF22</item> <item>RF23</item> <item>RF24</item> <item>RF25</item> <item>RF26</item> <item>RF27</item> <item>RF28</item> <item>RF29</item> <item>RF30</item> <item>RF31</item> <item>RF32</item> <item>RF33</item> <item>RF34</item> <item>RF35</item> <item>RF36</item> <item>RF37</item> <item>RF38</item> <item>RF39</item> <item>RF40</item> <item>RF41</item> <item>RF42</item> <item>RF43</item> <item>RF44</item> <item>RF45</item> <item>RF46</item> <item>RF47</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
+---------------------------------------------------------------------------------------
+ <string-array name="switch_sdk_value"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_web_client_id"
+---------------------------------------------------------------------------------------
+ <string name="default_web_client_id">442074018142-eri5e8fk5h1pv23iej2aup5r7a4knsnj.apps.googleusercontent.com</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="gcm_defaultSenderId"
+---------------------------------------------------------------------------------------
+ <string name="gcm_defaultSenderId">442074018142</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Scorri verso il basso per aprire la cartella privata</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_default_sending_method">Metodo di invio predefinito</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_picture_message_default_quality">Opzioni di compressione immagine</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
+---------------------------------------------------------------------------------------
+ <string name="rcs_pref_video_message_default_quality">Opzioni di compressione video</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Music.apk" xml="" name="signup_type_silent_default"
 ---------------------------------------------------------------------------------------
  <string name="signup_type_silent_default">silenzioso</string>
@@ -1802,6 +1970,36 @@ folder="all" application="Music.apk" xml="" name="signup_type_silent_default"
 folder="all" application="Music.apk" xml="" name="signup_type_user_default"
 ---------------------------------------------------------------------------------------
  <string name="signup_type_user_default">Accesso SDK consumer</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="contact_values"
+---------------------------------------------------------------------------------------
+ <string-array name="contact_values"> <item>vnd.android.cursor.item/name</item> <item>vnd.android.cursor.item/nickname</item> <item>vnd.android.cursor.item/phone_v2</item> <item>vnd.android.cursor.item/email_v2</item> <item>vnd.android.cursor.item/organization</item> <item>vnd.android.cursor.item/im</item> <item>vnd.android.cursor.item/sip_address</item> <item>vnd.android.cursor.item/contact_event</item> <item>vnd.android.cursor.item/website</item> <item>vnd.android.cursor.item/postal-address_v2</item> <item>vnd.android.cursor.item/note</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
+---------------------------------------------------------------------------------------
+ <string name="audio_panel_time_counter_default">00:00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Scorri verso il basso per aprire la cartella privata</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Disattivato</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
+---------------------------------------------------------------------------------------
+ <string name="todo_audio_default_content">"[Voice task] "</string>
 
 
 ---------------------------------------------------------------------------------------

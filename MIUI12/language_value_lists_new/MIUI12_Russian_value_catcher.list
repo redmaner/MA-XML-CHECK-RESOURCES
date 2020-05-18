@@ -521,6 +521,12 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="text_no_value"
+---------------------------------------------------------------------------------------
+ <string name="text_no_value">--</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="user_invalid_value"
 ---------------------------------------------------------------------------------------
  <string name="user_invalid_value">--</string>
@@ -589,7 +595,7 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
 ---------------------------------------------------------------------------------------
- <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">вспышка</string>
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">серия</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -665,6 +671,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_video_focusmode_entr
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_autoexposure_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_autoexposure_default">1</string>
@@ -691,7 +703,7 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_focusmode_val
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
 ---------------------------------------------------------------------------------------
- <string name="pref_camera_long_press_shutter_feature_default">серия</string>
+ <string name="pref_camera_long_press_shutter_feature_default">запись</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -805,7 +817,7 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_jpegquality_v
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
 ---------------------------------------------------------------------------------------
- <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">вспышка</string>
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">серия</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1196,12 +1208,6 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_defaul
 folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Некоторые настройки по умолчанию</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
----------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_content">Ежедневно обновляемые обои</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2149,7 +2155,7 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_data">Данные</string>
+ <string name="msim_setting_default_data">Интернет</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2203,18 +2209,18 @@ folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_def
 ---------------------------------------------------------------------------------------
 folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_camera_title">Отправка без метаданных по умолчанию</string>
+ <string name="first_settings_default_camera_title">Отправлять без метаданных</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_location_subtitle">Удалять информацию о местоположении из общих фотографий</string>
+ <string name="first_settings_default_location_subtitle">Удалить информацию о местоположении из общих фотографий</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_location_title">Отправка без информации о местоположении по умолчанию</string>
+ <string name="first_settings_default_location_title">Отправлять без информации о местоположении</string>
 
 
