@@ -1775,6 +1775,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">SIM do danych %d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Tryb jednej dłoni jest domyślnie wyłączony. Włączyć teraz?</string>

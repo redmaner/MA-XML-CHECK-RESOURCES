@@ -1,4 +1,34 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_image_type"
+---------------------------------------------------------------------------------------
+ <string name="avrcp_cover_art_default_image_type">immagine</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_mimetype"
+---------------------------------------------------------------------------------------
+ <string name="avrcp_cover_art_default_mimetype">JPEG</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
+---------------------------------------------------------------------------------------
+ <string name="bt_sm_2_1_default">"Spazio insufficiente sulla scheda SD per salvare il file da \"%1$s\""</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
+---------------------------------------------------------------------------------------
+ <string name="defaultnumber">000000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
+---------------------------------------------------------------------------------------
+ <string name="status_no_sd_card_default">Nessuna scheda SD. Inserisci una scheda SD per salvare i file trasferiti.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Solo un attimo…</string>
@@ -17,27 +47,45 @@ folder="all" application="Browser.apk" xml="" name="topic_content_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="BugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">Visualizzazione testo</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="CABLService.apk" xml="" name="cabl_info_default"
 ---------------------------------------------------------------------------------------
  <string name="cabl_info_default">Sconosciuto</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="default_separator_text">的</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="default_text"
+---------------------------------------------------------------------------------------
+ <string name="default_text">我</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="relationship_default_separator_text">的</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="relationship_default_text"
+---------------------------------------------------------------------------------------
+ <string name="relationship_default_text">我</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_area_0">sq.m</string>
+ <string name="unit_data_default_area_0">m²</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_area_1">sq.cm</string>
+ <string name="unit_data_default_area_1">cm²</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -56,6 +104,18 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_currenc
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_2"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_currency_2">EUR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_radix_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_radix_0">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_radix_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_radix_1">2</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -104,6 +164,42 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_volume_1">cu.cm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="cos_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="cos_mathematical_value">cos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="e_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="e_mathematical_value">e</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="lg_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="lg_mathematical_value">lg</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="ln_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="ln_mathematical_value">ln</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="sin_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="sin_mathematical_value">sin</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="tan_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="tan_mathematical_value">tan</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -284,6 +380,30 @@ folder="all" application="Calendar.apk" xml="" name="preferences_default_reminde
 folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_default_value"
 ---------------------------------------------------------------------------------------
  <string name="preferences_default_reminder_later_time_default_value">300000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_active_values"
+---------------------------------------------------------------------------------------
+ <string-array name="alert_reminder_interval_active_values"> <item>1</item> <item>2</item> <item>15</item> <item>0</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_values"
+---------------------------------------------------------------------------------------
+ <string-array name="alert_reminder_interval_values"> <item>1</item> <item>2</item> <item>5</item> <item>15</item> <item>0</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_default_value"
+---------------------------------------------------------------------------------------
+ <string name="alert_reminder_interval_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_default_value"
+---------------------------------------------------------------------------------------
+ <string name="alert_reminder_interval_default_value">0</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1961,15 +2081,9 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_q
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Music.apk" xml="" name="signup_type_silent_default"
+folder="all" application="Music.apk" xml="" name="dirac_equalizer_preset_values"
 ---------------------------------------------------------------------------------------
- <string name="signup_type_silent_default">silenzioso</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Music.apk" xml="" name="signup_type_user_default"
----------------------------------------------------------------------------------------
- <string name="signup_type_user_default">Accesso SDK consumer</string>
+ <string-array name="dirac_equalizer_preset_values"> <item>0,0,0,0,0,0,0</item> <item>4,2,-2,0,-2,-2,4</item> <item>0,0,0,-2,-3,0,0</item> <item>0,-3,-5,0,0,-3,0</item> <item>0,0,0,0,3,6,6</item> <item>3,3,-3,0,-3,0,2</item> <item>2,4,-6,4,0,1,2</item> <item>3,3,-1,0,-3,0,0</item> <item>0,0,-2,-2,2,2,0</item> <item>0,4,2,0,-2,-2,4</item> <item>2,0,0,-2,-4,0,0</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

@@ -887,18 +887,6 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
----------------------------------------------------------------------------------------
- <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_value"
----------------------------------------------------------------------------------------
- <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
  <string name="default_debt_msg_words">"Cet appareil est verrouillé en raison d'un retard de versement. Contactez votre agent de vente pour plus de détails."</string>
@@ -1685,6 +1673,12 @@ folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" Vous devez accepter la politique de confidentialité de Mint Keyboard avant d'utiliser cette fonction."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
  <string name="terms_of_use_lable_default_input_method_facemoji">" Vous devez accepter la politique de confidentialité de Facemoji avant d'utiliser cette fonctionnalité."</string>
@@ -1885,7 +1879,7 @@ folder="all" application="Settings.apk" xml="" name="default_for_sms"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_app_default">Open with</string>
+ <string name="keywords_app_default">Ouvrir avec</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2147,6 +2141,36 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Set Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">Cancel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">Make %s your default call screening app?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s will be able to see information about callers not in your contacts and will be able to block these calls. Only apps you trust should be set as the default call screening app.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s will no longer be able to screen calls.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_dialog_affirmative">"Définir comme application d'appel par défaut"</string>
@@ -2174,6 +2198,12 @@ folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
 ---------------------------------------------------------------------------------------
  <string name="msim_setting_default_data">Données</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">Données SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------

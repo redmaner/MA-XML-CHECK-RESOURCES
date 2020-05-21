@@ -1099,13 +1099,25 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_data">Predefinido para dados</string>
+ <string name="msim_setting_default_data">Dados</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">SIM dados %d</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_voice">Predefinido para chamadas</string>
+ <string name="msim_setting_default_voice">Chamadas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -2033,6 +2033,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_dat
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">Daten-SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
 ---------------------------------------------------------------------------------------
  <string name="msim_setting_default_voice">Standard für Anrufe</string>

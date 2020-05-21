@@ -23,12 +23,6 @@ folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Bluetooth.apk" xml="" name="defaultnumber"
----------------------------------------------------------------------------------------
- <string name="defaultnumber">000000</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 ---------------------------------------------------------------------------------------
  <string name="status_no_sd_card_default">No se detecta ninguna tarjeta SD. Inserta una para guardar los archivos transferidos.</string>
@@ -169,7 +163,7 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
- <string-array name="repeat_monthly_on_day_count_values"> <item>primer lunes</item> <item>primer martes</item> <item>primer miércoles</item> <item>primer jueves</item> <item>primer viernes</item> <item>primer sábado</item> <item>primer domingo</item> <item>segundo lunes</item> <item>segundo martes</item> <item>segundo miércoles</item> <item>segundo jueves</item> <item>segundo viernes</item> <item>segundo sábado</item> <item>segundo domingo</item> <item>tercer lunes</item> <item>tercer martes</item> <item>tercer miércoles</item> <item>tercer jueves</item> <item>tercer viernes</item> <item>tercer sábado</item> <item>tercer domingo</item> <item>cuarto lunes</item> <item>cuarto martes</item> <item>cuarto miércoles</item> <item>cuarto jueves</item> <item>cuarto viernes</item> <item>cuarto sábado</item> <item>cuarto domingo</item> <item>último lunes</item> <item>último martes</item> <item>último miércoles</item> <item>último jueves</item> <item>último viernes</item> <item>último sábado</item> <item>último domingo</item> </string-array>
+ <string-array name="repeat_monthly_on_day_count_values"> <item>primer lunes</item> <item>primer martes</item> <item>primer miércoles</item> <item>primer jueves</item> <item>primer viernes</item> <item>primer sábado</item> <item>primer domingo</item> <item>segundo lunes</item> <item>segundo martes</item> <item>segundo miércoles</item> <item>segundo jueves</item> <item>segundo viernes</item> <item>segundo sábado</item> <item>segundo domingo</item> <item>tercer lunes</item> <item>tercer martes</item> <item>tercer miércoles</item> <item>tercer jueves</item> <item>tercer viernes</item> <item>tercer sábado</item> <item>tercer domingo</item> <item>cuarto lunes</item> <item>cuarto martes</item> <item>cuarto miércoles</item> <item>cuarto jueves</item> <item>cuarto viernes</item> <item>cuarto sábado</item> <item>cuarto domingo</item> <item>último lunes</item> <item>último martes</item> <item>último miércoles</item> <item>último jueves</item> <item>último viernes</item> <item>último sábado</item> <item>último domingo</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -251,27 +245,15 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
----------------------------------------------------------------------------------------
- <string name="contacts_default_notification_channel">Notificaciones</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
 ---------------------------------------------------------------------------------------
  <string name="bind_simcard_default">SIM predeterminada para llamadas</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
+folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
- <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
----------------------------------------------------------------------------------------
- <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+ <string name="contacts_default_notification_channel">Notificaciones</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -365,81 +347,9 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twen
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_five">5</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_one"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_one">1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_ten"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_ten">10</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_three"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_three">3</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_two"
----------------------------------------------------------------------------------------
- <string name="repeat_count_value_two">2</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Intervalo (minutos)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_fifteen"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_fifteen">15</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_five"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_five">5</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_one"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_one">1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_ten"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_ten">10</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_thirty"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_thirty">30</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_twenty">20</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
----------------------------------------------------------------------------------------
- <string name="snooze_duration_value_twenty_five">25</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -467,6 +377,12 @@ folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_opening_attchemnt_mode">Abrir archivos adjuntos con aplicaciones predeterminadas</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_signature_2"
 ---------------------------------------------------------------------------------------
  <string name="default_signature_2">Enviado desde mi %s</string>
@@ -476,24 +392,6 @@ folder="all" application="Email.apk" xml="" name="default_signature_2"
 folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 ---------------------------------------------------------------------------------------
  <string name="file_default_save_path_title">Ubicación predeterminada para los archivos adjuntos</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
----------------------------------------------------------------------------------------
- <string name="default_opening_attchemnt_mode">Abrir archivos adjuntos con aplicaciones predeterminadas</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
----------------------------------------------------------------------------------------
- <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_value"
----------------------------------------------------------------------------------------
- <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -629,18 +527,6 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_hdmi"
----------------------------------------------------------------------------------------
- <string name="default_audio_route_name_hdmi">HDMI</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="default_audio_route_name_usb"
----------------------------------------------------------------------------------------
- <string name="default_audio_route_name_usb">USB</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
 ---------------------------------------------------------------------------------------
  <string name="default_notification_channel_label">Sin clasificar</string>
@@ -656,12 +542,6 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
 ---------------------------------------------------------------------------------------
  <string name="etws_primary_default_message_earthquake_and_tsunami">Mantén la calma y busca refugio en algún lugar cercano.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_others" />
 
 
 ---------------------------------------------------------------------------------------
@@ -716,12 +596,6 @@ folder="all" application="Health.apk" xml="" name="sleep_tip_default"
 folder="all" application="Health.apk" xml="" name="tips_default"
 ---------------------------------------------------------------------------------------
  <string name="tips_default">Sin datos</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Health.apk" xml="" name="user_invalid_value"
----------------------------------------------------------------------------------------
- <string name="user_invalid_value">--</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -887,12 +761,6 @@ folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="cell_layout_size_values"
----------------------------------------------------------------------------------------
- <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 ---------------------------------------------------------------------------------------
  <string name="all_app_category_default">Categoría</string>
@@ -1037,12 +905,6 @@ folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_titl
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiHome.apk" xml="" name="default_shortcut_title_10086"
----------------------------------------------------------------------------------------
- <string name="default_shortcut_title_10086">10086.cn</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Establecer pantalla predeterminada</string>
@@ -1075,7 +937,7 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_settings_resolution_values"
 ---------------------------------------------------------------------------------------
- <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
+ <string-array name="screenrecorder_settings_resolution_values"> <item>1080</item> <item>720</item> <item>480</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1087,19 +949,13 @@ folder="all" application="MiuiScreenRecorder.apk" xml="" name="screenrecorder_se
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="data_type_name_mcc_mnc_value"
----------------------------------------------------------------------------------------
- <array name="data_type_name_mcc_mnc_value" /> <string-array name="debug_hw_overdraw_entries">
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
 ---------------------------------------------------------------------------------------
- <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+ <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1211,6 +1067,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlo
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">Predeterminado</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_default"
 ---------------------------------------------------------------------------------------
  <string name="keyguard_carrier_default">Sin servicio</string>
@@ -1253,12 +1115,6 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="notification_header_def
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s / %2$s</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_description"
 ---------------------------------------------------------------------------------------
  <string name="quick_settings_cast_device_default_description">Listo para emitir</string>
@@ -1268,12 +1124,6 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_name"
 ---------------------------------------------------------------------------------------
  <string name="quick_settings_cast_device_default_name">Dispositivo sin nombre</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="default_theme"
----------------------------------------------------------------------------------------
- <string name="default_theme">Predeterminado</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1355,12 +1205,6 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_n
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
----------------------------------------------------------------------------------------
- <string name="t_lv_subtitle_padding_default_hint">Ajustando subtítulos…</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
 ---------------------------------------------------------------------------------------
  <string name="plus_poster_reset_default">Restaurar la portada por defecto</string>
@@ -1373,9 +1217,15 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="t_lv_subtitle_padding_default_hint">Ajustando subtítulos…</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 ---------------------------------------------------------------------------------------
- <string-array name="switch_sdk_value"> <item>0</item> <item>1</item> </string-array>
+ <string-array name="switch_sdk_value"> <item>0</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1436,12 +1286,6 @@ folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
  <string name="todo_audio_default_content">"[Tarea de voz] "</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
----------------------------------------------------------------------------------------
- <string name="audio_panel_time_counter_default">00:00</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1549,7 +1393,7 @@ folder="all" application="QuickSearchBox.apk" xml="" name="reader_history_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
- <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
+ <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2105,6 +1949,12 @@ folder="all" application="Settings.apk" xml="" name="default_for_sms"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Predeterminado</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
 ---------------------------------------------------------------------------------------
  <string name="default_launcher_set_jeejen_message">Pulsa el Botón de inicio para configurar Jeejen</string>
@@ -2141,9 +1991,21 @@ folder="all" application="Settings.apk" xml="" name="default_rule_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">Predeterminado (Recomendado)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
  <string name="default_theme">Predeterminado</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
+---------------------------------------------------------------------------------------
+ <string name="default_vol_stream_title">Flujo de control de volumen predeterminado</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2180,6 +2042,18 @@ folder="all" application="Settings.apk" xml="" name="importance_default"
 folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
  <string name="keywords_app_default">Abrir con</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">predeterminado, navegador predeterminado</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">predeterminado</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2237,6 +2111,12 @@ folder="all" application="Settings.apk" xml="" name="preference_summary_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">Error al restablecer apn predeterminado</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
  <string name="slider_vocie_online_default">Ninguno</string>
@@ -2270,42 +2150,6 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="zen_mode_custom_behavior_summary_default">Usar configuración predeterminada</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_keyboard"
----------------------------------------------------------------------------------------
- <string name="default_keyboard">Predeterminado</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_suppression_title"
----------------------------------------------------------------------------------------
- <string name="default_suppression_title">Predeterminado (Recomendado)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
----------------------------------------------------------------------------------------
- <string name="default_vol_stream_title">Flujo de control de volumen predeterminado</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
----------------------------------------------------------------------------------------
- <string name="keywords_default_browser">predeterminado, navegador predeterminado</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="keywords_default_links"
----------------------------------------------------------------------------------------
- <string name="keywords_default_links">predeterminado</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
----------------------------------------------------------------------------------------
- <string name="reset_default_apn_failed">Error al restablecer apn predeterminado</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2353,7 +2197,7 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2477,33 +2321,15 @@ folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s/%2$s</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values"
----------------------------------------------------------------------------------------
- <string-array name="cdma_subscription_values"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="list_language_values"
----------------------------------------------------------------------------------------
- <string-array name="list_language_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="preferred_network_mode_values_world_mode"
 ---------------------------------------------------------------------------------------
- <string-array name="preferred_network_mode_values_world_mode"> <item>10</item> <item>8</item> <item>9</item> </string-array>
+ <string-array name="preferred_network_mode_values_world_mode"> <item>10</item> <item>8</item> <item>9</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2587,37 +2413,25 @@ folder="all" application="TeleService.apk" xml="" name="connected_via_network_sc
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">&lt;No configurado></string>
+ <string name="default_preference_summary_domain_address">&lt;No configurado&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">&lt;No configurado></string>
+ <string name="default_preference_summary_password">&lt;No configurado&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">&lt;No configurado></string>
+ <string name="default_preference_summary_username">&lt;No configurado&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
----------------------------------------------------------------------------------------
- <string name="msim_select_default_time_left">(%d s)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s/%2$s</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2653,7 +2467,7 @@ folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
- <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2780,12 +2594,6 @@ folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
 folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Se han establecido algunos valores predeterminados</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="preference_summary_default_combination"
----------------------------------------------------------------------------------------
- <string name="preference_summary_default_combination">%1$s/%2$s</string>
 
 
 ---------------------------------------------------------------------------------------

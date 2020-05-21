@@ -19,7 +19,7 @@ folder="all" application="Browser.apk" xml="" name="browser_default_setting_canc
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
 ---------------------------------------------------------------------------------------
- <string name="browser_default_setting_confirm">D\'ACORD</string>
+ <string name="browser_default_setting_confirm">D\'acord</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -83,9 +83,33 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">Veure esdeveniments de l\'any vinent</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Historial de cerques</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Potser ús interessa això</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
  <string name="preferences_alarms_default_event">Seleccioneu esdeveniments</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">Veure els esdeveniments de l\'any anterior</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -289,7 +313,7 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="db_default_journal_mode"
 ---------------------------------------------------------------------------------------
- <string name="db_default_journal_mode">PERSISTIR</string>
+ <string name="db_default_journal_mode">PERSISTEIX</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -410,6 +434,72 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 folder="all" application="MiuiBluetooth.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142, segur</item> <item>1280x720/213</item> <item>1280x720/213,segur</item> <item>1920x1080/320</item> <item>1920x1080/320,segur</item> <item>3840x2160/320</item> <item>3840x2160/320,segur</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320 | 3840x2160/640,segur</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Connectat automàticament mitjançant un proveïdor de qualificació de xarxa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">No s\'ha definit cap valor per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">S\'han establert alguns valors per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Establiu la veu específica de l’idioma per al text parlat</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Idioma</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Afecta el to de la veu sintetitzada</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">To</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Velocitat a la qual es parla el text</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Velocitat de parla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Aquest és un exemple de síntesi de veu</string>
 
 
 ---------------------------------------------------------------------------------------
