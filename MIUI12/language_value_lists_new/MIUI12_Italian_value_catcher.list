@@ -557,6 +557,36 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="auto_silence_values"
+---------------------------------------------------------------------------------------
+ <string-array name="auto_silence_values"> <item>-1</item> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="clock_bg_setting_values"
+---------------------------------------------------------------------------------------
+ <string-array name="clock_bg_setting_values"> <item>1</item> <item>2</item> <item>-1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="notification_adv_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="notification_adv_time_values"> <item>0</item> <item>15</item> <item>30</item> <item>60</item> <item>-1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
+---------------------------------------------------------------------------------------
+ <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
 ---------------------------------------------------------------------------------------
  <string name="repeat_count_value_five">5</string>
@@ -635,6 +665,96 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twen
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="alphabet_chars"
+---------------------------------------------------------------------------------------
+ <string-array name="alphabet_chars"> <item>★</item> <item>A</item> <item>B</item> <item>C</item> <item>D</item> <item>E</item> <item>F</item> <item>G</item> <item>H</item> <item>I</item> <item>J</item> <item>K</item> <item>L</item> <item>M</item> <item>N</item> <item>O</item> <item>P</item> <item>Q</item> <item>R</item> <item>S</item> <item>T</item> <item>U</item> <item>V</item> <item>W</item> <item>X</item> <item>Y</item> <item>Z</item> <item>\#</item> <item>∅</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="account_settings_mail_window_values_with_default"
+---------------------------------------------------------------------------------------
+ <string-array name="account_settings_mail_window_values_with_default"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>7</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="prefValues_autoAdvance"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_autoAdvance"> <item>più recenti</item> <item>meno recenti</item> <item>elenco</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="prefValues_contact_add"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_contact_add"> <item>contact_add</item> <item>receiver_add</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="prefValues_autoAdvance"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_autoAdvance"> <item>più recenti</item> <item>meno recenti</item> <item>elenco</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="prefValues_contact_add"
+---------------------------------------------------------------------------------------
+ <string-array name="prefValues_contact_add"> <item>contact_add</item> <item>receiver_add</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="account_settings_check_frequency_values"
+---------------------------------------------------------------------------------------
+ <string-array name="account_settings_check_frequency_values"> <item>-1</item> <item>15</item> <item>60</item> <item>240</item> <item>720</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="account_settings_check_frequency_values_push"
+---------------------------------------------------------------------------------------
+ <string-array name="account_settings_check_frequency_values_push"> <item>-2</item> <item>-1</item> <item>15</item> <item>60</item> <item>240</item> <item>720</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="account_settings_mail_window_values"
+---------------------------------------------------------------------------------------
+ <string-array name="account_settings_mail_window_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="account_settings_mail_window_values_eas"
+---------------------------------------------------------------------------------------
+ <string-array name="account_settings_mail_window_values_eas"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>7</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="account_settings_mail_window_values_with_default"
+---------------------------------------------------------------------------------------
+ <string-array name="account_settings_mail_window_values_with_default"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>7</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="account_settings_message_load_imap_eas_values"
+---------------------------------------------------------------------------------------
+ <string-array name="account_settings_message_load_imap_eas_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="account_settings_message_load_pop3_values"
+---------------------------------------------------------------------------------------
+ <string-array name="account_settings_message_load_pop3_values"> <item>1</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="general_preference_text_zoom_values"
+---------------------------------------------------------------------------------------
+ <string-array name="general_preference_text_zoom_values"> <item>molto piccolo</item> <item>piccolo</item> <item>normale</item> <item>grande</item> <item>molto grande</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="log_file_save_term_values"
+---------------------------------------------------------------------------------------
+ <string-array name="log_file_save_term_values"> <item>1</item> <item>3</item> <item>7</item> <item>30</item> <item>-1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_exchange"
 ---------------------------------------------------------------------------------------
  <string name="default_exchange">EXCHANGE</string>
@@ -649,7 +769,7 @@ folder="all" application="Email.apk" xml="" name="default_imap"
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
 ---------------------------------------------------------------------------------------
- <string name="default_opening_attchemnt_mode">"Apri gli allegati usando l'app predefinita"</string>
+ <string name="default_opening_attchemnt_mode">Apri gli allegati usando l\'app predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -673,331 +793,37 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="setting_default_lable"
 ---------------------------------------------------------------------------------------
- <string name="setting_default_lable" />
+ <string name="setting_default_lable"></string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="connected_via_network_scorer_default"
+folder="all" application="Email.apk" xml="" name="recognize_hotel_room_type_value"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+ <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="launch_defaults_none"
+folder="all" application="Email.apk" xml="" name="recognize_hotel_user_names_value"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_none">No defaults set</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Some defaults set</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="screen_zoom_summary_default"
----------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Default</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_lang_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_lang_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Language</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_pitch_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_pitch_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Pitch</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_rate_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_rate_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Speech rate</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_sample_string"
----------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">This is an example of speech synthesis</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="default_sim1"
----------------------------------------------------------------------------------------
- <string name="default_sim1">Default SIM1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="default_sim2"
----------------------------------------------------------------------------------------
- <string name="default_sim2">Default SIM2</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="hqa_cpustress_radiobutton_default"
----------------------------------------------------------------------------------------
- <string name="hqa_cpustress_radiobutton_default">Default</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="ctia_default_val"
----------------------------------------------------------------------------------------
- <string name="ctia_default_val">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="device_info_default"
----------------------------------------------------------------------------------------
- <string name="device_info_default">Unknown</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="cfu_default"
----------------------------------------------------------------------------------------
- <string name="cfu_default">Default</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="pref_camera_scenemode_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_scenemode_default">auto</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="pref_camera_whitebalance_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_whitebalance_default">auto</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="antenna_diversity_default"
----------------------------------------------------------------------------------------
- <string name="antenna_diversity_default">---</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="enable_default"
----------------------------------------------------------------------------------------
- <string name="enable_default">default</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="TouchScreen_Settings_TextValue"
----------------------------------------------------------------------------------------
- <string name="TouchScreen_Settings_TextValue">The value</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="TouchScreen_Settings_Value"
----------------------------------------------------------------------------------------
- <string name="TouchScreen_Settings_Value">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="GPIO_Edit_Value"
----------------------------------------------------------------------------------------
- <string name="GPIO_Edit_Value">0</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="Audio_DebugInfo_ValueText"
----------------------------------------------------------------------------------------
- <string name="Audio_DebugInfo_ValueText">Please input the value:</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="value_text"
----------------------------------------------------------------------------------------
- <string name="value_text">Value</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="value6575_text"
----------------------------------------------------------------------------------------
- <string name="value6575_text">Value[Hex 00-FF]</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="value6589_text"
----------------------------------------------------------------------------------------
- <string name="value6589_text">Value[Hex 0000-FFFF]</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="hqa_cpustress_apmcu_loopcount_value"
----------------------------------------------------------------------------------------
- <string name="hqa_cpustress_apmcu_loopcount_value">1000</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="hqa_cpustress_swvideo_loopcount_value"
----------------------------------------------------------------------------------------
- <string name="hqa_cpustress_swvideo_loopcount_value">1000</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="hqa_cpustress_swvideo_iteration_value"
----------------------------------------------------------------------------------------
- <string name="hqa_cpustress_swvideo_iteration_value">1000</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="hqa_cpustress_dvfs_interval_value"
----------------------------------------------------------------------------------------
- <string name="hqa_cpustress_dvfs_interval_value">5000</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="wifi_value_text"
----------------------------------------------------------------------------------------
- <string name="wifi_value_text">value(h):</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="wifi_value_content"
----------------------------------------------------------------------------------------
- <string name="wifi_value_content" />
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="wifi_value_text_string"
----------------------------------------------------------------------------------------
- <string name="wifi_value_text_string">value(h):</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="wifi_value_content_string"
----------------------------------------------------------------------------------------
- <string name="wifi_value_content_string" />
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="wifi_mcr_value_text"
----------------------------------------------------------------------------------------
- <string name="wifi_mcr_value_text">Value(h):</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="ctia_value"
----------------------------------------------------------------------------------------
- <string name="ctia_value" />
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="max_value_check"
----------------------------------------------------------------------------------------
- <string name="max_value_check">Max Length is 1024</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="modem_switch_current_value"
----------------------------------------------------------------------------------------
- <string name="modem_switch_current_value">Current Modem Type:</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="sensor_ps_calibration_min_value"
----------------------------------------------------------------------------------------
- <string name="sensor_ps_calibration_min_value">Min value:</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="sensor_ps_calibration_max_value"
----------------------------------------------------------------------------------------
- <string name="sensor_ps_calibration_max_value">Max value:</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="lte_error_set_invalid_value"
----------------------------------------------------------------------------------------
- <string name="lte_error_set_invalid_value">Error: Invalid value</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="lte_error_get_invalid_value"
----------------------------------------------------------------------------------------
- <string name="lte_error_get_invalid_value">Error: Get invalid data</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="clk_quality_at_value_unit"
----------------------------------------------------------------------------------------
- <string name="clk_quality_at_value_unit">ppb/s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="world_mode_current_value"
----------------------------------------------------------------------------------------
- <string name="world_mode_current_value">Current World Mode:</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="md_notification_value"
----------------------------------------------------------------------------------------
- <string name="md_notification_value">md_notification_value</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="EngineerMode.apk" xml="" name="md_checkedshare_value"
----------------------------------------------------------------------------------------
- <string name="md_checkedshare_value">md_checkedshare_value</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FactoryMode.apk" xml="" name="dev_default"
----------------------------------------------------------------------------------------
- <string name="dev_default">Sconosciuto</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FactoryMode.apk" xml="" name="build_id_default"
----------------------------------------------------------------------------------------
- <string name="build_id_default">M8939AAAAANLYD2143.1</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FactoryMode.apk" xml="" name="device_info_default"
----------------------------------------------------------------------------------------
- <string name="device_info_default">sconosciuto</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FactoryTestKit.apk" xml="" name="gsensor_value"
----------------------------------------------------------------------------------------
- <string name="gsensor_value">Direzione：</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FactoryTestKit.apk" xml="" name="sensor_value"
----------------------------------------------------------------------------------------
- <string name="sensor_value">Valore：</string>
+ <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
  <string name="default_debt_msg_words">"Questo dispositivo è bloccato per via di un ritardo nei pagamenti. Contatta il tuo venditore per ulteriori informazioni."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="organized_languages_default"
+---------------------------------------------------------------------------------------
+ <string-array name="organized_languages_default"> <item>zh_CN</item> <item>zh_TW</item> <item>en_US</item> <item>bo_CN</item> <item>ug_CN</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="screen_key_long_press_default_action"
+---------------------------------------------------------------------------------------
+ <string-array name="screen_key_long_press_default_action"> <item>voice_assistant</item> <item>none</item> <item>none</item> <item>show_menu</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1013,9 +839,201 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_autoBrightnessButtonBacklightValues"
+---------------------------------------------------------------------------------------
+ <array name="config_autoBrightnessButtonBacklightValues"></array> <array name="config_autoBrightnessKeyboardBacklightValues"></array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_autoBrightnessKeyboardBacklightValues"
+---------------------------------------------------------------------------------------
+ <array name="config_autoBrightnessKeyboardBacklightValues"></array> <array name="config_availableColorModes"></array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultCellBroadcastReceiverPkgs"
+---------------------------------------------------------------------------------------
+ <string-array name="config_defaultCellBroadcastReceiverPkgs"> <item>com.android.cellbroadcastreceiver</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultFirstUserRestrictions"
+---------------------------------------------------------------------------------------
+ <array name="config_defaultFirstUserRestrictions"></array> <string-array name="config_defaultPinnerServiceFiles">
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultPinnerServiceFiles"
+---------------------------------------------------------------------------------------
+ <string-array name="config_defaultPinnerServiceFiles"> <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item> <item>/data/dalvik-cache/arm/system@framework@boot.oat</item> <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item> <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item> <item>/system/framework/arm64/boot.oat</item> <item>/system/framework/arm/boot.oat</item> <item>/system/framework/oat/arm64/services.odex</item> <item>/system/framework/oat/arm/services.odex</item> <item>/system/framework/arm64/boot-framework.oat</item> <item>/system/framework/arm/boot-framework.oat</item> <item>/system/framework/arm64/boot-core-libart.oat</item> <item>/system/framework/arm/boot-core-libart.oat</item> <item>/system/lib64/libRScpp.so</item> <item>/system/lib64/libRS.so</item> <item>/system/lib64/libRS_internal.so</item> <item>/system/lib64/libbcinfo.so</item> <item>/system/lib64/libRSDriver.so</item> <item>/system/lib64/libRSCpuRef.so</item> <item>/system/lib64/libblas.so</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_default_vm_number"
+---------------------------------------------------------------------------------------
+ <array name="config_default_vm_number"></array> <array name="config_deviceSpecificSystemServices"></array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_autoBrightnessButtonBacklightValues"
+---------------------------------------------------------------------------------------
+ <array name="config_autoBrightnessButtonBacklightValues"></array> <array name="config_autoBrightnessKeyboardBacklightValues"></array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_autoBrightnessKeyboardBacklightValues"
+---------------------------------------------------------------------------------------
+ <array name="config_autoBrightnessKeyboardBacklightValues"></array> <array name="config_availableColorModes"></array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">%1$s non è disponibile in questo momento. Questo viene gestito da %2$s.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="biometric_dialog_default_title"
+---------------------------------------------------------------------------------------
+ <string name="biometric_dialog_default_title">Verifica che sia tu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAccessibilityService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAccessibilityService">com.google.android.marvin.talkback/.TalkBackService</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAppPredictionService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAppPredictionService"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAssistant"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAssistant">com.miui.voiceassist</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAssistantAccessComponent"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAssistantAccessComponent">android.ext.services/android.ext.services.notification.Assistant</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAttentionService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAttentionService"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAugmentedAutofillService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAugmentedAutofillService"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAutofillService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAutofillService">com.miui.contentcatcher/.autofill.services.MiuiAutofillService</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultContentCaptureService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultContentCaptureService"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultContentSuggestionsService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultContentSuggestionsService"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultDialer"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultDialer">com.android.contacts</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultDndAccessPackages"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultDndAccessPackages">com.android.camera2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultListenerAccessPackages"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultListenerAccessPackages"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultModuleMetadataProvider"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultModuleMetadataProvider">com.android.modulemetadata</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultNetworkRecommendationProviderPackage"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultNetworkRecommendationProviderPackage"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultNetworkScorerPackageName"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultNetworkScorerPackageName"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultPictureInPictureScreenEdgeInsets"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultPictureInPictureScreenEdgeInsets">16x16</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultSupervisionProfileOwnerComponent"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultSupervisionProfileOwnerComponent">com.google.android.gms/.kids.account.receiver.ProfileOwnerReceiver</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultSystemCaptionsManagerService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultSystemCaptionsManagerService"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultSystemCaptionsService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultSystemCaptionsService"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultTextClassifierPackage"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultTextClassifierPackage"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultTrustAgent"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultTrustAgent"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultWellbeingPackage"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultWellbeingPackage"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_default_dns_server"
+---------------------------------------------------------------------------------------
+ <string name="config_default_dns_server">8.8.8.8</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1033,49 +1051,55 @@ folder="all" application="framework-res.apk" xml="" name="default_audio_route_na
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_browser"
 ---------------------------------------------------------------------------------------
- <string name="default_browser" />
+ <string name="default_browser"></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_channel_label">Uncategorized</string>
+ <string name="default_notification_channel_label">Non categorizzato</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_sms_application"
+---------------------------------------------------------------------------------------
+ <string name="default_sms_application">com.android.mms</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake">Stay calm and seek shelter nearby.</string>
+ <string name="etws_primary_default_message_earthquake">Resta calmo e cerca riparo nelle vicinanze.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake_and_tsunami">Stay calm and seek shelter nearby.</string>
+ <string name="etws_primary_default_message_earthquake_and_tsunami">Resta calmo e cerca riparo nelle vicinanze.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_others" />
+ <string name="etws_primary_default_message_others"></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_test">Emergency messages test</string>
+ <string name="etws_primary_default_message_test">Prova messaggi di emergenza</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_tsunami">Evacuate immediately from coastal regions and riverside areas to a safer place such as high ground.</string>
+ <string name="etws_primary_default_message_tsunami">Evacuare immediatamente le zone costiere e fluviali in un luogo più sicuro come una zona più elevata.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="gsm_alphabet_default_charset"
 ---------------------------------------------------------------------------------------
- <string name="gsm_alphabet_default_charset" />
+ <string name="gsm_alphabet_default_charset"></string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1087,13 +1111,13 @@ folder="all" application="framework-res.apk" xml="" name="popup_window_default_t
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="widget_default_class_name"
 ---------------------------------------------------------------------------------------
- <string name="widget_default_class_name" />
+ <string name="widget_default_class_name"></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="widget_default_package_name"
 ---------------------------------------------------------------------------------------
- <string name="widget_default_package_name" />
+ <string name="widget_default_package_name"></string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1109,15 +1133,27 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_helpPackageNameValue"
+---------------------------------------------------------------------------------------
+ <string name="config_helpPackageNameValue"></string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="config_misprovisionedBrandValue"
 ---------------------------------------------------------------------------------------
- <string name="config_misprovisionedBrandValue" />
+ <string name="config_misprovisionedBrandValue"></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Intestazione fattura: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Indirizzo: Via, Apt, Città, Paese/Regione, Provincia, Codice postale</item> <item>Si prega di lasciare il pacco davanti alla porta. Grazie!</item> <item>"Aspetta un minuto, torno subito."</item> <item>"Sono in riunione. Per favore, invia un messaggio."</item> <item>"Non posso parlare adesso. Ti richiamerò il prima possibile."</item> <item>Grazie!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="GuardProvider.apk" xml="" name="default_sdcard_volume_path"
 ---------------------------------------------------------------------------------------
- <string name="default_sdcard_volume_path" />
+ <string name="default_sdcard_volume_path"></string>
 
 
 ---------------------------------------------------------------------------------------

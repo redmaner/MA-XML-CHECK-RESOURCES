@@ -527,6 +527,12 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="text_no_value"
+---------------------------------------------------------------------------------------
+ <string name="text_no_value">-</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="imssettings.apk" xml="" name="ims_settings_no_default_value"
 ---------------------------------------------------------------------------------------
  <string name="ims_settings_no_default_value">무</string>

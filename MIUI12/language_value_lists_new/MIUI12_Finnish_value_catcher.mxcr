@@ -55,6 +55,7 @@ all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
 all framework-res.apk strings.xml wifi_localhotspot_configure_ssid_default
 all framework-res.apk strings.xml zen_mode_default_every_night_name
+all FrequentPhrase.apk arrays.xml default_phrases
 all Health.apk arrays.xml weight_line_chart_default_y
 all Health.apk strings.xml improve_your_health_default_tips
 all Health.apk strings.xml preference_update_default_title
@@ -63,6 +64,7 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml text_no_value
 all Health.apk strings.xml user_invalid_value
+all MiGalleryLockscreen.apk strings.xml system_default
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAccessibility.apk arrays.xml sound_source_values

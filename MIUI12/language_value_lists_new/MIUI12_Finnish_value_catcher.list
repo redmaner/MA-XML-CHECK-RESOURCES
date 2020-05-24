@@ -341,6 +341,12 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
+---------------------------------------------------------------------------------------
+ <string-array name="default_phrases"> <item>Laskun otsikko: array_tools.sh CHANGES check.sh check.sh_mergecf check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Oy.</item> <item>Osoite: Katu, Huoneisto, Kaupunki, Maa/Alue, Provinssi, Postinumero</item> <item>Jätä paketti ovelle. Kiitos!</item> <item>Odota hetki, tulen kohta takaisin.</item> <item>Olen kokouksessa. Lähetä tekstiviesti.</item> <item>En voi puhua juuri nyt. Soitan sinulle takaisin niin pian kuin mahdollista.</item> <item>Kiitos!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="weight_line_chart_default_y"
 ---------------------------------------------------------------------------------------
  <integer-array name="weight_line_chart_default_y"> <item>42</item> <item>45</item> <item>48</item> </integer-array>
@@ -386,6 +392,12 @@ folder="all" application="Health.apk" xml="" name="text_no_value"
 folder="all" application="Health.apk" xml="" name="user_invalid_value"
 ---------------------------------------------------------------------------------------
  <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">Default</string>
 
 
 ---------------------------------------------------------------------------------------
