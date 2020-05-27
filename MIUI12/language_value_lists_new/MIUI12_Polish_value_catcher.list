@@ -155,6 +155,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>pierwszy poniedziałek</item> <item>pierwszy wtorek</item> <item>pierwsza środa</item> <item>pierwszy czwartek</item> <item>pierwszy piątek</item> <item>pierwsza sobota</item> <item>pierwsza niedziela</item> <item>drugi poniedziałek</item> <item>drugi wtorek</item> <item>druga środa</item> <item>drugi czwartek</item> <item>drugi piątek</item> <item>druga sobota</item> <item>druga niedziela</item> <item>trzeci poniedziałek</item> <item>trzeci wtorek</item> <item>trzecia środa</item> <item>trzeci czwartek</item> <item>trzeci piątek</item> <item>trzecia sobota</item> <item>trzecia niedziela</item> <item>czwarty poniedziałek</item> <item>czwarty wtorek</item> <item>czwarta środa</item> <item>czwarty czwartek</item> <item>czwarty piątek</item> <item>czwarta sobota</item> <item>czwarta niedziela</item> <item>ostatni poniedziałek</item> <item>ostatni wtorek</item> <item>ostatnia środa</item> <item>ostatni czwartek</item> <item>ostatni piątek</item> <item>ostatnia sobota</item> <item>ostatnia niedziela</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">Przedział czasowy dla \"Później\"</string>
@@ -464,6 +470,12 @@ folder="all" application="Mipay.apk" xml="" name="mipay_nfc_bank_card_name_defau
 folder="all" application="Mipay.apk" xml="" name="mipay_nfc_shop_name_default"
 ---------------------------------------------------------------------------------------
  <string name="mipay_nfc_shop_name_default">No Name Company</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 min</item> <item>30 min</item> <item>45 min</item> <item>1 godz.</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -824,6 +836,12 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
  <string name="private_entry_default">Przesuń w dół, aby otworzyć prywatne wiadomości</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clir_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="clir_display_values"> <item>Domyślna wartość dla sieci</item> <item>Ukryj numer</item> <item>Pokaż numer</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1781,9 +1799,21 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_dat
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM do połączeń %d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Tryb jednej dłoni jest domyślnie wyłączony. Włączyć teraz?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Domyślny</string>
 
 
 ---------------------------------------------------------------------------------------

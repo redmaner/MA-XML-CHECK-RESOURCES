@@ -28,6 +28,7 @@ all Calculator.apk strings.xml sin_mathematical_value
 all Calculator.apk strings.xml tan_mathematical_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml pref_default_popup_alert_value
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml work_day_default_banner_title
@@ -98,6 +99,7 @@ all imssettings.apk strings.xml ims_band_settings_only_narrow_value
 all imssettings.apk strings.xml ims_band_settings_only_wide_value
 all imssettings.apk strings.xml ims_band_settings_wide_preferred_value
 all MiGalleryLockscreen.apk strings.xml system_default
+all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRecycle.apk strings.xml default_error_msg
 all MiSettings.apk strings.xml restore_default
@@ -324,6 +326,9 @@ all Telecom.apk strings.xml change_default_call_screening_dialog_negative
 all Telecom.apk strings.xml change_default_call_screening_dialog_title
 all Telecom.apk strings.xml change_default_call_screening_warning_message
 all Telecom.apk strings.xml change_default_call_screening_warning_message_for_disable_old_app
+all TeleService.apk strings.xml msim_select_default_time_left
+all TeleService.apk strings.xml msim_setting_default_data
+all TeleService.apk strings.xml msim_setting_default_voice
 all TeleService.apk strings.xml launch_defaults_some
 all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password
@@ -334,6 +339,7 @@ all TeleService.apk strings.xml msim_setting_default_data_description
 all TeleService.apk strings.xml msim_setting_default_voice_description
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all TouchAssistant.apk strings.xml edge_mode_default_title
 all Traceur.apk strings.xml connected_via_network_scorer_default
 all Traceur.apk strings.xml default_categories_restored
 all Traceur.apk strings.xml launch_defaults_none
@@ -367,3 +373,6 @@ all Videos.apk strings.xml edge_type_default
 all Weather.apk strings.xml information_manager_default_weather_bg
 all XMRemoteController.apk strings.xml feedback_desc_default
 all YellowPage.apk strings.xml navigation_search_default_hint
+all Zman.apk strings.xml first_settings_default_camera_title
+all Zman.apk strings.xml first_settings_default_location_subtitle
+all Zman.apk strings.xml first_settings_default_location_title

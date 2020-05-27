@@ -2014,6 +2014,7 @@ all Browser.apk strings.xml download_dialog_file_length_default_txt
 all BugReport.apk strings.xml default_text_view
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
@@ -2033,6 +2034,7 @@ all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
 all MiGalleryLockscreen.apk strings.xml local_default_category
 all MiGalleryLockscreen.apk strings.xml system_default
+all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk strings.xml settings_revert_defaults_title
 all MiRecycle.apk strings.xml default_error_msg
@@ -2229,7 +2231,10 @@ all TeleService.apk strings.xml default_preference_summary_username
 all TeleService.apk strings.xml launch_defaults_some
 all TeleService.apk strings.xml msim_setting_default_data
 all TeleService.apk strings.xml msim_setting_default_voice
+all TeleService.apk strings.xml msim_setting_default_voice_description
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all TouchAssistant.apk strings.xml edge_mode_default_title
+all Traceur.apk arrays.xml bluetooth_avrcp_version_values
 all Traceur.apk arrays.xml bluetooth_avrcp_version_values
 all Traceur.apk strings.xml connected_via_network_scorer_default
 all Traceur.apk strings.xml default_categories

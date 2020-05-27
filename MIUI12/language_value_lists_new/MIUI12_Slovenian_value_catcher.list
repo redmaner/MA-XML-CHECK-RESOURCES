@@ -149,6 +149,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>prvi ponedeljek</item> <item>prvi torek</item> <item>prva sreda</item> <item>prvi četrtek</item> <item>prvi petek</item> <item>prva sobota</item> <item>prva nedelja</item> <item>drugi ponedeljek</item> <item>drugi torek</item> <item>druga sreda</item> <item>drugi četrtek</item> <item>drugi petek</item> <item>druga sobota</item> <item>druga nedelja</item> <item>tretji ponedeljek</item> <item>tretji torek</item> <item>tretja sreda</item> <item>tretji četrtek</item> <item>tretji petek</item> <item>tretja sobota</item> <item>tretja nedelja</item> <item>četrti ponedeljek</item> <item>četrti torek</item> <item>četrta sreda</item> <item>četrti četrtek</item> <item>četrti petek</item> <item>četrta sobota</item> <item>četrta nedelja</item> <item>zadnji ponedeljek</item> <item>zadnji torek</item> <item>zadnja sreda</item> <item>zadnji četrtek</item> <item>zadnji petek</item> <item>zadnja sobota</item> <item>zadnja nedelja</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">Privzeti interval za \"Opomni kasneje\"</string>
@@ -182,6 +188,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_
 folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
 ---------------------------------------------------------------------------------------
  <string name="pull_refresh_events_default">Pokaži dogodke iz preteklega leta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -497,6 +509,12 @@ folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_va
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiLauncherGlobal.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">Nastavi zaslon %1$d za privzeti zač. zaslon</string>
@@ -590,6 +608,18 @@ folder="all" application="MiLauncherGlobal.apk" xml="" name="menu_default_screen
 folder="all" application="MiLauncherGlobal.apk" xml="" name="recommend_apps_default_title"
 ---------------------------------------------------------------------------------------
  <string name="recommend_apps_default_title">Prazno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 minut</item> <item>30 minut</item> <item>45 minut</item> <item>1 ura</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values_seconds"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values_seconds"> <item>900</item> <item>1800</item> <item>2700</item> <item>3600</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -728,12 +758,6 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title
 folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">To je primer sinteze govora.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
----------------------------------------------------------------------------------------
- <string name="default_text_view">TextView</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1184,6 +1208,12 @@ folder="all" application="MtkTelecom.apk" xml="" name="tts_default_rate_title"
 folder="all" application="MtkTelecom.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">To je primer sinteze govora.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clir_display_values"
+---------------------------------------------------------------------------------------
+ <string-array name="clir_display_values"> <item>Privzeto za omrežje</item> <item>Skrij številke</item> <item>Pokaži številke</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2093,9 +2123,21 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Delo z eno roko je izključeno. Vključim Delo z eno roko?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

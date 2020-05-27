@@ -155,6 +155,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>ilk Pazartesi</item> <item>ilk Salı</item> <item>ilk Çarşamba</item> <item>ilk Perşembe</item> <item>ilk Cuma</item> <item>ilk Cumartesi</item> <item>ilk Pazar</item> <item>ikinci Pazartesi</item> <item>ikinci Salı</item> <item>ikinci Çarşamba</item> <item>ikinci Perşembe</item> <item>ikinci Cuma</item> <item>ikinci Cumartesi</item> <item>ikinci Pazar</item> <item>üçüncü Pazartesi</item> <item>üçüncü Salı</item> <item>üçüncü Çarşamba</item> <item>üçüncü Perşembe</item> <item>üçüncü Cuma</item> <item>üçüncü Cumartesi</item> <item>üçüncü Pazar</item> <item>dördüncü Pazartesi</item> <item>dördüncü Salı</item> <item>dördüncü Çarşamba</item> <item>dördüncü Perşembe</item> <item>dördüncü Cuma</item> <item>dördüncü Cumartesi</item> <item>dördüncü Pazar</item> <item>geçen Pazartesi</item> <item>geçen Salı</item> <item>geçen Çarşamba</item> <item>geçen Perşembe</item> <item>geçen Cuma</item> <item>geçen Cumartesi</item> <item>geçen Pazar</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">\"Daha sonra hatırlat\" için varsayılan aralık</string>
@@ -515,6 +521,12 @@ folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 dakika</item> <item>30 dakika</item> <item>45 dakika</item> <item>1 saat</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiSettings.apk" xml="" name="restore_default"
 ---------------------------------------------------------------------------------------
  <string name="restore_default">Varsayılanları geri yükle</string>
@@ -662,6 +674,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
 ---------------------------------------------------------------------------------------
  <string name="security_share_subtitle_default">Gizlilik koruması</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="wallpaper_scroll_values"
+---------------------------------------------------------------------------------------
+ <string-array name="wallpaper_scroll_values"> <item>Temaya göre</item> <item>merkez</item> <item>sol</item> <item>sağ</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1109,6 +1127,30 @@ folder="all" application="PackageInstaller.apk" xml="" name="show_non_rect_clip_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>asla</item> <item>sadece drm</item> <item>her zaman</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item /> <item>720x480/142</item> <item>720x480/142 güvenli</item> <item>1280x720/213</item> <item>1280x720/213, güvenli</item> <item>1920x1080/320</item> <item>1920x1080/320 güvenli</item> <item>3840x2160/320</item> <item>3840x2160/320 güvenli</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,güvenli</item> <item>1280x720/213; 1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item /> <item>herşey</item> <item>varsayılan, güvenlik, çekirdek</item> <item>çekirdek</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PackageInstaller.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>gizle</item> <item>bölge</item> <item>vurgula</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcısı aracılığıyla otomatik olarak bağlandı</string>
@@ -1379,6 +1421,12 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setti
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Zil sesi</item> <item>Medya</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="app_install_location_values"
+---------------------------------------------------------------------------------------
+ <string-array name="app_install_location_values"> <item>cihaz</item> <item>hafıza kartı</item> <item>oto</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1744,13 +1792,43 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_voice_description">SIM %d</string>
+ <string name="msim_setting_default_voice_description">Çağrılar için SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Varsayılan</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Tek el modu varsayılan olarak kapalıdır. Tek el modu açılsın mı?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>asla</item> <item>sadece drm</item> <item>her zaman</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item /> <item>720x480/142</item> <item>720x480/142,güvenli</item> <item>1280x720/213</item> <item>1280x720/213,güvenli</item> <item>1920x1080/320</item> <item>1920x1080/320,güvenli</item> <item>3840x2160/320</item> <item>3840x2160/320,güvenli</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,güvenli</item> <item>1280x720/213; 1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item /> <item>tümü</item> <item>varsayılan,güvenlik,çekirdek</item> <item>çekirdek</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>gizle</item> <item>bölge</item> <item>vurgula</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

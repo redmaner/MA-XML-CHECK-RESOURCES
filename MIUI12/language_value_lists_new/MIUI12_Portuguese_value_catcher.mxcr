@@ -16,6 +16,7 @@ all Calculator.apk strings.xml unit_data_default_currency_1
 all Calculator.apk strings.xml unit_data_default_currency_2
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml load_more_events_default
@@ -49,6 +50,7 @@ all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all HybridPlatform.apk strings.xml msg_default_status
+all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
@@ -186,6 +188,7 @@ all TeleService.apk strings.xml msim_setting_default_data_description
 all TeleService.apk strings.xml msim_setting_default_voice
 all TeleService.apk strings.xml msim_setting_default_voice_description
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
+all TouchAssistant.apk strings.xml edge_mode_default_title
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
 all Zman.apk strings.xml first_settings_default_camera_title
 all Zman.apk strings.xml first_settings_default_location_subtitle

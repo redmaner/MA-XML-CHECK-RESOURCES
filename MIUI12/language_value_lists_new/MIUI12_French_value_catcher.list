@@ -5,6 +5,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
@@ -12,6 +18,18 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -35,18 +53,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
@@ -54,18 +60,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -89,18 +83,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
@@ -108,18 +90,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -143,18 +113,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
@@ -162,18 +120,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -197,18 +143,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
@@ -216,18 +150,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -251,18 +173,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
@@ -270,18 +180,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -305,6 +203,18 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
@@ -323,6 +233,18 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
@@ -336,6 +258,318 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -353,6 +587,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
@@ -360,6 +600,18 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -383,18 +635,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
@@ -402,18 +642,6 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
----------------------------------------------------------------------------------------
- <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -437,6 +665,18 @@ folder="all" application="Settings.apk" xml="" name="overlay_display_devices_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
@@ -450,6 +690,78 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="overlay_display_devices_values"
 ---------------------------------------------------------------------------------------
  <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
@@ -467,9 +779,21 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -485,9 +809,21 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,sécurisé</item> <item>1280x720/213</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> <item>1280x720/213;1920x1080/320</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -581,6 +917,12 @@ folder="all" application="CABLService.apk" xml="" name="cabl_level_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_values"
+---------------------------------------------------------------------------------------
+ <string-array name="cabl_level_values"> <item>Faible</item> <item>Moyen</item> <item>Haut</item> <item>Auto</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CABLService.apk" xml="" name="cabl_info_default"
 ---------------------------------------------------------------------------------------
  <string name="cabl_info_default">Inconnue</string>
@@ -608,6 +950,12 @@ folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
 folder="all" application="Calendar.apk" xml="" name="prefValues_alerts_popup"
 ---------------------------------------------------------------------------------------
  <string-array name="prefValues_alerts_popup"> <item>aucun</item> <item>tout</item> <item>intelligente</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>premier lundi</item> <item>premier mardi</item> <item>premier mercredi</item> <item>premier jeudi</item> <item>premier vendredi</item> <item>premier samedi</item> <item>premier dimanche</item> <item>deuxième lundi</item> <item>deuxième mardi</item> <item>deuxième mercredi</item> <item>deuxième jeudi</item> <item>deuxième vendredi</item> <item>deuxième samedi</item> <item>deuxième dimanche</item> <item>troisième lundi</item> <item>troisième mardi</item> <item>troisième mercredi</item> <item>troisième jeudi</item> <item>troisième vendredi</item> <item>troisième samedi</item> <item>troisième dimanche</item> <item>quatrième lundi</item> <item>quatrième mardi</item> <item>quatrième mercredi</item> <item>quatrième jeudi</item> <item>quatrième vendredi</item> <item>quatrième samedi</item> <item>quatrième dimanche</item> <item>dernier lundi</item> <item>dernier mardi</item> <item>dernier mercredi</item> <item>dernier jeudi</item> <item>dernier vendredi</item> <item>dernier samedi</item> <item>dernier dimanche</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -680,6 +1028,42 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
 ---------------------------------------------------------------------------------------
  <string name="pref_default_popup_alert_value">intelligente</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="bt_hci_snoop_log_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bt_hci_snoop_log_values"> <item>disabled</item> <item>filtered</item> <item>full</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="enable_opengl_traces_values"
+---------------------------------------------------------------------------------------
+ <string-array name="enable_opengl_traces_values"> <item>0</item> <item>1</item> <item>systrace</item> <item>error</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>never</item> <item>drm-only</item> <item>always</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item></item> <item>all</item> <item>default,security,kernel</item> <item>kernel</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>hide</item> <item>region</item> <item>highlight</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="usb_configuration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="usb_configuration_values"> <item>none</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -869,6 +1253,12 @@ folder="all" application="Email.apk" xml="" name="general_preference_text_zoom_v
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Email.apk" xml="" name="general_preference_text_zoom_values"
+---------------------------------------------------------------------------------------
+ <string-array name="general_preference_text_zoom_values"> <item>minuscule</item> <item>petite</item> <item>normal</item> <item>grand</item> <item>énorme</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
 ---------------------------------------------------------------------------------------
  <string name="default_opening_attchemnt_mode">"Ouvrir des pièces jointes à l'aide d'applications par défaut"</string>
@@ -1028,6 +1418,12 @@ folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_ca
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
  <string name="system_default">Par défaut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 minutes</item> <item>30 minutes</item> <item>45 minutes</item> <item>1 heure</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1376,6 +1772,12 @@ folder="all" application="MiuiScanner.apk" xml="" name="language_value_korean"
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_spanish"
 ---------------------------------------------------------------------------------------
  <string name="language_value_spanish">espagnol</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item>720x480/142,sécurisé</item> <item>1280x720/213,sécurisé</item> <item>1920x1080/320,sécurisé</item> <item>3840x2160/320,sécurisé</item> <item>1920x1080/320|3840x2160/640,sécurisé</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2213,6 +2615,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM %d for calls</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">"Connecté automatiquement via un fournisseur d'évaluation de l'état du réseau"</string>
@@ -2255,9 +2663,21 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Default</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Le mode une main est désactivé par défaut. Activer le mode une main ?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

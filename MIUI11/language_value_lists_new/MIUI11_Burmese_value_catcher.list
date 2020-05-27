@@ -305,12 +305,6 @@ folder="all" application="Email.apk" xml="" name="default_pop3"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_change_log"
----------------------------------------------------------------------------------------
- <string name="default_change_log">အင်္ဂါရပ်အသစ်များအတွက် အက်ပ်အား အပ်ဒိတ်လုပ်ပါ။</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="FileExplorerGlobal.apk" xml="" name="default_change_log"
 ---------------------------------------------------------------------------------------
  <string name="default_change_log">အင်္ဂါရပ်အသစ်များအတွက် အက်ပ်အား အပ်ဒိတ်လုပ်ပါ။</string>
@@ -470,6 +464,168 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"ကောင်းသောအရာတစ်ခုခုဖြစ်ကာနီးပြီဟု အမြဲယုံကြည်တွေးတောပါ"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">ကွန်ရက်အဆင့်ပေးခြင်း ထောက်ပံ့သူမှတစ်ဆင့် အလိုအလျောက် ချိတ်ဆက်ခဲ့သည်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">မူလသတ်မှတ်ချက် မရှိပါ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">မူလသတ်မှတ်ချက် အချို့</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">မူလ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">စာသားမှ စကားပြောသံအတွက် သုံးမည့်ဘာသာစကားကို သတ်မှတ်ပါ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">ဘာသာစကား</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">အသံပေါင်းစပ်မှု၏ အသံနေအသံထားကို ထိခိုက်စေသည်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">အသံ အနိမ့်အမြင့်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">စာသားမှပြောင်းလဲသော စကားပြောနှုန်း</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">စကားပြောနှုန်း</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">ဤအရာသည် အသံပေါင်းစပ်မှု နမူနာတစ်ခု ဖြစ်ပါသည်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">ကွန်ရက်အဆင့်သတ်မှတ်ပေးသူ မှတစ်ဆင့် အလိုအလျောက် ချိတ်ဆက်ထားပါသည်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">ပုံမှန်သတ်မှတ်ထားခြင်းမရှိ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">မူရင်းအချို့ သတ်မှတ်ပြီး</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">မူရင်း</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">ဘာသာစကားကိုသတ်မှတ်မည်။ ပြောဆိုမည့်စာသားအတွက် သီးခြားအသံ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">ဘာသာစကား</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">စက်ဖြင့်ထုတ်လုပ်ထားသည့် စကားသံကို အကျိုးသက်ရောက်မှုရှိပါမည်။</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">အသံအနိမ့်အမြင့်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">စာတမ်းအားပြောဆိုသော အမြန်နှုန်း</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">စကားပြောနှုန်း</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">ဤသည်မှာ အသံတုလုပ်ခြင်း ၏ နမူနာတစ်ခုဖြစ်သည်။</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -803,33 +959,33 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_downloa
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_default_music_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_default_music_text">အလိုအလျောက်</string>
+ <string name="galleryplus_gallery_video_default_music_text">အလိုအလျောက်</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item3_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item3_default_text">စိတ်ခံစားမှု</string>
+ <string name="galleryplus_gallery_video_item3_default_text">စိတ်ခံစားမှုများ</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item4_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item4_default_text">နေထွက်ချိန်</string>
+ <string name="galleryplus_gallery_video_item4_default_text">နေထွက်ချိန်</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item5_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item5_default_text">အမှတ်တရများ</string>
+ <string name="galleryplus_gallery_video_item5_default_text">အမှတ်တရများ</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item6_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item6_default_text">ပျော်ရွှင်ခြင်း</string>
+ <string name="galleryplus_gallery_video_item6_default_text">ပျော်စရာများ</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -884,6 +1040,12 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">၀၀:၀၀</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">တစ်ကိုယ်ရေဖိုင်တွဲဖွင့်ရန် အောက်သို့ဆွဲချပါ</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -965,6 +1127,36 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" ဤအင်္ဂါရပ်ကို မသုံးမီ Mint ကီးဘုတ် ပုဂ္ဂိုလ်ရေးလုံခြုံမှု မူဝါဒကို သဘောတူရပါမည်။"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_memory_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_memory_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_memory_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_memory_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>၁</item> <item>၀</item> <item>၂</item> </string-array>
@@ -1004,12 +1196,6 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_o
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
 ---------------------------------------------------------------------------------------
  <string name="app_manager_defaults_setting">ပုံသေအက်ပ်များ</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
----------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"ပြင်ဆင်ခြင်းအကြောင်း− ၁။ စက်သည် ဖုန်းကာရီယာ၏ ကွန်ရက်သို့ ချိတ်ဆက်လိုက်ပြီး ၄င်းဝန်ဆောင်မှု ပေးသူအား မက်ဆေ့ချ်အခမဲ့ ပေးပို့လိုက်လိမ့်မည် ပြီးနောက် ဝန်ဆောင်မှုမှ တုန့်ပြန်ချက်အား စောင့်နေလိမ့်မည်။ ၂။ သင်သည် ဤစာမျက်နှာအား ပြင်ဆင်နေစဉ်အတွင်း ချန်ထားခဲ့နိုင်သည်၊ ဤအရာသည် နောက်ခံတွင် လုပ်ဆောင်နေပါလိမ့်မည်။"</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1172,6 +1358,12 @@ folder="all" application="Settings.apk" xml="" name="connected_via_network_score
 folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
 ---------------------------------------------------------------------------------------
  <string name="cutout_mode_default">အော်တို</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">မူရင်း</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1589,12 +1781,6 @@ folder="all" application="TeleService.apk" xml="" name="default_preference_summa
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
----------------------------------------------------------------------------------------
- <string name="msim_select_default_time_left">(%d စက္ကန့်)</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">ကွန်ရက်အဆင့်သတ်မှတ်ပေးသူ မှတစ်ဆင့် အလိုအလျောက် ချိတ်ဆက်ထားပါသည်</string>
@@ -1742,5 +1928,23 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
 ---------------------------------------------------------------------------------------
  <string name="feedback_desc_default">တချို့ခလုတ်များ အလုပ်မလုပ်ပါ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">မက်တာဒေတာမပါဘဲ အမြဲမျှဝေရန်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">မျှဝေထားသော ပုံများမှ တည်နေရာအချက်အလက်ကို ဖယ်ရှားရန်</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">တည်နေရာအချက်အလက်မပါဘဲ အမြဲမျှဝေရန်</string>
 
 

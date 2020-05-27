@@ -10,6 +10,7 @@ all Browser.apk strings.xml mw_color_picker_value
 all Calculator.apk strings.xml lg_mathematical_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml load_more_events_default
@@ -70,6 +71,7 @@ all MiGalleryLockscreen.apk strings.xml system_default
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiBluetooth.apk arrays.xml overlay_display_devices_values
 all MiuiBluetooth.apk arrays.xml overlay_display_devices_values
 all MiuiBluetooth.apk strings.xml connected_via_network_scorer_default
 all MiuiBluetooth.apk strings.xml launch_defaults_none
@@ -230,3 +232,6 @@ all TeleService.apk strings.xml launch_defaults_some
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
 all Updater.apk strings.xml default_filedownloader_notification_content
 all XiaomiAccount.apk strings.xml com_facebook_tooltip_default
+all Zman.apk strings.xml first_settings_default_camera_title
+all Zman.apk strings.xml first_settings_default_location_subtitle
+all Zman.apk strings.xml first_settings_default_location_title

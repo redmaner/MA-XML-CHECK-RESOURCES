@@ -23,12 +23,14 @@ all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_color_picker_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml load_more_events_default
 all Calendar.apk strings.xml miuix_search_history_default_title
 all Calendar.apk strings.xml miuix_search_recommendation_default_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml pull_refresh_events_default
+all CellBroadcastReceiver.apk arrays.xml bluetooth_avrcp_version_values
 all CellBroadcastReceiver.apk arrays.xml bluetooth_avrcp_version_values
 all CellBroadcastReceiver.apk strings.xml connected_via_network_scorer_default
 all CellBroadcastReceiver.apk strings.xml launch_defaults_none
@@ -81,6 +83,7 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
+all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk strings.xml announce_for_choose_default_screen
 all MiLauncherGlobal.apk strings.xml announce_for_close_default_preview
 all MiLauncherGlobal.apk strings.xml announce_for_open_default_preview
@@ -97,6 +100,7 @@ all MiLauncherGlobal.apk strings.xml default_screen_preview_title
 all MiLauncherGlobal.apk strings.xml default_shortcut_title_10086
 all MiLauncherGlobal.apk strings.xml menu_default_screen_preview
 all MiLauncherGlobal.apk strings.xml recommend_apps_default_title
+all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRecycle.apk strings.xml default_error_msg
 all MiSettings.apk strings.xml restore_default
@@ -117,7 +121,6 @@ all MiuiBluetooth.apk strings.xml tts_default_pitch_title
 all MiuiBluetooth.apk strings.xml tts_default_rate_summary
 all MiuiBluetooth.apk strings.xml tts_default_rate_title
 all MiuiBluetooth.apk strings.xml tts_default_sample_string
-all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml device_48m_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
@@ -193,6 +196,7 @@ all MtkTelecom.apk strings.xml tts_default_pitch_title
 all MtkTelecom.apk strings.xml tts_default_rate_summary
 all MtkTelecom.apk strings.xml tts_default_rate_title
 all MtkTelecom.apk strings.xml tts_default_sample_string
+all MtkTeleService.apk arrays.xml clir_display_values
 all MtkTeleService.apk arrays.xml clir_display_values
 all MtkTeleService.apk strings.xml cb_default_new_channel_name
 all MtkTeleService.apk strings.xml change_default_data_card
@@ -343,7 +347,9 @@ all TeleService.apk strings.xml msim_setting_default_data_description
 all TeleService.apk strings.xml msim_setting_default_voice
 all TeleService.apk strings.xml msim_setting_default_voice_description
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
+all TouchAssistant.apk strings.xml edge_mode_default_title
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all Traceur.apk arrays.xml bluetooth_avrcp_version_values
 all Traceur.apk arrays.xml bluetooth_avrcp_version_values
 all Traceur.apk strings.xml connected_via_network_scorer_default
 all Traceur.apk strings.xml default_categories

@@ -107,6 +107,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>primeira segunda</item> <item>primeira terça</item> <item>primeira quarta</item> <item>primeira quinta</item> <item>primeira sexta</item> <item>primeiro sábado</item> <item>primeiro domingo</item> <item>segunda segunda</item> <item>segunda terça</item> <item>segunda quarta</item> <item>segunda quinta</item> <item>segunda sexta</item> <item>segundo sábado</item> <item>segundo domingo</item> <item>terceira segunda</item> <item>terceira terça</item> <item>terceira quarta</item> <item>terceira quinta</item> <item>terceira sexta</item> <item>terceiro sábado</item> <item>terceiro domingo</item> <item>quarta segunda</item> <item>quarta terça</item> <item>quarta quarta</item> <item>quarta quinta</item> <item>quarta sexta</item> <item>quarto sábado</item> <item>quarto domingo</item> <item>última segunda</item> <item>última terça</item> <item>última quarta</item> <item>última quinta</item> <item>última sexta</item> <item>último sábado</item> <item>último domingo</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">Intervalo predefinido para \"Lembrar mais tarde\"</string>
@@ -302,6 +308,12 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 ---------------------------------------------------------------------------------------
  <string name="msg_default_status">Coloque um código de barra dentro do rectângulo para o digitalizar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 minutos</item> <item>30 minutos</item> <item>45 minutos</item> <item>1 hora</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1117,13 +1129,19 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_voice_description">SIM %d</string>
+ <string name="msim_setting_default_voice_description">SIM %d para chamadas</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Não foi possível realizar a chamada. Código de erro 81</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Predefinido</string>
 
 
 ---------------------------------------------------------------------------------------

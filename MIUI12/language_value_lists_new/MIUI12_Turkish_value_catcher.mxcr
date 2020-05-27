@@ -24,6 +24,7 @@ all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml prefValues_alerts_vibrateWhen
 all Calendar.apk arrays.xml prefValues_alerts_vibrateWhen
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml miuix_search_history_default_title
@@ -84,6 +85,7 @@ all HybridPlatform.apk strings.xml msg_default_status
 all MiGalleryLockscreen.apk strings.xml local_default_category
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiRadio.apk arrays.xml sleep_duration_values
+all MiRadio.apk arrays.xml sleep_duration_values
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
@@ -109,6 +111,7 @@ all MiuiGallery.apk strings.xml photomovie_template_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiGallery.apk strings.xml security_share_subtitle_default
+all MiuiHome.apk arrays.xml wallpaper_scroll_values
 all MiuiHome.apk arrays.xml wallpaper_scroll_values
 all MiuiHome.apk strings.xml all_app_category_default
 all MiuiHome.apk strings.xml announce_for_choose_default_screen
@@ -183,6 +186,10 @@ all PackageInstaller.apk arrays.xml hdcp_checking_values
 all PackageInstaller.apk arrays.xml overlay_display_devices_values
 all PackageInstaller.apk arrays.xml select_logpersist_values
 all PackageInstaller.apk arrays.xml show_non_rect_clip_values
+all PackageInstaller.apk arrays.xml hdcp_checking_values
+all PackageInstaller.apk arrays.xml overlay_display_devices_values
+all PackageInstaller.apk arrays.xml select_logpersist_values
+all PackageInstaller.apk arrays.xml show_non_rect_clip_values
 all PackageInstaller.apk strings.xml connected_via_network_scorer_default
 all PackageInstaller.apk strings.xml launch_defaults_some
 all PaymentService.apk strings.xml mibi_prepaid_picker_title_default
@@ -228,6 +235,7 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_tit
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk arrays.xml app_install_location_values
 all Settings.apk arrays.xml app_install_location_values
 all Settings.apk strings.xml app_default_dashboard_title
 all Settings.apk strings.xml auto_brightness_default_title
@@ -289,7 +297,12 @@ all TeleService.apk strings.xml msim_setting_default_data
 all TeleService.apk strings.xml msim_setting_default_data_description
 all TeleService.apk strings.xml msim_setting_default_voice
 all TeleService.apk strings.xml msim_setting_default_voice_description
+all TouchAssistant.apk strings.xml edge_mode_default_title
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all Traceur.apk arrays.xml hdcp_checking_values
+all Traceur.apk arrays.xml overlay_display_devices_values
+all Traceur.apk arrays.xml select_logpersist_values
+all Traceur.apk arrays.xml show_non_rect_clip_values
 all Traceur.apk arrays.xml hdcp_checking_values
 all Traceur.apk arrays.xml overlay_display_devices_values
 all Traceur.apk arrays.xml select_logpersist_values

@@ -24,6 +24,7 @@ all Calculator.apk strings.xml unit_data_default_area_0
 all Calculator.apk strings.xml unit_data_default_area_1
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
+all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
 all Calendar.apk strings.xml free_day_default_banner_title
 all Calendar.apk strings.xml load_more_events_default
@@ -76,6 +77,7 @@ all MiBandTools.apk strings.xml settings_defaults_notify_between_title
 all MiGalleryLockscreen.apk strings.xml system_default
 all Mipay.apk strings.xml mipay_nfc_bank_card_name_default
 all Mipay.apk strings.xml mipay_nfc_shop_name_default
+all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRecycle.apk strings.xml default_error_msg
 all MiSettings.apk strings.xml restore_default
@@ -136,6 +138,7 @@ all MiuiVideo.apk strings.xml language_default
 all MiuiVideo.apk strings.xml toast_screen_text_default
 all MiuiVideoLeo.apk strings.xml defaults
 all Mms.apk strings.xml private_entry_default
+all MtkTeleService.apk arrays.xml clir_display_values
 all MtkTeleService.apk arrays.xml clir_display_values
 all MtkTeleService.apk strings.xml areacode_set_default
 all MtkTeleService.apk strings.xml call_background_default
@@ -295,7 +298,9 @@ all TeleService.apk strings.xml msim_select_default_time_left
 all TeleService.apk strings.xml msim_setting_default_data
 all TeleService.apk strings.xml msim_setting_default_voice
 all TeleService.apk strings.xml msim_setting_default_data_description
+all TeleService.apk strings.xml msim_setting_default_voice_description
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all TouchAssistant.apk strings.xml edge_mode_default_title
 all Traceur.apk strings.xml restore_default_categories
 all Traceur.apk strings.xml default_categories_restored
 all Weather.apk strings.xml realtime_cityname_default

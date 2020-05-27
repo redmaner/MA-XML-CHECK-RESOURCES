@@ -179,6 +179,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>첫번째 월요일</item> <item>첫번째 화요일</item> <item>첫번째 수요일</item> <item>첫번째 목요일</item> <item>첫번째 금요일</item> <item>첫번째 토요일</item> <item>첫번째 일요일</item> <item>두번째 월요일</item> <item>두번째 화요일</item> <item>두번째 수요일</item> <item>두번째 목요일</item> <item>두번째 금요일</item> <item>두번째 토요일</item> <item>두번째 일요일</item> <item>세번째 월요일</item> <item>세번째 화요일</item> <item>세번째 수요일</item> <item>세번째 목요일</item> <item>세번째 금요일</item> <item>세번째 토요일</item> <item>세번째 일요일</item> <item>네번째 월요일</item> <item>네번째 화요일</item> <item>네번째 수요일</item> <item>네번째 목요일</item> <item>네번째 금요일</item> <item>네번째 토요일</item> <item>네번째 일요일</item> <item>마지막 월요일</item> <item>마지막 화요일</item> <item>마지막 수요일</item> <item>마지막 목요일</item> <item>마지막 금요일</item> <item>마지막 토요일</item> <item>마지막 일요일</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
 ---------------------------------------------------------------------------------------
  <string name="pref_default_popup_alert_value">스마트</string>
@@ -596,6 +602,12 @@ folder="all" application="imssettings.apk" xml="" name="ims_band_settings_wide_p
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
  <string name="system_default">기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15분</item> <item>30분</item> <item>45분</item> <item>1시간</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1957,6 +1969,24 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
+---------------------------------------------------------------------------------------
+ <string name="msim_select_default_time_left">(%d초)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">데이터 카드</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">통화 기본값</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">일부 기본값 설정</string>
@@ -2001,7 +2031,7 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_dat
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_voice_description">SIM %d</string>
+ <string name="msim_setting_default_voice_description">통화용 SIM %d</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2014,6 +2044,12 @@ folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_t
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">한손모드가 해제되어 있습니다. 지금 실행하시겠습니까?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">기본값</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2212,5 +2248,23 @@ folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_def
 folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="navigation_search_default_hint">장소 검색</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">기본적으로 메타 데이터없이 공유</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">공유 사진에서 위치 정보 제거</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">기본적으로 위치 정보없이 공유</string>
 
 

@@ -12095,6 +12095,12 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
+---------------------------------------------------------------------------------------
+ <string-array name="repeat_monthly_on_day_count_values"> <item>první Pondělí</item> <item>první Úterý</item> <item>první Středa</item> <item>první Čtvrtek</item> <item>první Pátek</item> <item>první Sobota</item> <item>první Neděle</item> <item>druhé Pondělí</item> <item>druhé Úterý</item> <item>druhá Středa</item> <item>druhý Čtvrtek</item> <item>druhý Pátek</item> <item>druhý Sobota</item> <item>druhá Neděle</item> <item>třetí Pondělí</item> <item>třetí Úterý</item> <item>třetí Středa</item> <item>třetí Čtvrtek</item> <item>třetí Pátek</item> <item>třetí Sobota</item> <item>třetí Neděle</item> <item>čtvrté Pondělí</item> <item>čtvrté Úterý</item> <item>čtvrtá Středa</item> <item>čtvrtý Čtvrtek</item> <item>čtvrtý Pátek</item> <item>čtvrtá Sobota</item> <item>čtvrtá Neděle</item> <item>poslední Pondělí</item> <item>poslední Úterý</item> <item>poslední Středa</item> <item>poslední Čtvrtek</item> <item>poslední Pátek</item> <item>poslední Sobota</item> <item>poslední Neděle</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
  <string name="default_reminder_later_time">Výchozí čas pro \"Upozornit později\"</string>
@@ -12206,6 +12212,12 @@ folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_ca
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
  <string name="system_default">Lokální</string> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="sleep_duration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="sleep_duration_values"> <item>15 minut</item> <item>30 minut</item> <item>45 minut</item> <item>1 hodina</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -13385,9 +13397,27 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM %d pro hovory</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Ovládání jednou rukou je deaktivováno. Chcete jej povolit?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Předvolené</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
