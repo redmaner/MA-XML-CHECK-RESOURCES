@@ -11,6 +11,7 @@ entryvalues
 prefValues
 Value
 value
+values
 VibePattern
 vibration_torch
 EOF
@@ -24,5 +25,6 @@ entryValues
 prefValues
 Value
 value
+values
 EOF
 }
