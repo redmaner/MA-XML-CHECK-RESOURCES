@@ -1325,6 +1325,36 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_default_music_text">Авто</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item3_default_text">Эмоции</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item4_default_text">Восход</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item5_default_text">Воспоминания</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item6_default_text">Радость</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
 ---------------------------------------------------------------------------------------
  <string name="ovp_default_plugin_name">HD плагин</string>
@@ -2228,6 +2258,12 @@ folder="all" application="SoundRecorder.apk" xml="" name="record_quality_values"
 folder="all" application="SoundRecorder.apk" xml="" name="record_scenes_values"
 ---------------------------------------------------------------------------------------
  <string-array name="record_scenes_values"> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
+---------------------------------------------------------------------------------------
+ <string name="err_msg_pending_value">Оценка стоимости…</string>
 
 
 ---------------------------------------------------------------------------------------
