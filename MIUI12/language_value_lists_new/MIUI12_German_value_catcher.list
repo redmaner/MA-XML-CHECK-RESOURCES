@@ -455,6 +455,12 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Wertefehler, weiter zum Korrigieren</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="HybridPlatform.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Sie bestimmen, welche Informationen Sie mit Apps teilen möchten.</string>

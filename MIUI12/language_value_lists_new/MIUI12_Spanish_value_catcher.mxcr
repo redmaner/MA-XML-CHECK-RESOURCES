@@ -107,6 +107,7 @@ all Mms.apk arrays.xml switch_sdk_value
 all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
 all Mms.apk strings.xml rcs_pref_video_message_default_quality
+all Notes.apk strings.xml private_entry_default
 all Notes.apk strings.xml repeat_mode_default
 all Notes.apk strings.xml todo_audio_default_content
 all NotificationCenter.apk strings.xml default_list_type
@@ -208,6 +209,10 @@ all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password
 all TeleService.apk strings.xml default_preference_summary_username
 all TeleService.apk strings.xml launch_defaults_some
+all TeleService.apk strings.xml msim_setting_default_data
+all TeleService.apk strings.xml msim_setting_default_data_description
+all TeleService.apk strings.xml msim_setting_default_voice
+all TeleService.apk strings.xml msim_setting_default_voice_description
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all ThemeManager.apk strings.xml back_to_default
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open

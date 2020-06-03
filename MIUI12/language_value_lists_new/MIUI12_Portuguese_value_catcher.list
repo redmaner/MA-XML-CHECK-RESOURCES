@@ -305,6 +305,12 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Erro de valores</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 ---------------------------------------------------------------------------------------
  <string name="msg_default_status">Coloque um código de barra dentro do rectângulo para o digitalizar</string>
