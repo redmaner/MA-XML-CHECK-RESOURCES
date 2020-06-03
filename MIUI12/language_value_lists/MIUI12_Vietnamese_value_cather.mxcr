@@ -138,6 +138,7 @@ all Health.apk strings.xml preference_update_default_title
 all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
+all Health.apk strings.xml value_error_correct
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
 all HybridPlatform.apk strings.xml features_notification_channel_default
@@ -249,6 +250,8 @@ all MiuiVideoGlobal.apk strings.xml galleryplus_gallery_video_item5_default_text
 all MiuiVideoGlobal.apk strings.xml galleryplus_gallery_video_default_music_text
 all MiuiVideoGlobal.apk strings.xml galleryplus_gallery_video_item4_default_text
 all MiuiVideoGlobal.apk strings.xml galleryplus_gallery_video_item3_default_text
+all MiuiVideoGlobal.apk strings.xml default_filedownloader_notification_title
+all MiuiVideoGlobal.apk strings.xml default_filedownloader_notification_content
 all MiuiVideoLeo.apk strings.xml defaults
 all MiuiVideoLeo.apk strings.xml notification_default_title
 all MiuiVideoLeo.apk strings.xml default_text
