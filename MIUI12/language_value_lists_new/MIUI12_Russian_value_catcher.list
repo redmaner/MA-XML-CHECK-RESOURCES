@@ -265,7 +265,7 @@ folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_tit
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
 ---------------------------------------------------------------------------------------
- <string name="load_more_events_default">Cледующий год</string>
+ <string name="load_more_events_default">Следующий год</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -637,7 +637,7 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="value_error_correct"
 ---------------------------------------------------------------------------------------
- <string name="value_error_correct">Неверное значение, исправьте</string>
+ <string name="value_error_correct">Измените запись</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -848,6 +848,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
 ---------------------------------------------------------------------------------------
  <string name="mark_myself_default_name">Я</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
+---------------------------------------------------------------------------------------
+ <string name="photo_editor_font_default">Mi Lanting (стандартный)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1775,12 +1781,6 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_values"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_values"> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="agps_apn_values"
 ---------------------------------------------------------------------------------------
  <string-array name="agps_apn_values"> <item>0</item> <item>1</item> </string-array>
@@ -1877,18 +1877,6 @@ folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_wi
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="status_bar_settings_qs_layout_values"
----------------------------------------------------------------------------------------
- <string-array name="status_bar_settings_qs_layout_values"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_values"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_values"> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="agps_apn_values"
 ---------------------------------------------------------------------------------------
  <string-array name="agps_apn_values"> <item>0</item> <item>1</item> </string-array>
@@ -1964,18 +1952,6 @@ folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
 folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
 ---------------------------------------------------------------------------------------
  <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>2</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="status_bar_settings_qs_layout_values"
----------------------------------------------------------------------------------------
- <string-array name="status_bar_settings_qs_layout_values"> <item>0</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_values"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_values"> <item>2</item> <item>3</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

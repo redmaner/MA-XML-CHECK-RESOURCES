@@ -349,7 +349,7 @@ folder="all" application="Email.apk" xml="" name="default_pop3"
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_signature_2"
 ---------------------------------------------------------------------------------------
- <string name="default_signature_2">Trimis de pe %s-ul meu</string>
+ <string name="default_signature_2">Trimis de pe %s</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -602,6 +602,12 @@ folder="all" application="Health.apk" xml="" name="text_no_value"
 folder="all" application="Health.apk" xml="" name="user_invalid_value"
 ---------------------------------------------------------------------------------------
  <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Editați înregistrarea</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1154,6 +1160,18 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">"Dețineți controlul - alegeți ce informații doriți să partajați cu aplicațiile."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_content">Descărcarea fișierelor rulează.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_title"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_title">Descărcare fișiere</string>
 
 
 ---------------------------------------------------------------------------------------

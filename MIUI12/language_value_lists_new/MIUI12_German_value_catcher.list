@@ -457,7 +457,7 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="value_error_correct"
 ---------------------------------------------------------------------------------------
- <string name="value_error_correct">Wertefehler, weiter zum Korrigieren</string>
+ <string name="value_error_correct">Aufnahmefehler</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -980,6 +980,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
  <string name="com_facebook_tooltip_default">Sie haben die Kontrolle - wählen Sie, welche Infos Sie mit Apps teilen möchten.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_content">FileDownloader läuft gerade</string>
 
 
 ---------------------------------------------------------------------------------------

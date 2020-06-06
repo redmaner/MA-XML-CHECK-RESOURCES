@@ -539,6 +539,12 @@ folder="all" application="Health.apk" xml="" name="text_no_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">값 오류, 수정으로 이동</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="imssettings.apk" xml="" name="ims_settings_no_default_value"
 ---------------------------------------------------------------------------------------
  <string name="ims_settings_no_default_value">무</string>
@@ -1142,6 +1148,270 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_q
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
  <string name="private_entry_default">아래로 밀어 개인 폴더를 엽니다</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_select_default_time_left"
+---------------------------------------------------------------------------------------
+ <string name="msim_select_default_time_left">(%d초)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">데이터 카드</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">통화 기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_areacode"
+---------------------------------------------------------------------------------------
+ <string name="default_areacode">기본 지역 코드</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_area_code_setting"
+---------------------------------------------------------------------------------------
+ <string name="default_area_code_setting">기본 지역 코드</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="areacode_set_default"
+---------------------------------------------------------------------------------------
+ <string name="areacode_set_default">기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary">&lt;설정 안 됨></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_notification_description"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_description">기본 알림음(%1$s)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="connection_service_default_label"
+---------------------------------------------------------------------------------------
+ <string name="connection_service_default_label">내장 연결 서비스</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="sum_default_caller_id"
+---------------------------------------------------------------------------------------
+ <string name="sum_default_caller_id">발신 통화 시 기본 통신 사업자 설정을 사용하여 내 전화번호 표시</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="voicemail_default"
+---------------------------------------------------------------------------------------
+ <string name="voicemail_default">내 통신사</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="sim_description_default"
+---------------------------------------------------------------------------------------
+ <string name="sim_description_default">SIM 카드, 슬롯: %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clir_choices_network_default"
+---------------------------------------------------------------------------------------
+ <string name="clir_choices_network_default">기본 네트워크</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="preference_dial_pad_touch_tone_default"
+---------------------------------------------------------------------------------------
+ <string name="preference_dial_pad_touch_tone_default">기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_default_setting"
+---------------------------------------------------------------------------------------
+ <string name="msim_default_setting">기본 설정</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_disable_sim_card_summary_non_default_card"
+---------------------------------------------------------------------------------------
+ <string name="msim_disable_sim_card_summary_non_default_card">통화나 모바일 데이터 연결을 사용하지 못할 수도 있습니다. %s SIM 카드의 사용을 중단하시겠습니까?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_disable_sim_card_summary_default_card"
+---------------------------------------------------------------------------------------
+ <string name="msim_disable_sim_card_summary_default_card">이 카드는 현재 기본 SIM 카드로 설정되었습니다. 사용을 중단하면 통화 또는 모바일 데이터 연결의 사용이 불가능합니다. 다른 SIM 카드를 기본 카드로 설정한 후 이 SIM 카드를 중단할 수 있습니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="respond_via_sms_menu_reset_default_activity"
+---------------------------------------------------------------------------------------
+ <string name="respond_via_sms_menu_reset_default_activity">기본값 복원</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_card"
+---------------------------------------------------------------------------------------
+ <string name="change_default_data_card">모바일 데이터 기본 SIM</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="change_default_data_card_summary"
+---------------------------------------------------------------------------------------
+ <string name="change_default_data_card_summary">SIM 카드가 변경된 것 같습니다. 이 카드를 모바일 데이터 연결 기본 SIM으로 설정하시겠습니까?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="config_default_data_sim"
+---------------------------------------------------------------------------------------
+ <string name="config_default_data_sim">설정</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="call_background_default"
+---------------------------------------------------------------------------------------
+ <string name="call_background_default">기본</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_sim_setting"
+---------------------------------------------------------------------------------------
+ <string name="default_sim_setting">기본 SIM 카드:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">기본값 없음</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">일부 기본값 설정</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="phone_accounts_default_account_label"
+---------------------------------------------------------------------------------------
+ <string name="phone_accounts_default_account_label">사용 가능한 네트워크가 없습니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">음성 텍스트의 언어 별 음성을 설정합니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">언어</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">합성 된 음성의 톤에 영향을줍니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">속도</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">텍스트 속도</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">말하는 속도</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">음성 합성의 예입니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="cb_default_new_channel_name"
+---------------------------------------------------------------------------------------
+ <string name="cb_default_new_channel_name">새 채널</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_domain_address"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_domain_address">&lt;설정 안 됨></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_password"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_password">&lt;설정 안 됨></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_preference_summary_username"
+---------------------------------------------------------------------------------------
+ <string name="default_preference_summary_username">&lt;설정 안 됨></string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="ip_prefix_edit_default_sum"
+---------------------------------------------------------------------------------------
+ <string name="ip_prefix_edit_default_sum">IP 다이얼의 접두 번호를 입력하십시오.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="default_call_switch_err_msg1"
+---------------------------------------------------------------------------------------
+ <string name="default_call_switch_err_msg1">통화 도중 기본 설정 SIM을 전환 할 수 없습니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">네트워크 등급 제공자를 통해 자동으로 연결됨</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">데이터 SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">통화용 SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MtkTeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
+---------------------------------------------------------------------------------------
+ <string name="clh_callFailed_invalid_transaction_identifier_value_txt">잘못된 거래 식별자 값</string>
 
 
 ---------------------------------------------------------------------------------------

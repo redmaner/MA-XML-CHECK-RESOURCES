@@ -347,6 +347,12 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Editar registro</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiSettings.apk" xml="" name="restore_default"
 ---------------------------------------------------------------------------------------
  <string name="restore_default">Restaurar padrões</string>
@@ -710,6 +716,18 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item6_default_text"
 ---------------------------------------------------------------------------------------
  <string name="galleryplus_gallery_video_item6_default_text">Alegria</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_content">FileDownloader está em execução.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_title"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_title">FileDownloader</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1417,13 +1435,19 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_dat
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_voice_description">SIM %d</string>
+ <string name="msim_setting_default_voice_description">SIM %d para chamadas</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">O Modo para uma mão está desativado por padrão. Ativar o Modo para uma mão?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Padrão</string>
 
 
 ---------------------------------------------------------------------------------------
