@@ -581,12 +581,6 @@ folder="all" application="MiuiCamera.apk" xml="" name="dualcamera_watermark_defa
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
----------------------------------------------------------------------------------------
- <string name="pref_video_encoder_default">h264</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_off">Kapalı</string>
@@ -977,33 +971,33 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_default_music_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_default_music_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_default_music_text">Otomatik</string>
+ <string name="galleryplus_gallery_video_default_music_text">Otomatik</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item3_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item3_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item3_default_text">Duygular</string>
+ <string name="galleryplus_gallery_video_item3_default_text">Duygular</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item4_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item4_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item4_default_text">Gündoğumu</string>
+ <string name="galleryplus_gallery_video_item4_default_text">Gündoğumu</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item5_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item5_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item5_default_text">Anılar</string>
+ <string name="galleryplus_gallery_video_item5_default_text">Anılar</string>
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="gallery_video_item6_default_text"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item6_default_text"
 ---------------------------------------------------------------------------------------
- <string name="gallery_video_item6_default_text">Mutluluk</string>
+ <string name="galleryplus_gallery_video_item6_default_text">Neşe</string>
 
 
 ---------------------------------------------------------------------------------------

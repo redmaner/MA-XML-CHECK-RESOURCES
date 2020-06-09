@@ -29,6 +29,30 @@ folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_cancel">Annulla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_confirm"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_confirm">OK</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_content"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_content">Navigazione web veloce e sicura</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="browser_default_setting_title"
+---------------------------------------------------------------------------------------
+ <string name="browser_default_setting_title">Imposta come browser predefinito</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
  <string name="download_dialog_file_length_default_txt">Solo un attimo…</string>
@@ -41,9 +65,27 @@ folder="all" application="Browser.apk" xml="" name="mw_js_dialog_title_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="store__shared__default_search"
+---------------------------------------------------------------------------------------
+ <string name="store__shared__default_search">输入作者或书名</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="topic_content_default"
 ---------------------------------------------------------------------------------------
  <string name="topic_content_default">argomento</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="tt_web_title_default"
+---------------------------------------------------------------------------------------
+ <string name="tt_web_title_default">广告</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Valore</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -151,13 +193,13 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocit
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_volume_0">cu.m</string>
+ <string name="unit_data_default_volume_0">m³</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_volume_1">cu.cm</string>
+ <string name="unit_data_default_volume_1">cm³</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -941,18 +983,6 @@ folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-ext-res.apk" xml="" name="organized_languages_default"
----------------------------------------------------------------------------------------
- <string-array name="organized_languages_default"> <item>zh_CN</item> <item>zh_TW</item> <item>en_US</item> <item>bo_CN</item> <item>ug_CN</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-ext-res.apk" xml="" name="screen_key_long_press_default_action"
----------------------------------------------------------------------------------------
- <string-array name="screen_key_long_press_default_action"> <item>voice_assistant</item> <item>none</item> <item>none</item> <item>show_menu</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="default_device_name">Dispositivo sconosciuto</string>
@@ -962,54 +992,6 @@ folder="all" application="framework-ext-res.apk" xml="" name="default_device_nam
 folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
 ---------------------------------------------------------------------------------------
  <string name="subinfo_default_name">SIM %d</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_autoBrightnessButtonBacklightValues"
----------------------------------------------------------------------------------------
- <array name="config_autoBrightnessButtonBacklightValues"></array> <array name="config_autoBrightnessKeyboardBacklightValues"></array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_autoBrightnessKeyboardBacklightValues"
----------------------------------------------------------------------------------------
- <array name="config_autoBrightnessKeyboardBacklightValues"></array> <array name="config_availableColorModes"></array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_defaultCellBroadcastReceiverPkgs"
----------------------------------------------------------------------------------------
- <string-array name="config_defaultCellBroadcastReceiverPkgs"> <item>com.android.cellbroadcastreceiver</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_defaultFirstUserRestrictions"
----------------------------------------------------------------------------------------
- <array name="config_defaultFirstUserRestrictions"></array> <string-array name="config_defaultPinnerServiceFiles">
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_defaultPinnerServiceFiles"
----------------------------------------------------------------------------------------
- <string-array name="config_defaultPinnerServiceFiles"> <item>/data/dalvik-cache/arm64/system@framework@boot.oat</item> <item>/data/dalvik-cache/arm/system@framework@boot.oat</item> <item>/data/dalvik-cache/arm64/system@framework@services.jar@classes.dex</item> <item>/data/dalvik-cache/arm/system@framework@services.jar@classes.dex</item> <item>/system/framework/arm64/boot.oat</item> <item>/system/framework/arm/boot.oat</item> <item>/system/framework/oat/arm64/services.odex</item> <item>/system/framework/oat/arm/services.odex</item> <item>/system/framework/arm64/boot-framework.oat</item> <item>/system/framework/arm/boot-framework.oat</item> <item>/system/framework/arm64/boot-core-libart.oat</item> <item>/system/framework/arm/boot-core-libart.oat</item> <item>/system/lib64/libRScpp.so</item> <item>/system/lib64/libRS.so</item> <item>/system/lib64/libRS_internal.so</item> <item>/system/lib64/libbcinfo.so</item> <item>/system/lib64/libRSDriver.so</item> <item>/system/lib64/libRSCpuRef.so</item> <item>/system/lib64/libblas.so</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_default_vm_number"
----------------------------------------------------------------------------------------
- <array name="config_default_vm_number"></array> <array name="config_deviceSpecificSystemServices"></array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_autoBrightnessButtonBacklightValues"
----------------------------------------------------------------------------------------
- <array name="config_autoBrightnessButtonBacklightValues"></array> <array name="config_autoBrightnessKeyboardBacklightValues"></array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="config_autoBrightnessKeyboardBacklightValues"
----------------------------------------------------------------------------------------
- <array name="config_autoBrightnessKeyboardBacklightValues"></array> <array name="config_availableColorModes"></array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1357,13 +1339,25 @@ folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_ca
 ---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
- <string name="system_default">Default</string>
+ <string name="system_default">Predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiMoverGlobal.apk" xml="" name="document_default_extensions"
 ---------------------------------------------------------------------------------------
  <string-array name="document_default_extensions"> <item>.doc</item> <item>.docx</item> <item>.xls</item> <item>.xlsx</item> <item>.ppt</item> <item>.pptx</item> <item>.pps</item> <item>.pdf</item> <item>.wps</item> <item>.et</item> <item>.ett</item> <item>.dps</item> <item>.rtf</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="default_songtab_name"
+---------------------------------------------------------------------------------------
+ <string name="default_songtab_name">Categorie Playlist</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiRadio.apk" xml="" name="empty_view_default_text"
+---------------------------------------------------------------------------------------
+ <string name="empty_view_default_text">Nessun contenuto</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1856,6 +1850,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 folder="all" application="MiuiCamera.apk" xml="" name="excalibur_pref_lens_dirty_tip_default"
 ---------------------------------------------------------------------------------------
  <string name="excalibur_pref_lens_dirty_tip_default">true</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="gauguin_pref_lens_dirty_tip_default"
+---------------------------------------------------------------------------------------
+ <string name="gauguin_pref_lens_dirty_tip_default">true</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2353,7 +2353,7 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
- <string name="default_permission_description">eseguire un\'azione sconosciuta</string>
+ <string name="default_permission_description">esegue un\'azione sconosciuta</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2642,6 +2642,102 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
 ---------------------------------------------------------------------------------------
  <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
+---------------------------------------------------------------------------------------
+ <string name="alert_dialog_download_default_title">Scarica app</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_notification_default_channel_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_notification_default_channel_name">Trasmetti</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_dialog_default_track_name"
+---------------------------------------------------------------------------------------
+ <string name="cast_tracks_chooser_dialog_default_track_name">Traccia %1$d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
+---------------------------------------------------------------------------------------
+ <string name="com_facebook_tooltip_default">"Hai il controllo - scegli cosa vuoi condividere con queste app."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_web_client_id"
+---------------------------------------------------------------------------------------
+ <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_default_music_text">Auto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item3_default_text">Emozioni</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item4_default_text">Alba</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item5_default_text">Assistente</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item6_default_text">Gioia</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gcm_defaultSenderId"
+---------------------------------------------------------------------------------------
+ <string name="gcm_defaultSenderId">144285974528</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="ovp_default_plugin_name"
+---------------------------------------------------------------------------------------
+ <string name="ovp_default_plugin_name">Plugin HD</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_poster_reset_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_poster_reset_default">Ripristina la copertina predefinita</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="plus_sort_type_default"
+---------------------------------------------------------------------------------------
+ <string name="plus_sort_type_default">Predefinita</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="subtitle_padding_default_hint">Regolazione dei sottotitoli…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
+---------------------------------------------------------------------------------------
+ <string name="t_lv_subtitle_padding_default_hint">Regolazione dei sottotitoli…</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4621,19 +4717,19 @@ folder="all" application="Settings.apk" xml="" name="default_for_calls"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_calls_and_sms">Default for calls &amp; SMS</string>
+ <string name="default_for_calls_and_sms">Predefinita per chiamate e SMS</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
 ---------------------------------------------------------------------------------------
- <string name="default_for_mobile_data">Default for mobile data</string>
+ <string name="default_for_mobile_data">Predefinita per i dati mobili</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_sms">Default for SMS</string>
+ <string name="default_for_sms">Predefinita per gli SMS</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4681,7 +4777,7 @@ folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 ---------------------------------------------------------------------------------------
- <string name="default_suppression_title">Default (Recommended)</string>
+ <string name="default_suppression_title">Predefinito (Consigliato)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4693,7 +4789,7 @@ folder="all" application="Settings.apk" xml="" name="default_theme"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
 ---------------------------------------------------------------------------------------
- <string name="default_vol_stream_title">Default volume control stream</string>
+ <string name="default_vol_stream_title">Flusso di controllo volume predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4771,7 +4867,7 @@ folder="all" application="Settings.apk" xml="" name="media_output_default_summar
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
 ---------------------------------------------------------------------------------------
- <string name="modify_default_browser_message">If you set a third party app as your default browser, it might start collecting your browsing history and other data. Set anyway?</string>
+ <string name="modify_default_browser_message">Se si imposta un\'applicazione di terze parti come browser predefinito, potrebbe raccogliere la cronologia di navigazione e altri dati. Impostare comunque?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4801,7 +4897,7 @@ folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
 ---------------------------------------------------------------------------------------
- <string name="overlay_option_device_default">Device default</string>
+ <string name="overlay_option_device_default">Dispositivo predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4813,7 +4909,7 @@ folder="all" application="Settings.apk" xml="" name="preference_summary_default_
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
- <string name="reset_default_apn_failed">Failed to reset default apn</string>
+ <string name="reset_default_apn_failed">Impossibile reimpostare l\'apn predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4825,7 +4921,7 @@ folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
 ---------------------------------------------------------------------------------------
- <string name="theme_customization_device_default">Device default</string>
+ <string name="theme_customization_device_default">Dispositivo predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4855,7 +4951,7 @@ folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_def
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="zen_mode_custom_behavior_summary_default">Use default settings</string>
+ <string name="zen_mode_custom_behavior_summary_default">Usa impostazioni predefinite</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4951,7 +5047,7 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 ---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
 ---------------------------------------------------------------------------------------
- <string name="online_recognize_order_unit_price_value">RMB %s all\'ora</string>
+ <string name="online_recognize_order_unit_price_value">%s CNY/ora</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -5221,7 +5317,7 @@ folder="all" application="Telecom.apk" xml="" name="window_animation_scale_value
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_affirmative">Set Default</string>
+ <string name="change_default_call_screening_dialog_affirmative">Imposta come predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -5233,25 +5329,25 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_title">Make %s your default call screening app?</string>
+ <string name="change_default_call_screening_dialog_title">Rendere %s la tua app di screening chiamate predefinita?</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_warning_message">%s will be able to see information about callers not in your contacts and will be able to block these calls. Only apps you trust should be set as the default call screening app.</string>
+ <string name="change_default_call_screening_warning_message">%s sarà in grado di vedere le informazioni sui chiamanti non nei tuoi contatti e sarà in grado di bloccare queste chiamate. Solo le applicazioni di cui ti fidi dovrebbero essere impostate come app di screening delle chiamate predefinite.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_warning_message_for_disable_old_app">%s will no longer be able to screen calls.</string>
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s non sarà più in grado di visualizzare le chiamate.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Set Default</string>
+ <string name="change_default_dialer_dialog_affirmative">Imposta come predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -5263,7 +5359,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_warning_message">%s will be able to place and control all aspects of calls. Only apps you trust should be set as the default Phone app.</string>
+ <string name="change_default_dialer_warning_message">%s sarà in grado di effettuare e controllare tutti gli aspetti delle chiamate. Solo le app di cui ti fidi dovrebbero essere impostate come app predefinite per il Telefono.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -5903,9 +5999,21 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_dat
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">SIM Dati %d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
 ---------------------------------------------------------------------------------------
  <string name="msim_setting_default_voice">Predefinita per le chiamate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM %d per le chiamate</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -5975,6 +6083,12 @@ folder="all" application="TouchAssistant.apk" xml="" name="motion_behavior_entry
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Predefinita</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">La modalità Mano Singola è disattivata in modo predefinito. Attivarla adesso?</string>
@@ -5995,7 +6109,7 @@ folder="all" application="Traceur.apk" xml="" name="overlay_display_devices_valu
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+ <string name="connected_via_network_scorer_default">Connesso automaticamente tramite provider rating di rete</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -6005,21 +6119,39 @@ folder="all" application="Traceur.apk" xml="" name="default_buffer_size"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_categories"
+---------------------------------------------------------------------------------------
+ <string name="default_categories">Predefinita</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
 ---------------------------------------------------------------------------------------
  <string name="default_categories_restored">Categorie predefinite ripristinate</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_long_trace_duration"
+---------------------------------------------------------------------------------------
+ <string name="default_long_trace_duration">30</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="default_long_trace_size"
+---------------------------------------------------------------------------------------
+ <string name="default_long_trace_size">10240</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_none">No defaults set</string>
+ <string name="launch_defaults_none">Nessuna impostazione predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">Some defaults set</string>
+ <string name="launch_defaults_some">Alcune impostazioni predefinite</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -6037,49 +6169,49 @@ folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="screen_zoom_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">Default</string>
+ <string name="screen_zoom_summary_default">Predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_lang_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
+ <string name="tts_default_lang_summary">Imposta la lingua specifica per il testo parlato</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">Language</string>
+ <string name="tts_default_lang_title">Lingua</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>
+ <string name="tts_default_pitch_summary">Gestisce il tono della voce sintetizzata</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">Pitch</string>
+ <string name="tts_default_pitch_title">Picco</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_rate_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
+ <string name="tts_default_rate_summary">Velocità del testo parlato</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">Speech rate</string>
+ <string name="tts_default_rate_title">Velocità</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">This is an example of speech synthesis</string>
+ <string name="tts_default_sample_string">Questo è un esempio di voce sintetizzata</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -689,6 +689,18 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_create_shortcut">Создать</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_has_shortcut"
+---------------------------------------------------------------------------------------
+ <string name="preference_value_has_shortcut">Создан</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Всегда верьте, что произойдет что-то чудесное"</string>
@@ -2293,7 +2305,7 @@ folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
 ---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
 ---------------------------------------------------------------------------------------
- <string name="online_recognize_order_service_type_value">Онлайн распознавание аудио</string>
+ <string name="online_recognize_order_service_type_value">Онлайн транскрибирование аудио</string>
 
 
 ---------------------------------------------------------------------------------------

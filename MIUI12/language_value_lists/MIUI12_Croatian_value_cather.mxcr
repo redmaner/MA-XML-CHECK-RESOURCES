@@ -82,6 +82,7 @@ all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
+all Health.apk strings.xml value_error_correct
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk strings.xml announce_for_choose_default_screen
@@ -166,6 +167,8 @@ all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml com_facebook_tooltip_default
+all MiuiVideoGlobal.apk strings.xml default_filedownloader_notification_content
+all MiuiVideoGlobal.apk strings.xml default_filedownloader_notification_title
 all MiuiVideoGlobal.apk strings.xml gallery_video_default_music_text
 all MiuiVideoGlobal.apk strings.xml gallery_video_item3_default_text
 all MiuiVideoGlobal.apk strings.xml gallery_video_item4_default_text

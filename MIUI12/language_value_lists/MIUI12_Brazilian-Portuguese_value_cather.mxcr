@@ -59,6 +59,8 @@ all Health.apk strings.xml tips_default
 all Health.apk strings.xml value_error_correct
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
+all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
+all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiBluetooth.apk strings.xml connected_via_network_scorer_default
 all MiuiBluetooth.apk strings.xml launch_defaults_none
 all MiuiBluetooth.apk strings.xml launch_defaults_some
@@ -239,6 +241,7 @@ all TeleService.apk strings.xml msim_setting_default_voice
 all TeleService.apk strings.xml msim_setting_default_data_description
 all TeleService.apk strings.xml msim_setting_default_voice_description
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all TouchAssistant.apk strings.xml edge_mode_default_title
 all Traceur.apk strings.xml default_categories_restored
 all Traceur.apk strings.xml restore_default_categories
 all Updater.apk strings.xml default_filedownloader_notification_content
