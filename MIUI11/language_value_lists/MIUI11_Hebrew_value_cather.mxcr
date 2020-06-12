@@ -68,6 +68,7 @@ all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
+all Health.apk strings.xml value_error_correct
 all InCallUI.apk arrays.xml clir_display_values
 all InCallUI.apk arrays.xml list_language_values
 all InCallUI.apk arrays.xml cdma_subscription_values

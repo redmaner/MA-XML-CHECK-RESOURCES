@@ -59,6 +59,7 @@ all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml default_relation_name
 all MiuiGallery.apk strings.xml mark_myself_default_name
 all MiuiGallery.apk strings.xml photo_editor_font_default
+all MiuiGallery.apk strings.xml security_share_subtitle_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiHome.apk strings.xml all_app_category_default
@@ -120,6 +121,10 @@ all QuickSearchBox.apk strings.xml default_hf_hint
 all QuickSearchBox.apk strings.xml download_dialog_default_path_invalid
 all QuickSearchBox.apk strings.xml hint_default
 all QuickSearchBox.apk strings.xml reader_history_default_subtitle
+all SecurityCenter.apk arrays.xml operate_entryValues
+all SecurityCenter.apk arrays.xml operate_memory_entryValues
+all SecurityCenter.apk arrays.xml operate_entryValues
+all SecurityCenter.apk arrays.xml operate_memory_entryValues
 all SecurityCenter.apk arrays.xml lock_mode_value
 all SecurityCenter.apk strings.xml ad_btn_default_text
 all SecurityCenter.apk strings.xml app_manager_default_cleared
@@ -127,7 +132,6 @@ all SecurityCenter.apk strings.xml app_manager_default_close_summary
 all SecurityCenter.apk strings.xml app_manager_default_open_summary
 all SecurityCenter.apk strings.xml app_manager_default_open_title
 all SecurityCenter.apk strings.xml app_manager_defaults_setting
-all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all SecurityCoreAdd.apk strings.xml space_des_default
