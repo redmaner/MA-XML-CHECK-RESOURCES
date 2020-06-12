@@ -437,6 +437,12 @@ folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_h
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
+---------------------------------------------------------------------------------------
+ <string name="signature_default_content">"Usko aina, että jotain ihanaa tulee tapahtumaan"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">TextView</string>

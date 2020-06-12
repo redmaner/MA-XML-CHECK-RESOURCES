@@ -515,15 +515,9 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_str
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="device_poco_watermark_default_text"
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 ---------------------------------------------------------------------------------------
- <string name="device_poco_watermark_default_text">PRESA AMB POCO PHONE</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_long_press_shutter_feature_default">ràfega</string>
+ <string name="custom_sound_default">Per defecte</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -590,6 +584,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name
 folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
 ---------------------------------------------------------------------------------------
  <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Protecció de privadesa</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -680,6 +680,18 @@ folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_titl
 folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview"
 ---------------------------------------------------------------------------------------
  <string name="menu_default_screen_preview">Estableix la pantalla per defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Desactivat</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Activat</string>
 
 
 ---------------------------------------------------------------------------------------

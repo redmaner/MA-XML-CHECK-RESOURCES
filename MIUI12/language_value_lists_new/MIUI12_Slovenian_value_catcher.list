@@ -503,6 +503,12 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Uredi zapis</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>

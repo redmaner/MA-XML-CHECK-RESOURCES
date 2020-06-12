@@ -53,6 +53,12 @@ folder="all" application="Browser.apk" xml="" name="topic_content_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
+---------------------------------------------------------------------------------------
+ <string name="mw_color_picker_value">Valoare</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_area_0">sq.m</string>
@@ -943,13 +949,13 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
 ---------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_disable">Oprit</string>
+ <string name="launcher_search_bar_value_disable">Oprită</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
 ---------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_enable">Pornit</string>
+ <string name="launcher_search_bar_value_enable">Pornită</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2083,7 +2089,7 @@ folder="all" application="Weather.apk" xml="" name="wind_power_unit_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">"Dețineți controlul - selectați ce informații doriți să partajați cu aplicațiile."</string>
+ <string name="com_facebook_tooltip_default">Dețineți controlul - selectați ce informații doriți să partajați cu aplicațiile.</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -365,6 +365,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Protección de privacidad</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
 ---------------------------------------------------------------------------------------
  <string name="text_edit_dialog_font_default">Predefinido</string>
@@ -731,6 +737,30 @@ folder="all" application="QuickSearchBox.apk" xml="" name="reader_history_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_memory_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_memory_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_memory_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_memory_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
@@ -770,12 +800,6 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_o
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
 ---------------------------------------------------------------------------------------
  <string name="app_manager_defaults_setting">Aplicaciones predeterminadas</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
----------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">"Acerca del diagnóstico 1. El dispositivo se conectará a la red del operador, enviará un mensaje gratuito y esperará la respuesta del operador. Esto puede tardar hasta 5 minutos. 2. Puedes salir de esta página durante los diagnósticos, éstos se ejecutarán en segundo plano."</string>
 
 
 ---------------------------------------------------------------------------------------

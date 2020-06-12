@@ -88,6 +88,8 @@ all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml custom_sound_default
+all MiuiCamera.apk strings.xml pref_front_denoise_default
+all MiuiCamera.apk strings.xml pref_wind_denoise_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie

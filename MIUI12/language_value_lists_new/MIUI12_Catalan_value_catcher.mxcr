@@ -84,8 +84,7 @@ all MiuiBluetooth.apk strings.xml tts_default_pitch_title
 all MiuiBluetooth.apk strings.xml tts_default_rate_summary
 all MiuiBluetooth.apk strings.xml tts_default_rate_title
 all MiuiBluetooth.apk strings.xml tts_default_sample_string
-all MiuiCamera.apk strings.xml device_poco_watermark_default_text
-all MiuiCamera.apk strings.xml pref_camera_long_press_shutter_feature_default
+all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
@@ -97,6 +96,7 @@ all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml default_relation_name
 all MiuiGallery.apk strings.xml mark_myself_default_name
 all MiuiGallery.apk strings.xml photo_editor_font_default
+all MiuiGallery.apk strings.xml security_share_subtitle_default
 all MiuiGallery.apk strings.xml text_edit_dialog_font_default
 all MiuiGallery.apk strings.xml video_editor_text_default
 all MiuiHome.apk strings.xml all_app_category_default
@@ -112,6 +112,8 @@ all MiuiHome.apk strings.xml default_folder_title_telcel
 all MiuiHome.apk strings.xml default_folder_title_turkcell_uygulamalar
 all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
+all MiuiHome.apk strings.xml launcher_search_bar_value_disable
+all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default

@@ -539,6 +539,18 @@ folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_denoise_default">Wył.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_wind_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_wind_denoise_default">Wł.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_manually_exposure_value">Ręczna ekspozycja</string>

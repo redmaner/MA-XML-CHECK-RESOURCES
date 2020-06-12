@@ -1577,24 +1577,6 @@ folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_valu
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistantGlobal.apk" xml="" name="setting_uber_default_way"
----------------------------------------------------------------------------------------
- <string name="setting_uber_default_way">По умолчанию</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistantGlobal.apk" xml="" name="upgrade_log_default"
----------------------------------------------------------------------------------------
- <string name="upgrade_log_default">"1. Улучшена производительность. 2. Исправлены ошибки."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="PersonalAssistantGlobal.apk" xml="" name="current_optimization_value"
----------------------------------------------------------------------------------------
- <string name="current_optimization_value">Угрозы снижают безопасность вашего устройства</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
  <string name="terms_of_use_lable_default_input_method_facemoji">" Перед использованием этой функции вы должны принять Политику конфиденциальности Facemoji."</string>
