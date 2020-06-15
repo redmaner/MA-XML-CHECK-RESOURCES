@@ -256,6 +256,7 @@ all MiuiBluetooth.apk strings.xml tts_default_rate_summary
 all MiuiBluetooth.apk strings.xml tts_default_rate_title
 all MiuiBluetooth.apk strings.xml tts_default_sample_string
 all MiuiCamera.apk strings.xml pref_live_volumekey_function_default
+all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiCamera.apk strings.xml pref_google_lens_default
@@ -423,9 +424,6 @@ all Settings.apk strings.xml notification_importance_default_title
 all Settings.apk strings.xml notification_sound_default
 all Settings.apk strings.xml slider_vocie_online_default
 all Settings.apk strings.xml theme_customization_device_default
-all Settings.apk strings.xml usb_default_info
-all Settings.apk strings.xml usb_default_label
-all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value

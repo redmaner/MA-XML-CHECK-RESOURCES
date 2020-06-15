@@ -1547,6 +1547,12 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_live_volumekey_funct
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">Défaut</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_ultra_pixel_watermark_default_text">DOUBLE APPAREIL PHOTO 48 MPX</string>
@@ -2546,24 +2552,6 @@ folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default
 folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
 ---------------------------------------------------------------------------------------
  <string name="theme_customization_device_default">Appareil par défaut</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="usb_default_info"
----------------------------------------------------------------------------------------
- <string name="usb_default_info">"Ces paramètres sont appliqués lorsqu'un autre appareil est connecté et que votre téléphone est déverrouillé. Connectez-vous uniquement à des appareils vérifiés."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="usb_default_label"
----------------------------------------------------------------------------------------
- <string name="usb_default_label">Configuration USB par défaut</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
----------------------------------------------------------------------------------------
- <string name="wallpaper_settings_summary_default">Par défaut</string>
 
 
 ---------------------------------------------------------------------------------------

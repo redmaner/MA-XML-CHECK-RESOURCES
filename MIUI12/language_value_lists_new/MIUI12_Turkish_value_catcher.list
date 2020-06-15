@@ -401,6 +401,18 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Bilinmeyen aygıt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
+---------------------------------------------------------------------------------------
+ <string name="subinfo_default_name">SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">%1$s şu anda müsait değil. Bu %2$s tarafından yönetiliyor.</string>
@@ -443,9 +455,51 @@ folder="all" application="framework-res.apk" xml="" name="popup_window_default_t
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="wifi_localhotspot_configure_ssid_default"
+folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
 ---------------------------------------------------------------------------------------
- <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
+ <string name="zen_mode_default_every_night_name">Uyuyor</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
+---------------------------------------------------------------------------------------
+ <string name="app_suspended_default_message">%1$s şu anda müsait değil. Bu %2$s tarafından yönetiliyor.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_channel_label">Kategorisiz</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake">Sakin ol ve yakınlarda barınak ara.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_earthquake_and_tsunami">Sakin ol ve yakınlarda barınak ara.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_test">Acil durum mesajları testi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_tsunami">Kıyı bölgelerinden ve nehir kenarındaki alanlardan derhal yüksek zemin gibi daha güvenli bir yere gidin.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
+---------------------------------------------------------------------------------------
+ <string name="popup_window_default_title">Açılır Pencere</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -584,6 +638,18 @@ folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 folder="all" application="MiuiCamera.apk" xml="" name="dualcamera_watermark_default"
 ---------------------------------------------------------------------------------------
  <string name="dualcamera_watermark_default">AI ÇİFT KAMERA</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_denoise_default">Kapalı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_wind_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_wind_denoise_default">Açık</string>
 
 
 ---------------------------------------------------------------------------------------

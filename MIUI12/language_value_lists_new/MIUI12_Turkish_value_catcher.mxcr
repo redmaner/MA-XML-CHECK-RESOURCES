@@ -65,6 +65,8 @@ all FileExplorer.apk strings.xml user_desc_default_tip
 all FindDevice.apk strings.xml default_debt_msg_words
 all framework-ext-res.apk strings.xml default_device_name
 all framework-ext-res.apk strings.xml subinfo_default_name
+all framework-ext-res.apk strings.xml default_device_name
+all framework-ext-res.apk strings.xml subinfo_default_name
 all framework-res.apk strings.xml app_suspended_default_message
 all framework-res.apk strings.xml default_notification_channel_label
 all framework-res.apk strings.xml etws_primary_default_message_earthquake
@@ -72,7 +74,14 @@ all framework-res.apk strings.xml etws_primary_default_message_earthquake_and_ts
 all framework-res.apk strings.xml etws_primary_default_message_test
 all framework-res.apk strings.xml etws_primary_default_message_tsunami
 all framework-res.apk strings.xml popup_window_default_title
-all framework-res.apk strings.xml wifi_localhotspot_configure_ssid_default
+all framework-res.apk strings.xml zen_mode_default_every_night_name
+all framework-res.apk strings.xml app_suspended_default_message
+all framework-res.apk strings.xml default_notification_channel_label
+all framework-res.apk strings.xml etws_primary_default_message_earthquake
+all framework-res.apk strings.xml etws_primary_default_message_earthquake_and_tsunami
+all framework-res.apk strings.xml etws_primary_default_message_test
+all framework-res.apk strings.xml etws_primary_default_message_tsunami
+all framework-res.apk strings.xml popup_window_default_title
 all framework-res.apk strings.xml zen_mode_default_every_night_name
 all framework-res.apk strings.xml biometric_dialog_default_title
 all FrequentPhrase.apk arrays.xml default_phrases
@@ -96,6 +105,8 @@ all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml dualcamera_watermark_default
+all MiuiCamera.apk strings.xml pref_front_denoise_default
+all MiuiCamera.apk strings.xml pref_wind_denoise_default
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture

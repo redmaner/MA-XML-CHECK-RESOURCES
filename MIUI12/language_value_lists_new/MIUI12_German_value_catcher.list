@@ -623,6 +623,18 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_denoise_default">Aus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_wind_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_wind_denoise_default">Ein</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 ---------------------------------------------------------------------------------------
  <string name="custom_sound_default">Standard</string>

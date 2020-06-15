@@ -102,6 +102,8 @@ all MiuiBluetooth.apk strings.xml tts_default_rate_summary
 all MiuiBluetooth.apk strings.xml tts_default_rate_title
 all MiuiBluetooth.apk strings.xml tts_default_sample_string
 all MiuiBugReport.apk strings.xml default_text_view
+all MiuiCamera.apk strings.xml pref_front_denoise_default
+all MiuiCamera.apk strings.xml pref_wind_denoise_default
 all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml pref_camera_tilt_shift_default
 all MiuiCamera.apk strings.xml pref_pro_video_volumekey_function_default

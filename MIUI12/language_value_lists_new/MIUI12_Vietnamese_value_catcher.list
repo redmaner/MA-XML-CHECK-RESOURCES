@@ -1055,6 +1055,18 @@ folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_wind_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_wind_denoise_default">BẬT</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_denoise_default">TẮT</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Thu phóng</string>
