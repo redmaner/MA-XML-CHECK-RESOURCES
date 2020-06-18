@@ -713,12 +713,6 @@ folder="all" application="MiuiGallery.apk" xml="" name="default_relation_name"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
----------------------------------------------------------------------------------------
- <string name="mark_myself_default_name">나</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_default"
 ---------------------------------------------------------------------------------------
  <string name="photo_editor_font_default">Mi 랜팅(보통)</string>
@@ -740,6 +734,18 @@ folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_defaul
 folder="all" application="MiuiGallery.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="default_device_name">알 수 없는 장치</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name"
+---------------------------------------------------------------------------------------
+ <string name="mark_myself_default_name">나</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">개인 정보 보호</string>
 
 
 ---------------------------------------------------------------------------------------

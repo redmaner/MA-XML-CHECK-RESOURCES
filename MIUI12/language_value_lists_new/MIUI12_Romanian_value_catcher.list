@@ -203,6 +203,12 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="battery_value"
+---------------------------------------------------------------------------------------
+ <string name="battery_value">Energie</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
 ---------------------------------------------------------------------------------------
  <string name="cit_audio_cali_valueF0">F0:</string>
