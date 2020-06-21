@@ -1187,6 +1187,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="album_detail_default_sort_tip"
+---------------------------------------------------------------------------------------
+ <string name="album_detail_default_sort_tip">Đã chuyển trình tự thời gian</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="wallpaper_scroll_values"
 ---------------------------------------------------------------------------------------
  <string-array name="wallpaper_scroll_values"> <item>Chủ đề mặc định</item> <item>Căn giữa</item> <item>Bên trái</item> <item>Bên phải</item> </string-array>
