@@ -83,6 +83,7 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
 all Health.apk strings.xml value_error_correct
+all MiGalleryLockscreen.apk strings.xml system_default
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk strings.xml announce_for_choose_default_screen
@@ -129,6 +130,9 @@ all MiuiBluetooth.apk strings.xml tts_default_sample_string
 all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml device_48m_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
+all MiuiCamera.apk strings.xml pref_camera_snap_value_off
+all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
+all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
