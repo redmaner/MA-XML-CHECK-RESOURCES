@@ -83,6 +83,7 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
 all Health.apk strings.xml value_error_correct
+all MiGalleryLockscreen.apk strings.xml system_default
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk strings.xml announce_for_choose_default_screen
@@ -125,7 +126,11 @@ all MiuiBluetooth.apk strings.xml tts_default_sample_string
 all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml device_48m_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
+all MiuiCamera.apk strings.xml pref_camera_snap_value_off
+all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
+all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
+all MiuiGallery.apk strings.xml album_detail_default_sort_tip
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml default_relation_name
@@ -146,7 +151,9 @@ all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiHome.apk strings.xml launcher_search_bar_value_disable
 all MiuiHome.apk strings.xml launcher_search_bar_value_enable
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiPackageInstaller.apk strings.xml default_permission_description
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default
 all MiuiSystemUI.apk strings.xml default_lockscreen_unlock_hint_text

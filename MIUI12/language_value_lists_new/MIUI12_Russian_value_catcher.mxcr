@@ -138,6 +138,7 @@ all MiuiCamera.apk strings.xml pref_camera_tilt_shift_entryvalue_parallel
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
 all MiuiCamera.apk strings.xml pref_hdr_value_default
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
+all MiuiGallery.apk strings.xml album_detail_default_sort_tip
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml default_relation_name
@@ -165,7 +166,9 @@ all MiuiHome.apk strings.xml default_shortcut_title_10086
 all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiHome.apk strings.xml launcher_search_bar_value_disable
 all MiuiHome.apk strings.xml launcher_search_bar_value_enable
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiPackageInstaller.apk strings.xml default_permission_description
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiScanner.apk strings.xml language_value_chinese_cn

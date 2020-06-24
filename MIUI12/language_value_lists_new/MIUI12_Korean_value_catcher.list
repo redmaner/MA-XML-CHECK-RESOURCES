@@ -695,6 +695,18 @@ folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_front_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_front_denoise_default">꺼짐</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_wind_denoise_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_wind_denoise_default">켜짐</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">기본값</string>

@@ -857,9 +857,21 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Bu uygulamayı yükleyen kullanıcılar bunları da beğendi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">bilinmeyen bir eylem gerçekleştirir</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Bu uygulamayı yükleyen kullanıcılar bunları da beğendi</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1792,7 +1804,7 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Varsayılanı Ayarla</string>
+ <string name="change_default_dialer_dialog_affirmative">Varsayılan Telefon uygulaması olarak ayarla</string>
 
 
 ---------------------------------------------------------------------------------------

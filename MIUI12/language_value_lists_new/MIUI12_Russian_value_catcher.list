@@ -839,6 +839,12 @@ folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="album_detail_default_sort_tip"
+---------------------------------------------------------------------------------------
+ <string name="album_detail_default_sort_tip">Хронологический порядок</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
  <string name="channel_default_name">Новые возможности</string>
@@ -1001,9 +1007,21 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Помимо этого приложения, также устанавливают</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">выполняет неизвестное действие</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Помимо этого приложения, также устанавливают</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2341,7 +2359,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Использовать по умолчанию</string>
+ <string name="change_default_dialer_dialog_affirmative">Использовать для вызовов по умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------

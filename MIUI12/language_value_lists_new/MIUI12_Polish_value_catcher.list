@@ -731,6 +731,18 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permiss
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Ludzie, którzy zainstalowali tą aplikację, polubili także</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Ludzie, którzy zainstalowali tą aplikację, polubili także</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Domyślna funkcja</string>
@@ -1790,6 +1802,12 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
 ---------------------------------------------------------------------------------------
  <string name="online_recognize_order_unit_price_value">%s CNY/gdz</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną aplikację Telefonu</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -120,6 +120,8 @@ all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiHome.apk strings.xml launcher_search_bar_value_disable
 all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml default_permission_description
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiScanner.apk strings.xml setting_default_function
 all miuisystem_bak.apk strings.xml android_ringtone_default_with_actual
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default
@@ -297,6 +299,7 @@ all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
 all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
+all Telecom.apk strings.xml change_default_dialer_dialog_affirmative
 all Telecom.apk strings.xml preference_summary_default_combination
 all TeleService.apk strings.xml msim_select_default_time_left
 all TeleService.apk strings.xml msim_setting_default_data

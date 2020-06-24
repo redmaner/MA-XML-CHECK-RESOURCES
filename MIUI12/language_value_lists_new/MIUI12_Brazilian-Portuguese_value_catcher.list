@@ -527,6 +527,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="album_detail_default_sort_tip"
+---------------------------------------------------------------------------------------
+ <string name="album_detail_default_sort_tip">Alterado para ordem cronológica</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
  <string name="announce_for_choose_default_screen">Tela %1$d definida como padrão</string>

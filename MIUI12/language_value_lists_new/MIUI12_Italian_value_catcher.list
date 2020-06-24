@@ -127,7 +127,7 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_currency_0">CNY</string>
+ <string name="unit_data_default_currency_0">JPY</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -638,66 +638,6 @@ folder="all" application="Contacts.apk" xml="" name="bind_simcard_default"
 folder="all" application="Contacts.apk" xml="" name="contacts_default_notification_channel"
 ---------------------------------------------------------------------------------------
  <string name="contacts_default_notification_channel">Notifiche</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="auto_silence_values"
----------------------------------------------------------------------------------------
- <string-array name="auto_silence_values"> <item>-1</item> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="clock_bg_setting_values"
----------------------------------------------------------------------------------------
- <string-array name="clock_bg_setting_values"> <item>1</item> <item>2</item> <item>-1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="notification_adv_time_values"
----------------------------------------------------------------------------------------
- <string-array name="notification_adv_time_values"> <item>0</item> <item>15</item> <item>30</item> <item>60</item> <item>-1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
----------------------------------------------------------------------------------------
- <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
----------------------------------------------------------------------------------------
- <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="auto_silence_values"
----------------------------------------------------------------------------------------
- <string-array name="auto_silence_values"> <item>-1</item> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="clock_bg_setting_values"
----------------------------------------------------------------------------------------
- <string-array name="clock_bg_setting_values"> <item>1</item> <item>2</item> <item>-1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="notification_adv_time_values"
----------------------------------------------------------------------------------------
- <string-array name="notification_adv_time_values"> <item>0</item> <item>15</item> <item>30</item> <item>60</item> <item>-1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="snooze_duration_values"
----------------------------------------------------------------------------------------
- <string-array name="snooze_duration_values"> <item>1</item> <item>5</item> <item>10</item> <item>15</item> <item>20</item> <item>25</item> <item>30</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="DeskClock.apk" xml="" name="volume_button_setting_values"
----------------------------------------------------------------------------------------
- <string-array name="volume_button_setting_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1307,6 +1247,12 @@ folder="all" application="Health.apk" xml="" name="user_invalid_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Modifica valore</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="imssettings.apk" xml="" name="ims_vt_call_quality_values"
 ---------------------------------------------------------------------------------------
  <string-array name="ims_vt_call_quality_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
@@ -1343,7 +1289,7 @@ folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiMoverGlobal.apk" xml="" name="document_default_extensions"
+folder="all" application="MiMover.apk" xml="" name="document_default_extensions"
 ---------------------------------------------------------------------------------------
  <string-array name="document_default_extensions"> <item>.doc</item> <item>.docx</item> <item>.xls</item> <item>.xlsx</item> <item>.ppt</item> <item>.pptx</item> <item>.pps</item> <item>.pdf</item> <item>.wps</item> <item>.et</item> <item>.ett</item> <item>.dps</item> <item>.rtf</item> </string-array>
 
@@ -1943,6 +1889,12 @@ folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="album_detail_default_sort_tip"
+---------------------------------------------------------------------------------------
+ <string name="album_detail_default_sort_tip">Passato all\'ordine cronologico</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
  <string name="channel_default_name">Nuove funzioni</string>
@@ -2149,19 +2101,31 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
 ---------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_disable">Spenta</string>
+ <string name="launcher_search_bar_value_disable">Nascosta</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
 ---------------------------------------------------------------------------------------
- <string name="launcher_search_bar_value_enable">Attivo</string>
+ <string name="launcher_search_bar_value_enable">Attiva</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Piace alle persone che hanno installato questa app</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">esegue un\'azione sconosciuta</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Piace alle persone che hanno installato questa app</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2477,9 +2441,15 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_web_client_id"
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
+ <string name="default_filedownloader_notification_content">FileDownloader in esecuzione.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_title"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_title">FileDownloader</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -5149,7 +5119,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Imposta come predefinito</string>
+ <string name="change_default_dialer_dialog_affirmative">Imposta come app Telefono predefinita</string>
 
 
 ---------------------------------------------------------------------------------------

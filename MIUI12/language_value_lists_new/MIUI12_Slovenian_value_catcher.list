@@ -509,6 +509,12 @@ folder="all" application="Health.apk" xml="" name="value_error_correct"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
+---------------------------------------------------------------------------------------
+ <string name="system_default">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiLauncherGlobal.apk" xml="" name="cell_layout_size_values"
 ---------------------------------------------------------------------------------------
  <string-array name="cell_layout_size_values"> <item>4x4</item> <item>4x5</item> </string-array>
@@ -782,6 +788,24 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_48m_watermark_defa
 folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_watermark_default_text">AI DVOJNA KAMERA</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Izključeno</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Film</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Slika</string>
 
 
 ---------------------------------------------------------------------------------------

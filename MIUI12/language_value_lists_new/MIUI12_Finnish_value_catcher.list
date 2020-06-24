@@ -893,12 +893,6 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="lucky_alarm_count_down_default"
----------------------------------------------------------------------------------------
- <string name="lucky_alarm_count_down_default">0:00:00</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
  <string name="tc_diagnostic_fragment_default">"Tietoja diagnostiikasta 1. Laite yhdistää operaattorin verkkoon, lähettää ilmaisen viestin, ja odottaa operaattorin vastausta. Tämä saattaa kestää jopa viisi minuuttia. 2. Voit poistua tältä sivulta diagnostiikan aikana, työskentely jatkuu taustalla."</string>
@@ -1391,12 +1385,6 @@ folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_valu
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="bt_hci_snoop_log_values"
----------------------------------------------------------------------------------------
- <string-array name="bt_hci_snoop_log_values"> <item>disabled</item> <item>filtered</item> <item>snoopheadersfiltered</item> <item>mediapktsfiltered</item> <item>full</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="debug_hw_overdraw_values"
 ---------------------------------------------------------------------------------------
  <string-array name="debug_hw_overdraw_values"> <item>false</item> <item>show</item> <item>show_deuteranomaly</item> </string-array>
@@ -1520,12 +1508,6 @@ folder="all" application="Traceur.apk" xml="" name="bluetooth_a2dp_codec_values"
 folder="all" application="Traceur.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="bt_hci_snoop_log_values"
----------------------------------------------------------------------------------------
- <string-array name="bt_hci_snoop_log_values"> <item>disabled</item> <item>filtered</item> <item>snoopheadersfiltered</item> <item>mediapktsfiltered</item> <item>full</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
