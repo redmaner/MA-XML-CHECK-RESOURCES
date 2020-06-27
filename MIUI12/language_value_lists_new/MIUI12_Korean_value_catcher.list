@@ -857,6 +857,18 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permiss
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_focusmode_default">연속 사진</string>
@@ -2199,7 +2211,7 @@ folder="all" application="talkback.apk" xml="" name="granularity_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">기본값으로 설정</string>
+ <string name="change_default_dialer_dialog_affirmative">기본 전화앱으로 설정</string>
 
 
 ---------------------------------------------------------------------------------------

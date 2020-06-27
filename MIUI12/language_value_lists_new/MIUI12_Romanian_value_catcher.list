@@ -971,6 +971,12 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Persoanele care au instalat această aplicație au apreciat și</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
@@ -1040,6 +1046,12 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_rat
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">Acesta este un exemplu de rostire sintetizată</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Persoanele care au instalat această aplicație au apreciat și</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1877,9 +1889,39 @@ folder="all" application="SpacesPolicyApp.apk" xml="" name="default_space_name"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Setați ca Implicit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">Renunțați</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">Faceți %s ca aplicație implicită pentru call screening?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s va putea vedea informații despre apelanții care nu sunt în agenda dvs.și va putea bloca aceste apeluri. Doar aplicațiile în care aveți încredere ar trebui setate ca aplicații implicite pentru call screening.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s nu va mai putea proiecta apelurile.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Setați Implicit</string>
+ <string name="change_default_dialer_dialog_affirmative">Setați ca aplicație implicită de apelare</string>
 
 
 ---------------------------------------------------------------------------------------
