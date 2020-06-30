@@ -359,6 +359,12 @@ folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_sample_str
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Cihaz varsayılanı</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="FileExplorer.apk" xml="" name="default_prize_text"
 ---------------------------------------------------------------------------------------
  <string name="default_prize_text">Bu benim hazineye doğru gidiyor!</string>
@@ -629,6 +635,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Cihaz varsayılanı</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 ---------------------------------------------------------------------------------------
  <string name="custom_sound_default">Varsayılan</string>
@@ -887,6 +899,12 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">Varsayılan depolama konumu:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcı aracılığıyla otomatik olarak bağlandı</string>
@@ -962,6 +980,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%s modu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Cihaz varsayılanı</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1784,6 +1808,72 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_autoclick_default_title"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_autoclick_default_title">Kapalı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Cihaz varsayılanı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
+---------------------------------------------------------------------------------------
+ <string name="default_digital_assistant_title">Varsayılan dijital asistan uygulaması</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="graphics_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="graphics_driver_app_preference_default">Varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_label"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_update_default_label">Varsayılan ödeme uygulamasını güncelle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_disabled_title">Varsayılan olarak devre dışı değişiklikler</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_enabled_title">Varsayılan olarak etkin değişiklikler</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="system_default_app_subtext"
+---------------------------------------------------------------------------------------
+ <string name="system_default_app_subtext">Sistem varsayılanı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="alarm_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="alarm_sound_default">Varsayılan alarm sesi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Varsayılan bildirim sesi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="ringtone_default"
+---------------------------------------------------------------------------------------
+ <string name="ringtone_default">Varsayılan zil sesi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
 ---------------------------------------------------------------------------------------
  <string name="err_msg_pending_value">değerlendirme beklemede</string>
@@ -1799,6 +1889,12 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
 ---------------------------------------------------------------------------------------
  <string name="online_recognize_order_unit_price_value">Saatte %s RMB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="StorageManager.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Cihaz varsayılanı</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1823,6 +1919,12 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warnin
 folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcısı üzerinden otomatik olarak bağlandı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Cihaz varsayılanı</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1883,6 +1985,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
 ---------------------------------------------------------------------------------------
  <string name="msim_setting_default_voice_description">Çağrılar için SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_carrier_mmi_msg_title"
+---------------------------------------------------------------------------------------
+ <string name="default_carrier_mmi_msg_title">Operatör Mesajı</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2021,6 +2129,12 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
 folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">Bu bir konuşma sentezi örneğidir</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Cihaz varsayılanı</string>
 
 
 ---------------------------------------------------------------------------------------

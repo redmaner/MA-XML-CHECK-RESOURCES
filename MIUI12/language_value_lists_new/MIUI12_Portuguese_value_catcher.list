@@ -383,6 +383,12 @@ folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="album_detail_default_sort_tip"
+---------------------------------------------------------------------------------------
+ <string name="album_detail_default_sort_tip">Alterado para ordem cronológica</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="channel_default_name"
 ---------------------------------------------------------------------------------------
  <string name="channel_default_name">Novas funcionalidades</string>
@@ -497,9 +503,21 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Pessoas que instalaram esta aplicação também gostaram de</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">executar uma acção desconhecida</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">Pessoas que instalaram esta aplicação também gostaram de</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -806,6 +824,18 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setti
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Toque</item> <item>Multimédia</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Todas as cores</item> <item>Cores claras</item> <item>Preto e branco</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Todas as cores</item> <item>Cores claras</item> <item>Preto e branco</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

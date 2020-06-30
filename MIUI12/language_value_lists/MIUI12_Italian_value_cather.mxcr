@@ -211,6 +211,8 @@ all imssettings.apk arrays.xml ims_vt_call_quality_values
 all imssettings.apk arrays.xml ims_vt_call_quality_values_high_not_supported
 all imssettings.apk arrays.xml ims_vt_call_quality_values
 all imssettings.apk arrays.xml ims_vt_call_quality_values_high_not_supported
+all ManagedProvisioning.apk strings.xml car_ui_alert_dialog_default_button
+all ManagedProvisioning.apk strings.xml car_ui_toolbar_default_search_hint
 all MiGalleryLockscreen.apk strings.xml local_default_category
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiMover.apk arrays.xml document_default_extensions

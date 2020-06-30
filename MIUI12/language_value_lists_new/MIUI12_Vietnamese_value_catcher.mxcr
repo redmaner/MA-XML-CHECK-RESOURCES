@@ -142,6 +142,8 @@ all Health.apk strings.xml value_error_correct
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
 all HybridPlatform.apk strings.xml features_notification_channel_default
+all ManagedProvisioning.apk strings.xml car_ui_alert_dialog_default_button
+all ManagedProvisioning.apk strings.xml car_ui_toolbar_default_search_hint
 all MiDrop.apk strings.xml default_lang
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiGalleryLockscreen.apk strings.xml local_default_category
@@ -168,6 +170,7 @@ all MiuiBluetooth.apk strings.xml tts_default_pitch_title
 all MiuiBluetooth.apk strings.xml tts_default_lang_summary
 all MiuiBluetooth.apk strings.xml launch_defaults_none
 all MiuiBluetooth.apk strings.xml tts_default_pitch_summary
+all MiuiBluetooth.apk strings.xml cached_apps_freezer_device_default
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_default
 all MiuiCamera.apk strings.xml pref_hdr_indicator_entryvalue_off
@@ -234,6 +237,7 @@ all MiuiSystemUI.apk strings.xml default_theme
 all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_content
 all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_entry_title
 all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_title
+all MiuiSystemUI.apk strings.xml cached_apps_freezer_device_default
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
 all MiuiVideo.apk strings.xml subtitle_padding_default_hint
 all MiuiVideo.apk strings.xml alert_dialog_download_default_title
@@ -474,6 +478,9 @@ all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml modify_default_browser_message
 all Settings.apk strings.xml default_suppression_title
 all Settings.apk strings.xml default_keyboard
+all Settings.apk strings.xml graphics_driver_app_preference_default
+all Settings.apk strings.xml accessibility_autoclick_default_title
+all Settings.apk strings.xml cached_apps_freezer_device_default
 all Settings.apk strings.xml tether_limit_value_custom
 all SimAppDialog.apk strings.xml install_carrier_app_description_default
 all SoundRecorder.apk strings.xml err_msg_pending_value
@@ -514,6 +521,7 @@ all Telecom.apk strings.xml change_default_call_screening_dialog_negative
 all Telecom.apk strings.xml change_default_call_screening_dialog_title
 all Telecom.apk strings.xml change_default_call_screening_warning_message
 all Telecom.apk strings.xml change_default_call_screening_warning_message_for_disable_old_app
+all Telecom.apk strings.xml cached_apps_freezer_device_default
 all TeleService.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk strings.xml launch_defaults_some
@@ -527,6 +535,7 @@ all TeleService.apk strings.xml msim_setting_default_data
 all TeleService.apk strings.xml msim_setting_default_voice
 all TeleService.apk strings.xml msim_setting_default_voice_description
 all TeleService.apk strings.xml msim_setting_default_data_description
+all TeleService.apk strings.xml cached_apps_freezer_device_default
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
 all TouchAssistant.apk strings.xml edge_mode_default_title
@@ -546,6 +555,7 @@ all Traceur.apk strings.xml tts_default_sample_string
 all Traceur.apk strings.xml restore_default_categories
 all Traceur.apk strings.xml default_categories_restored
 all Traceur.apk strings.xml default_categories
+all Traceur.apk strings.xml cached_apps_freezer_device_default
 all Updater.apk strings.xml default_filedownloader_notification_content
 all Updater.apk strings.xml default_filedownloader_notification_title
 all Weather.apk strings.xml information_manager_default_weather_bg

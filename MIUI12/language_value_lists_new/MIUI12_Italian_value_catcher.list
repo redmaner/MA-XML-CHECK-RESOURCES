@@ -1277,6 +1277,18 @@ folder="all" application="imssettings.apk" xml="" name="ims_vt_call_quality_valu
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_alert_dialog_default_button"
+---------------------------------------------------------------------------------------
+ <string name="car_ui_alert_dialog_default_button">Chiudi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_toolbar_default_search_hint"
+---------------------------------------------------------------------------------------
+ <string name="car_ui_toolbar_default_search_hint">Cerca…</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_category"
 ---------------------------------------------------------------------------------------
  <string name="local_default_category">本地预置分类</string>

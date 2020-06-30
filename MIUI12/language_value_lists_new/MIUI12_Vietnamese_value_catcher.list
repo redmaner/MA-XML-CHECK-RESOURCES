@@ -863,6 +863,18 @@ folder="all" application="HybridPlatform.apk" xml="" name="features_notification
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_alert_dialog_default_button"
+---------------------------------------------------------------------------------------
+ <string name="car_ui_alert_dialog_default_button">Đóng</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_toolbar_default_search_hint"
+---------------------------------------------------------------------------------------
+ <string name="car_ui_toolbar_default_search_hint">Tìm kiếm...</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiDrop.apk" xml="" name="default_lang"
 ---------------------------------------------------------------------------------------
  <string name="default_lang">Ngôn ngữ hệ thống</string>
@@ -1016,6 +1028,12 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_none"
 folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_summary"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_pitch_summary">Ảnh hưởng đến giai điệu cấu thành giọng nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1412,6 +1430,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_de
 folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
 ---------------------------------------------------------------------------------------
  <string name="lock_screen_magazine_default_title">Tạp chí khóa màn hình</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2855,6 +2879,24 @@ folder="all" application="Settings.apk" xml="" name="default_keyboard"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="graphics_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="graphics_driver_app_preference_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_autoclick_default_title"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_autoclick_default_title">TẮT</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Tùy chỉnh</string>
@@ -3095,6 +3137,12 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
@@ -3170,6 +3218,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
 ---------------------------------------------------------------------------------------
  <string name="msim_setting_default_data_description">SIM dữ liệu %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3284,6 +3338,12 @@ folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
 folder="all" application="Traceur.apk" xml="" name="default_categories"
 ---------------------------------------------------------------------------------------
  <string name="default_categories">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -62,6 +62,7 @@ all MiuiAod.apk strings.xml signature_default_content
 all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
+all MiuiGallery.apk strings.xml album_detail_default_sort_tip
 all MiuiGallery.apk strings.xml channel_default_name
 all MiuiGallery.apk strings.xml default_device_name
 all MiuiGallery.apk strings.xml default_relation_name
@@ -81,7 +82,9 @@ all MiuiHome.apk strings.xml default_screen_preview_title
 all MiuiHome.apk strings.xml menu_default_screen_preview
 all MiuiHome.apk strings.xml launcher_search_bar_value_disable
 all MiuiHome.apk strings.xml launcher_search_bar_value_enable
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiPackageInstaller.apk strings.xml default_permission_description
+all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk strings.xml default_lockscreen_unlock_hint_text
 all MiuiSystemUI.apk strings.xml default_theme
@@ -133,6 +136,8 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_tit
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk arrays.xml paper_color_values
+all Settings.apk arrays.xml paper_color_values
 all Settings.apk strings.xml accessibility_timeout_default
 all Settings.apk strings.xml app_default_dashboard_title
 all Settings.apk strings.xml auto_brightness_default_title

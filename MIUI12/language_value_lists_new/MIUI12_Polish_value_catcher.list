@@ -251,6 +251,12 @@ folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Domyślne dla urządzenia</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
  <string name="default_debt_msg_words">"To urządzenie jest zablokowane ponieważ ma długi w Chinach. Skontaktuj się z agentem, aby odpracować ten dług."</string>
@@ -527,6 +533,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Domyślne dla urządzenia</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">Podgląd tekstu</string>
@@ -749,6 +761,12 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">Domyślna lokalizacja:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="miuisystem_bak.apk" xml="" name="android_ringtone_default_with_actual"
 ---------------------------------------------------------------------------------------
  <string name="android_ringtone_default_with_actual">Domyślny dzwonek (%1$s)</string>
@@ -842,6 +860,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Tryb: %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Domyślne dla urządzenia</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1523,6 +1547,18 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Wszystkie kolory</item> <item>Jasne kolory</item> <item>Czerń i biel</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Wszystkie kolory</item> <item>Jasne kolory</item> <item>Czerń i biel</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
 ---------------------------------------------------------------------------------------
  <string name="account_dashboard_default_summary">Brak dodanych kont</string>
@@ -1787,6 +1823,72 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_autoclick_default_title"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_autoclick_default_title">Wyłączone</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
+---------------------------------------------------------------------------------------
+ <string name="default_digital_assistant_title">Domyślny asystent cyfrowy</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="graphics_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="graphics_driver_app_preference_default">Domyślny</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_label"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_update_default_label">Zmień domyślną aplikację do obsługi płatności</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_disabled_title">Zmiany domyślnie zablokowanych</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_enabled_title">Zmiany domyślnie włączonych</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="system_default_app_subtext"
+---------------------------------------------------------------------------------------
+ <string name="system_default_app_subtext">Ustawienie domyślne</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="alarm_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="alarm_sound_default">Domyślny dźwięk alarmu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Domyślny dźwięk powiadomienia</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="ringtone_default"
+---------------------------------------------------------------------------------------
+ <string name="ringtone_default">Dzwonek domyślny</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
 ---------------------------------------------------------------------------------------
  <string name="err_msg_pending_value">Szacowanie kosztów…</string>
@@ -1805,6 +1907,12 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="StorageManager.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Domyślne dla urządzenia</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną aplikację Telefonu</string>
@@ -1814,6 +1922,12 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog
 folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Domyślne dla urządzenia</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1847,6 +1961,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_carrier_mmi_msg_title"
+---------------------------------------------------------------------------------------
+ <string name="default_carrier_mmi_msg_title">Wiadomość od operatora</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Tryb jednej dłoni jest domyślnie wyłączony. Włączyć teraz?</string>
@@ -1868,6 +1988,12 @@ folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
 folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
 ---------------------------------------------------------------------------------------
  <string name="default_categories_restored">Przywrócono kategorie domyślne</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Domyślne dla urządzenia</string>
 
 
 ---------------------------------------------------------------------------------------

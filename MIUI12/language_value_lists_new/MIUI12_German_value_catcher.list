@@ -305,6 +305,12 @@ folder="all" application="EmergencyInfo.apk" xml="" name="tts_default_sample_str
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="EmergencyInfo.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="FashionGallery.apk" xml="" name="glance_language_default"
 ---------------------------------------------------------------------------------------
  <string name="glance_language_default">Standard</string>
@@ -617,6 +623,12 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_str
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">Textvorschau</string>
@@ -827,6 +839,12 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_def
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">Standardspeicherort:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_focusmode_default">Kontinuierliches Bild</string>
@@ -914,6 +932,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_device_default_name"
 ---------------------------------------------------------------------------------------
  <string name="quick_settings_cast_device_default_name">Unbenanntes Gerät</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1697,6 +1721,18 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Bunte Farben</item> <item>Helle Farben</item> <item>Schwarz &amp; weiße Farben</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Bunte Farben</item> <item>Helle Farben</item> <item>Schwarz &amp; weiße Farben</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_timeout_default">Standard</string>
@@ -1967,6 +2003,72 @@ folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_autoclick_default_title"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_autoclick_default_title">Aus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
+---------------------------------------------------------------------------------------
+ <string name="default_digital_assistant_title">Standardapp für digitalen Assistenten</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="graphics_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="graphics_driver_app_preference_default">Standard</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_label"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_update_default_label">Standard-App für kontaktloses Bezahlen aktualisieren</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_disabled_title">Standardmäßig deaktivierte Änderungen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_enabled_title">Standardmäßig aktivierte Änderungen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="system_default_app_subtext"
+---------------------------------------------------------------------------------------
+ <string name="system_default_app_subtext">Systemstandardeinstellung</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="alarm_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="alarm_sound_default">Standard-Weckton</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Standard-Benachrichtigungston</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="ringtone_default"
+---------------------------------------------------------------------------------------
+ <string name="ringtone_default">Standard-Klingelton</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="default_record_name"
 ---------------------------------------------------------------------------------------
  <string name="default_record_name">Unbenannte Aufnahme</string>
@@ -1994,6 +2096,12 @@ folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order
 folder="all" application="SpacesPolicyApp.apk" xml="" name="default_space_name"
 ---------------------------------------------------------------------------------------
  <string name="default_space_name">Nichtbenannter Speicher</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="StorageManager.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2048,6 +2156,12 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warnin
 folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Automatische Verbindung über Netzwerk-Rating-Provider</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2114,6 +2228,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voi
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Anruf wurde nicht beendet. Fehlercode 81.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_carrier_mmi_msg_title"
+---------------------------------------------------------------------------------------
+ <string name="default_carrier_mmi_msg_title">Nachricht vom Mobilfunkanbieter</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2216,6 +2336,12 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
 folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">Dies ist ein Beispiel für Sprachsynthese</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Device default</string>
 
 
 ---------------------------------------------------------------------------------------

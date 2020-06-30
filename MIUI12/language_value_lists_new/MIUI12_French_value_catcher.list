@@ -1757,6 +1757,12 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_def
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">Default storage location:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Fonctionnalité par défaut</string>
@@ -2312,6 +2318,18 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>Sonnerie</item> <item>Média</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Full colors</item> <item>Light colors</item> <item>Black and white</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Full colors</item> <item>Light colors</item> <item>Black and white</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
