@@ -1409,12 +1409,6 @@ folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
----------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Definir como app de Telefone padrão</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_dialog_negative">Cancelar</string>
@@ -1424,6 +1418,18 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
 ---------------------------------------------------------------------------------------
  <string name="change_default_dialer_warning_message">O app %s poderá fazer e controlar todos os aspectos de chamadas telefônicas. Somente apps em que você confie devem ser definidos como o app padrão de telefonia.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Definir como padrão</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Definir como padrão</string>
 
 
 ---------------------------------------------------------------------------------------

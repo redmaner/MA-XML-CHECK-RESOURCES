@@ -1915,13 +1915,19 @@ folder="all" application="StorageManager.apk" xml="" name="cached_apps_freezer_d
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną aplikację Telefonu</string>
+ <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Ustaw jako domyślną</string>
 
 
 ---------------------------------------------------------------------------------------

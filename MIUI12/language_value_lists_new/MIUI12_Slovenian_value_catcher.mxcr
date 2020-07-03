@@ -292,6 +292,8 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_tit
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk arrays.xml paper_color_values
+all Settings.apk arrays.xml paper_color_values
 all Settings.apk strings.xml accessibility_timeout_default
 all Settings.apk strings.xml account_dashboard_default_summary
 all Settings.apk strings.xml app_default_dashboard_title

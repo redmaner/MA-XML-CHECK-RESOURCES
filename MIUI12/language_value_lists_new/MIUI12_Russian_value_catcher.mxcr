@@ -117,6 +117,16 @@ all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
 all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiBluetooth.apk strings.xml connected_via_network_scorer_default
+all MiuiBluetooth.apk strings.xml launch_defaults_none
+all MiuiBluetooth.apk strings.xml launch_defaults_some
+all MiuiBluetooth.apk strings.xml screen_zoom_summary_default
+all MiuiBluetooth.apk strings.xml tts_default_lang_summary
+all MiuiBluetooth.apk strings.xml tts_default_lang_title
+all MiuiBluetooth.apk strings.xml tts_default_pitch_summary
+all MiuiBluetooth.apk strings.xml tts_default_pitch_title
+all MiuiBluetooth.apk strings.xml tts_default_rate_summary
+all MiuiBluetooth.apk strings.xml tts_default_rate_title
+all MiuiBluetooth.apk strings.xml tts_default_sample_string
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_long_pressing_burst_shooting_entryvalue_burst
 all MiuiCamera.apk strings.xml pref_camera_long_pressing_burst_shooting_entryvalue_focus
@@ -169,6 +179,7 @@ all MiuiHome.apk strings.xml launcher_search_bar_value_enable
 all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
+all MiuiScanner.apk strings.xml document_default_location
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiScanner.apk strings.xml language_value_chinese_cn
@@ -305,6 +316,7 @@ all Settings.apk arrays.xml connect_mode_values
 all Settings.apk arrays.xml daltonizer_type_values
 all Settings.apk arrays.xml dark_ui_mode_values
 all Settings.apk arrays.xml handy_mode_size_value_entries
+all Settings.apk arrays.xml paper_color_values
 all Settings.apk arrays.xml silent_mode_duration_value
 all Settings.apk arrays.xml silent_values
 all Settings.apk arrays.xml traffic_balance_values
@@ -320,6 +332,7 @@ all Settings.apk arrays.xml bluetooth_avrcp_version_values
 all Settings.apk arrays.xml connect_mode_values
 all Settings.apk arrays.xml daltonizer_type_values
 all Settings.apk arrays.xml dark_ui_mode_values
+all Settings.apk arrays.xml paper_color_values
 all Settings.apk arrays.xml silent_values
 all Settings.apk arrays.xml traffic_balance_values
 all Settings.apk arrays.xml tts_rate_values

@@ -407,66 +407,6 @@ folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_na
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="framework-ext-res.apk" xml="" name="default_device_name"
----------------------------------------------------------------------------------------
- <string name="default_device_name">Bilinmeyen aygıt</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
----------------------------------------------------------------------------------------
- <string name="subinfo_default_name">SIM %d</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
----------------------------------------------------------------------------------------
- <string name="app_suspended_default_message">%1$s şu anda müsait değil. Bu %2$s tarafından yönetiliyor.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="default_notification_channel_label"
----------------------------------------------------------------------------------------
- <string name="default_notification_channel_label">Kategorisiz</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake">Sakin ol ve yakınlarda barınak ara.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake_and_tsunami">Sakin ol ve yakınlarda barınak ara.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_test"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_test">Acil durum mesajları testi</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
----------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_tsunami">Kıyı bölgelerinden ve nehir kenarındaki alanlardan derhal yüksek zemin gibi daha güvenli bir yere gidin.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="popup_window_default_title"
----------------------------------------------------------------------------------------
- <string name="popup_window_default_title">Açılır Pencere</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every_night_name"
----------------------------------------------------------------------------------------
- <string name="zen_mode_default_every_night_name">Uyuyor</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="app_suspended_default_message"
 ---------------------------------------------------------------------------------------
  <string name="app_suspended_default_message">%1$s şu anda müsait değil. Bu %2$s tarafından yönetiliyor.</string>
@@ -1544,9 +1484,21 @@ folder="all" application="Settings.apk" xml="" name="app_install_location_values
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Tam renkler</item> <item>Açık renkler</item> <item>Siyah ve beyaz</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="app_install_location_values"
 ---------------------------------------------------------------------------------------
  <string-array name="app_install_location_values"> <item>cihaz</item> <item>hafıza kartı</item> <item>oto</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Tam renkler</item> <item>Açık renkler</item> <item>Siyah ve beyaz</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -1898,9 +1850,15 @@ folder="all" application="StorageManager.apk" xml="" name="cached_apps_freezer_d
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Varsayılan olarak ayarla</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Varsayılan Telefon uygulaması olarak ayarla</string>
+ <string name="change_default_dialer_dialog_affirmative">Varsayılan olarak ayarla</string>
 
 
 ---------------------------------------------------------------------------------------

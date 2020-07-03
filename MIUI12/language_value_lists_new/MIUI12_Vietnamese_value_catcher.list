@@ -2909,6 +2909,24 @@ folder="all" application="SimAppDialog.apk" xml="" name="install_carrier_app_des
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Âm thanh thông báo mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="alarm_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="alarm_sound_default">Âm báo thức mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SoundPicker.apk" xml="" name="ringtone_default"
+---------------------------------------------------------------------------------------
+ <string name="ringtone_default">Nhạc chuông mặc định</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
 ---------------------------------------------------------------------------------------
  <string name="err_msg_pending_value">Đang ước tính chi phí…</string>
@@ -3224,6 +3242,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_dat
 folder="all" application="TeleService.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
  <string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_carrier_mmi_msg_title"
+---------------------------------------------------------------------------------------
+ <string name="default_carrier_mmi_msg_title">Tin nhắn Nhà mạng</string>
 
 
 ---------------------------------------------------------------------------------------

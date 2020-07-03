@@ -1061,6 +1061,12 @@ folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_de
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">Locația implicită de stocare:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_focusmode_default">fotografiere continuă</string>
@@ -1571,6 +1577,18 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Culori complete</item> <item>Culori deschise</item> <item>Alb și negru</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Culori complete</item> <item>Culori deschise</item> <item>Alb și negru</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
@@ -1891,7 +1909,7 @@ folder="all" application="SpacesPolicyApp.apk" xml="" name="default_space_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_affirmative">Setați ca Implicit</string>
+ <string name="change_default_call_screening_dialog_affirmative">Setați ca implicit</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1921,7 +1939,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Setați ca aplicație implicită de apelare</string>
+ <string name="change_default_dialer_dialog_affirmative">Setați ca implicită</string>
 
 
 ---------------------------------------------------------------------------------------

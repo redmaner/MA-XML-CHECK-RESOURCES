@@ -713,6 +713,66 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Действия по умолчанию не установлены</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Некоторые настройки по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Выбор языка по умолчанию для синтезатора речи</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Язык</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Влияет на высоту синтезированной речи</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Тон</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Скорость чтения текста</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Скорость речи</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Это пример синтезированной речи</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 ---------------------------------------------------------------------------------------
  <string name="default_text_view">Просмотр текста</string>
@@ -757,7 +817,7 @@ folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
 ---------------------------------------------------------------------------------------
- <string name="pref_hdr_value_default">откл.</string>
+ <string name="pref_hdr_value_default">Откл.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -829,7 +889,7 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_ti
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
 ---------------------------------------------------------------------------------------
- <string name="pref_hdr_value_default">откл.</string>
+ <string name="pref_hdr_value_default">Откл.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1022,6 +1082,12 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permiss
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
 ---------------------------------------------------------------------------------------
  <string name="ads_summary_default_value">Помимо этого приложения, также устанавливают</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">Путь по умолчанию:</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1841,6 +1907,12 @@ folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entri
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Насыщенные</item> <item>Светлые</item> <item>Черный и белый</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="silent_mode_duration_value"
 ---------------------------------------------------------------------------------------
  <string-array name="silent_mode_duration_value"> <item>0</item> <item>30</item> <item>60</item> <item>120</item> <item>480</item> </string-array>
@@ -1928,6 +2000,12 @@ folder="all" application="Settings.apk" xml="" name="daltonizer_type_values"
 folder="all" application="Settings.apk" xml="" name="dark_ui_mode_values"
 ---------------------------------------------------------------------------------------
  <string-array name="dark_ui_mode_values"> <item>да</item> <item>нет</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Насыщенные</item> <item>Светлые</item> <item>Черный и белый</item> </string-array> 
 
 
 ---------------------------------------------------------------------------------------
@@ -2359,7 +2437,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Использовать для вызовов по умолчанию</string>
+ <string name="change_default_dialer_dialog_affirmative">Использовать по умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------

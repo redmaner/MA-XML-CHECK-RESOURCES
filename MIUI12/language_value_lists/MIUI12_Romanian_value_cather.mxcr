@@ -175,6 +175,7 @@ all MiuiPackageInstaller.apk strings.xml tts_default_rate_title
 all MiuiPackageInstaller.apk strings.xml tts_default_sample_string
 all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiScanner.apk arrays.xml pref_camera_focusmode_default_array
+all MiuiScanner.apk strings.xml document_default_location
 all MiuiScanner.apk strings.xml pref_camera_focusmode_default
 all MiuiScanner.apk strings.xml setting_default_function
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default
@@ -260,6 +261,8 @@ all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all Settings.apk arrays.xml data_network_type_name_default
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk arrays.xml paper_color_values
+all Settings.apk arrays.xml paper_color_values
 all Settings.apk strings.xml accessibility_summary_default_combination
 all Settings.apk strings.xml accessibility_timeout_default
 all Settings.apk strings.xml account_dashboard_default_summary

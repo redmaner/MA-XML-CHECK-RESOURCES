@@ -413,6 +413,24 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Edita el registre</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_alert_dialog_default_button"
+---------------------------------------------------------------------------------------
+ <string name="car_ui_alert_dialog_default_button">Tanca</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_toolbar_default_search_hint"
+---------------------------------------------------------------------------------------
+ <string name="car_ui_toolbar_default_search_hint">Cerca…</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
  <string name="system_default">Per defecte</string>

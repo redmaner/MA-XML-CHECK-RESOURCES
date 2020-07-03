@@ -1763,6 +1763,18 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Polne barve</item> <item>Svetle barve</item> <item>Črno in belo</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Polne barve</item> <item>Svetle barve</item> <item>Črno in belo</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_timeout_default">Privzeto</string>

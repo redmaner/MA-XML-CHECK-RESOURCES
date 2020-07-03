@@ -1734,6 +1734,18 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Pune boje</item> <item>Svijetle boje</item> <item>Crno i bijelo</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Pune boje</item> <item>Svijetle boje</item> <item>Crno i bijelo</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_timeout_default">Zadano</string>
@@ -2030,7 +2042,7 @@ folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_affirmative">Postavi zadano</string>
+ <string name="change_default_call_screening_dialog_affirmative">Postavi kao zadano</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2060,7 +2072,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Postavi kao zadanu aplikaciju</string>
+ <string name="change_default_dialer_dialog_affirmative">Postavi kao zadano</string>
 
 
 ---------------------------------------------------------------------------------------
