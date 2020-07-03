@@ -1641,498 +1641,138 @@ folder="all" application="Settings.apk" xml="" name="media_output_default_summar
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
- <string name="notifi_importance_default">소리 재생</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
 ---------------------------------------------------------------------------------------
- <string name="notification_importance_default_title">높음</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_sound_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_sound_default">기본 알림 소리</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
- <string name="slider_vocie_online_default">없음</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="usb_default_info"
 ---------------------------------------------------------------------------------------
- <string name="usb_default_info">다른 장치가 연결되어 있고 휴대폰 잠금이 해제되면이 설정이 적용됩니다. 신뢰할 수있는 장치에만 연결하십시오.</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="usb_default_label"
 ---------------------------------------------------------------------------------------
- <string name="usb_default_label">기본 USB 설정</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="wallpaper_settings_summary_default">기본값</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_default"
 ---------------------------------------------------------------------------------------
- <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
 ---------------------------------------------------------------------------------------
- <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터 수집이 시작될 수 있습니다. 어쨌든 설정 하시겠습니까?</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
- <string name="accessibility_timeout_default">기본</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_calls"
 ---------------------------------------------------------------------------------------
- <string name="default_for_calls">통화용 기본 SIM</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_calls_and_sms">통화 및 SMS용 기본 SIM</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
 ---------------------------------------------------------------------------------------
- <string name="default_for_mobile_data">모바일 데이터용 기본 SIM</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_sms">SMS용 기본 카드</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
 ---------------------------------------------------------------------------------------
- <string name="default_notification_assistant">적응형 알림</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
 ---------------------------------------------------------------------------------------
- <string name="game_driver_app_preference_default">기본값</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
- <string name="keywords_app_default">연결 앱</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">소리나 진동으로 알립니다.</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
 ---------------------------------------------------------------------------------------
- <string name="overlay_option_device_default">기기 기본값</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
- <string name="reset_default_apn_failed">기본 APN 재설정 실패</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
 ---------------------------------------------------------------------------------------
- <string name="theme_customization_device_default">기기 기본값</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="zen_mode_custom_behavior_summary_default">기본 설정 사용</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 ---------------------------------------------------------------------------------------
- <string name="default_suppression_title">기본(권장)</string>
 
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
----------------------------------------------------------------------------------------
- <string name="tether_limit_value_custom">사용자 지정</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
----------------------------------------------------------------------------------------
- <string name="err_msg_pending_value">보류 평가</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
----------------------------------------------------------------------------------------
- <string name="online_recognize_order_service_type_value">정확한 온라인 인식</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
----------------------------------------------------------------------------------------
- <string name="online_recognize_order_unit_price_value">시간당 %s RMB</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Stk1.apk" xml="" name="default_call_setup_msg"
----------------------------------------------------------------------------------------
- <string name="default_call_setup_msg">전화 거는 중...</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Stk1.apk" xml="" name="default_open_channel_msg"
----------------------------------------------------------------------------------------
- <string name="default_open_channel_msg">열린 채널입니까?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Stk1.apk" xml="" name="default_tone_dialog_msg"
----------------------------------------------------------------------------------------
- <string name="default_tone_dialog_msg">재생중…</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="talkback.apk" xml="" name="axis_default_web_view_behavior"
----------------------------------------------------------------------------------------
- <string name="axis_default_web_view_behavior">기본 웹 뷰 동작별로 탐색합니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="talkback.apk" xml="" name="granularity_default"
----------------------------------------------------------------------------------------
- <string name="granularity_default">기본값</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_affirmative"
----------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">기본값으로 설정</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog_negative"
----------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_negative">취소</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
----------------------------------------------------------------------------------------
- <string name="change_default_dialer_warning_message">%s 앱은 통화에 관련된 모든 측면을 제어할 수 있게 됩니다. 신뢰할 수 있는 앱만 기본 전화 앱으로 사용하십시오.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="default_notification_description"
----------------------------------------------------------------------------------------
- <string name="default_notification_description">기본 알림음(%1$s)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">네트워크 제공자를 통해 자동 연결됨</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_affirmative"
----------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_affirmative">기본 설정</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_negative"
----------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_negative">취소</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_dialog_title"
----------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_title">기본 통화 차단 앱을 %s로 만드시겠습니까?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
----------------------------------------------------------------------------------------
- <string name="change_default_call_screening_warning_message">%s는 연락처에 없는 발신자에 대한 정보를 볼 수 있으며 이러한 통화를 차단할 수 있습니다. 신뢰할 수 있는 앱만 기본 통화 차단 앱으로 설정해야합니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
----------------------------------------------------------------------------------------
- <string name="change_default_call_screening_warning_message_for_disable_old_app">%s는 더 이상 전화를 걸 수 없습니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">일부 기본값 설정</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
----------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">&lt;설정 안 됨></string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
----------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">&lt;설정 안 됨></string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
----------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">&lt;설정 안 됨></string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="default_call_switch_err_msg1"
----------------------------------------------------------------------------------------
- <string name="default_call_switch_err_msg1">통화 도중 기본 설정 SIM을 전환 할 수 없습니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">네트워크 등급 제공자를 통해 자동으로 연결됨</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
----------------------------------------------------------------------------------------
- <string name="clh_callFailed_invalid_transaction_identifier_value_txt">잘못된 거래 식별자 값</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
----------------------------------------------------------------------------------------
- <string name="handy_mode_default_to_close_whether_open">한손모드가 해제되어 있습니다. 지금 실행하시겠습니까?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">네트워크 등급 제공자를 통해 자동 연결됨</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="default_categories_restored"
----------------------------------------------------------------------------------------
- <string name="default_categories_restored">기본 카테고리 복원됨</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="launch_defaults_none"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_none">기본값이 설정되지 않았습니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="launch_defaults_some"
----------------------------------------------------------------------------------------
- <string name="launch_defaults_some">일부 기본값 설정</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="restore_default_categories"
----------------------------------------------------------------------------------------
- <string name="restore_default_categories">기본 카테고리 복원</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="screen_zoom_summary_default"
----------------------------------------------------------------------------------------
- <string name="screen_zoom_summary_default">기본값</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="tts_default_lang_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_summary">음성 텍스트의 언어 별 음성을 설정합니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_lang_title">언어</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">합성 된 음성의 톤에 영향을 미칩니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_pitch_title">피치</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="tts_default_rate_summary"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_summary">텍스트가 읽히는 속도</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
----------------------------------------------------------------------------------------
- <string name="tts_default_rate_title">말하기 속도</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
----------------------------------------------------------------------------------------
- <string name="tts_default_sample_string">이것은 음성 합성의 한 예입니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
----------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_content">파일 다운로더가 실행 중입니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
----------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_title">파일 다운로더</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="default_scroll_format"
----------------------------------------------------------------------------------------
- <string name="default_scroll_format">페이지 %1$d/%2$d</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="migration_cling_use_default"
----------------------------------------------------------------------------------------
- <string name="migration_cling_use_default">새로 시작</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="undo_dismiss_message_default"
----------------------------------------------------------------------------------------
- <string name="undo_dismiss_message_default">닫음</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="friend_location_photos_title_default"
----------------------------------------------------------------------------------------
- <string name="friend_location_photos_title_default">주변 친구 사진</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="default_image_filename"
----------------------------------------------------------------------------------------
- <string name="default_image_filename">다운로드된 이미지</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="icing_default_corpus_label"
----------------------------------------------------------------------------------------
- <string name="icing_default_corpus_label">Google 검색</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="icing_default_corpus_description"
----------------------------------------------------------------------------------------
- <string name="icing_default_corpus_description">Google 검색 앱의 데이터</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="pref_default_title_prefix_multiple_language"
----------------------------------------------------------------------------------------
- <string name="pref_default_title_prefix_multiple_language" formatted="false">기본: %s – %d 추가</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="pref_default_title_prefix_no_additional_language"
----------------------------------------------------------------------------------------
- <string name="pref_default_title_prefix_no_additional_language">기본: %s – 추가사항 없음</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="pref_default_expanded_additional"
----------------------------------------------------------------------------------------
- <string name="pref_default_expanded_additional" formatted="false">기본: %s, 기타: %s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="pref_default_expanded_no_additional"
----------------------------------------------------------------------------------------
- <string name="pref_default_expanded_no_additional">기본 언어: %s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="hotword_pref_summary_always_on_not_default_vis"
----------------------------------------------------------------------------------------
- <string name="hotword_pref_summary_always_on_not_default_vis">"이 기능을 사용하려면 설정 > 언어 및 입력 > 음성 입력으로 이동하여 '향상된 Google 서비스'를 선택하세요."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Videos.apk" xml="" name="locale_default"
----------------------------------------------------------------------------------------
- <string name="locale_default">기본값</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Videos.apk" xml="" name="color_default"
----------------------------------------------------------------------------------------
- <string name="color_default">기본값</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Videos.apk" xml="" name="edge_type_default"
----------------------------------------------------------------------------------------
- <string name="edge_type_default">기본값</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Weather.apk" xml="" name="information_manager_default_weather_bg"
----------------------------------------------------------------------------------------
- <string name="information_manager_default_weather_bg">기본 백그라운드 날씨</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
----------------------------------------------------------------------------------------
- <string name="feedback_desc_default">일부 버튼이 동작하지 않습니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
----------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">장소 검색</string>
 
 
