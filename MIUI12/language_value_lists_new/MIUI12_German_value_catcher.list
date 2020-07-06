@@ -1897,7 +1897,7 @@ folder="all" application="Settings.apk" xml="" name="keywords_app_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_browser">standard, standardbrowser</string>
+ <string name="keywords_default_browser">standard;standardbrowser</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1909,7 +1909,7 @@ folder="all" application="Settings.apk" xml="" name="keywords_default_links"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
 ---------------------------------------------------------------------------------------
- <string name="keywords_default_payment_app">bezahlung, standard</string>
+ <string name="keywords_default_payment_app">bezahlung;standard</string>
 
 
 ---------------------------------------------------------------------------------------
