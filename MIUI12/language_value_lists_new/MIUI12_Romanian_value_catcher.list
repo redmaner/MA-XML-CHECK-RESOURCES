@@ -1165,7 +1165,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+ <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,edit</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2011,7 +2011,7 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_data">Cartelă pentru date</string>
+ <string name="msim_setting_default_data">SIM pentru date</string>
 
 
 ---------------------------------------------------------------------------------------

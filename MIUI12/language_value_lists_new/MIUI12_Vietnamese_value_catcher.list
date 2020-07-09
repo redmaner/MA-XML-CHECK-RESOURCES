@@ -575,6 +575,660 @@ folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Nhạc chuông</item> <item>Đa phương tiện</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="accessibility_service_default_description"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_service_default_description">Không có mô tả nào được cung cấp.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="account_dashboard_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="account_dashboard_default_summary">Chưa thêm tài khoản</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="app_default_dashboard_title"
+---------------------------------------------------------------------------------------
+ <string name="app_default_dashboard_title">Ứng dụng mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="app_launch_other_defaults_title"
+---------------------------------------------------------------------------------------
+ <string name="app_launch_other_defaults_title">Cài đặt mặc định khác</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="auto_brightness_default_title"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_default_title">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="auto_brightness_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_summary_default">Độ sáng ưa thích là mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="backup_configure_account_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="backup_configure_account_default_summary">Hiện không có tài khoản nào lưu trữ dữ liệu được sao lưu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Tự động được kết nối qua nhà cung cấp dịch vụ xếp hạng mạng</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="cutout_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="cutout_mode_default">Tự động</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_admin_support_msg"
+---------------------------------------------------------------------------------------
+ <string name="default_admin_support_msg">Tác vụ này bị vô hiệu hóa. Hãy liên hệ với quản trị viên của tổ chức bạn để tìm hiểu thêm.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_app"
+---------------------------------------------------------------------------------------
+ <string name="default_app">(Mặc định)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_apps_title"
+---------------------------------------------------------------------------------------
+ <string name="default_apps_title">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_assist_title"
+---------------------------------------------------------------------------------------
+ <string name="default_assist_title">Ứng dụng trợ lý</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_browser_title"
+---------------------------------------------------------------------------------------
+ <string name="default_browser_title">Ứng dụng trình duyệt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_browser_title_none"
+---------------------------------------------------------------------------------------
+ <string name="default_browser_title_none">Không có trình duyệt mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_calendar_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_calendar_app_title">Ứng dụng Lịch</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_contacts_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_contacts_app_title">Ứng dụng Danh bạ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_emergency_app"
+---------------------------------------------------------------------------------------
+ <string name="default_emergency_app">Ứng dụng khẩn cấp</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">Tự động cho cuộc gọi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">Tự động cho cuộc gọi &amp; SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">Tự động cho dữ liệu di động</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">Tự động cho SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_for_work"
+---------------------------------------------------------------------------------------
+ <string name="default_for_work">Mặc định cho công việc</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_input_method"
+---------------------------------------------------------------------------------------
+ <string name="default_input_method">Chọn bàn phím mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_keyboard_layout"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard_layout">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">Bấm phím Trang chính để thiết lập Jeejen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">Bấm phím Trang chính để khôi phục trình khởi chạy mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_launcher_title"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_title">Trình khởi chạy mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_map_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_map_app_title">Ứng dụng Bản đồ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">Trợ lý thông báo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_phone_title"
+---------------------------------------------------------------------------------------
+ <string name="default_phone_title">Ứng dụng Điện thoại</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_rule_name"
+---------------------------------------------------------------------------------------
+ <string name="default_rule_name">Hẹn giờ 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_sound"
+---------------------------------------------------------------------------------------
+ <string name="default_sound">Âm thanh mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_spell_checker"
+---------------------------------------------------------------------------------------
+ <string name="default_spell_checker">Trình kiểm tra chính tả mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">Mặc định (Được khuyến nghị)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_usb_mode"
+---------------------------------------------------------------------------------------
+ <string name="default_usb_mode">Kết nối USB</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="device_info_default"
+---------------------------------------------------------------------------------------
+ <string name="device_info_default">Không xác định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="enterprise_privacy_enterprise_set_default_apps">Ứng dụng mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_summary">Nếu bạn hạn chế kết nối nền, các ứng dụng mới sẽ không thể kết nối internet trong nền sau khi bạn cài đặt. Chúng có thể không nhận được tin nhắn hoặc tải nội dung từ đây. Vẫn hạn chế?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_title">Hạn chế kết nối nền cho ứng dụng mới</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="keyboard_layout_default_label"
+---------------------------------------------------------------------------------------
+ <string name="keyboard_layout_default_label">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Mở với</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="keywords_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_apps">ứng dụng, mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">mặc định, trình duyệt mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">thanh toán, mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="keywords_default_phone_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_phone_app">điện thoại, chương trình gọi điện, mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="keywords_more_default_sms_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_more_default_sms_app">tin nhắn văn bản, nhắn tin, tin nhắn, nhắn</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="launch_by_default"
+---------------------------------------------------------------------------------------
+ <string name="launch_by_default">Mở theo mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">Chưa đặt mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Vài thiết lập mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="locale_default"
+---------------------------------------------------------------------------------------
+ <string name="locale_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="media_output_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="media_output_default_summary">Thiết bị này</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">Nếu bạn đặt ứng dụng bên thứ ba làm trình duyệt mặc định của bạn, nó có thể bắt đầu thu thập lịch sử duyệt web của bạn và các dữ liệu khác. Vẫn đặt?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="nfc_payment_default"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_default">Mặc định thanh toán</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="nfc_payment_default_not_set"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_default_not_set">Chưa đặt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="nfc_payment_favor_default"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_favor_default">Luôn luôn</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="nfc_payment_set_default"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_set_default">Luôn sử dụng %1$s khi bạn Nhấn và thanh toán?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="nfc_payment_set_default_instead_of"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_set_default_instead_of">Luôn sử dụng %1$s thay vì %2$s khi bạn Chạm và thanh toán?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="nfc_payment_set_default_label"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_set_default_label">Đặt làm tùy chọn của bạn?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="nfc_payment_use_default"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_use_default">Sử dụng mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="no_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="no_default_apps">Ko có ứng dụng mặc định.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="no_default_home"
+---------------------------------------------------------------------------------------
+ <string name="no_default_home">Không có ứng dụng mặc định trên Màn hình chính</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">Phát âm thanh và hiển thị trên Màn hình khóa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Tầm quan trọng cao</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="notification_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_importance_default">Phát âm báo</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="notification_importance_default_title"
+---------------------------------------------------------------------------------------
+ <string name="notification_importance_default_title">Cao</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="notification_log_details_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_log_details_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Âm thanh thông báo mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">Mặc định thiết bị</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="preferred_app_settings_default"
+---------------------------------------------------------------------------------------
+ <string name="preferred_app_settings_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="proxy_defaultView_text"
+---------------------------------------------------------------------------------------
+ <string name="proxy_defaultView_text">Khôi phục mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">Khôi phục apn mặc định thất bại</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="restore_default_apn"
+---------------------------------------------------------------------------------------
+ <string name="restore_default_apn">Đang khôi phục cài đặt APN mặc định.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="restore_default_apn_completed"
+---------------------------------------------------------------------------------------
+ <string name="restore_default_apn_completed">Đặt lại cài đặt APN mặc định đã hoàn tất.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Vừa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Không</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="sms_change_default_dialog_text"
+---------------------------------------------------------------------------------------
+ <string name="sms_change_default_dialog_text">Sử dụng %1$s thay vì %2$s làm ứng dụng SMS của bạn?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="sms_change_default_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="sms_change_default_dialog_title">Thay đổi ứng dụng SMS?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="sms_change_default_no_previous_dialog_text"
+---------------------------------------------------------------------------------------
+ <string name="sms_change_default_no_previous_dialog_text">Sử dụng %s làm ứng dụng SMS của bạn?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="system_default_app"
+---------------------------------------------------------------------------------------
+ <string name="system_default_app">(Mặc định của hệ thống)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">Mặc định thiết bị</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Đặt ngôn ngữ mặc định cho đầu ra văn bản thành giọng nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Ngôn ngữ</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Ảnh hưởng đến giai điệu cấu thành giọng nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Âm điệu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Tốc độ văn bản được nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Tốc độ lời nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">Đây là mẫu cấu thành giọng nói</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">Khi thiết bị khác được kết nối và thiết bị của bạn đã mở khóa, cài đặt này sẽ được áp dụng. Chỉ kết nối với các thiết bị tin cậy.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">Cấu hình USB mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="wallpaper_settings_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_settings_summary_default">Mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Sử dụng cài đặt mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="default_vol_stream_title"
+---------------------------------------------------------------------------------------
+ <string name="default_vol_stream_title">Luồng điều khiển âm lượng mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="bluetooth_pin_values_hint"
+---------------------------------------------------------------------------------------
+ <string name="bluetooth_pin_values_hint">Thương là 0000 hoặc 1234</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="bluetooth_pin_values_hint_16_digits"
+---------------------------------------------------------------------------------------
+ <string name="bluetooth_pin_values_hint_16_digits">Phải có 16 chữ số</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="invalid_size_value"
+---------------------------------------------------------------------------------------
+ <string name="invalid_size_value">Không thể tính toán kích thước gói.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="memory_rightvalue"
+---------------------------------------------------------------------------------------
+ <string name="memory_rightvalue">Tổng: %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="tether_limit_value_custom"
+---------------------------------------------------------------------------------------
+ <string name="tether_limit_value_custom">Tùy chỉnh</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="wallpaper_attributions_values"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_attributions_values">"Nhà cung cấp ảnh vệ tinh: ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="bluetooth_pin_values_hint"
+---------------------------------------------------------------------------------------
+ <string name="bluetooth_pin_values_hint">Thương là 0000 hoặc 1234</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="bluetooth_pin_values_hint_16_digits"
+---------------------------------------------------------------------------------------
+ <string name="bluetooth_pin_values_hint_16_digits">Phải có 16 chữ số</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="dummy.apk" xml="" name="wallpaper_attributions_values"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_attributions_values">"Nhà cung cấp ảnh vệ tinh: ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="default_signature_2"
 ---------------------------------------------------------------------------------------
  <string name="default_signature_2">Gửi từ %s của tôi</string>
@@ -2894,6 +3548,12 @@ folder="all" application="Settings.apk" xml="" name="accessibility_autoclick_def
 folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
  <string name="cached_apps_freezer_device_default">Mặc định thiết bị</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
+---------------------------------------------------------------------------------------
+ <string name="default_digital_assistant_title">Ứng dụng trợ lý điện tử mặc định</string>
 
 
 ---------------------------------------------------------------------------------------

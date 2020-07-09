@@ -105,6 +105,11 @@ all Health.apk strings.xml tips_default
 all Health.apk strings.xml text_no_value
 all Health.apk strings.xml user_invalid_value
 all Health.apk strings.xml value_error_correct
+all ManagedProvisioning.apk strings.xml car_ui_alert_dialog_default_button
+all ManagedProvisioning.apk strings.xml car_ui_toolbar_default_search_hint
+all MiDrive.apk strings.xml alarm_sound_default
+all MiDrive.apk strings.xml notification_sound_default
+all MiDrive.apk strings.xml ringtone_default
 all MiGalleryLockscreen.apk strings.xml local_default_category
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiRadio.apk arrays.xml sleep_duration_values
@@ -116,6 +121,7 @@ all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
 all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiBluetooth.apk strings.xml cached_apps_freezer_device_default
 all MiuiBluetooth.apk strings.xml connected_via_network_scorer_default
 all MiuiBluetooth.apk strings.xml launch_defaults_none
 all MiuiBluetooth.apk strings.xml launch_defaults_some
@@ -215,6 +221,7 @@ all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
 all MiuiSystemUI.apk arrays.xml tts_rate_values
 all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
 all MiuiSystemUI.apk arrays.xml tts_rate_values
+all MiuiSystemUI.apk strings.xml cached_apps_freezer_device_default
 all MiuiSystemUI.apk strings.xml connected_via_network_scorer_default
 all MiuiSystemUI.apk strings.xml default_lockscreen_unlock_hint_text
 all MiuiSystemUI.apk strings.xml default_theme
@@ -323,8 +330,6 @@ all Settings.apk arrays.xml traffic_balance_values
 all Settings.apk arrays.xml tts_rate_values
 all Settings.apk arrays.xml vip_mode_value
 all Settings.apk arrays.xml whetstone_level_values
-all Settings.apk arrays.xml wifi_calling_mode_values
-all Settings.apk arrays.xml wifi_calling_mode_values_without_wifi_only
 all Settings.apk arrays.xml agps_apn_values
 all Settings.apk arrays.xml agps_network_values
 all Settings.apk arrays.xml agps_reset_type_values
@@ -337,8 +342,6 @@ all Settings.apk arrays.xml silent_values
 all Settings.apk arrays.xml traffic_balance_values
 all Settings.apk arrays.xml tts_rate_values
 all Settings.apk arrays.xml whetstone_level_values
-all Settings.apk arrays.xml wifi_calling_mode_values
-all Settings.apk arrays.xml wifi_calling_mode_values_without_wifi_only
 all Settings.apk strings.xml accessibility_summary_default_combination
 all Settings.apk strings.xml accessibility_timeout_default
 all Settings.apk strings.xml account_dashboard_default_summary
@@ -417,7 +420,9 @@ all TeleService.apk arrays.xml bluetooth_avrcp_version_values
 all TeleService.apk arrays.xml preferred_network_mode_values_world_mode
 all TeleService.apk arrays.xml list_language_values
 all TeleService.apk arrays.xml cdma_subscription_values
+all TeleService.apk strings.xml cached_apps_freezer_device_default
 all TeleService.apk strings.xml connected_via_network_scorer_default
+all TeleService.apk strings.xml default_carrier_mmi_msg_title
 all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password
 all TeleService.apk strings.xml default_preference_summary_username
@@ -431,6 +436,7 @@ all TeleService.apk strings.xml preference_summary_default_combination
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all TouchAssistant.apk strings.xml edge_mode_default_title
 all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all Traceur.apk strings.xml cached_apps_freezer_device_default
 all Traceur.apk strings.xml connected_via_network_scorer_default
 all Traceur.apk strings.xml default_categories
 all Traceur.apk strings.xml default_categories_restored

@@ -881,6 +881,12 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">기본 저장 위치 :</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="language_value_danish"
 ---------------------------------------------------------------------------------------
  <string name="language_value_danish">덴마크어</string>
@@ -1864,6 +1870,18 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide
 folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="default_vol_stream_entries"> <item>벨소리</item> <item>미디어</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>풀 컬러</item> <item>밝은 컬러</item> <item>흑백</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>풀 컬러</item> <item>밝은 컬러</item> <item>흑백</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

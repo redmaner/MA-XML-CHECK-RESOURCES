@@ -641,6 +641,36 @@ folder="all" application="Health.apk" xml="" name="value_error_correct"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_alert_dialog_default_button"
+---------------------------------------------------------------------------------------
+ <string name="car_ui_alert_dialog_default_button">Закрыть</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_toolbar_default_search_hint"
+---------------------------------------------------------------------------------------
+ <string name="car_ui_toolbar_default_search_hint">Поиск…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="alarm_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="alarm_sound_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="ringtone_default"
+---------------------------------------------------------------------------------------
+ <string name="ringtone_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_category"
 ---------------------------------------------------------------------------------------
  <string name="local_default_category">По умолчанию</string>
@@ -704,6 +734,12 @@ folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_h
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Всегда верьте, что произойдет что-то чудесное"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">По умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1298,6 +1334,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version
 folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
 ---------------------------------------------------------------------------------------
  <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">По умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1949,18 +1991,6 @@ folder="all" application="Settings.apk" xml="" name="whetstone_level_values"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
----------------------------------------------------------------------------------------
- <string-array name="wifi_calling_mode_values"> <item>2</item> <item>1</item> <item>0</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
----------------------------------------------------------------------------------------
- <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>2</item> <item>1</item> </string-array>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="agps_apn_values"
 ---------------------------------------------------------------------------------------
  <string-array name="agps_apn_values"> <item>0</item> <item>1</item> </string-array>
@@ -2030,18 +2060,6 @@ folder="all" application="Settings.apk" xml="" name="tts_rate_values"
 folder="all" application="Settings.apk" xml="" name="whetstone_level_values"
 ---------------------------------------------------------------------------------------
  <string-array name="whetstone_level_values"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values"
----------------------------------------------------------------------------------------
- <string-array name="wifi_calling_mode_values"> <item>2</item> <item>1</item> <item>0</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="wifi_calling_mode_values_without_wifi_only"
----------------------------------------------------------------------------------------
- <string-array name="wifi_calling_mode_values_without_wifi_only"> <item>2</item> <item>1</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2513,9 +2531,21 @@ folder="all" application="TeleService.apk" xml="" name="cdma_subscription_values
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="default_carrier_mmi_msg_title"
+---------------------------------------------------------------------------------------
+ <string name="default_carrier_mmi_msg_title">Сообщение оператора</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2594,6 +2624,12 @@ folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_tit
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">Управление одной рукой по умолчанию отключено. Включить его?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Traceur.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">По умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------
