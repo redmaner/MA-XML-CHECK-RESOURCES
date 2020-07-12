@@ -1129,7 +1129,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_channel_desc"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_channel_desc">"Această aplicație nu are categorii de notificări"</string>
+ <string name="notification_default_channel_desc">Această aplicație nu are categorii de notificări</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1670,6 +1670,12 @@ folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
 folder="all" application="Settings.apk" xml="" name="default_for_sms"
 ---------------------------------------------------------------------------------------
  <string name="default_for_sms">Implicit pentru SMS-uri</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Implicită</string>
 
 
 ---------------------------------------------------------------------------------------
