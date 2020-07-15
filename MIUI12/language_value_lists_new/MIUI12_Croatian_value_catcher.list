@@ -510,6 +510,30 @@ folder="all" application="Health.apk" xml="" name="value_error_correct"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Cloud pohrana</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="exception_default"
+---------------------------------------------------------------------------------------
+ <string name="exception_default">Došlo je do sistemske pogreške. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir">Zadana lokacija za preuzimanje</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir_title">Odaberite zadanu lokaciju za preuzimanje</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
  <string name="system_default">Zadano</string>
@@ -1653,6 +1677,24 @@ folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_rest
 folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default_short"
 ---------------------------------------------------------------------------------------
  <string name="cpu_usage_app_bg_restrict_default_short">Autom.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Podijeli bez metapodataka prema zadanim postavkama</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Ukloni podatke o lokaciji s dijeljenih fotografija</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Podijeli bez podataka o lokaciji prema zadanim postavkama</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -623,6 +623,30 @@ folder="all" application="Health.apk" xml="" name="value_error_correct"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Stocare în cloud</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="exception_default"
+---------------------------------------------------------------------------------------
+ <string name="exception_default">A apărut o eroare de sistem. Așteptați un minut sau două și încercați din nou.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir">Locația implicită de descărcare</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir_title">Selectați locația implicită de descărcare</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
  <string name="system_default">Implicit</string>
@@ -1493,6 +1517,24 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Partajați în mod implicit fără metadate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Elimină informațiile despre locație din fotografiile partajate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Partajați în mod implicit fără informațiile despre locație</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
  <string name="tc_diagnostic_fragment_default">"Despre diagnosticare 1. Telefonul se va conecta la rețeaua operatorului, va trimite un mesaj gratuit și va aștepta răspunsul operatorului. Acest lucru poate dura până la 5 minute. 2. Puteți părăsi această pagină în timpul diagnosticării; ea va fi menținută activă în fundal."</string>
@@ -2029,7 +2071,7 @@ folder="all" application="TeleService.apk" xml="" name="msim_setting_default_dat
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
 ---------------------------------------------------------------------------------------
- <string name="msim_setting_default_voice">Implicită pentru apeluri</string>
+ <string name="msim_setting_default_voice">SIM pentru apeluri</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2149,13 +2191,13 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_content">DescărcareaFișierelor rulează.</string>
+ <string name="default_filedownloader_notification_content">Descărcarea Fișierelor rulează.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_title">DescărcareaFișierelor</string>
+ <string name="default_filedownloader_notification_title">Descărcarea Fișierelor</string>
 
 
 ---------------------------------------------------------------------------------------

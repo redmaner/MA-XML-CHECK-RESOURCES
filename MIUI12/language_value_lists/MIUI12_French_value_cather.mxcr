@@ -234,6 +234,10 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
 all Health.apk strings.xml value_error_correct
+all MiDrive.apk strings.xml cloud_storage_default_title
+all MiDrive.apk strings.xml exception_default
+all MiDrive.apk strings.xml setting_default_download_dir
+all MiDrive.apk strings.xml setting_default_download_dir_title
 all MiGalleryLockscreen.apk strings.xml local_default_category
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiRadio.apk arrays.xml sleep_duration_values

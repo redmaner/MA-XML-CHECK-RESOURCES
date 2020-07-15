@@ -79,7 +79,7 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time"
 ---------------------------------------------------------------------------------------
- <string name="default_reminder_later_time">Període preestablert pel \"Recorda-m\'ho més tard\"</string>
+ <string name="default_reminder_later_time">Interval per defecte per a \"Recorda-m\'ho més tard\"</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -109,7 +109,7 @@ folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_event"
 ---------------------------------------------------------------------------------------
- <string name="preferences_alarms_default_event">Seleccioneu esdeveniments</string>
+ <string name="preferences_alarms_default_event">Seleccioneu els esdeveniments</string>
 
 
 ---------------------------------------------------------------------------------------

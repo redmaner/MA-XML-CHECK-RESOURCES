@@ -623,6 +623,24 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_coloreffect_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_coloreffect_default">niciunul</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_press_shutter_feature_default">rafală</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_default">temporizator</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_video_encoder_default">h264</string>

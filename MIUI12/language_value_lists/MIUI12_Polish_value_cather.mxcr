@@ -76,6 +76,10 @@ all MiBandTools.apk strings.xml settings_defaults_notify_always_summary_off
 all MiBandTools.apk strings.xml settings_defaults_notify_always_summary_on
 all MiBandTools.apk strings.xml settings_defaults_notify_always_title
 all MiBandTools.apk strings.xml settings_defaults_notify_between_title
+all MiDrive.apk strings.xml cloud_storage_default_title
+all MiDrive.apk strings.xml exception_default
+all MiDrive.apk strings.xml setting_default_download_dir
+all MiDrive.apk strings.xml setting_default_download_dir_title
 all MiGalleryLockscreen.apk strings.xml system_default
 all Mipay.apk strings.xml mipay_nfc_bank_card_name_default
 all Mipay.apk strings.xml mipay_nfc_shop_name_default
@@ -223,6 +227,8 @@ all PersonalAssistant.apk strings.xml notification_channel_default
 all PersonalAssistant.apk strings.xml notification_channel_default_description
 all PersonalAssistant.apk strings.xml setting_didi_default_way
 all PersonalAssistant.apk strings.xml upgrade_log_default
+all PersonalAssistant.apk strings.xml miuix_search_history_default_title
+all PersonalAssistant.apk strings.xml miuix_search_recommendation_default_title
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_mint
@@ -245,6 +251,9 @@ all SecurityCenter.apk strings.xml lucky_alarm_count_down_default
 all SecurityCenter.apk strings.xml menu_text_power_percent_title_default
 all SecurityCenter.apk strings.xml power_save_on_time_default_time_na
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
+all SecurityCenter.apk strings.xml first_settings_default_camera_title
+all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
+all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all SecurityCoreAdd.apk strings.xml space_des_default
 all SecurityCoreAdd.apk strings.xml space_name_default

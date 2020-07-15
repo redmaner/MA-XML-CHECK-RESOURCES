@@ -78,6 +78,10 @@ all Health.apk strings.xml tips_default
 all Health.apk strings.xml value_error_correct
 all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
+all MiDrive.apk strings.xml cloud_storage_default_title
+all MiDrive.apk strings.xml exception_default
+all MiDrive.apk strings.xml setting_default_download_dir
+all MiDrive.apk strings.xml setting_default_download_dir_title
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiRadio.apk arrays.xml sleep_duration_values
 all MiRadio.apk arrays.xml sleep_duration_values
@@ -271,6 +275,9 @@ all SecurityCenter.apk strings.xml app_manager_default_open_title
 all SecurityCenter.apk strings.xml app_manager_defaults_setting
 all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default
 all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default_short
+all SecurityCenter.apk strings.xml first_settings_default_camera_title
+all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
+all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml menu_text_power_percent_title_default
 all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default

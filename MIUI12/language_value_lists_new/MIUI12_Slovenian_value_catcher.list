@@ -1685,6 +1685,24 @@ folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_rest
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Deli brez metapodatkov po privzetih nastavitvah</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Odstrani podatke o lokaciji iz deljenih fotografij</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Deli brez podatkov o lokaciji po privzetih nastavitvah</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
  <string name="tc_diagnostic_fragment_default">"O diagnostiki 1. Naprava se bo povezala na omrežje          operaterja, poslala brezplačno sporočilo in čakala odgovor operaterja. To lahko traja do 5 minut. 2. Lahko          zapustite to stran za diagnostiko, proces se bo odvil v ozadju."</string>
