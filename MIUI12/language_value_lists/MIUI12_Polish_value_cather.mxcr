@@ -22,6 +22,7 @@ all BugReport.apk strings.xml default_text_view
 all CABLService.apk strings.xml cabl_info_default
 all Calculator.apk strings.xml unit_data_default_area_0
 all Calculator.apk strings.xml unit_data_default_area_1
+all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
