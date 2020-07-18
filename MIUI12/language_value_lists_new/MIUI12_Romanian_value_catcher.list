@@ -2201,6 +2201,12 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="settings_atmospheric_pressure_default"
+---------------------------------------------------------------------------------------
+ <string name="settings_atmospheric_pressure_default">0</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Weather.apk" xml="" name="temperature_unit_default"
 ---------------------------------------------------------------------------------------
  <string name="temperature_unit_default">0</string>

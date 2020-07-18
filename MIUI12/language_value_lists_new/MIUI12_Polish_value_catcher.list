@@ -143,6 +143,12 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Łączna wartość</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minut</item> <item>10 minut</item> <item>15 minut</item> <item>30 minut</item> <item>1 godzina</item> </string-array>

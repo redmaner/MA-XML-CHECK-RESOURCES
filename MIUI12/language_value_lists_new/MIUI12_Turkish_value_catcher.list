@@ -131,6 +131,12 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Toplam değer</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 dakika</item> <item>10 dakika</item> <item>15 dakika</item> <item>30 dakika</item> <item>1 saat</item> </string-array>

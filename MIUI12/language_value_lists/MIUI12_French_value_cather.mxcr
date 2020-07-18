@@ -154,6 +154,7 @@ all CABLService.apk arrays.xml cabl_level_values
 all CABLService.apk arrays.xml cabl_level_values
 all CABLService.apk strings.xml cabl_info_default
 all CABLService.apk strings.xml cabl_level_default
+all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml prefValues_alerts_popup
 all Calendar.apk arrays.xml prefValues_alerts_popup
@@ -373,6 +374,9 @@ all SecurityCenter.apk strings.xml app_manager_default_open_summary
 all SecurityCenter.apk strings.xml app_manager_defaults_setting
 all SecurityCenter.apk strings.xml app_manager_default_cleared
 all SecurityCenter.apk strings.xml ad_btn_default_text
+all SecurityCenter.apk strings.xml first_settings_default_camera_title
+all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
+all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml power_center_auto_shutdown_summary_default
 all SecurityCenter.apk strings.xml power_center_custom_summary_default
 all SecurityCenter.apk strings.xml power_center_low_battery_summary_default

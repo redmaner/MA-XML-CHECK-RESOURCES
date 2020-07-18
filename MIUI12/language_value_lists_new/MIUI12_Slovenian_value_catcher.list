@@ -2171,6 +2171,12 @@ folder="all" application="TeleService.apk" xml="" name="default_preference_summa
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="kddi_sim_lock_status_default_code"
+---------------------------------------------------------------------------------------
+ <string name="kddi_sim_lock_status_default_code">-</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>

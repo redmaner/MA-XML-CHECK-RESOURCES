@@ -53,6 +53,12 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Valor total</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="lg_mathematical_value"
 ---------------------------------------------------------------------------------------
  <string name="lg_mathematical_value">log</string>
@@ -319,13 +325,13 @@ folder="all" application="framework-res.apk" xml="" name="biometric_dialog_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="db_default_journal_mode"
 ---------------------------------------------------------------------------------------
- <string name="db_default_journal_mode">TRUNCAT</string>
+ <string name="db_default_journal_mode">PERSISTEIX</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="db_default_sync_mode"
 ---------------------------------------------------------------------------------------
- <string name="db_default_sync_mode">COMPLETA</string>
+ <string name="db_default_sync_mode">NORMAL</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -631,7 +637,7 @@ folder="all" application="MiuiGallery.apk" xml="" name="photo_editor_font_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
 ---------------------------------------------------------------------------------------
- <string name="security_share_subtitle_default">Protecció de privadesa</string>
+ <string name="security_share_subtitle_default">Protecció de la privadesa</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1561,7 +1567,7 @@ folder="all" application="SoundPicker.apk" xml="" name="notification_sound_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="SoundPicker.apk" xml="" name="ringtone_default"
 ---------------------------------------------------------------------------------------
- <string name="ringtone_default">Ton de trucada predeterminat</string>
+ <string name="ringtone_default">So per defecte</string>
 
 
 ---------------------------------------------------------------------------------------
