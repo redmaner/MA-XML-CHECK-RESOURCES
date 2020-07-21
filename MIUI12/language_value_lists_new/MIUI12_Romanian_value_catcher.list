@@ -115,25 +115,31 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_1"
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_velocity_0">mps</string>
+ <string name="unit_data_default_velocity_0">m/s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_1"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_velocity_1">kmps</string>
+ <string name="unit_data_default_velocity_1">km/s</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_volume_0">cu.m</string>
+ <string name="unit_data_default_volume_0">m cub</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
 ---------------------------------------------------------------------------------------
- <string name="unit_data_default_volume_1">cu.cm</string>
+ <string name="unit_data_default_volume_1">cm cub</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Valoarea totală</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -689,6 +695,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">Difuzoare XiaoAi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Conectat în mod automat prin rețeaua furnizorului</string>
@@ -782,6 +794,24 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_waterm
 folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_watermark_default_text">AI Cameră triplă</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_coloreffect_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_coloreffect_default">niciunul</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_press_shutter_feature_default">rafală</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_default">temporizator</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2024,6 +2054,12 @@ folder="all" application="TeleService.apk" xml="" name="default_preference_summa
 folder="all" application="TeleService.apk" xml="" name="dialer_default_class"
 ---------------------------------------------------------------------------------------
  <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="kddi_sim_lock_status_default_code"
+---------------------------------------------------------------------------------------
+ <string name="kddi_sim_lock_status_default_code">-</string>
 
 
 ---------------------------------------------------------------------------------------

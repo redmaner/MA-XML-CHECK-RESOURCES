@@ -365,6 +365,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">Altifalantes XiaoAi</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 ---------------------------------------------------------------------------------------
  <string name="custom_sound_default">Predefinido</string>

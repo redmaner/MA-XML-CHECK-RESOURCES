@@ -59,6 +59,7 @@ all MiShare.apk strings.xml default_device_name
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
 all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiBluetooth.apk strings.xml audio_relay_default_device_name
 all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml pref_camera_manually_exposure_value_abbr
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default

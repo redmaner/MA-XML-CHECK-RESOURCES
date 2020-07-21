@@ -215,6 +215,12 @@ folder="all" application="Calculator.apk" xml="" name="e_mathematical_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Valore totale</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="lg_mathematical_value"
 ---------------------------------------------------------------------------------------
  <string name="lg_mathematical_value">lg</string>
@@ -602,12 +608,6 @@ folder="all" application="Cit.apk" xml="" name="value_test_strategy_far"
 folder="all" application="Cit.apk" xml="" name="value_test_strategy_frr"
 ---------------------------------------------------------------------------------------
  <string name="value_test_strategy_frr">使用当前手指的样本作为测试集，逐一与当前测试手指的模板进行匹配，如果发生匹配失败，则认为发生一次FRR（即拒真）</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="CleanMaster.apk" xml="" name="preference_key_default_expand_cache_group"
----------------------------------------------------------------------------------------
- <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
 
 
 ---------------------------------------------------------------------------------------

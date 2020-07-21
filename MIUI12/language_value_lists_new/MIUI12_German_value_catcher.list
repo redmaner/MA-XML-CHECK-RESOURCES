@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">Xiaomi-KI-Lautsprecher</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="avrcp_cover_art_default_image_type"
 ---------------------------------------------------------------------------------------
  <string name="avrcp_cover_art_default_image_type">Bild</string>
@@ -86,6 +92,12 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_currenc
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_2"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_currency_2">CNY</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Gesamtwert</string>
 
 
 ---------------------------------------------------------------------------------------

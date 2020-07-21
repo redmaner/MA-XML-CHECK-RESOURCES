@@ -21,6 +21,7 @@ all Calculator.apk strings.xml unit_data_default_velocity_0
 all Calculator.apk strings.xml unit_data_default_velocity_1
 all Calculator.apk strings.xml unit_data_default_volume_0
 all Calculator.apk strings.xml unit_data_default_volume_1
+all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
@@ -113,6 +114,7 @@ all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
 all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiBluetooth.apk strings.xml audio_relay_default_device_name
 all MiuiBluetooth.apk strings.xml connected_via_network_scorer_default
 all MiuiBluetooth.apk strings.xml launch_defaults_none
 all MiuiBluetooth.apk strings.xml launch_defaults_some
@@ -339,6 +341,7 @@ all TeleService.apk strings.xml default_preference_summary_domain_address
 all TeleService.apk strings.xml default_preference_summary_password
 all TeleService.apk strings.xml default_preference_summary_username
 all TeleService.apk strings.xml dialer_default_class
+all TeleService.apk strings.xml kddi_sim_lock_status_default_code
 all TeleService.apk strings.xml launch_defaults_some
 all TeleService.apk strings.xml msim_select_default_time_left
 all TeleService.apk strings.xml msim_setting_default_data

@@ -509,6 +509,30 @@ folder="all" application="Health.apk" xml="" name="value_error_correct"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Cloud shramba</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="exception_default"
+---------------------------------------------------------------------------------------
+ <string name="exception_default">Prišlo je do sistemske napake. Počakajte minuto ali dve in poskusite znova.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir">Privzeta lokacija za prenose</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir_title">Izberite privzeto lokacijo za prenose</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="system_default"
 ---------------------------------------------------------------------------------------
  <string name="system_default">Privzeto</string>
@@ -698,6 +722,12 @@ folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_h
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Samo za vas; od BOŠTJAN-a"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">XiaoAi zvočniki</string>
 
 
 ---------------------------------------------------------------------------------------

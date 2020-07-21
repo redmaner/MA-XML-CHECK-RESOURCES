@@ -83,6 +83,10 @@ all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml user_invalid_value
 all Health.apk strings.xml value_error_correct
+all MiDrive.apk strings.xml cloud_storage_default_title
+all MiDrive.apk strings.xml exception_default
+all MiDrive.apk strings.xml setting_default_download_dir
+all MiDrive.apk strings.xml setting_default_download_dir_title
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
 all MiLauncherGlobal.apk arrays.xml cell_layout_size_values
@@ -115,6 +119,7 @@ all MiShare.apk strings.xml default_device_name
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
 all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
+all MiuiBluetooth.apk strings.xml audio_relay_default_device_name
 all MiuiBluetooth.apk strings.xml connected_via_network_scorer_default
 all MiuiBluetooth.apk strings.xml launch_defaults_none
 all MiuiBluetooth.apk strings.xml launch_defaults_some

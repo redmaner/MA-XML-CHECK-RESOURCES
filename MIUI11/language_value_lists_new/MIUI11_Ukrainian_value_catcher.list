@@ -323,12 +323,6 @@ folder="all" application="Calendar.apk" xml="" name="entryvalues_settings_debug"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
----------------------------------------------------------------------------------------
- <string name="menstruation_card_default_title">Дані про менструацію відсутні</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="drop_down_list_footer_default_text"
 ---------------------------------------------------------------------------------------
  <string name="drop_down_list_footer_default_text">Ще</string>
@@ -344,6 +338,12 @@ folder="all" application="Calendar.apk" xml="" name="drop_down_list_header_defau
 folder="all" application="Calendar.apk" xml="" name="free_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="free_day_default_banner_title">День відпочинку!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
+---------------------------------------------------------------------------------------
+ <string name="menstruation_card_default_title">Дані про менструацію відсутні</string>
 
 
 ---------------------------------------------------------------------------------------
