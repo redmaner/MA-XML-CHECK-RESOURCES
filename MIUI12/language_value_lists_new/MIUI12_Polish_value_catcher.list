@@ -565,7 +565,7 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="audio_relay_default_device_name">Głośniki Mi SI</string>
+ <string name="audio_relay_default_device_name">Głośnik Mi SI</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1394,6 +1394,42 @@ folder="all" application="PersonalAssistant.apk" xml="" name="miuix_search_histo
 folder="all" application="PersonalAssistant.apk" xml="" name="miuix_search_recommendation_default_title"
 ---------------------------------------------------------------------------------------
  <string name="miuix_search_recommendation_default_title">Możesz być tym zainteresowany</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="agenda_default"
+---------------------------------------------------------------------------------------
+ <string name="agenda_default">Wydarzenia z Kalendarza</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_course_title_default"
+---------------------------------------------------------------------------------------
+ <string name="app_course_title_default">Plan lekcji</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_display_linkage_default"
+---------------------------------------------------------------------------------------
+ <string name="app_display_linkage_default">Innowacje dla wszystkich</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_news_default_title"
+---------------------------------------------------------------------------------------
+ <string name="app_news_default_title">Wiadomości</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_bg_img_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_bg_img_default">Nie ustawiono</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_info_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_info_default">Pusty</string>
 
 
 ---------------------------------------------------------------------------------------

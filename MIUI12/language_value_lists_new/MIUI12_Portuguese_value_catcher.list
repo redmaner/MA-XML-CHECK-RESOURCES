@@ -95,6 +95,12 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_currenc
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Valor total</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minutos</item> <item>10 minutos</item> <item>15 minutos</item> <item>30 minutos</item> <item>1 hora</item> </string-array>
@@ -367,7 +373,7 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="audio_relay_default_device_name">Altifalantes XiaoAi</string>
+ <string name="audio_relay_default_device_name">Altifalantes Mi IA</string>
 
 
 ---------------------------------------------------------------------------------------

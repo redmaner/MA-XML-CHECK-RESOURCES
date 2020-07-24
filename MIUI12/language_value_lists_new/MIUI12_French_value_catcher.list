@@ -1505,6 +1505,18 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,secure</item> <item>1280x720/213</item> <item>1280x720/213,secure</item> <item>1920x1080/320</item> <item>1920x1080/320,secure</item> <item>3840x2160/320</item> <item>3840x2160/320,secure</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,secure</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,secure</item> <item>1280x720/213</item> <item>1280x720/213,secure</item> <item>1920x1080/320</item> <item>1920x1080/320,secure</item> <item>3840x2160/320</item> <item>3840x2160/320,secure</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,secure</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
 ---------------------------------------------------------------------------------------
  <string name="audio_relay_default_device_name">XiaoAi Speakers</string>

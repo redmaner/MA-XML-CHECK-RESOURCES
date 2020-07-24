@@ -185,6 +185,12 @@ folder="all" application="Calculator.apk" xml="" name="e_mathematical_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Общая сумма</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="lg_mathematical_value"
 ---------------------------------------------------------------------------------------
  <string name="lg_mathematical_value">lg</string>
@@ -752,6 +758,12 @@ folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_h
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
  <string name="signature_default_content">"Всегда верьте, что произойдет что-то чудесное"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">Динамики XiaoAi</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2426,23 +2438,5 @@ folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_d
 folder="all" application="XMRemoteController.apk" xml="" name="feedback_desc_default"
 ---------------------------------------------------------------------------------------
  <string name="feedback_desc_default">Некоторые кнопки не работают</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Zman.apk" xml="" name="first_settings_default_camera_title"
----------------------------------------------------------------------------------------
- <string name="first_settings_default_camera_title">Отправлять без метаданных</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Zman.apk" xml="" name="first_settings_default_location_subtitle"
----------------------------------------------------------------------------------------
- <string name="first_settings_default_location_subtitle">Удалить информацию о местоположении из общих фотографий</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Zman.apk" xml="" name="first_settings_default_location_title"
----------------------------------------------------------------------------------------
- <string name="first_settings_default_location_title">Отправлять без информации о местоположении</string>
 
 

@@ -269,6 +269,12 @@ folder="all" application="Calculator.apk" xml="" name="relationship_default_text
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Tổng giá trị</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 phút</item> <item>10 phút</item> <item>15 phút</item> <item>30 phút</item> <item>1 tiếng</item> </string-array>
@@ -1526,6 +1532,30 @@ folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_alert_dia
 folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_toolbar_default_search_hint"
 ---------------------------------------------------------------------------------------
  <string name="car_ui_toolbar_default_search_hint">Tìm kiếm...</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Lưu trữ đám mây</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir">Vị trí tải xuống mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="exception_default"
+---------------------------------------------------------------------------------------
+ <string name="exception_default">Đã xảy ra lỗi hệ thống. Chờ một vài phút rồi thử lại.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir_title">Chọn vị trí tải xuống mặc định</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3167,6 +3197,24 @@ folder="all" application="SecurityCenter.apk" xml="" name="power_dialog_delete_d
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Mặc định chia sẻ không có siêu dữ liệu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Mặc định chia sẻ không có thông tin vị trí</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Gỡ thông tin vị trí từ ảnh đã chia sẻ</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Chọn nhà cung cấp</string>
@@ -3239,9 +3287,21 @@ folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_val
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Đủ màu</item> <item>Màu sáng</item> <item>Đen trắng</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Đủ màu</item> <item>Màu sáng</item> <item>Đen trắng</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -3554,6 +3614,30 @@ folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_
 folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
 ---------------------------------------------------------------------------------------
  <string name="default_digital_assistant_title">Ứng dụng trợ lý điện tử mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_label"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_update_default_label">Cập nhật ứng dụng thanh toán mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_enabled_title">Mặc định bật thay đổi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="system_default_app_subtext"
+---------------------------------------------------------------------------------------
+ <string name="system_default_app_subtext">Mặc định hệ thống</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_disabled_title">Mặc định tắt thay đổi</string>
 
 
 ---------------------------------------------------------------------------------------

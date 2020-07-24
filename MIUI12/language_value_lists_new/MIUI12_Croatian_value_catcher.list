@@ -1880,7 +1880,7 @@ folder="all" application="Settings.apk" xml="" name="default_keyboard"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_set_jeejen_message">Pritisnite tipku Početna da biste postavili Jeejen</string>
+ <string name="default_launcher_set_jeejen_message">Pritisnite tipku Početna da biste postavili Lite način</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2006,7 +2006,7 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">Privlači vašu pažnju zvučnim signalima ili vibracijama</string>
+ <string name="notification_channel_summary_default">Može zvoniti ili vibrirati na temelju postavki telefona</string>
 
 
 ---------------------------------------------------------------------------------------
