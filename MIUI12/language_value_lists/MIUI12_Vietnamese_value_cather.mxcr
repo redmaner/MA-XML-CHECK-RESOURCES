@@ -43,6 +43,7 @@ all Calculator.apk strings.xml default_separator_text
 all Calculator.apk strings.xml default_text
 all Calculator.apk strings.xml relationship_default_separator_text
 all Calculator.apk strings.xml relationship_default_text
+all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml entryvalues_settings_debug
 all Calendar.apk arrays.xml entryvalues_settings_debug
@@ -253,6 +254,10 @@ all HybridPlatform.apk strings.xml msg_default_status
 all HybridPlatform.apk strings.xml features_notification_channel_default
 all ManagedProvisioning.apk strings.xml car_ui_alert_dialog_default_button
 all ManagedProvisioning.apk strings.xml car_ui_toolbar_default_search_hint
+all MiDrive.apk strings.xml cloud_storage_default_title
+all MiDrive.apk strings.xml setting_default_download_dir
+all MiDrive.apk strings.xml exception_default
+all MiDrive.apk strings.xml setting_default_download_dir_title
 all MiDrop.apk strings.xml default_lang
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiGalleryLockscreen.apk strings.xml local_default_category
@@ -526,6 +531,9 @@ all SecurityCenter.apk strings.xml power_center_custom_summary_default
 all SecurityCenter.apk strings.xml power_center_low_battery_summary_default
 all SecurityCenter.apk strings.xml power_center_on_time_summary_default
 all SecurityCenter.apk strings.xml power_dialog_delete_dialog_cannot_delete_default
+all SecurityCenter.apk strings.xml first_settings_default_camera_title
+all SecurityCenter.apk strings.xml first_settings_default_location_title
+all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all SecurityCoreAdd.apk strings.xml xspace_default_app_title
@@ -538,7 +546,9 @@ all SecurityCoreAdd.apk strings.xml space_name_default
 all SecurityCoreAdd.apk strings.xml space_des_default
 all Settings.apk arrays.xml default_vol_stream_entries
 all Settings.apk arrays.xml bluetooth_avrcp_version_values
+all Settings.apk arrays.xml paper_color_values
 all Settings.apk arrays.xml bluetooth_avrcp_version_values
+all Settings.apk arrays.xml paper_color_values
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_title
 all Settings.apk strings.xml firewall_set_bg_firewall_default_dialog_summary
 all Settings.apk strings.xml default_rule_name
@@ -591,6 +601,10 @@ all Settings.apk strings.xml graphics_driver_app_preference_default
 all Settings.apk strings.xml accessibility_autoclick_default_title
 all Settings.apk strings.xml cached_apps_freezer_device_default
 all Settings.apk strings.xml default_digital_assistant_title
+all Settings.apk strings.xml nfc_payment_update_default_label
+all Settings.apk strings.xml platform_compat_default_enabled_title
+all Settings.apk strings.xml system_default_app_subtext
+all Settings.apk strings.xml platform_compat_default_disabled_title
 all Settings.apk strings.xml tether_limit_value_custom
 all SimAppDialog.apk strings.xml install_carrier_app_description_default
 all SoundPicker.apk strings.xml notification_sound_default
