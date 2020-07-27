@@ -336,6 +336,7 @@ all MiuiPackageInstaller.apk strings.xml default_permission_description
 all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiPackageInstaller.apk strings.xml ads_summary_default_value
 all MiuiScanner.apk strings.xml setting_default_function
+all MiuiScanner.apk strings.xml document_default_location
 all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
 all MiuiSystemUI.apk arrays.xml bluetooth_avrcp_version_values
 all MiuiSystemUI.apk strings.xml launch_defaults_some
@@ -502,6 +503,14 @@ all PersonalAssistant.apk strings.xml mini_error_title_default
 all PersonalAssistant.apk strings.xml notification_channel_default
 all PersonalAssistant.apk strings.xml notification_channel_default_description
 all PersonalAssistant.apk strings.xml display_weather_default
+all PersonalAssistant.apk strings.xml miuix_search_recommendation_default_title
+all PersonalAssistant.apk strings.xml app_pa_setting_head_bg_img_default
+all PersonalAssistant.apk strings.xml app_course_title_default
+all PersonalAssistant.apk strings.xml miuix_search_history_default_title
+all PersonalAssistant.apk strings.xml app_pa_setting_head_info_default
+all PersonalAssistant.apk strings.xml agenda_default
+all PersonalAssistant.apk strings.xml app_news_default_title
+all PersonalAssistant.apk strings.xml app_display_linkage_default
 all PersonalAssistant.apk strings.xml flybird_nopwd_value_label
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
