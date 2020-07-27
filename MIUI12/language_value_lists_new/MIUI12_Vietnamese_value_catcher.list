@@ -2027,6 +2027,12 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">Vị trí lưu trữ mặc định:</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
 ---------------------------------------------------------------------------------------
  <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
@@ -3020,6 +3026,54 @@ folder="all" application="PersonalAssistant.apk" xml="" name="notification_chann
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
  <string name="display_weather_default">Chạm để lấy thông tin thời tiết</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Bạn có thể thích những điều này</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_bg_img_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_bg_img_default">Chưa đặt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_course_title_default"
+---------------------------------------------------------------------------------------
+ <string name="app_course_title_default">Lịch học</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Lịch sử tìm kiếm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_info_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_info_default">Trống</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="agenda_default"
+---------------------------------------------------------------------------------------
+ <string name="agenda_default">Sự kiện lịch</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_news_default_title"
+---------------------------------------------------------------------------------------
+ <string name="app_news_default_title">Tin tức</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_display_linkage_default"
+---------------------------------------------------------------------------------------
+ <string name="app_display_linkage_default">Đổi mới cho mọi người</string>
 
 
 ---------------------------------------------------------------------------------------

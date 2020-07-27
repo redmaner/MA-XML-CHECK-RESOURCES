@@ -521,6 +521,30 @@ folder="all" application="HybridPlatform.apk" xml="" name="msg_default_status"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Bulut depolama</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="exception_default"
+---------------------------------------------------------------------------------------
+ <string name="exception_default">Bir sistem hatası oluştu. Bir iki dakika bekleyin ve tekrar deneyin.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir">Varsayılan indirme konumu</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir_title">Varsayılan indirme konumunu seçin</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_category"
 ---------------------------------------------------------------------------------------
  <string name="local_default_category">Önceden ayarlanmış yerel</string>
@@ -583,7 +607,19 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="audio_relay_default_device_name">XiaoAi Hoparlörler</string>
+ <string name="audio_relay_default_device_name">Mi AI Hoparlör</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="switch_audio_device_default"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default">Varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="switch_audio_device_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default_summary">Şu anda kullanılan cihaz</string>
 
 
 ---------------------------------------------------------------------------------------

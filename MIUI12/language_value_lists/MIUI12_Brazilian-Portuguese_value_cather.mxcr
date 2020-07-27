@@ -3,11 +3,14 @@ all Bluetooth.apk strings.xml avrcp_cover_art_default_mimetype
 all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml defaultnumber
 all Bluetooth.apk strings.xml status_no_sd_card_default
+all Bluetooth.apk strings.xml switch_audio_device_default
+all Bluetooth.apk strings.xml switch_audio_device_default_summary
 all Browser.apk strings.xml ad_btn_default_text
 all Browser.apk strings.xml browser_default_setting_cancel
 all Browser.apk strings.xml browser_default_setting_confirm
 all Browser.apk strings.xml browser_default_setting_content
 all Browser.apk strings.xml browser_default_setting_title
+all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
@@ -57,6 +60,10 @@ all Health.apk strings.xml revert_to_default
 all Health.apk strings.xml sleep_tip_default
 all Health.apk strings.xml tips_default
 all Health.apk strings.xml value_error_correct
+all MiDrive.apk strings.xml cloud_storage_default_title
+all MiDrive.apk strings.xml exception_default
+all MiDrive.apk strings.xml setting_default_download_dir
+all MiDrive.apk strings.xml setting_default_download_dir_title
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
@@ -73,6 +80,7 @@ all MiuiBluetooth.apk strings.xml tts_default_pitch_title
 all MiuiBluetooth.apk strings.xml tts_default_rate_summary
 all MiuiBluetooth.apk strings.xml tts_default_rate_title
 all MiuiBluetooth.apk strings.xml tts_default_sample_string
+all MiuiBluetooth.apk strings.xml audio_relay_default_device_name
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
@@ -181,6 +189,9 @@ all SecurityCenter.apk strings.xml power_center_custom_summary_default
 all SecurityCenter.apk strings.xml power_center_low_battery_summary_default
 all SecurityCenter.apk strings.xml power_center_on_time_summary_default
 all SecurityCenter.apk strings.xml power_dialog_delete_dialog_cannot_delete_default
+all SecurityCenter.apk strings.xml first_settings_default_camera_title
+all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
+all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all SecurityCoreAdd.apk strings.xml xspace_default_app_title

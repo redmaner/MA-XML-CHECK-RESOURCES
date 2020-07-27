@@ -5,6 +5,8 @@ all HybridPlatform.apk strings.xml com_facebook_tooltip_default
 all HybridPlatform.apk strings.xml msg_default_status
 all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml status_no_sd_card_default
+all Bluetooth.apk strings.xml switch_audio_device_default
+all Bluetooth.apk strings.xml switch_audio_device_default_summary
 all Browser.apk strings.xml browser_default_setting_cancel
 all Browser.apk strings.xml browser_default_setting_confirm
 all Browser.apk strings.xml browser_default_setting_content
