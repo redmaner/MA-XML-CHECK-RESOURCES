@@ -485,6 +485,12 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="overlay_display_device
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">El meu altaveu d\'AI</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
  <string name="cached_apps_freezer_device_default">De manera predeterminada del dispositiu</string>
@@ -1151,6 +1157,24 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Compartir de manera predeterminada sense metadades</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Elimina la informació d\'ubicació de les fotos compartides</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Compartir de manera predeterminada sense informació d’ubicació</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
 ---------------------------------------------------------------------------------------
  <string name="traffic_setting_fragment_default">Trieu</string>
@@ -1333,7 +1357,7 @@ folder="all" application="Settings.apk" xml="" name="default_keyboard"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_set_jeejen_message">Premeu el botó d\'inici per configurar Jeejen</string>
+ <string name="default_launcher_set_jeejen_message">Premeu el botó Inici per configurar el mode Lite</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1369,7 +1393,7 @@ folder="all" application="Settings.apk" xml="" name="default_rule_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 ---------------------------------------------------------------------------------------
- <string name="default_suppression_title">Per defecte (Recomanat)</string>
+ <string name="default_suppression_title">Per defecte (recomanat)</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1465,7 +1489,7 @@ folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">Capta l’atenció amb so o vibració</string>
+ <string name="notification_channel_summary_default">Pot sonar o vibrar segons la configuració del telèfon</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1826,6 +1850,12 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_rate_title"
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
  <string name="default_filedownloader_notification_content">FileDownloader s\'està executant.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="settings_atmospheric_pressure_default"
+---------------------------------------------------------------------------------------
+ <string name="settings_atmospheric_pressure_default">2</string>
 
 
 ---------------------------------------------------------------------------------------

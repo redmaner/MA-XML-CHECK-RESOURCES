@@ -917,6 +917,42 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_dev
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Ustaw jako domyślną</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">Anuluj</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">Czy aplikacja %s ma być domyślną aplikacją do kontroli połączeń?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">Aplikacja %s będzie mogła zobaczyć informacje o dzwoniących, którzy nie są w Twoich kontaktach, a także będzie mogła zablokować te połączenia. Jako domyślne aplikacje do kontroli połączeń powinny być ustawione aplikacje, którym ufasz.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">Aplikacja %s nie będzie już mogła dokonywać kontroli połączeń.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Ustaw jako domyślną</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="default_text"
 ---------------------------------------------------------------------------------------
  <string name="default_text">Domyślny</string>

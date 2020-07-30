@@ -977,6 +977,42 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_dev
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Varsayılan olarak ayarla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">İptal</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">%s varsayılan çağrı görüntüleme uygulamanız yapılsın mı?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s, kişilerinizde bulunmayan arayanlar hakkındaki bilgileri görebilecek ve bu aramaları engelleyebilecek. Yalnızca güvendiğiniz uygulamalar varsayılan çağrı görüntüleme uygulaması olarak ayarlanmalıdır.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s artık çağrıları görüntüleyemeyecek.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Varsayılan olarak ayarla</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
  <string name="alert_dialog_download_default_title">Uygulamasını aç</string>
@@ -1352,6 +1388,54 @@ folder="all" application="PermissionController.apk" xml="" name="request_role_cu
 folder="all" application="PermissionController.apk" xml="" name="request_role_set_as_default"
 ---------------------------------------------------------------------------------------
  <string name="request_role_set_as_default">Varsayılan olarak ayarla</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="agenda_default"
+---------------------------------------------------------------------------------------
+ <string name="agenda_default">Gündem</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_course_title_default"
+---------------------------------------------------------------------------------------
+ <string name="app_course_title_default">Sınıf programı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_display_linkage_default"
+---------------------------------------------------------------------------------------
+ <string name="app_display_linkage_default">Herkes için yenilik</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_news_default_title"
+---------------------------------------------------------------------------------------
+ <string name="app_news_default_title">Haberler</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_bg_img_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_bg_img_default">Ayarlanmadı</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_info_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_info_default">Boş</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Arama geçmişi</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">Bunlar da ilginizi çekebilir</string>
 
 
 ---------------------------------------------------------------------------------------
