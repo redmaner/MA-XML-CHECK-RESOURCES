@@ -3,6 +3,8 @@ all AndroidPlatformServices.apk strings.xml auth_account_removed_default_title
 all Bluetooth.apk strings.xml map_defaultname
 all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml status_no_sd_card_default
+all Bluetooth.apk strings.xml switch_audio_device_default
+all Bluetooth.apk strings.xml switch_audio_device_default_summary
 all Browser.apk strings.xml ad_btn_default_text
 all Browser.apk strings.xml js_dialog_title_default
 all Browser.apk strings.xml mw_js_dialog_title_default
