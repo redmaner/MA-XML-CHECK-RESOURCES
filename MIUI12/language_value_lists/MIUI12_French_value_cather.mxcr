@@ -139,6 +139,8 @@ all Settings.apk arrays.xml overlay_display_devices_values
 all Settings.apk arrays.xml overlay_display_devices_values
 all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml status_no_sd_card_default
+all Bluetooth.apk strings.xml switch_audio_device_default
+all Bluetooth.apk strings.xml switch_audio_device_default_summary
 all Browser.apk strings.xml browser_default_setting_cancel
 all Browser.apk strings.xml browser_default_setting_confirm
 all Browser.apk strings.xml browser_default_setting_content
