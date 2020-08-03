@@ -551,6 +551,12 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_micros
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_other_apps"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_other_apps">Muita sovelluksia</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_services"
 ---------------------------------------------------------------------------------------
  <string name="default_folder_title_services">Palvelut</string>

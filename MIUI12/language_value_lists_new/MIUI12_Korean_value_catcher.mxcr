@@ -26,6 +26,7 @@ all BugReport.apk strings.xml default_text_view
 all CABLService.apk strings.xml cabl_info_default
 all Calculator.apk strings.xml sin_mathematical_value
 all Calculator.apk strings.xml tan_mathematical_value
+all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
@@ -108,6 +109,7 @@ all MiSettings.apk strings.xml hsv_space_color_value
 all MiShare.apk strings.xml default_device_name
 all MiuiAod.apk strings.xml signature_default_content
 all miui.apk strings.xml security_share_subtitle_default
+all MiuiBluetooth.apk strings.xml audio_relay_default_device_name
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_photostyle_default
 all MiuiCamera.apk strings.xml pref_camera_focusmode_default
@@ -299,6 +301,9 @@ all SecurityCenter.apk strings.xml app_manager_defaults_setting
 all SecurityCenter.apk strings.xml lucky_alarm_count_down_default
 all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
+all SecurityCenter.apk strings.xml first_settings_default_camera_title
+all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
+all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
 all SecurityCoreAdd.apk strings.xml xspace_default_app_summary
 all SecurityCoreAdd.apk strings.xml space_name_default

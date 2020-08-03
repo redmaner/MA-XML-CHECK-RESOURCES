@@ -167,6 +167,12 @@ folder="all" application="Calculator.apk" xml="" name="tan_mathematical_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">총 자산가치</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5분</item> <item>10분</item> <item>15분</item> <item>30분</item> <item>1시간</item> </string-array>
@@ -656,6 +662,12 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 folder="all" application="miui.apk" xml="" name="security_share_subtitle_default"
 ---------------------------------------------------------------------------------------
  <string name="security_share_subtitle_default">개인 정보 보호</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">샤오AI 스피커</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1804,6 +1816,24 @@ folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragmen
 folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
 ---------------------------------------------------------------------------------------
  <string name="traffic_setting_fragment_default">선택</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">기본적으로 메타 데이터없이 공유</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">공유 사진에서 위치 정보 제거</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">기본적으로 위치 정보없이 공유</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -254,6 +254,8 @@ all QuickSearchBox.apk strings.xml default_download_path_dialog_title
 all QuickSearchBox.apk strings.xml default_download_path_prefix
 all QuickSearchBox.apk strings.xml download_dialog_default_path_invalid
 all QuickSearchBox.apk strings.xml hint_default
+all SecurityAdd.apk arrays.xml gb_gpu_custom_texture_value
+all SecurityAdd.apk strings.xml gb_gpu_resolution_default
 all SecurityCenter.apk strings.xml ad_btn_default_text
 all SecurityCenter.apk strings.xml app_manager_default_cleared
 all SecurityCenter.apk strings.xml app_manager_default_close_summary

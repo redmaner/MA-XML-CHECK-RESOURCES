@@ -1535,6 +1535,18 @@ folder="all" application="QuickSearchBox.apk" xml="" name="hint_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_custom_texture_value"
+---------------------------------------------------------------------------------------
+ <string-array name="gb_gpu_custom_texture_value"> <item>Najszybsze</item> <item>Zrównoważone</item> <item>Domyślne</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_default"
+---------------------------------------------------------------------------------------
+ <string name="gb_gpu_resolution_default">Domyślna</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
  <string name="ad_btn_default_text">Więcej</string>
