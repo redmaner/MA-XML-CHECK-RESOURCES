@@ -221,6 +221,12 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="DSI_value_get"
+---------------------------------------------------------------------------------------
+ <string name="DSI_value_get">obțineți DSI</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="battery_value"
 ---------------------------------------------------------------------------------------
  <string name="battery_value">Energie</string>
@@ -242,6 +248,24 @@ folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueR"
 folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
 ---------------------------------------------------------------------------------------
  <string name="cit_audio_cali_valueT">Temp_act:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueF0"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueF0">F0:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueRe"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueRe">Re:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueT">Temp:</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1502,6 +1526,12 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
 ---------------------------------------------------------------------------------------
  <string name="terms_of_use_lable_default_input_method_mint">" Trebuie să acceptați Politica de Confidențialitate a tastaturii Mint înainte de a utiliza această caracteristică."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_custom_texture_value"
+---------------------------------------------------------------------------------------
+ <string-array name="gb_gpu_custom_texture_value"> <item>Cel mai rapid</item> <item>Balansat</item> <item>Implicit</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

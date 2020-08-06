@@ -811,7 +811,7 @@ folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
 ---------------------------------------------------------------------------------------
- <string name="document_default_location">Domyślna lokalizacja:</string>
+ <string name="document_default_location">"Pliki będą zapisywane w: "</string>
 
 
 ---------------------------------------------------------------------------------------

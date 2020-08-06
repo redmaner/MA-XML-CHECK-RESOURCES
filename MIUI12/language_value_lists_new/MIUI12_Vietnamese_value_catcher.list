@@ -2147,6 +2147,42 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s sẽ có thể thấy thông tin về người gọi không có trong danh bạ của bạn và có thể chặn các cuộc gọi đó. Chỉ nên đặt ứng dụng bạn tin tưởng làm ứng dụng sàng lọc cuộc gọi mặc định.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">Hủy</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Đặt làm mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s không còn có thể sàng lọc cuộc gọi.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Đặt làm mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">Đặt %s làm ứng dụng sàng lọc cuộc gọi mặc định?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="subtitle_padding_default_hint">Đang điều chỉnh phụ đề…</string>
@@ -3152,6 +3188,24 @@ folder="all" application="QuickSearchBox.apk" xml="" name="hint_default"
 folder="all" application="QuickSearchBox.apk" xml="" name="reader_history_default_subtitle"
 ---------------------------------------------------------------------------------------
  <string name="reader_history_default_subtitle">Vừa xem</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_custom_texture_value"
+---------------------------------------------------------------------------------------
+ <string-array name="gb_gpu_custom_texture_value"> <item>Nhanh nhất</item> <item>Cân bằng</item> <item>Mặc định</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_confirm"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_confirm">OK</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_default"
+---------------------------------------------------------------------------------------
+ <string name="gb_gpu_resolution_default">Mặc định</string>
 
 
 ---------------------------------------------------------------------------------------

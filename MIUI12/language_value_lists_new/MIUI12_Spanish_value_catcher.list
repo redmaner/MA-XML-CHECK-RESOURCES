@@ -841,7 +841,7 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_t
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_content">Toque para cambiar</string>
+ <string name="xspace_default_guide_notification_content">Toca para cambiar</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2219,6 +2219,12 @@ folder="all" application="MiDrop.apk" xml="" name="default_lang"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiMover.apk" xml="" name="document_default_extensions"
+---------------------------------------------------------------------------------------
+ <string-array name="document_default_extensions"> <item>.doc</item> <item>.docx</item> <item>.xls</item> <item>.xlsx</item> <item>.ppt</item> <item>.pptx</item> <item>.pps</item> <item>.pdf</item> <item>.wps</item> <item>.et</item> <item>.ett</item> <item>.dps</item> <item>.rtf</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 ---------------------------------------------------------------------------------------
  <string name="default_error_msg">Some thing went wrong!</string>
@@ -2269,7 +2275,7 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_ti
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
 ---------------------------------------------------------------------------------------
- <string name="pref_camera_snap_value_off">Apagado</string>
+ <string name="pref_camera_snap_value_off">Desactivado</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2381,6 +2387,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="photomovie_template_defa
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Protección de privacidad</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_default"
 ---------------------------------------------------------------------------------------
  <string name="text_edit_dialog_font_default">Predefinido</string>
@@ -2437,7 +2449,7 @@ folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_telcel
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
- <string name="default_screen_preview_title">Toque para establecer pantalla predeterminada</string>
+ <string name="default_screen_preview_title">Toca para establecer pantalla predeterminada</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2893,7 +2905,7 @@ folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
- <string name="display_weather_default">Pulsa para obtener información del clima</string>
+ <string name="display_weather_default">Toca para obtener información del clima</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3097,7 +3109,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_c
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_summary"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_open_summary">Ha elegido iniciar esta aplicación de manera predeterminada para algunas acciones.</string>
+ <string name="app_manager_default_open_summary">Has elegido iniciar esta aplicación de manera predeterminada para algunas acciones.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3122,6 +3134,24 @@ folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_rest
 folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default_short"
 ---------------------------------------------------------------------------------------
  <string name="cpu_usage_app_bg_restrict_default_short">Auto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Compartir sin metadatos por defecto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Eliminar información de ubicación de fotos compartidas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Compartir sin información de ubicación por defecto</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3199,7 +3229,7 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setti
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_content">Toque para cambiar</string>
+ <string name="xspace_default_guide_notification_content">Toca para cambiar</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3253,7 +3283,7 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_t
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_content">Toque para cambiar</string>
+ <string name="xspace_default_guide_notification_content">Toca para cambiar</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3595,7 +3625,7 @@ folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
- <string name="importance_default">Preterminado</string>
+ <string name="importance_default">Predeterminado</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3919,19 +3949,19 @@ folder="all" application="TeleService.apk" xml="" name="connected_via_network_sc
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">&lt;No configurado></string>
+ <string name="default_preference_summary_domain_address">&lt;No configurado&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">&lt;No configurada></string>
+ <string name="default_preference_summary_password">&lt;No configurada&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">&lt;No configurado></string>
+ <string name="default_preference_summary_username">&lt;No configurado&gt;</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3944,6 +3974,30 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
  <string name="msim_select_default_time_left">(%d s)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Tarjeta de Datos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">Tarjeta de Datos %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Predeterminada para llamadas</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM %d para llamadas</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -3269,6 +3269,12 @@ folder="all" application="QuickSearchBox.apk" xml="" name="taokouling_text_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_default"
+---------------------------------------------------------------------------------------
+ <string name="gb_gpu_resolution_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_desc"
 ---------------------------------------------------------------------------------------
  <string name="password_change_value_preference_desc">Исходный пароль блокировки экрана будет использоваться для проверки при выходе из детского пространства</string>

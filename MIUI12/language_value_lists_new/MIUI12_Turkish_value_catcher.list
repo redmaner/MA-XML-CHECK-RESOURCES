@@ -1494,6 +1494,18 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_custom_texture_value"
+---------------------------------------------------------------------------------------
+ <string-array name="gb_gpu_custom_texture_value"> <item>En hızlı</item> <item>Dengeli</item> <item>Varsayılan</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_default"
+---------------------------------------------------------------------------------------
+ <string name="gb_gpu_resolution_default">Varsayılan</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
  <string name="ad_btn_default_text">Daha fazla bilgi edin</string>

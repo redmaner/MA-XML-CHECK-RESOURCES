@@ -356,6 +356,12 @@ all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_entry_title
 all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_title
 all MiuiSystemUI.apk strings.xml cached_apps_freezer_device_default
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_warning_message
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_negative
+all MiuiTelecomOverlay.apk strings.xml change_default_dialer_dialog_affirmative
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_warning_message_for_disable_old_app
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_affirmative
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_title
 all MiuiVideo.apk strings.xml subtitle_padding_default_hint
 all MiuiVideo.apk strings.xml alert_dialog_download_default_title
 all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
@@ -524,6 +530,9 @@ all QuickSearchBox.apk strings.xml default_download_path_dialog_title
 all QuickSearchBox.apk strings.xml default_download_path_prefix
 all QuickSearchBox.apk strings.xml hint_default
 all QuickSearchBox.apk strings.xml reader_history_default_subtitle
+all SecurityAdd.apk arrays.xml gb_gpu_custom_texture_value
+all SecurityAdd.apk strings.xml parent_center_default_home_confirm
+all SecurityAdd.apk strings.xml gb_gpu_resolution_default
 all SecurityAdd.apk strings.xml password_change_value_preference_title
 all SecurityAdd.apk strings.xml password_change_value_preference_desc
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default

@@ -72,7 +72,6 @@ all MiuiAccessibility.apk arrays.xml sound_source_values
 all MiuiAccessibility.apk strings.xml preference_value_create_shortcut
 all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
-all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml device_ultra_pixel_watermark_default_text
 all MiuiCamera.apk strings.xml device_watermark_default_text
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
@@ -180,6 +179,7 @@ all Settings.apk strings.xml default_launcher_title
 all Settings.apk strings.xml default_map_app_title
 all Settings.apk strings.xml default_notification_assistant
 all Settings.apk strings.xml default_rule_name
+all Settings.apk strings.xml default_suppression_title
 all Settings.apk strings.xml default_theme
 all Settings.apk strings.xml default_vol_stream_title
 all Settings.apk strings.xml enterprise_privacy_enterprise_set_default_apps

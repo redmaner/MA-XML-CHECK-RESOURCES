@@ -35,10 +35,14 @@ all Calendar.apk strings.xml miuix_search_recommendation_default_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml work_day_default_banner_title
+all Cit.apk strings.xml DSI_value_get
 all Cit.apk strings.xml battery_value
 all Cit.apk strings.xml cit_audio_cali_valueF0
 all Cit.apk strings.xml cit_audio_cali_valueR
 all Cit.apk strings.xml cit_audio_cali_valueT
+all Cit.apk strings.xml cit_audio_spk_cal_valueF0
+all Cit.apk strings.xml cit_audio_spk_cal_valueRe
+all Cit.apk strings.xml cit_audio_spk_cal_valueT
 all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
@@ -249,6 +253,7 @@ all PrimaryCardController.apk strings.xml default_sim_setting
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_mint
+all SecurityAdd.apk arrays.xml gb_gpu_custom_texture_value
 all SecurityCenter.apk strings.xml ad_btn_default_text
 all SecurityCenter.apk strings.xml app_manager_default_cleared
 all SecurityCenter.apk strings.xml app_manager_default_close_summary
