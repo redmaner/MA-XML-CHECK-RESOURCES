@@ -1135,7 +1135,7 @@ folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_de
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
 ---------------------------------------------------------------------------------------
- <string name="document_default_location">Locația implicită de stocare:</string>
+ <string name="document_default_location">"Fișierele vor fi salvate în "</string>
 
 
 ---------------------------------------------------------------------------------------

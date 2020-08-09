@@ -19,19 +19,31 @@ folder="all" application="Bluetooth.apk" xml="" name="map_defaultnumber"
 ---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 ---------------------------------------------------------------------------------------
- <string name="bt_sm_2_1_default">"SD카드에 \"%1$s\"에서 파일을 저장하기에 충분한 공간이 없습니다"</string>
+ <string name="bt_sm_2_1_default">"SD 카드에 \"%1$s\"에서 파일을 저장하기에 충분한 공간이 없습니다."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 ---------------------------------------------------------------------------------------
- <string name="status_no_sd_card_default">SD 카드가 없습니다. 전송된 파일을 저장하려면 SD카드를 삽입하세요.</string>
+ <string name="status_no_sd_card_default">SD 카드가 없습니다. 전송된 파일을 저장하려면 SD 카드를 삽입하세요.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default">기본</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default_summary">현재 사용 기기</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="download_dialog_file_length_default_txt"
 ---------------------------------------------------------------------------------------
- <string name="download_dialog_file_length_default_txt">잠시만 기다려 주십시오…</string>
+ <string name="download_dialog_file_length_default_txt">잠시만 기다려 주세요…</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -181,13 +193,13 @@ folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
- <string-array name="repeat_monthly_on_day_count_values"> <item>첫번째 월요일</item> <item>첫번째 화요일</item> <item>첫번째 수요일</item> <item>첫번째 목요일</item> <item>첫번째 금요일</item> <item>첫번째 토요일</item> <item>첫번째 일요일</item> <item>두번째 월요일</item> <item>두번째 화요일</item> <item>두번째 수요일</item> <item>두번째 목요일</item> <item>두번째 금요일</item> <item>두번째 토요일</item> <item>두번째 일요일</item> <item>세번째 월요일</item> <item>세번째 화요일</item> <item>세번째 수요일</item> <item>세번째 목요일</item> <item>세번째 금요일</item> <item>세번째 토요일</item> <item>세번째 일요일</item> <item>네번째 월요일</item> <item>네번째 화요일</item> <item>네번째 수요일</item> <item>네번째 목요일</item> <item>네번째 금요일</item> <item>네번째 토요일</item> <item>네번째 일요일</item> <item>마지막 월요일</item> <item>마지막 화요일</item> <item>마지막 수요일</item> <item>마지막 목요일</item> <item>마지막 금요일</item> <item>마지막 토요일</item> <item>마지막 일요일</item> </string-array>
+ <string-array name="repeat_monthly_on_day_count_values"> <item>첫번째 월요일</item> <item>첫번째 화요일</item> <item>첫번째 수요일</item> <item>첫번째 목요일</item> <item>첫번째 금요일</item> <item>첫번째 토요일</item> <item>첫번째 일요일</item> <item>두 번째 월요일</item> <item>두 번째 화요일</item> <item>두 번째 수요일</item> <item>두 번째 목요일</item> <item>두 번째 금요일</item> <item>두 번째 토요일</item> <item>두 번째 일요일</item> <item>세 번째 월요일</item> <item>세 번째 화요일</item> <item>세 번째 수요일</item> <item>세 번째 목요일</item> <item>세 번째 금요일</item> <item>세 번째 토요일</item> <item>세 번째 일요일</item> <item>네 번째 월요일</item> <item>네 번째 화요일</item> <item>네 번째 수요일</item> <item>네 번째 목요일</item> <item>네 번째 금요일</item> <item>네 번째 토요일</item> <item>네 번째 일요일</item> <item>마지막 월요일</item> <item>마지막 화요일</item> <item>마지막 수요일</item> <item>마지막 목요일</item> <item>마지막 금요일</item> <item>마지막 토요일</item> <item>마지막 일요일</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
- <string-array name="repeat_monthly_on_day_count_values"> <item>첫번째 월요일</item> <item>첫번째 화요일</item> <item>첫번째 수요일</item> <item>첫번째 목요일</item> <item>첫번째 금요일</item> <item>첫번째 토요일</item> <item>첫번째 일요일</item> <item>두번째 월요일</item> <item>두번째 화요일</item> <item>두번째 수요일</item> <item>두번째 목요일</item> <item>두번째 금요일</item> <item>두번째 토요일</item> <item>두번째 일요일</item> <item>세번째 월요일</item> <item>세번째 화요일</item> <item>세번째 수요일</item> <item>세번째 목요일</item> <item>세번째 금요일</item> <item>세번째 토요일</item> <item>세번째 일요일</item> <item>네번째 월요일</item> <item>네번째 화요일</item> <item>네번째 수요일</item> <item>네번째 목요일</item> <item>네번째 금요일</item> <item>네번째 토요일</item> <item>네번째 일요일</item> <item>마지막 월요일</item> <item>마지막 화요일</item> <item>마지막 수요일</item> <item>마지막 목요일</item> <item>마지막 금요일</item> <item>마지막 토요일</item> <item>마지막 일요일</item> </string-array>
+ <string-array name="repeat_monthly_on_day_count_values"> <item>첫번째 월요일</item> <item>첫번째 화요일</item> <item>첫번째 수요일</item> <item>첫번째 목요일</item> <item>첫번째 금요일</item> <item>첫번째 토요일</item> <item>첫번째 일요일</item> <item>두 번째 월요일</item> <item>두 번째 화요일</item> <item>두 번째 수요일</item> <item>두 번째 목요일</item> <item>두 번째 금요일</item> <item>두 번째 토요일</item> <item>두 번째 일요일</item> <item>세 번째 월요일</item> <item>세 번째 화요일</item> <item>세 번째 수요일</item> <item>세 번째 목요일</item> <item>세 번째 금요일</item> <item>세 번째 토요일</item> <item>세 번째 일요일</item> <item>네 번째 월요일</item> <item>네 번째 화요일</item> <item>네 번째 수요일</item> <item>네 번째 목요일</item> <item>네 번째 금요일</item> <item>네 번째 토요일</item> <item>네 번째 일요일</item> <item>마지막 월요일</item> <item>마지막 화요일</item> <item>마지막 수요일</item> <item>마지막 목요일</item> <item>마지막 금요일</item> <item>마지막 토요일</item> <item>마지막 일요일</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -241,7 +253,7 @@ folder="all" application="Calendar.apk" xml="" name="miuix_search_history_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
 ---------------------------------------------------------------------------------------
- <string name="miuix_search_recommendation_default_title">이것을 추천해봅니다</string>
+ <string name="miuix_search_recommendation_default_title">이것을 추천해봅니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -403,13 +415,13 @@ folder="all" application="FactoryMode.apk" xml="" name="dev_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
 ---------------------------------------------------------------------------------------
- <string name="user_desc_default_tip">포인트를 모으고 상을 받으려면 로그인하십시오.</string>
+ <string name="user_desc_default_tip">포인트를 모으고 상을 받으려면 로그인하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="FileExplorer.apk" xml="" name="default_user_desc"
 ---------------------------------------------------------------------------------------
- <string name="default_user_desc">이 사용자는 아직 설명을 추가하지 않았습니다</string>
+ <string name="default_user_desc">이 사용자는 아직 설명을 추가하지 않았습니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -427,7 +439,7 @@ folder="all" application="FileExplorer.apk" xml="" name="msg_page_video_default_
 ---------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
- <string name="default_debt_msg_words">"할부금 미납으로 휴대전화가 잠겼습니다. 판매자에게 연락하십시오."</string>
+ <string name="default_debt_msg_words">"할부금 미납으로 휴대전화가 잠겼습니다. 판매자에게 연락하세요."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -451,13 +463,13 @@ folder="all" application="framework-res.apk" xml="" name="default_notification_c
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake">침착하게 주변의 피난처를 찾으십시오.</string>
+ <string name="etws_primary_default_message_earthquake">침착하게 주변의 피난처를 찾으세요.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_earthquake_and_tsunami"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_earthquake_and_tsunami">침착하게 주변의 피난처를 찾으십시오.</string>
+ <string name="etws_primary_default_message_earthquake_and_tsunami">침착하게 주변의 피난처를 찾으세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -469,7 +481,7 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_tsunami"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_tsunami">연안 지역과 강변에서 즉시 고지대 같은 안전한 장소로 대피하십시오.</string>
+ <string name="etws_primary_default_message_tsunami">연안 지역과 강변에서 즉시 고지대 같은 안전한 장소로 대피하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -511,7 +523,7 @@ folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="improve_your_health_default_tips"
 ---------------------------------------------------------------------------------------
- <string name="improve_your_health_default_tips">건강을 유지하기 위해 운동하고 충분한 수면을 취하십시오.</string>
+ <string name="improve_your_health_default_tips">건강을 유지하기 위해 운동하고 충분한 수면을 취하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -529,7 +541,7 @@ folder="all" application="Health.apk" xml="" name="revert_to_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="Health.apk" xml="" name="sleep_tip_default"
 ---------------------------------------------------------------------------------------
- <string name="sleep_tip_default">23:00 전에 잠자리에 들으십시오</string>
+ <string name="sleep_tip_default">23:00 전에 잠자리에 들으세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -559,7 +571,7 @@ folder="all" application="imssettings.apk" xml="" name="ims_settings_no_default_
 ---------------------------------------------------------------------------------------
 folder="all" application="imssettings.apk" xml="" name="ims_apn_value_invalid"
 ---------------------------------------------------------------------------------------
- <string name="ims_apn_value_invalid">APN을 입력하십시오.</string>
+ <string name="ims_apn_value_invalid">APN을 입력하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -655,7 +667,7 @@ folder="all" application="MiShare.apk" xml="" name="default_device_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
- <string name="signature_default_content">"항상 무언가를 믿는다 근사한 일이 일어날 것입니다"</string>
+ <string name="signature_default_content">"항상 무언가를 믿는다 근사한 일이 일어날 것입니다."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -799,19 +811,19 @@ folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_titl
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_choose_default_screen">선택하신 %1$d 화면을 홈화면으로 설정합니다</string>
+ <string name="announce_for_choose_default_screen">선택하신 %1$d 화면을 홈 화면으로 설정합니다.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_close_default_preview"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_close_default_preview">홈화면 선택 닫기</string>
+ <string name="announce_for_close_default_preview">홈 화면 선택 닫기</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_open_default_preview"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_open_default_preview">홈화면으로 선택한 페이지 열기</string>
+ <string name="announce_for_open_default_preview">홈 화면으로 선택한 페이지 열기</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -871,13 +883,13 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permiss
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
 ---------------------------------------------------------------------------------------
- <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다</string>
+ <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
 ---------------------------------------------------------------------------------------
- <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다</string>
+ <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -997,7 +1009,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_s
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlock_hint_text"
 ---------------------------------------------------------------------------------------
- <string name="default_lockscreen_unlock_hint_text">위로 밀어 잠금 해제</string>
+ <string name="default_lockscreen_unlock_hint_text">위로 밀어 잠금해제</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1015,7 +1027,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="keyguard_carrier_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
- <string name="launch_defaults_some">설정된 기본값이 있습니다</string>
+ <string name="launch_defaults_some">설정된 기본값이 있습니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1039,7 +1051,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_channel_desc"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_channel_desc">이 앱은 알림 카테고리가 없습니다</string>
+ <string name="notification_default_channel_desc">이 앱은 알림 카테고리가 없습니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1067,6 +1079,42 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">기본 설정</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">취소</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">기본 통화 차단 앱을 %s로 설정하시겠습니까?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s는 연락처에 없는 발신자에 대한 정보를 볼 수 있으며 이러한 통화를 차단할 수 있습니다. 신뢰할 수 있는 앱만 기본 통화 차단 앱으로 설정해야합니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s는 더 이상 전화를 걸 수 없습니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">기본으로 설정</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="subtitle_padding_default_hint">자막 조절 중…</string>
@@ -1087,13 +1135,13 @@ folder="all" application="MiuiVideo.apk" xml="" name="v_defaultsearch_name"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="small_video_author_des_default"
 ---------------------------------------------------------------------------------------
- <string name="small_video_author_des_default">멋진 일이 일어날 것으로 항상 생각합니다</string>
+ <string name="small_video_author_des_default">멋진 일이 일어날 것으로 항상 생각합니다.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="send_comment_default_txt"
 ---------------------------------------------------------------------------------------
- <string name="send_comment_default_txt">댓글을 입력하세요</string>
+ <string name="send_comment_default_txt">댓글을 입력하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1117,7 +1165,7 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="cast_tracks_chooser_
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
 ---------------------------------------------------------------------------------------
- <string name="com_facebook_tooltip_default">통제 할 수 있습니다 - 앱과 공유할 정보를 선택하십시오.</string>
+ <string name="com_facebook_tooltip_default">통제 할 수 있습니다 - 앱과 공유할 정보를 선택하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1189,13 +1237,13 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
 ---------------------------------------------------------------------------------------
- <string name="rcs_pref_video_message_default_quality">비디오 압축 옵션</string>
+ <string name="rcs_pref_video_message_default_quality">동영상 압축 옵션</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
- <string name="private_entry_default">아래로 밀어 개인 폴더를 엽니다</string>
+ <string name="private_entry_default">아래로 밀어 개인 폴더를 엽니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1429,13 +1477,13 @@ folder="all" application="MtkTeleService.apk" xml="" name="default_preference_su
 ---------------------------------------------------------------------------------------
 folder="all" application="MtkTeleService.apk" xml="" name="ip_prefix_edit_default_sum"
 ---------------------------------------------------------------------------------------
- <string name="ip_prefix_edit_default_sum">IP 다이얼의 접두 번호를 입력하십시오.</string>
+ <string name="ip_prefix_edit_default_sum">IP 다이얼의 접두 번호를 입력하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MtkTeleService.apk" xml="" name="default_call_switch_err_msg1"
 ---------------------------------------------------------------------------------------
- <string name="default_call_switch_err_msg1">통화 도중 기본 설정 SIM을 전환 할 수 없습니다.</string>
+ <string name="default_call_switch_err_msg1">통화 도중 기본 설정 SIM을 전환할 수 없습니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1609,7 +1657,7 @@ folder="all" application="PersonalAssistant.apk" xml="" name="display_temperatur
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
- <string name="display_weather_default">날씨 정보를 얻으시려면 탭하세요</string>
+ <string name="display_weather_default">날씨 정보를 얻으시려면 탭하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1989,13 +2037,13 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_set_jeejen_message">Jeejen을 설정하려면 홈버튼을 누르세요</string>
+ <string name="default_launcher_set_jeejen_message">Jeejen을 설정하려면 홈 버튼을 누르세요.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_set_system_message">기본 런처를 복원하려면 홈버튼을 누르세요</string>
+ <string name="default_launcher_set_system_message">기본 런처를 복원하려면 홈 버튼을 누르세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2037,7 +2085,7 @@ folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterpri
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_summary">백그라운드 연결을 제한하면 새 앱을 설치 한 후에 백그라운드에서 인터넷에 연결할 수 없습니다. 이 후에는 메시지를 수신하거나 콘텐츠를 다운로드 할 수 없습니다. 계속하시겠습니까?</string>
+ <string name="firewall_set_bg_firewall_default_dialog_summary">백그라운드 연결을 제한하면 새 앱을 설치 한 후에 백그라운드에서 인터넷에 연결할 수 없습니다. 이 후에는 메시지를 수신하거나 콘텐츠를 다운로드할 수 없습니다. 계속하시겠습니까?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2085,7 +2133,7 @@ folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="usb_default_info"
 ---------------------------------------------------------------------------------------
- <string name="usb_default_info">다른 장치가 연결되어 있고 휴대폰 잠금이 해제되면이 설정이 적용됩니다. 신뢰할 수있는 장치에만 연결하십시오.</string>
+ <string name="usb_default_info">다른 장치가 연결되어 있고 휴대전화 잠금이 해제되면이 설정이 적용됩니다. 신뢰할 수 있는 장치에만 연결하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2109,7 +2157,7 @@ folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_def
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
 ---------------------------------------------------------------------------------------
- <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터 수집이 시작될 수 있습니다. 어쨌든 설정 하시겠습니까?</string>
+ <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터 수집이 시작될 수 있습니다. 그래도 설정하시겠습니까?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2175,7 +2223,7 @@ folder="all" application="Settings.apk" xml="" name="overlay_option_device_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
- <string name="reset_default_apn_failed">기본 APN 재설정 실패</string>
+ <string name="reset_default_apn_failed">기본 APN 다시 설정 실패</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2200,6 +2248,60 @@ folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 folder="all" application="Settings.apk" xml="" name="default_keyboard"
 ---------------------------------------------------------------------------------------
  <string name="default_keyboard">기본</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_autoclick_default_title"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_autoclick_default_title">끄기</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">기기 기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
+---------------------------------------------------------------------------------------
+ <string name="default_digital_assistant_title">기본 디지털 어시스턴트 앱</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="graphics_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="graphics_driver_app_preference_default">기본값</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_label"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_update_default_label">기본 결제 앱 업데이트</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_disabled_title">기본 비활성화 된 변경 사항</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_enabled_title">기본적으로 활성화 된 변경</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s/ %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="system_default_app_subtext"
+---------------------------------------------------------------------------------------
+ <string name="system_default_app_subtext">시스템 기본값</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2271,7 +2373,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_warning_message">%s 앱은 통화에 관련된 모든 측면을 제어할 수 있게 됩니다. 신뢰할 수 있는 앱만 기본 전화 앱으로 사용하십시오.</string>
+ <string name="change_default_dialer_warning_message">%s 앱은 통화에 관련된 모든 측면을 제어할 수 있게 됩니다. 신뢰할 수 있는 앱만 기본 전화 앱으로 사용하세요.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2361,7 +2463,7 @@ folder="all" application="TeleService.apk" xml="" name="default_preference_summa
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_call_switch_err_msg1"
 ---------------------------------------------------------------------------------------
- <string name="default_call_switch_err_msg1">통화 도중 기본 설정 SIM을 전환 할 수 없습니다.</string>
+ <string name="default_call_switch_err_msg1">통화 도중 기본 설정 SIM을 전환할 수 없습니다.</string>
 
 
 ---------------------------------------------------------------------------------------

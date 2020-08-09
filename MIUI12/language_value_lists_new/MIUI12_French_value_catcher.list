@@ -1819,7 +1819,7 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_def
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
 ---------------------------------------------------------------------------------------
- <string name="document_default_location">Default storage location:</string>
+ <string name="document_default_location">"Files will be saved to "</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2234,6 +2234,18 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 folder="all" application="QuickSearchBox.apk" xml="" name="default_corpora"
 ---------------------------------------------------------------------------------------
  <string-array name="default_corpora"> <item>web</item> <item>conseils</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_custom_texture_value"
+---------------------------------------------------------------------------------------
+ <string-array name="gb_gpu_custom_texture_value"> <item>Fastest</item> <item>Balanced</item> <item>Default</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_default"
+---------------------------------------------------------------------------------------
+ <string name="gb_gpu_resolution_default">Default</string>
 
 
 ---------------------------------------------------------------------------------------

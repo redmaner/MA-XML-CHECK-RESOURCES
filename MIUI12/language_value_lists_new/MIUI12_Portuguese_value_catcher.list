@@ -545,6 +545,12 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_def
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">"Os ficheiros vão ser guardados em "</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Opção predefinida</string>

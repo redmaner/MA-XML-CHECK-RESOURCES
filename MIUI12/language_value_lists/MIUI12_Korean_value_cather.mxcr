@@ -3,6 +3,8 @@ all Bluetooth.apk strings.xml map_defaultname
 all Bluetooth.apk strings.xml map_defaultnumber
 all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml status_no_sd_card_default
+all Bluetooth.apk strings.xml switch_audio_device_default
+all Bluetooth.apk strings.xml switch_audio_device_default_summary
 all Browser.apk strings.xml download_dialog_file_length_default_txt
 all Browser.apk strings.xml mw_js_dialog_title_default
 all Browser.apk strings.xml topic_content_default
@@ -176,6 +178,12 @@ all MiuiSystemUI.apk strings.xml notification_header_default_channel
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_description
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_name
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_affirmative
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_negative
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_title
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_warning_message
+all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_warning_message_for_disable_old_app
+all MiuiTelecomOverlay.apk strings.xml change_default_dialer_dialog_affirmative
 all MiuiVideo.apk strings.xml subtitle_padding_default_hint
 all MiuiVideo.apk strings.xml alert_dialog_download_default_title
 all MiuiVideo.apk strings.xml v_defaultsearch_name
@@ -365,6 +373,15 @@ all Settings.apk strings.xml theme_customization_device_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
 all Settings.apk strings.xml default_suppression_title
 all Settings.apk strings.xml default_keyboard
+all Settings.apk strings.xml accessibility_autoclick_default_title
+all Settings.apk strings.xml cached_apps_freezer_device_default
+all Settings.apk strings.xml default_digital_assistant_title
+all Settings.apk strings.xml graphics_driver_app_preference_default
+all Settings.apk strings.xml nfc_payment_update_default_label
+all Settings.apk strings.xml platform_compat_default_disabled_title
+all Settings.apk strings.xml platform_compat_default_enabled_title
+all Settings.apk strings.xml preference_summary_default_combination
+all Settings.apk strings.xml system_default_app_subtext
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
