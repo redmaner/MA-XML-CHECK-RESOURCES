@@ -439,7 +439,7 @@ folder="all" application="FileExplorer.apk" xml="" name="msg_page_video_default_
 ---------------------------------------------------------------------------------------
 folder="all" application="FindDevice.apk" xml="" name="default_debt_msg_words"
 ---------------------------------------------------------------------------------------
- <string name="default_debt_msg_words">"할부금 미납으로 휴대전화가 잠겼습니다. 판매자에게 연락하세요."</string>
+ <string name="default_debt_msg_words">"할부금 미납으로 휴대전화가 잠겼습니다. 판매자에게 연락해주세요."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -673,7 +673,7 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 ---------------------------------------------------------------------------------------
 folder="all" application="miui.apk" xml="" name="security_share_subtitle_default"
 ---------------------------------------------------------------------------------------
- <string name="security_share_subtitle_default">개인 정보 보호</string>
+ <string name="security_share_subtitle_default">개인정보 보호</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -781,7 +781,7 @@ folder="all" application="MiuiGallery.apk" xml="" name="mark_myself_default_name
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
 ---------------------------------------------------------------------------------------
- <string name="security_share_subtitle_default">개인 정보 보호</string>
+ <string name="security_share_subtitle_default">개인정보 보호</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -805,13 +805,13 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_screen_preview_title"
 ---------------------------------------------------------------------------------------
- <string name="default_screen_preview_title">기본화면으로 설정</string>
+ <string name="default_screen_preview_title">기본 화면으로 설정</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="announce_for_choose_default_screen"
 ---------------------------------------------------------------------------------------
- <string name="announce_for_choose_default_screen">선택하신 %1$d 화면을 홈 화면으로 설정합니다.</string>
+ <string name="announce_for_choose_default_screen">선택한 %1$d 화면을 홈 화면으로 설정합니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -847,7 +847,7 @@ folder="all" application="MiuiHome.apk" xml="" name="all_app_category_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_microsoft"
 ---------------------------------------------------------------------------------------
- <string name="default_folder_title_microsoft">마이크로소프트</string>
+ <string name="default_folder_title_microsoft">Microsoft</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1079,6 +1079,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUiPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">컨트롤</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_affirmative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_call_screening_dialog_affirmative">기본 설정</string>
@@ -1099,7 +1105,7 @@ folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_ca
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_warning_message">%s는 연락처에 없는 발신자에 대한 정보를 볼 수 있으며 이러한 통화를 차단할 수 있습니다. 신뢰할 수 있는 앱만 기본 통화 차단 앱으로 설정해야합니다.</string>
+ <string name="change_default_call_screening_warning_message">%s는 연락처에 없는 발신자에 대한 정보를 볼 수 있으며 이러한 통화를 차단할 수 있습니다. 신뢰할 수 있는 앱만 기본 통화 차단 앱으로 설정해야 합니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1423,7 +1429,7 @@ folder="all" application="MtkTeleService.apk" xml="" name="tts_default_lang_titl
 ---------------------------------------------------------------------------------------
 folder="all" application="MtkTeleService.apk" xml="" name="tts_default_pitch_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">합성 된 음성의 톤에 영향을줍니다.</string>
+ <string name="tts_default_pitch_summary">합성된 음성의 톤에 영향을줍니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1795,19 +1801,19 @@ folder="all" application="Photos.apk" xml="" name="photos_actor_default_display_
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">"이 기능을 사용하기 전에 Facemoji 개인 정보 취급 방침에 동의해야합니다."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">"이 기능을 사용하기 전에 Facemoji 개인정보 취급 방침에 동의해야 합니다."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">"이 기능을 사용하기 전에 Kika 개인 정보 취급 방침에 동의해야합니다."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">"이 기능을 사용하기 전에 Kika 개인정보 취급 방침에 동의해야 합니다."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_mint">"  이 기능을 사용하기 전에 민트 키보드 개인 정보 보호 정책에 동의해야합니다."</string>
+ <string name="terms_of_use_lable_default_input_method_mint">"  이 기능을 사용하기 전에 민트 키보드 개인정보 보호 정책에 동의해야 합니다."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1831,7 +1837,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_c
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_open_summary"
 ---------------------------------------------------------------------------------------
- <string name="app_manager_default_open_summary">이 앱을 몇몇 작업의 기본 실행 앱으로 선택하셨습니다.</string>
+ <string name="app_manager_default_open_summary">이 앱을 일부 작업의 기본 실행 앱으로 선택했습니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1887,7 +1893,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="first_settings_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
- <string name="daily_card_setting_fragment_daily_card_brand_value">이동 통신사 선택</string>
+ <string name="daily_card_setting_fragment_daily_card_brand_value">이동통신사 선택</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2049,7 +2055,7 @@ folder="all" application="Settings.apk" xml="" name="default_launcher_set_system
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_launcher_title"
 ---------------------------------------------------------------------------------------
- <string name="default_launcher_title">기본 런쳐</string>
+ <string name="default_launcher_title">기본 런처</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2085,7 +2091,7 @@ folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterpri
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_summary">백그라운드 연결을 제한하면 새 앱을 설치 한 후에 백그라운드에서 인터넷에 연결할 수 없습니다. 이 후에는 메시지를 수신하거나 콘텐츠를 다운로드할 수 없습니다. 계속하시겠습니까?</string>
+ <string name="firewall_set_bg_firewall_default_dialog_summary">백그라운드 연결을 제한하면 새 앱을 설치 한 후에 백그라운드에서 인터넷에 연결할 수 없습니다. 이 후에는 메시지를 수신하거나 컨텐츠를 다운로드할 수 없습니다. 계속하시겠습니까?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2223,7 +2229,7 @@ folder="all" application="Settings.apk" xml="" name="overlay_option_device_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
- <string name="reset_default_apn_failed">기본 APN 다시 설정 실패</string>
+ <string name="reset_default_apn_failed">기본 APN 초기화 실패</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2283,13 +2289,13 @@ folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
 ---------------------------------------------------------------------------------------
- <string name="platform_compat_default_disabled_title">기본 비활성화 된 변경 사항</string>
+ <string name="platform_compat_default_disabled_title">기본 비활성화된 변경사항</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
 ---------------------------------------------------------------------------------------
- <string name="platform_compat_default_enabled_title">기본적으로 활성화 된 변경</string>
+ <string name="platform_compat_default_enabled_title">기본적으로 활성화된 변경</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2409,7 +2415,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_call_screenin
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_call_screening_warning_message"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_warning_message">%s는 연락처에 없는 발신자에 대한 정보를 볼 수 있으며 이러한 통화를 차단할 수 있습니다. 신뢰할 수 있는 앱만 기본 통화 차단 앱으로 설정해야합니다.</string>
+ <string name="change_default_call_screening_warning_message">%s는 연락처에 없는 발신자에 대한 정보를 볼 수 있으며 이러한 통화를 차단할 수 있습니다. 신뢰할 수 있는 앱만 기본 통화 차단 앱으로 설정해야 합니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2553,7 +2559,7 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_lang_title"
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="tts_default_pitch_summary"
 ---------------------------------------------------------------------------------------
- <string name="tts_default_pitch_summary">합성 된 음성의 톤에 영향을 미칩니다.</string>
+ <string name="tts_default_pitch_summary">합성된 음성의 톤에 영향을 미칩니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2583,13 +2589,13 @@ folder="all" application="Traceur.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_content">파일 다운로더가 실행 중입니다.</string>
+ <string name="default_filedownloader_notification_content">파일을 다운로드 중입니다.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_title">파일 다운로더</string>
+ <string name="default_filedownloader_notification_title">파일 다운로드</string>
 
 
 ---------------------------------------------------------------------------------------

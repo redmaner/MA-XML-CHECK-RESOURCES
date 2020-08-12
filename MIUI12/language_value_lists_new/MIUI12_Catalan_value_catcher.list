@@ -11,6 +11,18 @@ folder="all" application="Bluetooth.apk" xml="" name="status_no_sd_card_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default">Predeterminada</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default_summary">Dispositiu utilitzat en aquest moment</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="browser_default_setting_cancel"
 ---------------------------------------------------------------------------------------
  <string name="browser_default_setting_cancel">Cancel·la</string>
@@ -869,6 +881,42 @@ folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_ti
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_affirmative">Establir com a defecte</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_negative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_negative">Cancel · lar</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_dialog_title">Feu %s vostra aplicació de selecció de trucades predeterminada?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message">%s podrà veure informació sobre les persones que truquen als contactes i podrà bloquejar aquestes trucades. Només les aplicacions de confiança s\'han de definir com a aplicació predeterminada de selecció de trucades.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message_for_disable_old_app"
+---------------------------------------------------------------------------------------
+ <string name="change_default_call_screening_warning_message_for_disable_old_app">%s ja no podrà seleccionar les trucades.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_dialer_dialog_affirmative"
+---------------------------------------------------------------------------------------
+ <string name="change_default_dialer_dialog_affirmative">Establir com a defecte</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
  <string name="alert_dialog_download_default_title">Baixar l\'aplicació</string>
@@ -1118,6 +1166,12 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
 ---------------------------------------------------------------------------------------
  <string name="terms_of_use_lable_default_input_method_mint">" Heu d’acceptar la Política de privadesa del teclat Mint Keyboard abans d’utilitzar aquesta funció."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_custom_texture_value"
+---------------------------------------------------------------------------------------
+ <string-array name="gb_gpu_custom_texture_value"> <item>Màxima ràpidesa</item> <item>Equilibrat</item> <item>Per defecte</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

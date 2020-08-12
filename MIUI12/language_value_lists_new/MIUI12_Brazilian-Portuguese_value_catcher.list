@@ -407,6 +407,12 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Dispositivo desconhecido</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
 ---------------------------------------------------------------------------------------
  <string name="preference_value_create_shortcut">Criar</string>
@@ -764,6 +770,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">Modo %s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Controles</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1448,6 +1460,18 @@ folder="all" application="Settings.apk" xml="" name="default_keyboard"
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Personalizado</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+<string name="smart_home_value_none">Nenhum</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+<string name="smart_home_value_unknown">Desconhecido</string>
 
 
 ---------------------------------------------------------------------------------------

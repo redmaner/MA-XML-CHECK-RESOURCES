@@ -1074,6 +1074,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Kontrole</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
  <string name="alert_dialog_download_default_title">Preuzmi aplikaciju</string>
@@ -2091,6 +2097,18 @@ folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_def
 folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="zen_mode_custom_behavior_summary_default">Upotrijebi zadane postavke</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Ništa</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Nepoznato</string>
 
 
 ---------------------------------------------------------------------------------------

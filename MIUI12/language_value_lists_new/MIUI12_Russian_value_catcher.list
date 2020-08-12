@@ -317,6 +317,444 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Неизвестно</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
+---------------------------------------------------------------------------------------
+ <string name="tether_limit_value_custom">Особый</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">серия</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_focus"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">фокус</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_record"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">запись</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_value_default">Откл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_pro_video_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_pro_video_volumekey_function_default">затвор</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">серия</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_focus"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">фокус</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_record"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">запись</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value_abbr">EV</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Выкл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Видео</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Фото</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_value_title">Приближение</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_value_default">Откл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Рингтон</item> <item>Мультимедиа</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="handy_mode_size_value_entries"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Насыщенные</item> <item>Светлые</item> <item>Черный и белый</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="vip_mode_value"
+---------------------------------------------------------------------------------------
+ <string-array name="vip_mode_value"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Насыщенные</item> <item>Светлые</item> <item>Черный и белый</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_summary_default_combination">%2$s: %1$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="account_dashboard_default_summary">Аккаунтов нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
+---------------------------------------------------------------------------------------
+ <string name="app_default_dashboard_title">Приложения по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_default_title">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_summary_default">Уровень яркости по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="cutout_mode_default">Автоматически</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_calendar_app_title">Календарь</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_contacts_app_title">Контакты</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">По умолчанию для вызовов</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">По умолчанию для вызовов и SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">По умолчанию для мобильного интернета</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">По умолчанию для SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">Нажмите кнопку \"Домой\" для настройки Jeejen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">Нажмите кнопку \"Домой\" для восстановления рабочего стола по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_title"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_title">Рабочий стол</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_map_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_map_app_title">Карты</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">Адаптивные уведомления</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_rule_name"
+---------------------------------------------------------------------------------------
+ <string name="default_rule_name">Таймер 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">По умолчанию (рекомендуется)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
+---------------------------------------------------------------------------------------
+ <string name="default_vol_stream_title">Регулировка громкости</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="enterprise_privacy_enterprise_set_default_apps">Приложения по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_summary">При ограничении фоновых подключений новые приложения не смогут подключиться к Интернету в фоновом режиме после их установки. Они больше не смогут получать сообщения или обновлять данные. Ограничить подключения?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_title">Ограничение для новых приложений</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="help_uri_default"
+---------------------------------------------------------------------------------------
+ <string name="help_uri_default" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Открыть с помощью</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">по умолчанию, браузер по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">оплата, по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="media_output_default_summary">Это устройство</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">Сторонний браузер, установленный по умолчанию, может собирать историю просмотров и другие данные. Установить в любом случае?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">Звук и вибрация разрешены</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Звук и вибрация</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
+---------------------------------------------------------------------------------------
+ <string name="notification_importance_default_title">Высокий</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Звук уведомления по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">Ошибка сброса APN по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">Эти настройки будут применены, когда подключено другое устройство и ваш телефон разблокирован. Подключайтесь только к доверенным устройствам.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">Конфигурация USB по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_settings_summary_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Использовать настройки по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Неизвестно</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Особый</string>
@@ -641,6 +1079,18 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Неизвестно</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Особый</string>
@@ -965,6 +1415,444 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Неизвестно</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
+---------------------------------------------------------------------------------------
+ <string name="tether_limit_value_custom">Особый</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">серия</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_focus"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">фокус</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_record"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">запись</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_value_default">Откл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_pro_video_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_pro_video_volumekey_function_default">затвор</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">серия</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_focus"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">фокус</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_record"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">запись</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value_abbr">EV</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Выкл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Видео</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Фото</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_value_title">Приближение</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_hdr_value_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_hdr_value_default">Откл.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="default_vol_stream_entries"> <item>Рингтон</item> <item>Мультимедиа</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
+---------------------------------------------------------------------------------------
+ <string-array name="handy_mode_size_value_entries"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Насыщенные</item> <item>Светлые</item> <item>Черный и белый</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="vip_mode_value"
+---------------------------------------------------------------------------------------
+ <string-array name="vip_mode_value"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="paper_color_values"
+---------------------------------------------------------------------------------------
+ <string-array name="paper_color_values"> <item>Насыщенные</item> <item>Светлые</item> <item>Черный и белый</item> </string-array> 
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_summary_default_combination">%2$s: %1$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_timeout_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="account_dashboard_default_summary">Аккаунтов нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="app_default_dashboard_title"
+---------------------------------------------------------------------------------------
+ <string name="app_default_dashboard_title">Приложения по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_default_title"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_default_title">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="auto_brightness_summary_default">Уровень яркости по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="cutout_mode_default">Автоматически</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_calendar_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_calendar_app_title">Календарь</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_contacts_app_title">Контакты</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls">По умолчанию для вызовов</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_calls_and_sms">По умолчанию для вызовов и SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
+---------------------------------------------------------------------------------------
+ <string name="default_for_mobile_data">По умолчанию для мобильного интернета</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_for_sms"
+---------------------------------------------------------------------------------------
+ <string name="default_for_sms">По умолчанию для SMS</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_jeejen_message">Нажмите кнопку \"Домой\" для настройки Jeejen</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_set_system_message">Нажмите кнопку \"Домой\" для восстановления рабочего стола по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_launcher_title"
+---------------------------------------------------------------------------------------
+ <string name="default_launcher_title">Рабочий стол</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_map_app_title"
+---------------------------------------------------------------------------------------
+ <string name="default_map_app_title">Карты</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_notification_assistant"
+---------------------------------------------------------------------------------------
+ <string name="default_notification_assistant">Адаптивные уведомления</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_rule_name"
+---------------------------------------------------------------------------------------
+ <string name="default_rule_name">Таймер 1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_suppression_title"
+---------------------------------------------------------------------------------------
+ <string name="default_suppression_title">По умолчанию (рекомендуется)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_theme"
+---------------------------------------------------------------------------------------
+ <string name="default_theme">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_vol_stream_title"
+---------------------------------------------------------------------------------------
+ <string name="default_vol_stream_title">Регулировка громкости</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
+---------------------------------------------------------------------------------------
+ <string name="enterprise_privacy_enterprise_set_default_apps">Приложения по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_summary">При ограничении фоновых подключений новые приложения не смогут подключиться к Интернету в фоновом режиме после их установки. Они больше не смогут получать сообщения или обновлять данные. Ограничить подключения?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
+---------------------------------------------------------------------------------------
+ <string name="firewall_set_bg_firewall_default_dialog_title">Ограничение для новых приложений</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="game_driver_app_preference_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="help_uri_default"
+---------------------------------------------------------------------------------------
+ <string name="help_uri_default" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="importance_default"
+---------------------------------------------------------------------------------------
+ <string name="importance_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_app_default"
+---------------------------------------------------------------------------------------
+ <string name="keywords_app_default">Открыть с помощью</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">по умолчанию, браузер по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">оплата, по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="media_output_default_summary">Это устройство</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
+---------------------------------------------------------------------------------------
+ <string name="modify_default_browser_message">Сторонний браузер, установленный по умолчанию, может собирать историю просмотров и другие данные. Установить в любом случае?</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
+---------------------------------------------------------------------------------------
+ <string name="notifi_importance_default">Звук и вибрация разрешены</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_channel_summary_default">Звук и вибрация</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_importance_default_title"
+---------------------------------------------------------------------------------------
+ <string name="notification_importance_default_title">Высокий</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="notification_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="notification_sound_default">Звук уведомления по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="overlay_option_device_default"
+---------------------------------------------------------------------------------------
+ <string name="overlay_option_device_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
+---------------------------------------------------------------------------------------
+ <string name="reset_default_apn_failed">Ошибка сброса APN по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
+---------------------------------------------------------------------------------------
+ <string name="slider_vocie_online_default">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
+---------------------------------------------------------------------------------------
+ <string name="theme_customization_device_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">Эти настройки будут применены, когда подключено другое устройство и ваш телефон разблокирован. Подключайтесь только к доверенным устройствам.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">Конфигурация USB по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="wallpaper_settings_summary_default">По умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="zen_mode_custom_behavior_summary_default">Использовать настройки по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Неизвестно</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Особый</string>
@@ -1289,6 +2177,18 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Неизвестно</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Особый</string>
@@ -1610,6 +2510,18 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="zen_mode_custom_behavior_summary_default">Использовать настройки по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Неизвестно</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2285,12 +3197,6 @@ folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_toolbar_d
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiDrive.apk" xml="" name="alarm_sound_default"
----------------------------------------------------------------------------------------
- <string name="alarm_sound_default">По умолчанию</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
  <string name="cloud_storage_default_title">Облачное хранилище</string>
@@ -2300,18 +3206,6 @@ folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
 folder="all" application="MiDrive.apk" xml="" name="exception_default"
 ---------------------------------------------------------------------------------------
  <string name="exception_default">Системная ошибка. Повторите попытку позже.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiDrive.apk" xml="" name="notification_sound_default"
----------------------------------------------------------------------------------------
- <string name="notification_sound_default">По умолчанию</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiDrive.apk" xml="" name="ringtone_default"
----------------------------------------------------------------------------------------
- <string name="ringtone_default">По умолчанию</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2372,6 +3266,12 @@ folder="all" application="MiSettings.apk" xml="" name="restore_default"
 folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 ---------------------------------------------------------------------------------------
  <string name="hsv_space_color_value">Значение</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Неизвестное устройство</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2495,18 +3395,6 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_circle"
----------------------------------------------------------------------------------------
- <string name="pref_camera_tilt_shift_entryvalue_circle">круг</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_parallel"
----------------------------------------------------------------------------------------
- <string name="pref_camera_tilt_shift_entryvalue_parallel">параллель</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 ---------------------------------------------------------------------------------------
  <string name="custom_sound_default">По умолчанию</string>
@@ -2564,18 +3452,6 @@ folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_ta
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_snap_value_take_picture">Фото</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_circle"
----------------------------------------------------------------------------------------
- <string name="pref_camera_tilt_shift_entryvalue_circle">круг</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_parallel"
----------------------------------------------------------------------------------------
- <string name="pref_camera_tilt_shift_entryvalue_parallel">параллель</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2773,7 +3649,7 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_def
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
 ---------------------------------------------------------------------------------------
- <string name="document_default_location">Путь по умолчанию:</string>
+ <string name="document_default_location">"Файлы будут сохранены в "</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2912,6 +3788,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="quick_settings_cast_dev
 folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_settings_rotation_value"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_quick_settings_rotation_value">%s ориентация</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Элементы управления</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3728,6 +4610,18 @@ folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_
 folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="zen_mode_custom_behavior_summary_default">Использовать настройки по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Нет</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Неизвестно</string>
 
 
 ---------------------------------------------------------------------------------------

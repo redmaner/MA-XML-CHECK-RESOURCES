@@ -1499,6 +1499,12 @@ folder="all" application="MiSettings.apk" xml="" name="restore_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Unknown device</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
 ---------------------------------------------------------------------------------------
  <string name="preference_value_create_shortcut">Créer</string>
@@ -1598,6 +1604,12 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title
 folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
 ---------------------------------------------------------------------------------------
  <string name="tts_default_sample_string">This is an example of speech synthesis</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBugReport.apk" xml="" name="module_default_json"
+---------------------------------------------------------------------------------------
+ <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Crashes &amp; reboots\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Heating\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobile networks\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Other errors\",\"categoryId\":10,\"order\":2}]</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1961,6 +1973,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Controls</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
  <string name="alert_dialog_download_default_title">"Télécharger l'application"</string>
@@ -2299,19 +2317,19 @@ folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_camera_title">Share without metadata by default</string>
+ <string name="first_settings_default_camera_title">Partager sans métadonnées par défaut</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_location_subtitle">Remove location info from shared photos</string>
+ <string name="first_settings_default_location_subtitle">Supprimer les informations de localisation des photos partagées</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_location_title">Share without location info by default</string>
+ <string name="first_settings_default_location_title">Partager sans informations de localisation par défaut</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2696,6 +2714,18 @@ folder="all" application="Settings.apk" xml="" name="usb_default_label"
 folder="all" application="Settings.apk" xml="" name="wallpaper_settings_summary_default"
 ---------------------------------------------------------------------------------------
  <string name="wallpaper_settings_summary_default">Par défaut</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Aucun</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Inconnu</string>
 
 
 ---------------------------------------------------------------------------------------

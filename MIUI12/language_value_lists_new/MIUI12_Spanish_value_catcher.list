@@ -1859,6 +1859,12 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_currenc
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Valor total</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>primer lunes</item> <item>primer martes</item> <item>primer miércoles</item> <item>primer jueves</item> <item>primer viernes</item> <item>primer sábado</item> <item>primer domingo</item> <item>segundo lunes</item> <item>segundo martes</item> <item>segundo miércoles</item> <item>segundo jueves</item> <item>segundo viernes</item> <item>segundo sábado</item> <item>segundo domingo</item> <item>tercer lunes</item> <item>tercer martes</item> <item>tercer miércoles</item> <item>tercer jueves</item> <item>tercer viernes</item> <item>tercer sábado</item> <item>tercer domingo</item> <item>cuarto lunes</item> <item>cuarto martes</item> <item>cuarto miércoles</item> <item>cuarto jueves</item> <item>cuarto viernes</item> <item>cuarto sábado</item> <item>cuarto domingo</item> <item>último lunes</item> <item>último martes</item> <item>último miércoles</item> <item>último jueves</item> <item>último viernes</item> <item>último sábado</item> <item>último domingo</item> </string-array>
@@ -2270,6 +2276,12 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
 ---------------------------------------------------------------------------------------
  <string name="pref_camera_zoom_value_title">Zoom</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">Predeterminado</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2861,6 +2873,12 @@ folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PermissionController.apk" xml="" name="request_role_set_as_default"
+---------------------------------------------------------------------------------------
+ <string name="request_role_set_as_default">Establecer</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel"
 ---------------------------------------------------------------------------------------
  <string name="flybird_default_channel">Método de pago predeterminado</string>
@@ -2993,9 +3011,33 @@ folder="all" application="QuickSearchBox.apk" xml="" name="reader_history_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="alarm_repeat_type_no_workdays_values"
+---------------------------------------------------------------------------------------
+ <integer-array name="alarm_repeat_type_no_workdays_values"> <item>0</item> <item>1</item> <item>3</item> <item>4</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="alarm_repeat_type_values"
+---------------------------------------------------------------------------------------
+ <integer-array name="alarm_repeat_type_values"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
 ---------------------------------------------------------------------------------------
  <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="alarm_repeat_type_no_workdays_values"
+---------------------------------------------------------------------------------------
+ <integer-array name="alarm_repeat_type_no_workdays_values"> <item>0</item> <item>1</item> <item>3</item> <item>4</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="alarm_repeat_type_values"
+---------------------------------------------------------------------------------------
+ <integer-array name="alarm_repeat_type_values"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </integer-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -3317,9 +3359,21 @@ folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="charge_animation_style_values"
+---------------------------------------------------------------------------------------
+ <string-array name="charge_animation_style_values"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="handy_mode_size_value_entries"
 ---------------------------------------------------------------------------------------
  <string-array name="handy_mode_size_value_entries"> <item>4.5</item> <item>4.0</item> <item>3.5</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="charge_animation_style_values"
+---------------------------------------------------------------------------------------
+ <string-array name="charge_animation_style_values"> <item>0</item> <item>1</item> <item>2</item> <item>3</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -3457,7 +3511,7 @@ folder="all" application="Settings.apk" xml="" name="accessibility_timeout_defau
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
 ---------------------------------------------------------------------------------------
- <string name="account_dashboard_default_summary">"No se han agregado cuentas"</string>
+ <string name="account_dashboard_default_summary">No se han añadido cuentas</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3703,7 +3757,7 @@ folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
- <string name="slider_vocie_online_default">"Ninguna"</string>
+ <string name="slider_vocie_online_default">Ninguno</string>
 
 
 ---------------------------------------------------------------------------------------

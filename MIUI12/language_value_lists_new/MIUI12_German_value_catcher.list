@@ -995,6 +995,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_dev
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Steuerelemente</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiVideo.apk" xml="" name="alert_dialog_download_default_title"
 ---------------------------------------------------------------------------------------
  <string name="alert_dialog_download_default_title">App herunterladen</string>

@@ -977,6 +977,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_dev
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Kontroller</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_affirmative"
 ---------------------------------------------------------------------------------------
  <string name="change_default_call_screening_dialog_affirmative">Varsayılan olarak ayarla</string>
