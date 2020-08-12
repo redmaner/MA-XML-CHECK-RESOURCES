@@ -1986,7 +1986,10 @@ all TeleService.apk strings.xml preference_summary_default_combination
 all TeleService.apk strings.xml clh_callFailed_invalid_transaction_identifier_value_txt
 all Bluetooth.apk strings.xml bt_sm_2_1_default
 all Bluetooth.apk strings.xml status_no_sd_card_default
+all Bluetooth.apk strings.xml switch_audio_device_default
+all Bluetooth.apk strings.xml switch_audio_device_default_summary
 all Browser.apk strings.xml download_dialog_file_length_default_txt
+all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml default_reminder_later_time_labels
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
@@ -2173,6 +2176,7 @@ all PersonalAssistantGlobal.apk strings.xml setting_uber_default_way
 all PersonalAssistantGlobal.apk strings.xml upgrade_log_default
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
+all SecurityAdd.apk strings.xml gb_gpu_resolution_default
 all SecurityCenter.apk strings.xml app_manager_default_close_summary
 all SecurityCenter.apk strings.xml app_manager_default_open
 all SecurityCenter.apk strings.xml app_manager_default_open_summary

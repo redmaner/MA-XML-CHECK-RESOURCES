@@ -308,6 +308,7 @@ all Calculator.apk strings.xml ln_mathematical_value
 all Calculator.apk strings.xml sin_mathematical_value
 all Calculator.apk strings.xml tan_mathematical_value
 all Calculator.apk strings.xml unit_data_default_currency_0
+all Calculator.apk strings.xml label_total_value
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk arrays.xml repeat_monthly_on_day_count_values
 all Calendar.apk strings.xml default_reminder_later_time
@@ -377,6 +378,7 @@ all MiuiAccessibility.apk strings.xml preference_value_has_shortcut
 all MiuiAod.apk strings.xml signature_default_content
 all MiuiBugReport.apk strings.xml default_text_view
 all MiuiCamera.apk strings.xml pref_camera_zoom_value_title
+all MiuiCamera.apk strings.xml custom_sound_default
 all MiuiCamera.apk strings.xml pref_camera_snap_value_off
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_movie
 all MiuiCamera.apk strings.xml pref_camera_snap_value_take_picture
@@ -475,6 +477,7 @@ all Notes.apk strings.xml todo_audio_default_content
 all NotificationCenter.apk strings.xml default_list_type
 all NotificationCenter.apk strings.xml default_list_type
 all NQNfcNci.apk strings.xml default_pay_app_removed
+all PermissionController.apk strings.xml request_role_set_as_default
 all PersonalAssistant.apk strings.xml flybird_default_channel
 all PersonalAssistant.apk strings.xml flybird_default_channel_main
 all PersonalAssistant.apk strings.xml flybird_setting_use_default
@@ -497,7 +500,11 @@ all QuickSearchBox.apk strings.xml default_hf_hint
 all QuickSearchBox.apk strings.xml download_dialog_default_path_invalid
 all QuickSearchBox.apk strings.xml hint_default
 all QuickSearchBox.apk strings.xml reader_history_default_subtitle
+all SecurityCenter.apk arrays.xml alarm_repeat_type_no_workdays_values
+all SecurityCenter.apk arrays.xml alarm_repeat_type_values
 all SecurityCenter.apk arrays.xml lock_mode_value
+all SecurityCenter.apk arrays.xml alarm_repeat_type_no_workdays_values
+all SecurityCenter.apk arrays.xml alarm_repeat_type_values
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
 all SecurityCenter.apk strings.xml tc_diagnostic_fragment_default
 all SecurityCenter.apk strings.xml cpu_usage_app_bg_restrict_default
@@ -551,7 +558,9 @@ all SecurityCoreAdd.apk strings.xml xspace_default_guide_notification_xspace_tit
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_dialog_title
 all SecurityCoreAdd.apk strings.xml xspace_default_setting_label
 all Settings.apk arrays.xml default_vol_stream_entries
+all Settings.apk arrays.xml charge_animation_style_values
 all Settings.apk arrays.xml handy_mode_size_value_entries
+all Settings.apk arrays.xml charge_animation_style_values
 all Settings.apk strings.xml app_default_dashboard_title
 all Settings.apk strings.xml auto_brightness_default_title
 all Settings.apk strings.xml auto_brightness_summary_default
