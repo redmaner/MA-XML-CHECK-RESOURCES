@@ -2147,6 +2147,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Các điều khiển</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_warning_message"
 ---------------------------------------------------------------------------------------
  <string name="change_default_call_screening_warning_message">%s sẽ có thể thấy thông tin về người gọi không có trong danh bạ của bạn và có thể chặn các cuộc gọi đó. Chỉ nên đặt ứng dụng bạn tin tưởng làm ứng dụng sàng lọc cuộc gọi mặc định.</string>
@@ -3209,6 +3215,42 @@ folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_msg"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_msg">Chọn nội dung và phương pháp trưng bày màn hình chính không gian dành cho trẻ em</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_progress"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_progress">Đã tải xuống %1$s%%</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_desc"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_desc">Chọn màn hình nền mặc định mà con bạn thích</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_arrow_right_babubus"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_arrow_right_babubus">Xe buýt em bé</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_title"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_title">Cài đặt màn hình mặc định</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_arrow_right_default"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_arrow_right_default">Màn hình chính mặc định</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_title"
 ---------------------------------------------------------------------------------------
  <string name="password_change_value_preference_title">Thay đổi mật khẩu</string>
@@ -3764,6 +3806,18 @@ folder="all" application="Settings.apk" xml="" name="platform_compat_default_dis
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Tùy chỉnh</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Không</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Không xác định</string>
 
 
 ---------------------------------------------------------------------------------------
