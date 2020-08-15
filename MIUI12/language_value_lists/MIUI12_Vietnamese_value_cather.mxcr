@@ -356,6 +356,7 @@ all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_entry_title
 all MiuiSystemUI.apk strings.xml lock_screen_magazine_default_title
 all MiuiSystemUI.apk strings.xml cached_apps_freezer_device_default
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all MiuiSystemUIPlugin.apk strings.xml controls_favorite_default_title
 all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_warning_message
 all MiuiTelecomOverlay.apk strings.xml change_default_call_screening_dialog_negative
 all MiuiTelecomOverlay.apk strings.xml change_default_dialer_dialog_affirmative
@@ -533,6 +534,12 @@ all QuickSearchBox.apk strings.xml reader_history_default_subtitle
 all SecurityAdd.apk arrays.xml gb_gpu_custom_texture_value
 all SecurityAdd.apk strings.xml parent_center_default_home_confirm
 all SecurityAdd.apk strings.xml gb_gpu_resolution_default
+all SecurityAdd.apk strings.xml parent_center_default_home_msg
+all SecurityAdd.apk strings.xml parent_center_default_home_progress
+all SecurityAdd.apk strings.xml parent_center_default_home_desc
+all SecurityAdd.apk strings.xml parent_center_default_home_arrow_right_babubus
+all SecurityAdd.apk strings.xml parent_center_default_home_title
+all SecurityAdd.apk strings.xml parent_center_default_home_arrow_right_default
 all SecurityAdd.apk strings.xml password_change_value_preference_title
 all SecurityAdd.apk strings.xml password_change_value_preference_desc
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
@@ -626,6 +633,8 @@ all Settings.apk strings.xml platform_compat_default_enabled_title
 all Settings.apk strings.xml system_default_app_subtext
 all Settings.apk strings.xml platform_compat_default_disabled_title
 all Settings.apk strings.xml tether_limit_value_custom
+all Settings.apk strings.xml smart_home_value_none
+all Settings.apk strings.xml smart_home_value_unknown
 all SimAppDialog.apk strings.xml install_carrier_app_description_default
 all SoundPicker.apk strings.xml notification_sound_default
 all SoundPicker.apk strings.xml alarm_sound_default
