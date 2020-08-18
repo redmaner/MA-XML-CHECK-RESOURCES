@@ -2091,7 +2091,7 @@ folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterpri
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_summary">백그라운드 연결을 제한하면 새 앱을 설치 한 후에 백그라운드에서 인터넷에 연결할 수 없습니다. 이 후에는 메시지를 수신하거나 컨텐츠를 다운로드할 수 없습니다. 계속하시겠습니까?</string>
+ <string name="firewall_set_bg_firewall_default_dialog_summary">백그라운드 연결을 제한하면 새 앱을 설치 한 후에 백그라운드에서 인터넷에 연결할 수 없습니다. 이 후에는 메시지를 수신하거나 콘텐츠를 다운로드할 수 없습니다. 계속하시겠습니까?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2704,6 +2704,12 @@ folder="all" application="Videos.apk" xml="" name="edge_type_default"
 folder="all" application="Weather.apk" xml="" name="information_manager_default_weather_bg"
 ---------------------------------------------------------------------------------------
  <string name="information_manager_default_weather_bg">기본 백그라운드 날씨</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="XiaomiAccount.apk" xml="" name="com_facebook_tooltip_default"
+---------------------------------------------------------------------------------------
+ <string name="com_facebook_tooltip_default">&quot;앱과 공유할 정보를 직접 선택해주세요.&quot;</string>
 
 
 ---------------------------------------------------------------------------------------

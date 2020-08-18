@@ -102,6 +102,7 @@ all MiuiSystemUI.apk strings.xml notification_header_default_channel
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_description
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_name
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all MiuiSystemUIPlugin.apk strings.xml controls_favorite_default_title
 all MiuiVideoGlobal.apk strings.xml cast_notification_default_channel_name
 all MiuiVideoGlobal.apk strings.xml cast_tracks_chooser_dialog_default_track_name
 all MiuiVideoGlobal.apk strings.xml ovp_default_plugin_name
@@ -188,6 +189,8 @@ all Settings.apk strings.xml slider_vocie_online_default
 all Settings.apk strings.xml theme_customization_device_default
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
+all Settings.apk strings.xml smart_home_value_none
+all Settings.apk strings.xml smart_home_value_unknown
 all Settings.apk strings.xml tether_limit_value_custom
 all Telecom.apk strings.xml change_default_call_screening_dialog_affirmative
 all Telecom.apk strings.xml change_default_call_screening_dialog_negative

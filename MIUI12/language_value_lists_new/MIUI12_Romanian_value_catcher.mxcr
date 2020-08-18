@@ -205,6 +205,7 @@ all MiuiSystemUI.apk strings.xml preference_summary_default_combination
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_description
 all MiuiSystemUI.apk strings.xml quick_settings_cast_device_default_name
 all MiuiSystemUI.apk strings.xml accessibility_quick_settings_rotation_value
+all MiuiSystemUIPlugin.apk strings.xml controls_favorite_default_title
 all MiuiSystemUIPlugin.apk strings.xml quick_settings_tiles_default
 all MiuiVideo.apk strings.xml notification_default_title
 all MiuiVideoGlobal.apk strings.xml alert_dialog_download_default_title
@@ -329,6 +330,8 @@ all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml wifi_badging_thresholds_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
+all Settings.apk strings.xml smart_home_value_none
+all Settings.apk strings.xml smart_home_value_unknown
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundRecorder.apk strings.xml err_msg_pending_value
 all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
