@@ -1327,25 +1327,25 @@ folder="all" application="ManagedProvisioning.apk" xml="" name="car_ui_toolbar_d
 ---------------------------------------------------------------------------------------
 folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
- <string name="cloud_storage_default_title">Cloud storage</string>
+ <string name="cloud_storage_default_title">Archiviazione Cloud</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiDrive.apk" xml="" name="exception_default"
 ---------------------------------------------------------------------------------------
- <string name="exception_default">A system error occurred. Wait a minute or two and try again.</string>
+ <string name="exception_default">Si è verificato un errore di sistema. Attendi un minuto o due e riprova.</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
 ---------------------------------------------------------------------------------------
- <string name="setting_default_download_dir">Default download location</string>
+ <string name="setting_default_download_dir">Posizione download predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
 ---------------------------------------------------------------------------------------
- <string name="setting_default_download_dir_title">Select default download location</string>
+ <string name="setting_default_download_dir_title">Seleziona la posizione predefinita i file scaricati</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1693,13 +1693,13 @@ folder="all" application="MiuiBluetooth.apk" xml="" name="window_animation_scale
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
 ---------------------------------------------------------------------------------------
- <string name="audio_relay_default_device_name">Mi AI Speaker</string>
+ <string name="audio_relay_default_device_name">Altoparlante Mi IA</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiBluetooth.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2479,7 +2479,7 @@ folder="all" application="miuisystem.apk" xml="" name="mobile_operator_numeric_v
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2569,7 +2569,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
 ---------------------------------------------------------------------------------------
- <string name="controls_favorite_default_title">Controls</string>
+ <string name="controls_favorite_default_title">Controlli</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2581,7 +2581,7 @@ folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_ti
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_call_screening_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_call_screening_dialog_affirmative">Set as default</string>
+ <string name="change_default_call_screening_dialog_affirmative">Imposta come Predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2611,7 +2611,7 @@ folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_ca
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiTelecomOverlay.apk" xml="" name="change_default_dialer_dialog_affirmative"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_dialog_affirmative">Set as default</string>
+ <string name="change_default_dialer_dialog_affirmative">Imposta come Predefinita</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3187,19 +3187,19 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_camera_title">Share without metadata by default</string>
+ <string name="first_settings_default_camera_title">Condividi senza metadati come predefinito</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_location_subtitle">Remove location info from shared photos</string>
+ <string name="first_settings_default_location_subtitle">Rimuovi informazioni sulla posizione dalle foto condivise</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
 ---------------------------------------------------------------------------------------
- <string name="first_settings_default_location_title">Share without location info by default</string>
+ <string name="first_settings_default_location_title">Condividi in modo predefinito senza informazioni sulla posizione</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4705,7 +4705,7 @@ folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_def
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -5389,7 +5389,7 @@ folder="all" application="Telecom.apk" xml="" name="window_animation_scale_value
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -6031,7 +6031,7 @@ folder="all" application="TeleService.apk" xml="" name="window_animation_scale_v
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -6043,7 +6043,7 @@ folder="all" application="TeleService.apk" xml="" name="connected_via_network_sc
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_carrier_mmi_msg_title"
 ---------------------------------------------------------------------------------------
- <string name="default_carrier_mmi_msg_title">Carrier Message</string>
+ <string name="default_carrier_mmi_msg_title">Messaggio Operatore</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -6199,7 +6199,7 @@ folder="all" application="Traceur.apk" xml="" name="overlay_display_devices_valu
 ---------------------------------------------------------------------------------------
 folder="all" application="Traceur.apk" xml="" name="cached_apps_freezer_device_default"
 ---------------------------------------------------------------------------------------
- <string name="cached_apps_freezer_device_default">Device default</string>
+ <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
 
 
 ---------------------------------------------------------------------------------------

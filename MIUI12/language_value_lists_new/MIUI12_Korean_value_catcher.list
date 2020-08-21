@@ -1009,7 +1009,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_s
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="default_lockscreen_unlock_hint_text"
 ---------------------------------------------------------------------------------------
- <string name="default_lockscreen_unlock_hint_text">위로 밀어 잠금해제</string>
+ <string name="default_lockscreen_unlock_hint_text">위로 밀어서 잠금해제</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1249,7 +1249,7 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_q
 ---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
- <string name="private_entry_default">아래로 밀어 개인 폴더를 엽니다.</string>
+ <string name="private_entry_default">아래로 밀어서 개인 폴더를 엽니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1591,7 +1591,7 @@ folder="all" application="Notes.apk" xml="" name="todo_audio_default_content"
 ---------------------------------------------------------------------------------------
 folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
 ---------------------------------------------------------------------------------------
- <string name="repeat_mode_default">사용 안함</string>
+ <string name="repeat_mode_default">사용 안 함</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1853,26 +1853,6 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="lucky_alarm_count_down_default"
----------------------------------------------------------------------------------------
- <string name="lucky_alarm_count_down_default">0:00:00</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
----------------------------------------------------------------------------------------
- <string name="tc_diagnostic_fragment_default">진단에 대해서
-1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다.
-2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
----------------------------------------------------------------------------------------
- <string name="traffic_setting_fragment_default">선택</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
  <string name="first_settings_default_camera_title">기본적으로 메타 데이터없이 공유</string>
@@ -1888,6 +1868,20 @@ folder="all" application="SecurityCenter.apk" xml="" name="first_settings_defaul
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
 ---------------------------------------------------------------------------------------
  <string name="first_settings_default_location_title">기본적으로 위치 정보없이 공유</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="tc_diagnostic_fragment_default">진단에 대해서
+1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다.
+2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
+---------------------------------------------------------------------------------------
+ <string name="traffic_setting_fragment_default">선택</string>
 
 
 ---------------------------------------------------------------------------------------

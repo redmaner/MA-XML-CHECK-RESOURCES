@@ -467,6 +467,12 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Dispositiu desconegut</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
 ---------------------------------------------------------------------------------------
  <string name="preference_value_create_shortcut">Crear</string>
@@ -781,7 +787,7 @@ folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_def
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
 ---------------------------------------------------------------------------------------
- <string name="document_default_location">Ubicació d\'emmagatzematge predeterminada:</string>
+ <string name="document_default_location">"Es guardaran els fitxers "</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -875,9 +881,15 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Controls</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_tiles_default">cel·la, wifi, llanterna, silenci, captura de pantalla, bt, autobretitud, avió, bloqueig de pantalla, GPS, rotació, escàner, mòdul de paper, nit, silenci, bateria, bateria, extrembatterysaver, personalitzat (com.miui.securitycenter / com.miui.superpower.notification. SuperPowerTileService), personalitzada (com.milink.service / com.milink.ui.service.MiLinkTileService), personalitzada (com.miui.mishare.connectivity / .tile.MiShareTileService), powermode, freeformhang, custom (com.miui.screenrecorder / .service.QuickService), vibrar, hotspot, sincronització, botó de pantalla, wirelesspower, nfc, editar</string>
+ <string name="quick_settings_tiles_default">cel·la, wifi, llanterna, silenci, captura de pantalla, bt, autobretitud, avió, bloqueig de pantalla, GPS, rotació, escàner, mòdul de paper, nit, silenci, bateria, bateria, extrembatterysaver, personalitzat (com.miui.securitycenter / com.miui.superpower.notification. SuperPowerTileService), personalitzada (com.milink.service / com.milink.ui.service.MiLinkTileService), personalitzada (com.miui.mishare.connectivity / .tile.MiShareTileService), powermode, freeformhang, custom (com.miui.screenrecorder / .service.QuickService), vibrar, hotspot, sincronitzar, personalitzat (com.google.android.gms / .nearby.sharing.SharingTileService), botó de pantalla, wirelesspower, nfc, edita</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1172,6 +1184,12 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_custom_texture_value"
 ---------------------------------------------------------------------------------------
  <string-array name="gb_gpu_custom_texture_value"> <item>Màxima ràpidesa</item> <item>Equilibrat</item> <item>Per defecte</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_default"
+---------------------------------------------------------------------------------------
+ <string name="gb_gpu_resolution_default">Predeterminada</string>
 
 
 ---------------------------------------------------------------------------------------
