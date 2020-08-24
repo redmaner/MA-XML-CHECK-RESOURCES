@@ -1745,6 +1745,30 @@ folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fr
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_1"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_1">" (Erschütterungen in Hochhäusern)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_2"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_2">" (Erschütterung)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_3"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_3">" (Starke Erschütterung)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_4">" (Schwere Erschütterung)"</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
 ---------------------------------------------------------------------------------------
  <string name="space_des_default">Isolierter Bereich mit verschlüsselten Daten</string>

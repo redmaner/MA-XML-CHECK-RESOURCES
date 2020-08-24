@@ -7229,6 +7229,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_signature_default"
+---------------------------------------------------------------------------------------
+ <string name="ew_signature_default">Центр предупреждения о землетрясениях Чэнду, Научно-исследовательский институт по уменьшению опасности стихийных бедствий</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
  <string name="first_settings_default_camera_title">Отправлять без метаданных</string>
@@ -7262,6 +7268,30 @@ folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragm
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Выбрать оператора</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_1"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_1">" (Вибрация в многоэтажных зданиях)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_2"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_2">" (Вибрация)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_3"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_3">" (Сильная вибрация)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_4">" (Очень сильная вибрация)"</string>
 
 
 ---------------------------------------------------------------------------------------

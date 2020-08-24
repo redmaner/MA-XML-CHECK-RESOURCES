@@ -59,18 +59,6 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
----------------------------------------------------------------------------------------
- <string name="relationship_default_separator_text">的</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Calculator.apk" xml="" name="relationship_default_text"
----------------------------------------------------------------------------------------
- <string name="relationship_default_text">我</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minuuttia</item> <item>10 minuuttia</item> <item>15 minuuttia</item> <item>30 minuuttia</item> <item>1 tunti</item> </string-array>
@@ -218,42 +206,6 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Intervalli (minuuttia)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="default_exchange"
----------------------------------------------------------------------------------------
- <string name="default_exchange">EXCHANGE</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="default_imap"
----------------------------------------------------------------------------------------
- <string name="default_imap">IMAP</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="default_opening_attchemnt_mode"
----------------------------------------------------------------------------------------
- <string name="default_opening_attchemnt_mode">Avaa liitetiedostot käyttäen oletussovelluksia</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="default_pop3"
----------------------------------------------------------------------------------------
- <string name="default_pop3">POP3</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="default_signature_2"
----------------------------------------------------------------------------------------
- <string name="default_signature_2">Lähetetty laitteestani %s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
----------------------------------------------------------------------------------------
- <string name="file_default_save_path_title">Oletussijainti liitetiedostoille</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -581,6 +533,18 @@ folder="all" application="MiuiHome.apk" xml="" name="menu_default_screen_preview
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_disable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_disable">Pois käytöstä</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_enable"
+---------------------------------------------------------------------------------------
+ <string name="launcher_search_bar_value_enable">Käytössä</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">perform an unknown action</string>
@@ -625,7 +589,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_de
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_title"
 ---------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_title">Taustakuvan Karuselli</string>
+ <string name="lock_screen_magazine_default_title">Taustakuvakaruselli</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -782,6 +746,12 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_q
 folder="all" application="Notes.apk" xml="" name="audio_panel_time_counter_default"
 ---------------------------------------------------------------------------------------
  <string name="audio_panel_time_counter_default">00.00</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="repeat_mode_default"
+---------------------------------------------------------------------------------------
+ <string name="repeat_mode_default">Ei koskaan</string>
 
 
 ---------------------------------------------------------------------------------------
