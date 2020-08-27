@@ -1525,7 +1525,7 @@ folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_don
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_msg"
 ---------------------------------------------------------------------------------------
- <string name="pref_set_default_browser_msg">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Establecer Mi Navegador como su navegador predeterminado?</string>
+ <string name="pref_set_default_browser_msg">Mi Navegador hace que navegar en Internet sea rápido, conveniente y seguro. ¿Establecer Mi Navegador como su navegador predeterminado?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1549,7 +1549,7 @@ folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_set
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_set_another"
 ---------------------------------------------------------------------------------------
- <string name="pref_set_default_browser_set_another">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
+ <string name="pref_set_default_browser_set_another">Mi Navegador hace que navegar en Internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1609,7 +1609,7 @@ folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_don
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_msg"
 ---------------------------------------------------------------------------------------
- <string name="pref_set_default_browser_msg">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Establecer Mi Navegador como tu navegador predeterminado?</string>
+ <string name="pref_set_default_browser_msg">Mi Navegador hace que navegar en Internet sea rápido, conveniente y seguro. ¿Establecer Mi Navegador como tu navegador predeterminado?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1633,7 +1633,7 @@ folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_set
 ---------------------------------------------------------------------------------------
 folder="all" application="Browser.apk" xml="" name="pref_set_default_browser_set_another"
 ---------------------------------------------------------------------------------------
- <string name="pref_set_default_browser_set_another">Mi Navegador hace que navegar en internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
+ <string name="pref_set_default_browser_set_another">Mi Navegador hace que navegar en Internet sea rápido, conveniente y seguro. ¿Cambiar navegadores?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2953,7 +2953,7 @@ folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_defaul
 ---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
- <string name="display_weather_default">Toca para obtener info del clima</string>
+ <string name="display_weather_default">Toca para obtener el tiempo</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3481,7 +3481,7 @@ folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterpri
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_summary">Si restringe la conexión en segundo plano, las aplicaciones nuevas no podrán conectarse a internet en segundo plano después de ser instaladas. Después de esto, serían incapaces de recibir mensajes o descargar contenido. ¿Restringir conexión?</string>
+ <string name="firewall_set_bg_firewall_default_dialog_summary">Si restringe la conexión en segundo plano, las aplicaciones nuevas no podrán conectarse a Internet en segundo plano después de ser instaladas. Después de esto, serían incapaces de recibir mensajes o descargar contenido. ¿Restringir conexión?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3691,7 +3691,7 @@ folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterpri
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
 ---------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_summary">Si restringes las conexión en segundo plano, las nuevas aplicaciones no podrán conectarse a internet en segundo plano después de instalarlas. Después de esto podrían no recibir mensajes o no descargar contenido. ¿Restringir de todas formas?</string>
+ <string name="firewall_set_bg_firewall_default_dialog_summary">Si restringes las conexión en segundo plano, las nuevas aplicaciones no podrán conectarse a Internet en segundo plano después de instalarlas. Después de esto podrían no recibir mensajes o no descargar contenido. ¿Restringir de todas formas?</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3709,7 +3709,7 @@ folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
- <string name="importance_default">Predeterminado</string>
+ <string name="importance_default">Predeterminada</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -3931,7 +3931,7 @@ folder="all" application="Telecom.apk" xml="" name="change_default_dialer_dialog
 ---------------------------------------------------------------------------------------
 folder="all" application="Telecom.apk" xml="" name="change_default_dialer_warning_message"
 ---------------------------------------------------------------------------------------
- <string name="change_default_dialer_warning_message">%s podrá controlar todos los aspectos de las llamadas. Sólo aplicaciones en las que confíes deberían configurarse como app predeterminada del Teléfono.</string>
+ <string name="change_default_dialer_warning_message">%s podrá controlar todos los aspectos de las llamadas. Solo aplicaciones en las que confíes deberían configurarse como app predeterminada del Teléfono.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -4105,13 +4105,13 @@ folder="all" application="ThemeManager.apk" xml="" name="back_to_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
- <string name="handy_mode_default_to_close_whether_open">Modo Una mano está desactivado de forma predeterminada. ¿Activar Modo Una mano?</string>
+ <string name="handy_mode_default_to_close_whether_open">El modo a una mano está desactivado de forma predeterminada. ¿Activar modo a una mano?</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
- <string name="handy_mode_default_to_close_whether_open">Modo Una mano está desactivado de forma predeterminada. ¿Activar Modo Una mano?</string>
+ <string name="handy_mode_default_to_close_whether_open">El modo a una mano está desactivado de forma predeterminada. ¿Activar modo a una mano?</string>
 
 
 ---------------------------------------------------------------------------------------

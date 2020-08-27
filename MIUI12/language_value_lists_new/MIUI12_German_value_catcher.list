@@ -1703,6 +1703,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_rest
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_signature_default"
+---------------------------------------------------------------------------------------
+ <string name="ew_signature_default">Chengdu High-Tech-Forschungsinstitut für Katastrophenvorsorge Kontinentales Erdbeben-Warnzentrum</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
  <string name="first_settings_default_camera_title">Teilen ohne Metadaten als Standard</string>
