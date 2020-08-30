@@ -136,3 +136,12 @@ all Settings.apk strings.xml theme_customization_device_default
 all Settings.apk strings.xml usb_default_info
 all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
+all Settings.apk strings.xml tether_limit_value_custom
+all SoundRecorder.apk strings.xml err_msg_pending_value
+all SoundRecorder.apk strings.xml online_recognize_order_service_type_value
+all SoundRecorder.apk strings.xml online_recognize_order_unit_price_value
+all TeleService.apk strings.xml msim_select_default_time_left
+all TouchAssistant.apk strings.xml handy_mode_default_to_close_whether_open
+all Updater.apk strings.xml default_filedownloader_notification_content
+all Updater.apk strings.xml default_filedownloader_notification_title
+all YellowPage.apk strings.xml navigation_search_default_hint
