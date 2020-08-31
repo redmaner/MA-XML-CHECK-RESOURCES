@@ -4109,6 +4109,12 @@ folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Predeterminado</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
 ---------------------------------------------------------------------------------------
  <string name="handy_mode_default_to_close_whether_open">El modo a una mano está desactivado de forma predeterminada. ¿Activar modo a una mano?</string>
