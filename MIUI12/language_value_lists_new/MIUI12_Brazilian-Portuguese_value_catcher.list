@@ -395,6 +395,12 @@ folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mirror.apk" xml="" name="default_boss_terminal_name"
+---------------------------------------------------------------------------------------
+ <string name="default_boss_terminal_name">Mi Notebook</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiSettings.apk" xml="" name="restore_default"
 ---------------------------------------------------------------------------------------
  <string name="restore_default">Restaurar padrões</string>

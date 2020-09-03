@@ -114,12 +114,12 @@ all MiuiAod.apk strings.xml signature_default_content
 all miui.apk strings.xml security_share_subtitle_default
 all MiuiBluetooth.apk strings.xml audio_relay_default_device_name
 all MiuiBugReport.apk strings.xml default_text_view
-all MiuiCamera.apk strings.xml pref_camera_photostyle_default
-all MiuiCamera.apk strings.xml pref_camera_focusmode_default
-all MiuiCamera.apk strings.xml pref_video_encoder_default
-all MiuiCamera.apk strings.xml dualcamera_watermark_default
 all MiuiCamera.apk strings.xml custom_sound_default
+all MiuiCamera.apk strings.xml dualcamera_watermark_default
+all MiuiCamera.apk strings.xml pref_camera_focusmode_default
+all MiuiCamera.apk strings.xml pref_camera_photostyle_default
 all MiuiCamera.apk strings.xml pref_front_denoise_default
+all MiuiCamera.apk strings.xml pref_video_encoder_default
 all MiuiCamera.apk strings.xml pref_wind_denoise_default
 all MiuiExtraPhoto.apk strings.xml motion_photo_toast_default
 all MiuiGallery.apk strings.xml channel_default_name
@@ -319,6 +319,7 @@ all SecurityCenter.apk strings.xml ew_settings_choose_level_value_1
 all SecurityCenter.apk strings.xml ew_settings_choose_level_value_2
 all SecurityCenter.apk strings.xml ew_settings_choose_level_value_3
 all SecurityCenter.apk strings.xml ew_settings_choose_level_value_4
+all SecurityCenter.apk strings.xml fixed_traffic_value_by_month
 all SecurityCoreAdd.apk strings.xml xspace_default_app_summary
 all SecurityCoreAdd.apk strings.xml space_name_default
 all SecurityCoreAdd.apk strings.xml space_des_default

@@ -2213,6 +2213,30 @@ folder="all" application="Health.apk" xml="" name="tips_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="cloud_storage_default_title"
+---------------------------------------------------------------------------------------
+ <string name="cloud_storage_default_title">Almacenamiento en la nube</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="exception_default"
+---------------------------------------------------------------------------------------
+ <string name="exception_default">Ocurrió un error del sistema. Espera uno o dos minutos y vuelve a intentarlo.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir">Ubicación de descarga predeterminada</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
+---------------------------------------------------------------------------------------
+ <string name="setting_default_download_dir_title">Seleccionar ubicación de descarga predeterminada</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiDrop.apk" xml="" name="default_lang"
 ---------------------------------------------------------------------------------------
  <string name="default_lang">Idioma del sistema</string>

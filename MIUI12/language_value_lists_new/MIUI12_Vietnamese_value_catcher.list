@@ -3413,6 +3413,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_le
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="fixed_traffic_value_by_month"
+---------------------------------------------------------------------------------------
+ <string name="fixed_traffic_value_by_month">Giới hạn lưu lượng cố định hàng tháng</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
 ---------------------------------------------------------------------------------------
  <string name="xspace_default_setting_label">Cá nhân hóa</string>

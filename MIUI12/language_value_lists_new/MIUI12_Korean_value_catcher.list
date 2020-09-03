@@ -695,21 +695,9 @@ folder="all" application="MiuiBugReport.apk" xml="" name="default_text_view"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_photostyle_default"
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
 ---------------------------------------------------------------------------------------
- <string name="pref_camera_photostyle_default">표준</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_focusmode_default"
----------------------------------------------------------------------------------------
- <string name="pref_camera_focusmode_default">연속 사진</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
----------------------------------------------------------------------------------------
- <string name="pref_video_encoder_default">h264</string>
+ <string name="custom_sound_default">기본</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -719,15 +707,27 @@ folder="all" application="MiuiCamera.apk" xml="" name="dualcamera_watermark_defa
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_focusmode_default"
 ---------------------------------------------------------------------------------------
- <string name="custom_sound_default">기본</string>
+ <string name="pref_camera_focusmode_default">연속 사진</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_photostyle_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_photostyle_default">표준</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="pref_front_denoise_default"
 ---------------------------------------------------------------------------------------
  <string name="pref_front_denoise_default">꺼짐</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_encoder_default">h264</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1924,6 +1924,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_le
 folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
 ---------------------------------------------------------------------------------------
  <string name="ew_settings_choose_level_value_4">"(심각한 진동)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="fixed_traffic_value_by_month"
+---------------------------------------------------------------------------------------
+ <string name="fixed_traffic_value_by_month">월별 요금제 한도</string> 
 
 
 ---------------------------------------------------------------------------------------

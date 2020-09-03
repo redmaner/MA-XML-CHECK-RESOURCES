@@ -9611,6 +9611,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_le
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="fixed_traffic_value_by_month"
+---------------------------------------------------------------------------------------
+ <string name="fixed_traffic_value_by_month">Ежемесячный фиксированный лимит трафика</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="space_des_default"
 ---------------------------------------------------------------------------------------
  <string name="space_des_default">Изолированное пространство с зашифрованными данными</string>
