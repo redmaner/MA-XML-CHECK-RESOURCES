@@ -806,78 +806,24 @@ folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
 ---------------------------------------------------------------------------------------
- <string name="theme_customization_device_default">デバイスのデフォルト</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="usb_default_info"
 ---------------------------------------------------------------------------------------
- <string name="usb_default_info">別の端末が接続されてスマートフォンのロックが解除されると、この設定が適用されます。信頼できる端末にのみ接続してください。</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="usb_default_label"
 ---------------------------------------------------------------------------------------
- <string name="usb_default_label">デフォルトの USB 設定</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
 ---------------------------------------------------------------------------------------
- <string name="zen_mode_custom_behavior_summary_default">デフォルト設定を使用</string>
 
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
----------------------------------------------------------------------------------------
- <string name="tether_limit_value_custom">カスタム</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
----------------------------------------------------------------------------------------
- <string name="err_msg_pending_value">Estimating cost…</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
----------------------------------------------------------------------------------------
- <string name="online_recognize_order_service_type_value">Online audio transcribing</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
----------------------------------------------------------------------------------------
- <string name="online_recognize_order_unit_price_value">%s CNY/hour</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
----------------------------------------------------------------------------------------
- <string name="msim_select_default_time_left">(%d秒)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
----------------------------------------------------------------------------------------
- <string name="handy_mode_default_to_close_whether_open">"片手モードはデフォルトでオフです。片手モードをオンにしますか？"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
----------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_content">FileDownloaderが実行中です。</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
----------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_title">FileDownloader</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
----------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">現在地を検索</string>
 
 
