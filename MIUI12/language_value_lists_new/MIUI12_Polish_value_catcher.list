@@ -1001,6 +1001,12 @@ folder="all" application="Mms.apk" xml="" name="private_entry_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">"Ustawiono aplikację Wiadomości od Google jako Twoją domyślną aplikację do SMS-ów. Dotknij przycisku \"Otwórz\", aby ją uruchomić."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MtkTeleService.apk" xml="" name="clir_display_values"
 ---------------------------------------------------------------------------------------
  <string-array name="clir_display_values"> <item>Domyślna wartość dla sieci</item> <item>Ukryj numer</item> <item>Pokaż numer</item> </string-array>

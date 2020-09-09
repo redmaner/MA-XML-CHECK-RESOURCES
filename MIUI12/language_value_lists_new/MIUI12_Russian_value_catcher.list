@@ -9221,6 +9221,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_paddin
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">Вы установили приложение Сообщения от Google в качестве приложения по умолчанию. Нажмите \"Открыть\", чтобы начать.</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
  <string name="private_entry_default">Потяните вниз, чтобы открыть приватную папку</string>

@@ -221,6 +221,12 @@ folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s - %2$s (uygulanmayacak)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_default_notfiy"
 ---------------------------------------------------------------------------------------
  <string name="cit_tool_mbn_default_notfiy">varsayılan MBN</string>
@@ -1214,6 +1220,12 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default
 folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
 ---------------------------------------------------------------------------------------
  <string name="rcs_pref_video_message_default_quality">Video sıkıştırma seçenekleri</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">"Google Mesajlar\'ı varsayılan mesajlaşma uygulamanız olarak ayarladınız. Mesajlaşmaya başlamak için \"Aç\" öğesine dokunun."</string>
 
 
 ---------------------------------------------------------------------------------------

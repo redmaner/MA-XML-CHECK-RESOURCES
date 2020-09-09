@@ -29,6 +29,7 @@ all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml work_day_default_banner_title
+all Calendar.apk strings.xml trust_certificate_validity_period_value
 all Cit.apk strings.xml cit_tool_mbn_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_no_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_recovery_default
@@ -199,6 +200,7 @@ all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
 all MiuiVideoLeo.apk strings.xml defaults
 all MiuiVideoLeo.apk strings.xml notification_default_title
+all Mms.apk strings.xml default_google_message_promo_content
 all Mms.apk strings.xml private_entry_default
 all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality

@@ -185,6 +185,12 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (wird nicht erzwungen)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="cit_tool_mbn_default_notfiy"
 ---------------------------------------------------------------------------------------
  <string name="cit_tool_mbn_default_notfiy">Standard-MBN</string>
@@ -1202,6 +1208,12 @@ folder="all" application="MiuiVideoLeo.apk" xml="" name="defaults"
 folder="all" application="MiuiVideoLeo.apk" xml="" name="notification_default_title"
 ---------------------------------------------------------------------------------------
  <string name="notification_default_title">Offline-Video</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">Sie haben Messages von Google als Ihre Standard-Nachrichten-App festgelegt. Auf \"Öffnen\" tippen, um mit einer SMS zu beginnen.</string>
 
 
 ---------------------------------------------------------------------------------------

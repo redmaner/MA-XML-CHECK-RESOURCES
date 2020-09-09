@@ -173,6 +173,12 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (não vai ser forçado)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CloudService.apk" xml="" name="cloud_storage_default_title"
 ---------------------------------------------------------------------------------------
  <string name="cloud_storage_default_title">Armazenamento Xiaomi Cloud</string>
@@ -674,6 +680,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="signup_type_user_def
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="t_lv_subtitle_padding_default_hint">Adjusting subtitles…</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">Definiu Mensagens da Google como a sua aplicação predefinida de mensagens. Toque \"Abrir\" para começar a escrever</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -221,6 +221,12 @@ folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_tit
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (nu va fi pus în aplicare)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Cit.apk" xml="" name="DSI_value_get"
 ---------------------------------------------------------------------------------------
  <string name="DSI_value_get">obțineți DSI</string>
@@ -1261,7 +1267,7 @@ folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,edit</string>
+ <string name="quick_settings_tiles_default">celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,personalizat(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),personalizat(com.miui.mishare.connectivity/.tile.MiShareTileService),mod energie,freeformhang,personalizat(com.miui.screenrecorder/.service.QuickService),vibrație,hotspot,sincronizare,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),butoane ecran,putere wireless,nfc,editare</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1364,6 +1370,12 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="subtitle_padding_def
 folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_padding_default_hint"
 ---------------------------------------------------------------------------------------
  <string name="t_lv_subtitle_padding_default_hint">Se ajustează subtitrări</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">Ați setat Mesageria Google ca aplicație de mesagerie implicită. Atingeți \"Deschideți\" pentru a începe să trimiteți mesaje text.</string>
 
 
 ---------------------------------------------------------------------------------------

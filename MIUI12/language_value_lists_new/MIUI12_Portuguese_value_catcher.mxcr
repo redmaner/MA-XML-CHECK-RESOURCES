@@ -27,6 +27,7 @@ all Calendar.apk strings.xml preferences_alarm_default_event_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml work_day_default_banner_title
+all Calendar.apk strings.xml trust_certificate_validity_period_value
 all CloudService.apk strings.xml cloud_storage_default_title
 all Contacts.apk strings.xml bind_simcard_default
 all Contacts.apk strings.xml contacts_default_notification_channel
@@ -111,6 +112,7 @@ all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
 all MiuiVideoGlobal.apk strings.xml signup_type_silent_default
 all MiuiVideoGlobal.apk strings.xml signup_type_user_default
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
+all Mms.apk strings.xml default_google_message_promo_content
 all Mms.apk strings.xml private_entry_default
 all Notes.apk strings.xml private_entry_default
 all Notes.apk strings.xml repeat_mode_default
