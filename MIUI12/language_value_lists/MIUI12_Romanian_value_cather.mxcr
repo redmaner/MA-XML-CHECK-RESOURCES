@@ -117,6 +117,8 @@ all MiDrive.apk strings.xml setting_default_download_dir
 all MiDrive.apk strings.xml setting_default_download_dir_title
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiRecycle.apk strings.xml default_error_msg
+all Mirror.apk arrays.xml buffer_size_values
+all Mirror.apk arrays.xml buffer_size_values
 all Mirror.apk strings.xml default_boss_terminal_name
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value

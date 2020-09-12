@@ -269,6 +269,12 @@ folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_va
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (강제되지 않음)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="cit.apk" xml="" name="default_station_name"
 ---------------------------------------------------------------------------------------
  <string name="default_station_name">새 채널</string>
@@ -1259,6 +1265,12 @@ folder="all" application="Mms.apk" xml="" name="private_entry_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">"Google 메시지 앱을 기본 메시지 앱으로 설정했습니다. \"열기\"를 누르고 메시지를 시작하세요."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MtkTeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
  <string name="msim_select_default_time_left">(%d초)</string>
@@ -1775,51 +1787,21 @@ folder="all" application="PersonalAssistantPlugin.apk" xml="" name="navigation_s
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Phonesky.apk" xml="" name="wallet_im_cvc_code_popup_default_description"
----------------------------------------------------------------------------------------
- <string name="wallet_im_cvc_code_popup_default_description"><b>Discover, MasterCard, Visa, Visa Electron</b>" CVC는 카드 뒷면 서명란에 있는 번호의 마지막 세 자리 숫자입니다."</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Photos.apk" xml="" name="default_album_name"
----------------------------------------------------------------------------------------
- <string name="default_album_name">제목 없음</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Photos.apk" xml="" name="picker_title_single_default"
----------------------------------------------------------------------------------------
- <string name="picker_title_single_default">항목 선택</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Photos.apk" xml="" name="picker_title_multiple_default"
----------------------------------------------------------------------------------------
- <string name="picker_title_multiple_default">항목 선택</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Photos.apk" xml="" name="photos_actor_default_display_name"
----------------------------------------------------------------------------------------
- <string name="photos_actor_default_display_name">Google 사용자</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_facemoji">"이 기능을 사용하기 전에 Facemoji 개인정보 취급 방침에 동의해야 합니다."</string>
+ <string name="terms_of_use_lable_default_input_method_facemoji">"  이 기능을 사용하려면 Facemoji 개인정보 보호정책에 동의해야 합니다."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_kika">"이 기능을 사용하기 전에 Kika 개인정보 취급 방침에 동의해야 합니다."</string>
+ <string name="terms_of_use_lable_default_input_method_kika">"  이 기능을 사용하려면 Kika 개인정보 보호정책에 동의해야 합니다."</string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
 ---------------------------------------------------------------------------------------
- <string name="terms_of_use_lable_default_input_method_mint">"  이 기능을 사용하기 전에 민트 키보드 개인정보 보호 정책에 동의해야 합니다."</string>
+ <string name="terms_of_use_lable_default_input_method_mint">"  이 기능을 사용하려면 민트 키보드 개인정보 보호정책에 동의해야 합니다."</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2644,78 +2626,6 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
  <string name="default_filedownloader_notification_title">파일 다운로드</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="default_scroll_format"
----------------------------------------------------------------------------------------
- <string name="default_scroll_format">페이지 %1$d/%2$d</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="migration_cling_use_default"
----------------------------------------------------------------------------------------
- <string name="migration_cling_use_default">새로 시작</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="undo_dismiss_message_default"
----------------------------------------------------------------------------------------
- <string name="undo_dismiss_message_default">닫음</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="friend_location_photos_title_default"
----------------------------------------------------------------------------------------
- <string name="friend_location_photos_title_default">주변 친구 사진</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="default_image_filename"
----------------------------------------------------------------------------------------
- <string name="default_image_filename">다운로드된 이미지</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="icing_default_corpus_label"
----------------------------------------------------------------------------------------
- <string name="icing_default_corpus_label">Google 검색</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="icing_default_corpus_description"
----------------------------------------------------------------------------------------
- <string name="icing_default_corpus_description">Google 검색 앱의 데이터</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="pref_default_title_prefix_multiple_language"
----------------------------------------------------------------------------------------
- <string name="pref_default_title_prefix_multiple_language" formatted="false">기본: %s – %d 추가</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="pref_default_title_prefix_no_additional_language"
----------------------------------------------------------------------------------------
- <string name="pref_default_title_prefix_no_additional_language">기본: %s – 추가사항 없음</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="pref_default_expanded_additional"
----------------------------------------------------------------------------------------
- <string name="pref_default_expanded_additional" formatted="false">기본: %s, 기타: %s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="pref_default_expanded_no_additional"
----------------------------------------------------------------------------------------
- <string name="pref_default_expanded_no_additional">기본 언어: %s</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Velvet.apk" xml="" name="hotword_pref_summary_always_on_not_default_vis"
----------------------------------------------------------------------------------------
- <string name="hotword_pref_summary_always_on_not_default_vis">"이 기능을 사용하려면 설정 > 언어 및 입력 > 음성 입력으로 이동하여 '향상된 Google 서비스'를 선택하세요."</string>
 
 
 ---------------------------------------------------------------------------------------

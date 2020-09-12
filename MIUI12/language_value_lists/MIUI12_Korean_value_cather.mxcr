@@ -43,6 +43,7 @@ all Calendar.apk strings.xml miuix_search_history_default_title
 all Calendar.apk strings.xml miuix_search_recommendation_default_title
 all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml pref_default_popup_alert_value
+all Calendar.apk strings.xml trust_certificate_validity_period_value
 all cit.apk strings.xml default_station_name
 all cit.apk strings.xml cit_tool_mbn_default_notfiy
 all cit.apk strings.xml cit_tool_mbn_no_default_notfiy
@@ -208,6 +209,7 @@ all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
 all Mms.apk strings.xml rcs_pref_video_message_default_quality
 all Mms.apk strings.xml private_entry_default
+all Mms.apk strings.xml default_google_message_promo_content
 all MtkTeleService.apk strings.xml msim_select_default_time_left
 all MtkTeleService.apk strings.xml msim_setting_default_data
 all MtkTeleService.apk strings.xml msim_setting_default_voice
@@ -294,11 +296,6 @@ all PersonalAssistantGlobal.apk strings.xml upgrade_log_default
 all PersonalAssistantPlugin.apk strings.xml mini_error_title_default
 all PersonalAssistantPlugin.apk strings.xml setting_didi_default_way
 all PersonalAssistantPlugin.apk strings.xml navigation_search_default_hint
-all Phonesky.apk strings.xml wallet_im_cvc_code_popup_default_description
-all Photos.apk strings.xml default_album_name
-all Photos.apk strings.xml picker_title_single_default
-all Photos.apk strings.xml picker_title_multiple_default
-all Photos.apk strings.xml photos_actor_default_display_name
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_facemoji
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_kika
 all Provision.apk strings.xml terms_of_use_lable_default_input_method_mint
@@ -439,18 +436,6 @@ all Traceur.apk strings.xml tts_default_rate_title
 all Traceur.apk strings.xml tts_default_sample_string
 all Updater.apk strings.xml default_filedownloader_notification_content
 all Updater.apk strings.xml default_filedownloader_notification_title
-all Velvet.apk strings.xml default_scroll_format
-all Velvet.apk strings.xml migration_cling_use_default
-all Velvet.apk strings.xml undo_dismiss_message_default
-all Velvet.apk strings.xml friend_location_photos_title_default
-all Velvet.apk strings.xml default_image_filename
-all Velvet.apk strings.xml icing_default_corpus_label
-all Velvet.apk strings.xml icing_default_corpus_description
-all Velvet.apk strings.xml pref_default_title_prefix_multiple_language
-all Velvet.apk strings.xml pref_default_title_prefix_no_additional_language
-all Velvet.apk strings.xml pref_default_expanded_additional
-all Velvet.apk strings.xml pref_default_expanded_no_additional
-all Velvet.apk strings.xml hotword_pref_summary_always_on_not_default_vis
 all Videos.apk strings.xml locale_default
 all Videos.apk strings.xml color_default
 all Videos.apk strings.xml edge_type_default

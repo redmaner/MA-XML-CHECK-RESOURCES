@@ -713,6 +713,18 @@ folder="all" application="MiRecycle.apk" xml="" name="default_error_msg"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mirror.apk" xml="" name="buffer_size_values"
+---------------------------------------------------------------------------------------
+ <array name="buffer_size_values"> <item>@null</item> <item>64 Kb</item> <item>128 Kb</item> <item>256 Kb</item> <item>512 Kb</item> <item>1 Mb</item> </array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mirror.apk" xml="" name="buffer_size_values"
+---------------------------------------------------------------------------------------
+ <array name="buffer_size_values"> <item>@null</item> <item>64 Kb</item> <item>128 Kb</item> <item>256 Kb</item> <item>512 Kb</item> <item>1 Mb</item> </array>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mirror.apk" xml="" name="default_boss_terminal_name"
 ---------------------------------------------------------------------------------------
  <string name="default_boss_terminal_name">Mi Notebook</string>
