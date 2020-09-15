@@ -467,6 +467,12 @@ folder="all" application="Calendar.apk" xml="" name="preferences_default_reminde
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (will not be enforced)</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_active_values"
 ---------------------------------------------------------------------------------------
  <string-array name="alert_reminder_interval_active_values"> <item>1</item> <item>2</item> <item>15</item> <item>0</item> </string-array>
