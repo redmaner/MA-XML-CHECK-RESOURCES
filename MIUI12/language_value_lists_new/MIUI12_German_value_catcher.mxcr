@@ -262,6 +262,12 @@ all PermissionController.apk strings.xml default_permission_description
 all PermissionController.apk strings.xml no_default_apps
 all PermissionController.apk strings.xml request_role_current_default
 all PermissionController.apk strings.xml request_role_set_as_default
+all PersonalAssistant.apk strings.xml agenda_default
+all PersonalAssistant.apk strings.xml app_course_title_default
+all PersonalAssistant.apk strings.xml app_display_linkage_default
+all PersonalAssistant.apk strings.xml app_news_default_title
+all PersonalAssistant.apk strings.xml app_pa_setting_head_bg_img_default
+all PersonalAssistant.apk strings.xml app_pa_setting_head_info_default
 all PersonalAssistant.apk strings.xml display_weather_default
 all PersonalAssistant.apk strings.xml flybird_default_channel
 all PersonalAssistant.apk strings.xml flybird_default_channel_main

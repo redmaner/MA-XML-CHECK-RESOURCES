@@ -680,204 +680,30 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_app_t
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_content"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_content">"変更するにはタップ"</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_main_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_main_title">"デフォルトアプリを使用"</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_guide_notification_xspace_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_guide_notification_xspace_title">"デュアルアプリを使用"</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_dialog_title"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_dialog_title">"デフォルト"</string>
+
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setting_label"
 ---------------------------------------------------------------------------------------
- <string name="xspace_default_setting_label">Personalization</string>
 
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
----------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>着信音</item> <item>メディア</item> </string-array>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
----------------------------------------------------------------------------------------
- <string name="connected_via_network_scorer_default">ネットワーク評価プロバイダ経由で自動的に接続しています</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="cutout_mode_default"
----------------------------------------------------------------------------------------
- <string name="cutout_mode_default">自動</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_launcher_set_jeejen_message"
----------------------------------------------------------------------------------------
- <string name="default_launcher_set_jeejen_message">Press the Home button to set up Jeejen</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_launcher_set_system_message"
----------------------------------------------------------------------------------------
- <string name="default_launcher_set_system_message">Press the Home button to restore default launcher</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="enterprise_privacy_enterprise_set_default_apps"
----------------------------------------------------------------------------------------
- <string name="enterprise_privacy_enterprise_set_default_apps">デフォルト アプリ</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_summary"
----------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_summary">バックグラウンド接続を制限すると、新規にインストールしたアプリが正常に動作しなくなる可能性があります(例：メッセージの受信やコンテンツの更新など)。とにかく制限しますか？</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="firewall_set_bg_firewall_default_dialog_title"
----------------------------------------------------------------------------------------
- <string name="firewall_set_bg_firewall_default_dialog_title">新規アプリのバックグラウンド接続を制限する</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_default"
----------------------------------------------------------------------------------------
- <string name="game_driver_app_preference_default">デフォルト</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="importance_default"
----------------------------------------------------------------------------------------
- <string name="importance_default">Default</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="media_output_default_summary"
----------------------------------------------------------------------------------------
- <string name="media_output_default_summary">この端末</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="modify_default_browser_message"
----------------------------------------------------------------------------------------
- <string name="modify_default_browser_message">If you set a third party app as your default browser, it might start collecting your browsing history and other data. Set anyway?</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
----------------------------------------------------------------------------------------
- <string name="notifi_importance_default">通知音を再生</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="notification_channel_summary_default"
----------------------------------------------------------------------------------------
- <string name="notification_channel_summary_default">音やバイブレーションで通知をお知らせします</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
----------------------------------------------------------------------------------------
- <string name="reset_default_apn_failed">Failed to reset default apn</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
----------------------------------------------------------------------------------------
- <string name="slider_vocie_online_default">何もしない</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="theme_customization_device_default"
----------------------------------------------------------------------------------------
- <string name="theme_customization_device_default">デバイスのデフォルト</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="usb_default_info"
----------------------------------------------------------------------------------------
- <string name="usb_default_info">別の端末が接続されてスマートフォンのロックが解除されると、この設定が適用されます。信頼できる端末にのみ接続してください。</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="usb_default_label"
----------------------------------------------------------------------------------------
- <string name="usb_default_label">デフォルトの USB 設定</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_summary_default"
----------------------------------------------------------------------------------------
- <string name="zen_mode_custom_behavior_summary_default">デフォルト設定を使用</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
----------------------------------------------------------------------------------------
- <string name="tether_limit_value_custom">カスタム</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="err_msg_pending_value"
----------------------------------------------------------------------------------------
- <string name="err_msg_pending_value">Estimating cost…</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_service_type_value"
----------------------------------------------------------------------------------------
- <string name="online_recognize_order_service_type_value">Online audio transcribing</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="SoundRecorder.apk" xml="" name="online_recognize_order_unit_price_value"
----------------------------------------------------------------------------------------
- <string name="online_recognize_order_unit_price_value">%s CNY/hour</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
----------------------------------------------------------------------------------------
- <string name="msim_select_default_time_left">(%d秒)</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="TouchAssistant.apk" xml="" name="handy_mode_default_to_close_whether_open"
----------------------------------------------------------------------------------------
- <string name="handy_mode_default_to_close_whether_open">"片手モードはデフォルトでオフです。片手モードをオンにしますか？"</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_content"
----------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_content">FileDownloaderが実行中です。</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
----------------------------------------------------------------------------------------
- <string name="default_filedownloader_notification_title">FileDownloader</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="YellowPage.apk" xml="" name="navigation_search_default_hint"
----------------------------------------------------------------------------------------
- <string name="navigation_search_default_hint">現在地を検索</string>
 
 

@@ -1343,18 +1343,6 @@ folder="all" application="MiDrive.apk" xml="" name="exception_default"
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir"
----------------------------------------------------------------------------------------
- <string name="setting_default_download_dir">Posizione download predefinita</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="MiDrive.apk" xml="" name="setting_default_download_dir_title"
----------------------------------------------------------------------------------------
- <string name="setting_default_download_dir_title">Seleziona la posizione predefinita i file scaricati</string>
-
-
----------------------------------------------------------------------------------------
 folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_category"
 ---------------------------------------------------------------------------------------
  <string name="local_default_category">本地预置分类</string>

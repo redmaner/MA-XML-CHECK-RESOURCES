@@ -1583,6 +1583,42 @@ folder="all" application="PermissionController.apk" xml="" name="request_role_se
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="agenda_default"
+---------------------------------------------------------------------------------------
+ <string name="agenda_default">Terminplaner</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_course_title_default"
+---------------------------------------------------------------------------------------
+ <string name="app_course_title_default">Stundenplan</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_display_linkage_default"
+---------------------------------------------------------------------------------------
+ <string name="app_display_linkage_default">Innovation für jedermann</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_news_default_title"
+---------------------------------------------------------------------------------------
+ <string name="app_news_default_title">Neuigkeiten</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_bg_img_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_bg_img_default">Nicht festgelegt</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="app_pa_setting_head_info_default"
+---------------------------------------------------------------------------------------
+ <string name="app_pa_setting_head_info_default">Leer</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_weather_default"
 ---------------------------------------------------------------------------------------
  <string name="display_weather_default">Tippen, um Wetterinfos zu erhalten</string>
