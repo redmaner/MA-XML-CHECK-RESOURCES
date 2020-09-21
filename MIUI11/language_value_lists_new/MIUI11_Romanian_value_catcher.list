@@ -529,7 +529,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Antetul facturii: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item> <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item> <item>Așteaptă puțin, mă întorc imediat.</item> <item>Sunt într-o ședință. Vă rog să-mi trimiteți mesaj.</item> <item>Nu pot vorbi acum. Revin cu un telefon imediat.</item> <item>Mulțumesc!</item> </string-array>
+ <string-array name="default_phrases"> <item>Antetul facturii: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresă: Stradă, Ap., Oraș, Țară/Regiune, Provincie, Cod poștal</item> <item>Vă rog să lăsați pachetul lângă ușă. Mulțumesc!</item> <item>Așteaptă puțin, mă întorc imediat.</item> <item>Sunt într-o ședință. Vă rog să-mi trimiteți mesaj.</item> <item>Nu pot vorbi acum. Revin cu un telefon imediat.</item> <item>Mulțumesc!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -620,6 +620,24 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_waterm
 folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_watermark_default_text">AI Cameră triplă</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_coloreffect_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_coloreffect_default">niciunul</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_press_shutter_feature_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_press_shutter_feature_default">rafală</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_volumekey_function_default">temporizator</string>
 
 
 ---------------------------------------------------------------------------------------

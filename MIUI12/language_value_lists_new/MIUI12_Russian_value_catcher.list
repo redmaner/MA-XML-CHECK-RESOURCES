@@ -8365,7 +8365,7 @@ folder="all" application="framework-res.apk" xml="" name="config_misprovisionedB
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Заголовок счета: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png </item> <item>Адрес: улица, квартира, город, страна/регион, провинция, почтовый индекс</item> <item>Пожалуйста, оставьте пакет у двери. Спасибо!</item> <item>Подождите минуту, я сейчас вернусь.</item> <item>Я на совещании. Пожалуйста, отправьте текстовое сообщение.</item> <item>Я не могу сейчас говорить. Перезвоню как только смогу.</item> <item>Спасибо!</item> </string-array>
+ <string-array name="default_phrases"> <item>Заголовок счета: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png </item> <item>Адрес: улица, квартира, город, страна/регион, провинция, почтовый индекс</item> <item>Пожалуйста, оставьте пакет у двери. Спасибо!</item> <item>Подождите минуту, я сейчас вернусь.</item> <item>Я на совещании. Пожалуйста, отправьте текстовое сообщение.</item> <item>Я не могу сейчас говорить. Перезвоню как только смогу.</item> <item>Спасибо!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

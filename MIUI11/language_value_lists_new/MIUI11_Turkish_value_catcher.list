@@ -427,7 +427,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Fatura başlığı: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png A.Ş.</item> <item>Adres: Sokak, Apt, Şehir, Ülke/Bölge, İl, Posta kodu</item> <item>Lütfen paketi kapının yanına bırakın. Teşekkürler!</item> <item>Bir dakika bekle, hemen döneceğim.</item> <item>Toplantıdayım. Lütfen kısa mesaj gönderin.</item> <item>Şu anda konuşamam. En kısa zamanda seni ararım.</item> <item>Teşekkürler!</item> </string-array>
+ <string-array name="default_phrases"> <item>Fatura başlığı: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png A.Ş.</item> <item>Adres: Sokak, Apt, Şehir, Ülke/Bölge, İl, Posta kodu</item> <item>Lütfen paketi kapının yanına bırakın. Teşekkürler!</item> <item>Bir dakika bekle, hemen döneceğim.</item> <item>Toplantıdayım. Lütfen kısa mesaj gönderin.</item> <item>Şu anda konuşamam. En kısa zamanda seni ararım.</item> <item>Teşekkürler!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

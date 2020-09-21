@@ -593,6 +593,12 @@ folder="all" application="CABLService.apk" xml="" name="cabl_info_default"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="CABLService.apk" xml="" name="cabl_level_default"
+---------------------------------------------------------------------------------------
+ <string name="cabl_level_default">Auto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minutes</item> <item>10 minutes</item> <item>15 minutes</item> <item>30 minutes</item> <item>1 heure</item> </string-array>
@@ -1045,7 +1051,7 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>En-tête de facture: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresse: Rue, Apt, Ville, Pays / Région, Province, Code postal</item> <item>"S'il vous plaît laissez le paquet par la porte. Merci !"</item> <item>"Attends une minute, je serai de retour."</item> <item>"Je suis en réunion. S'il vous plaît envoyer un message texte."</item> <item>"Je ne peux pas parler maintenant. Je vous rappelle dès que possible."</item> <item>Merci !</item> </string-array>
+ <string-array name="default_phrases"> <item>En-tête de facture: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Adresse: Rue, Apt, Ville, Pays / Région, Province, Code postal</item> <item>"S'il vous plaît laissez le paquet par la porte. Merci !"</item> <item>"Attends une minute, je serai de retour."</item> <item>"Je suis en réunion. S'il vous plaît envoyer un message texte."</item> <item>"Je ne peux pas parler maintenant. Je vous rappelle dès que possible."</item> <item>Merci !</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------

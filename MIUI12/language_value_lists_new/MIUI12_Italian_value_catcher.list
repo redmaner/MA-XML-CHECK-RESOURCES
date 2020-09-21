@@ -1237,7 +1237,7 @@ folder="all" application="framework-res.apk" xml="" name="config_misprovisionedB
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>Intestazione fattura: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Indirizzo: Via, Apt, Città, Paese/Regione, Provincia, Codice postale</item> <item>Si prega di lasciare il pacco davanti alla porta. Grazie!</item> <item>"Aspetta un minuto, torno subito."</item> <item>"Sono in riunione. Per favore, invia un messaggio."</item> <item>"Non posso parlare adesso. Ti richiamerò il prima possibile."</item> <item>Grazie!</item> </string-array>
+ <string-array name="default_phrases"> <item>Intestazione fattura: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Inc.</item> <item>Indirizzo: Via, Apt, Città, Paese/Regione, Provincia, Codice postale</item> <item>Si prega di lasciare il pacco davanti alla porta. Grazie!</item> <item>"Aspetta un minuto, torno subito."</item> <item>"Sono in riunione. Per favore, invia un messaggio."</item> <item>"Non posso parlare adesso. Ti richiamerò il prima possibile."</item> <item>Grazie!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -2780,6 +2780,12 @@ folder="all" application="Mms.apk" xml="" name="switch_sdk_value"
 folder="all" application="Mms.apk" xml="" name="contact_values"
 ---------------------------------------------------------------------------------------
  <string-array name="contact_values"> <item>vnd.android.cursor.item/name</item> <item>vnd.android.cursor.item/nickname</item> <item>vnd.android.cursor.item/phone_v2</item> <item>vnd.android.cursor.item/email_v2</item> <item>vnd.android.cursor.item/organization</item> <item>vnd.android.cursor.item/im</item> <item>vnd.android.cursor.item/sip_address</item> <item>vnd.android.cursor.item/contact_event</item> <item>vnd.android.cursor.item/website</item> <item>vnd.android.cursor.item/postal-address_v2</item> <item>vnd.android.cursor.item/note</item> <item>vnd.android.cursor.item/relation</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">"Hai impostato l\'app messaggi di Google come applicazione di messaggistica predefinita. Premi \"Apri\" per usare l’app."</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -469,7 +469,7 @@ folder="all" application="framework-res.apk" xml="" name="gsm_alphabet_default_c
 ---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
- <string-array name="default_phrases"> <item>인보이스 머릿말: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png 회사.</item> <item>주소: 거리, 아파트, 도시, 나라/지역, 주, 우편 번호</item> <item>택배를 문앞에 놔주세요. 감사합니다!</item> <item>"잠시만 기다려주세요, 곧 돌아오겠습니다."</item> <item>"회의중입니다. 문자로 연락주세요."</item> <item>"지금은 통화할 수 없습니다. 가능한 빨리 연락드리겠습니다."</item> <item>감사합니다!</item> </string-array>
+ <string-array name="default_phrases"> <item>인보이스 머릿말: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png 회사.</item> <item>주소: 거리, 아파트, 도시, 나라/지역, 주, 우편 번호</item> <item>택배를 문앞에 놔주세요. 감사합니다!</item> <item>"잠시만 기다려주세요, 곧 돌아오겠습니다."</item> <item>"회의중입니다. 문자로 연락주세요."</item> <item>"지금은 통화할 수 없습니다. 가능한 빨리 연락드리겠습니다."</item> <item>감사합니다!</item> </string-array>
 
 
 ---------------------------------------------------------------------------------------
