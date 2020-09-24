@@ -1667,6 +1667,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="first_settings_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Więcej funkcji</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="daily_card_setting_fragment_daily_card_brand_value"
 ---------------------------------------------------------------------------------------
  <string name="daily_card_setting_fragment_daily_card_brand_value">Wybierz operatora</string>

@@ -13271,6 +13271,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Ovládání</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
  <string name="private_entry_default">Potáhněte nížeji pro otevření soukromé složky</string>
@@ -13988,6 +13994,18 @@ folder="all" application="Settings.apk" xml="" name="default_suppression_title"
 folder="all" application="Settings.apk" xml="" name="default_keyboard"
 ---------------------------------------------------------------------------------------
  <string name="default_keyboard">Předvolené</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">Žádný</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Neznámý</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -7775,6 +7775,18 @@ folder="all" application="Calculator.apk" xml="" name="unit_data_default_currenc
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_data_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_data_0">мб</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_data_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_data_1">кб</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calculator.apk" xml="" name="unit_data_default_radix_0"
 ---------------------------------------------------------------------------------------
  <string name="unit_data_default_radix_0">10</string>
@@ -9554,6 +9566,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_default_o
 folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_setting"
 ---------------------------------------------------------------------------------------
  <string name="app_manager_defaults_setting">Приложения по умолчанию</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Дополнительные функции</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default">Oletus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Bluetooth.apk" xml="" name="switch_audio_device_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="switch_audio_device_default_summary">Käytössä oleva laite</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Bluetooth.apk" xml="" name="bt_sm_2_1_default"
 ---------------------------------------------------------------------------------------
  <string name="bt_sm_2_1_default">SD-kortilla ei ole tarpeeksi tilaa kohteen \"%1$s\" lähettämän tiedoston tallentamiseen</string>
@@ -59,6 +71,156 @@ folder="all" application="Browser.apk" xml="" name="mw_color_picker_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_0">sq.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_area_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_area_1">sq.cm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_0">JPY</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_1">USD</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_currency_2"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_currency_2">EUR</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_data_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_data_0">mb</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_data_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_data_1">kb</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_radix_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_radix_0">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_radix_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_radix_1">2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_0">C</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_temperature_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_temperature_1">F</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_0">min</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_time_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_time_1">s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_0">mps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_velocity_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_velocity_1">kmps</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_0"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_0">cu.m</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="unit_data_default_volume_1"
+---------------------------------------------------------------------------------------
+ <string name="unit_data_default_volume_1">cu.cm</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="relationship_default_separator_text"
+---------------------------------------------------------------------------------------
+ <string name="relationship_default_separator_text">的</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="relationship_default_text"
+---------------------------------------------------------------------------------------
+ <string name="relationship_default_text">我</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="cos_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="cos_mathematical_value">cos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="label_total_value"
+---------------------------------------------------------------------------------------
+ <string name="label_total_value">Arvo yhteensä</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="lg_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="lg_mathematical_value">lg</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="ln_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="ln_mathematical_value">ln</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="sin_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="sin_mathematical_value">sin</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calculator.apk" xml="" name="tan_mathematical_value"
+---------------------------------------------------------------------------------------
+ <string name="tan_mathematical_value">tan</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Calendar.apk" xml="" name="default_reminder_later_time_labels"
 ---------------------------------------------------------------------------------------
  <string-array name="default_reminder_later_time_labels"> <item>5 minuuttia</item> <item>10 minuuttia</item> <item>15 minuuttia</item> <item>30 minuuttia</item> <item>1 tunti</item> </string-array>
@@ -74,6 +236,66 @@ folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count
 folder="all" application="Calendar.apk" xml="" name="repeat_monthly_on_day_count_values"
 ---------------------------------------------------------------------------------------
  <string-array name="repeat_monthly_on_day_count_values"> <item>ensimmäinen Maanantai</item> <item>ensimmäinen Tiistai</item> <item>ensimmäinen Keskiviikko</item> <item>ensimmäinen Torstai</item> <item>ensimmäinen Perjantai</item> <item>ensimmäinen Lauantai</item> <item>ensimmäinen Sunnuntai</item> <item>toinen Maanantai</item> <item>toinen Tiistai</item> <item>toinen Keskiviikko</item> <item>toinen Torstai</item> <item>toinen Perjantai</item> <item>toinen Lauantai</item> <item>toinen Sunnuntai</item> <item>kolmas Maanantai</item> <item>kolmas Tiistai</item> <item>kolmas Keskiviikko</item> <item>kolmas Torstai</item> <item>kolmas Perjantai</item> <item>kolmas Lauantai</item> <item>kolmas Sunnuntai</item> <item>neljäs Maanantai</item> <item>neljäs Tiistai</item> <item>neljäs Keskiviikko</item> <item>neljäs Torstai</item> <item>neljäs Perjantai</item> <item>neljäs Lauantai</item> <item>neljäs Sunnuntai</item> <item>viimeinen Maanantai</item> <item>viimeinen Tiistai</item> <item>viimeinen Keskiviikko</item> <item>viimeinen Torstai</item> <item>viimeinen Perjantai</item> <item>viimeinen Lauantai</item> <item>viimeinen Sunnuntai</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="load_more_events_default"
+---------------------------------------------------------------------------------------
+ <string name="load_more_events_default">View next year events</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="menstruation_card_default_title"
+---------------------------------------------------------------------------------------
+ <string name="menstruation_card_default_title">暂无经期助手数据</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_history_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_history_default_title">Search history</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="miuix_search_recommendation_default_title"
+---------------------------------------------------------------------------------------
+ <string name="miuix_search_recommendation_default_title">You might be interested in these</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_default_popup_alert_value">smart</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_alarm_default_event_title"
+---------------------------------------------------------------------------------------
+ <string name="preferences_alarm_default_event_title">设置闹钟提醒</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_allday_reminder_default_value">480</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_later_time_default_value">300000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pull_refresh_events_default"
+---------------------------------------------------------------------------------------
+ <string name="pull_refresh_events_default">View previous year events</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -98,6 +320,48 @@ folder="all" application="Calendar.apk" xml="" name="preferences_alarms_default_
 folder="all" application="Calendar.apk" xml="" name="work_day_default_banner_title"
 ---------------------------------------------------------------------------------------
  <string name="work_day_default_banner_title">Tuottavaa työpäivää!</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="pref_default_popup_alert_value"
+---------------------------------------------------------------------------------------
+ <string name="pref_default_popup_alert_value">smart</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_allday_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_allday_reminder_default_value">480</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="preferences_default_reminder_later_time_default_value"
+---------------------------------------------------------------------------------------
+ <string name="preferences_default_reminder_later_time_default_value">300000</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Calendar.apk" xml="" name="trust_certificate_validity_period_value"
+---------------------------------------------------------------------------------------
+ <string name="trust_certificate_validity_period_value">%1$s – %2$s (will not be enforced)</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_default_value"
+---------------------------------------------------------------------------------------
+ <string name="alert_reminder_interval_default_value">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="CellBroadcastReceiver.apk" xml="" name="alert_reminder_interval_default_value"
+---------------------------------------------------------------------------------------
+ <string name="alert_reminder_interval_default_value">0</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -134,6 +398,48 @@ folder="all" application="Cit.apk" xml="" name="value_far_test_threshold_default
 folder="all" application="Cit.apk" xml="" name="value_frr_test_threshold_default"
 ---------------------------------------------------------------------------------------
  <string name="value_frr_test_threshold_default">小于 %1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="DSI_value_get"
+---------------------------------------------------------------------------------------
+ <string name="DSI_value_get">get DSI</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueF0"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueF0">F0：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueR"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueR">Ref_diff：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_cali_valueT"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_cali_valueT">Temp_acc：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="cit_audio_spk_cal_valueF0"
+---------------------------------------------------------------------------------------
+ <string name="cit_audio_spk_cal_valueF0">F0:</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="frr_filter_value"
+---------------------------------------------------------------------------------------
+ <string name="frr_filter_value">过滤后拒真率：</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Cit.apk" xml="" name="frr_value"
+---------------------------------------------------------------------------------------
+ <string name="frr_value">拒真率：</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -203,6 +509,114 @@ folder="all" application="Contacts.apk" xml="" name="contacts_default_notificati
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="bedtime_repeat_values"
+---------------------------------------------------------------------------------------
+ <integer-array name="bedtime_repeat_values"> <item>1</item> <item>4</item> <item>2</item> <item>5</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="clock_bg_setting_values"
+---------------------------------------------------------------------------------------
+ <string-array name="clock_bg_setting_values"> <item>1</item> <item>2</item> <item>-1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="notification_adv_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="notification_adv_time_values"> <item>0</item> <item>15</item> <item>30</item> <item>60</item> <item>-1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="bedtime_repeat_values"
+---------------------------------------------------------------------------------------
+ <integer-array name="bedtime_repeat_values"> <item>1</item> <item>4</item> <item>2</item> <item>5</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="clock_bg_setting_values"
+---------------------------------------------------------------------------------------
+ <string-array name="clock_bg_setting_values"> <item>1</item> <item>2</item> <item>-1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="notification_adv_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="notification_adv_time_values"> <item>0</item> <item>15</item> <item>30</item> <item>60</item> <item>-1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_five"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_five">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_one"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_one">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_ten"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_ten">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_three"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_three">3</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="repeat_count_value_two"
+---------------------------------------------------------------------------------------
+ <string name="repeat_count_value_two">2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_fifteen"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_fifteen">15</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_five"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_five">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_one"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_one">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_ten"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_ten">10</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_thirty"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_thirty">30</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_twenty">20</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value_twenty_five"
+---------------------------------------------------------------------------------------
+ <string name="snooze_duration_value_twenty_five">25</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="DeskClock.apk" xml="" name="snooze_duration_value"
 ---------------------------------------------------------------------------------------
  <string name="snooze_duration_value">Intervalli (minuuttia)</string>
@@ -224,6 +638,162 @@ folder="all" application="framework-ext-res.apk" xml="" name="default_device_nam
 folder="all" application="framework-ext-res.apk" xml="" name="subinfo_default_name"
 ---------------------------------------------------------------------------------------
  <string name="subinfo_default_name">SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAccessibilityService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAccessibilityService">com.google.android.marvin.talkback/.TalkBackService</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAppPredictionService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAppPredictionService" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAssistant"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAssistant">com.miui.voiceassist</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAssistantAccessComponent"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAssistantAccessComponent">android.ext.services/android.ext.services.notification.Assistant</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAttentionService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAttentionService" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAugmentedAutofillService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAugmentedAutofillService" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultAutofillService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultAutofillService">com.miui.contentcatcher/.autofill.services.MiuiAutofillService</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultContentCaptureService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultContentCaptureService" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultContentSuggestionsService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultContentSuggestionsService" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultDialer"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultDialer">com.android.contacts</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultDndAccessPackages"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultDndAccessPackages">com.android.camera2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultListenerAccessPackages"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultListenerAccessPackages" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultModuleMetadataProvider"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultModuleMetadataProvider">com.android.modulemetadata</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultNetworkRecommendationProviderPackage"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultNetworkRecommendationProviderPackage" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultPictureInPictureScreenEdgeInsets"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultPictureInPictureScreenEdgeInsets">16x16</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultSupervisionProfileOwnerComponent"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultSupervisionProfileOwnerComponent" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultSystemCaptionsManagerService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultSystemCaptionsManagerService" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultSystemCaptionsService"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultSystemCaptionsService" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultTextClassifierPackage"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultTextClassifierPackage" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultTrustAgent"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultTrustAgent" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_defaultWellbeingPackage"
+---------------------------------------------------------------------------------------
+ <string name="config_defaultWellbeingPackage" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="default_browser"
+---------------------------------------------------------------------------------------
+ <string name="default_browser" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
+---------------------------------------------------------------------------------------
+ <string name="etws_primary_default_message_others" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="gsm_alphabet_default_charset"
+---------------------------------------------------------------------------------------
+ <string name="gsm_alphabet_default_charset" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="widget_default_class_name"
+---------------------------------------------------------------------------------------
+ <string name="widget_default_class_name" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="widget_default_package_name"
+---------------------------------------------------------------------------------------
+ <string name="widget_default_package_name" />
 
 
 ---------------------------------------------------------------------------------------
@@ -299,9 +869,69 @@ folder="all" application="framework-res.apk" xml="" name="zen_mode_default_every
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_helpPackageNameValue"
+---------------------------------------------------------------------------------------
+ <string name="config_helpPackageNameValue" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="framework-res.apk" xml="" name="config_misprovisionedBrandValue"
+---------------------------------------------------------------------------------------
+ <string name="config_misprovisionedBrandValue" />
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="FrequentPhrase.apk" xml="" name="default_phrases"
 ---------------------------------------------------------------------------------------
  <string-array name="default_phrases"> <item>Laskun otsikko: array_tools.sh CHANGES check.sh check.sh_mergecfff check_xml.sh create_log.sh data data_ fix_xml.sh generate_value_lists.sh languages logs README.md remote remote.sh repository.sh resources resources.sh update.sh xiaomi_europe.png Oy.</item> <item>Osoite: Katu, Huoneisto, Kaupunki, Maa/Alue, Provinssi, Postinumero</item> <item>Jätä paketti ovelle. Kiitos!</item> <item>Odota hetki, tulen kohta takaisin.</item> <item>Olen kokouksessa. Lähetä tekstiviesti.</item> <item>En voi puhua juuri nyt. Soitan sinulle takaisin niin pian kuin mahdollista.</item> <item>Kiitos!</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="body_water_line_chart_default_y"
+---------------------------------------------------------------------------------------
+ <integer-array name="body_water_line_chart_default_y"> <item>70</item> <item>60</item> <item>50</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="bone_mass_line_chart_default_y"
+---------------------------------------------------------------------------------------
+ <integer-array name="bone_mass_line_chart_default_y"> <item>3</item> <item>2</item> <item>1</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="fat_rate_line_chart_default_y"
+---------------------------------------------------------------------------------------
+ <integer-array name="fat_rate_line_chart_default_y"> <item>30</item> <item>20</item> <item>10</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="muscle_rate_line_chart_default_y"
+---------------------------------------------------------------------------------------
+ <integer-array name="muscle_rate_line_chart_default_y"> <item>80</item> <item>70</item> <item>60</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="protein_rate_line_chart_default_y"
+---------------------------------------------------------------------------------------
+ <integer-array name="protein_rate_line_chart_default_y"> <item>20</item> <item>15</item> <item>10</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="visceral_rate_line_chart_default_y"
+---------------------------------------------------------------------------------------
+ <integer-array name="visceral_rate_line_chart_default_y"> <item>20</item> <item>10</item> <item>0</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="weight_line_chart_default_y"
+---------------------------------------------------------------------------------------
+ <integer-array name="weight_line_chart_default_y"> <item>42</item> <item>45</item> <item>48</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="androidx_camera_default_config_provider"
+---------------------------------------------------------------------------------------
+ <string name="androidx_camera_default_config_provider">androidx.camera.camera2.Camera2Config$DefaultProvider</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -344,6 +974,18 @@ folder="all" application="Health.apk" xml="" name="text_no_value"
 folder="all" application="Health.apk" xml="" name="user_invalid_value"
 ---------------------------------------------------------------------------------------
  <string name="user_invalid_value">--</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Health.apk" xml="" name="value_error_correct"
+---------------------------------------------------------------------------------------
+ <string name="value_error_correct">Edit record</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiGalleryLockscreen.apk" xml="" name="local_default_category"
+---------------------------------------------------------------------------------------
+ <string name="local_default_category">本地预置分类</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -395,6 +1037,486 @@ folder="all" application="MiuiAod.apk" xml="" name="signature_default_content"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="color_mode_ids"
+---------------------------------------------------------------------------------------
+ <integer-array name="color_mode_ids"> <item>0</item> <item>-1</item> <item>7</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="animator_duration_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="animator_duration_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="app_process_limit_values"
+---------------------------------------------------------------------------------------
+ <string-array name="app_process_limit_values"> <item>-1</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_bits_per_sample_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_bits_per_sample_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_channel_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_channel_mode_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_ldac_playback_quality_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values"> <item>1000</item> <item>1001</item> <item>1002</item> <item>1003</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_sample_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_sample_rate_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> <item>8</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_values"> <item>1000000</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> <item>8</item> <item>9</item> <item>10</item> <item>11</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bt_hci_snoop_log_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bt_hci_snoop_log_values"> <item>disabled</item> <item>filtered</item> <item>full</item> <item>snoopheadersfiltered</item> <item>mediapktsfiltered</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="debug_hw_overdraw_values"
+---------------------------------------------------------------------------------------
+ <string-array name="debug_hw_overdraw_values"> <item>false</item> <item>show</item> <item>show_deuteranomaly</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="enable_opengl_traces_values"
+---------------------------------------------------------------------------------------
+ <string-array name="enable_opengl_traces_values"> <item>0</item> <item>1</item> <item>systrace</item> <item>error</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>never</item> <item>drm-only</item> <item>always</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,secure</item> <item>1280x720/213</item> <item>1280x720/213,secure</item> <item>1920x1080/320</item> <item>1920x1080/320,secure</item> <item>3840x2160/320</item> <item>3840x2160/320,secure</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,secure</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="select_logd_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logd_size_values"> <item>32768</item> <item>65536</item> <item>262144</item> <item>1048576</item> <item>4194304</item> <item>16777216</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item></item> <item>all</item> <item>default,security,kernel</item> <item>kernel</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>hide</item> <item>region</item> <item>highlight</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="simulate_color_space_values"
+---------------------------------------------------------------------------------------
+ <string-array name="simulate_color_space_values"> <item>-1</item> <item>0</item> <item>2</item> <item>1</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="track_frame_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="track_frame_time_values"> <item>false</item> <item>visual_bars</item> <item>true</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="transition_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="transition_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="usb_configuration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="usb_configuration_values"> <item>none</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="window_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="window_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="animator_duration_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="animator_duration_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="app_process_limit_values"
+---------------------------------------------------------------------------------------
+ <string-array name="app_process_limit_values"> <item>-1</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_bits_per_sample_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_bits_per_sample_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_channel_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_channel_mode_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_ldac_playback_quality_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values"> <item>1000</item> <item>1001</item> <item>1002</item> <item>1003</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_sample_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_sample_rate_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> <item>8</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_a2dp_codec_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_values"> <item>1000000</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> <item>8</item> <item>9</item> <item>10</item> <item>11</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="bt_hci_snoop_log_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bt_hci_snoop_log_values"> <item>disabled</item> <item>filtered</item> <item>full</item> <item>snoopheadersfiltered</item> <item>mediapktsfiltered</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="debug_hw_overdraw_values"
+---------------------------------------------------------------------------------------
+ <string-array name="debug_hw_overdraw_values"> <item>false</item> <item>show</item> <item>show_deuteranomaly</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="enable_opengl_traces_values"
+---------------------------------------------------------------------------------------
+ <string-array name="enable_opengl_traces_values"> <item>0</item> <item>1</item> <item>systrace</item> <item>error</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>never</item> <item>drm-only</item> <item>always</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,secure</item> <item>1280x720/213</item> <item>1280x720/213,secure</item> <item>1920x1080/320</item> <item>1920x1080/320,secure</item> <item>3840x2160/320</item> <item>3840x2160/320,secure</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,secure</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="select_logd_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logd_size_values"> <item>32768</item> <item>65536</item> <item>262144</item> <item>1048576</item> <item>4194304</item> <item>16777216</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item></item> <item>all</item> <item>default,security,kernel</item> <item>kernel</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>hide</item> <item>region</item> <item>highlight</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="simulate_color_space_values"
+---------------------------------------------------------------------------------------
+ <string-array name="simulate_color_space_values"> <item>-1</item> <item>0</item> <item>2</item> <item>1</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="track_frame_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="track_frame_time_values"> <item>false</item> <item>visual_bars</item> <item>true</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="transition_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="transition_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="usb_configuration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="usb_configuration_values"> <item>none</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="window_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="window_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="audio_relay_default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="audio_relay_default_device_name">Mi AI Speaker</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="connected_via_network_scorer_default"
+---------------------------------------------------------------------------------------
+ <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_none"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_none">No defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="launch_defaults_some"
+---------------------------------------------------------------------------------------
+ <string name="launch_defaults_some">Some defaults set</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="screen_zoom_summary_default"
+---------------------------------------------------------------------------------------
+ <string name="screen_zoom_summary_default">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_summary">Sets the language-specific voice for the spoken text</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_lang_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_lang_title">Language</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_summary">Affects the tone of the synthesized speech</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_pitch_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_pitch_title">Pitch</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_summary"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_summary">Speed at which the text is spoken</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_rate_title"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_rate_title">Speech rate</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBluetooth.apk" xml="" name="tts_default_sample_string"
+---------------------------------------------------------------------------------------
+ <string name="tts_default_sample_string">This is an example of speech synthesis</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiBugReport.apk" xml="" name="module_default_json"
+---------------------------------------------------------------------------------------
+ <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Crashes &amp; reboots\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Heating\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobile networks\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wi-Fi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Other errors\",\"categoryId\":10,\"order\":2}]</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_antibanding_entryvalue_50hz"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_antibanding_entryvalue_50hz">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_antibanding_entryvalue_60hz"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_antibanding_entryvalue_60hz">2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_antibanding_entryvalue_auto"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_antibanding_entryvalue_auto">3</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_antibanding_entryvalue_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_antibanding_entryvalue_off">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">burst</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_focus"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">focus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_record"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">record</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_circle"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_circle">circle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_parallel"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_parallel">parallel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_hfr_entryvalue_default">1920x1080:120</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="custom_sound_default"
+---------------------------------------------------------------------------------------
+ <string name="custom_sound_default">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_stereo_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_stereo_default">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_google_lens_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_google_lens_default">true</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_pro_video_volumekey_function_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_pro_video_volumekey_function_default">shutter</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_skin_beautify_color_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_skin_beautify_color_default">4</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_skin_beautify_eye_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_skin_beautify_eye_default">2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_skin_beautify_slim_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_skin_beautify_slim_default">3</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_skin_beautify_smooth_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_skin_beautify_smooth_default">5</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_autoexposure_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_autoexposure_default">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_encoder_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_encoder_default">h264</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_hfr_entryvalue_default">1920x1080:120</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiCamera.apk" xml="" name="device_ultra_pixel_watermark_default_text"
 ---------------------------------------------------------------------------------------
  <string name="device_ultra_pixel_watermark_default_text">48MP KOLMOISKAMERA</string>
@@ -407,9 +1529,141 @@ folder="all" application="MiuiCamera.apk" xml="" name="device_watermark_default_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_antibanding_entryvalue_50hz"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_antibanding_entryvalue_50hz">1</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_antibanding_entryvalue_60hz"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_antibanding_entryvalue_60hz">2</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_antibanding_entryvalue_auto"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_antibanding_entryvalue_auto">3</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_antibanding_entryvalue_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_antibanding_entryvalue_off">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_burst"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">burst</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_focus"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">focus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_long_pressing_burst_shooting_entryvalue_record"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">record</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_manually_exposure_value_abbr"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_manually_exposure_value_abbr">EV</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_off"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_off">Off</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_movie"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_movie">Movie</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_snap_value_take_picture"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_snap_value_take_picture">Picture</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_circle"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_circle">circle</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_tilt_shift_entryvalue_parallel"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_tilt_shift_entryvalue_parallel">parallel</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_camera_zoom_value_title"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_zoom_value_title">Zoom</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_hfr_entryvalue_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_hfr_entryvalue_default">1920x1080:120</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_1080p_60fps"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_4kuhd_60fps"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_720p_60fps"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_720p_60fps">5,60</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_entry_value_8kuhd"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_entry_value_8kuhd">3001</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiCamera.apk" xml="" name="pref_video_quality_value_autozoom"
+---------------------------------------------------------------------------------------
+ <string name="pref_video_quality_value_autozoom">6</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiExtraPhoto.apk" xml="" name="motion_photo_toast_default"
 ---------------------------------------------------------------------------------------
  <string name="motion_photo_toast_default">Oletus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="album_detail_default_sort_tip"
+---------------------------------------------------------------------------------------
+ <string name="album_detail_default_sort_tip">Switched to chronological order</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiGallery.apk" xml="" name="security_share_subtitle_default"
+---------------------------------------------------------------------------------------
+ <string name="security_share_subtitle_default">Privacy protection</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -452,6 +1706,12 @@ folder="all" application="MiuiGallery.apk" xml="" name="text_edit_dialog_font_de
 folder="all" application="MiuiGallery.apk" xml="" name="video_editor_text_default"
 ---------------------------------------------------------------------------------------
  <string name="video_editor_text_default">Oletus</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiHome.apk" xml="" name="default_folder_title_turkcell_uygulamalar"
+---------------------------------------------------------------------------------------
+ <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -545,15 +1805,387 @@ folder="all" application="MiuiHome.apk" xml="" name="launcher_search_bar_value_e
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">People who installed this app also liked</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiPackageInstaller.apk" xml="" name="default_permission_description"
 ---------------------------------------------------------------------------------------
  <string name="default_permission_description">perform an unknown action</string>
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiPackageInstaller.apk" xml="" name="ads_summary_default_value"
+---------------------------------------------------------------------------------------
+ <string name="ads_summary_default_value">People who installed this app also liked</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="document_default_location"
+---------------------------------------------------------------------------------------
+ <string name="document_default_location">"Files will be saved to "</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="pref_camera_focusmode_default"
+---------------------------------------------------------------------------------------
+ <string name="pref_camera_focusmode_default">continuous-picture</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiScanner.apk" xml="" name="setting_default_function"
 ---------------------------------------------------------------------------------------
  <string name="setting_default_function">Oletustoiminto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_chinese_cn"
+---------------------------------------------------------------------------------------
+ <string name="language_value_chinese_cn">chinese_cn</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_english"
+---------------------------------------------------------------------------------------
+ <string name="language_value_english">english</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_french"
+---------------------------------------------------------------------------------------
+ <string name="language_value_french">french</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_german"
+---------------------------------------------------------------------------------------
+ <string name="language_value_german">german</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_japanese"
+---------------------------------------------------------------------------------------
+ <string name="language_value_japanese">japanese</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_korean"
+---------------------------------------------------------------------------------------
+ <string name="language_value_korean">korean</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiScanner.apk" xml="" name="language_value_spanish"
+---------------------------------------------------------------------------------------
+ <string name="language_value_spanish">spanish</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="color_mode_ids"
+---------------------------------------------------------------------------------------
+ <integer-array name="color_mode_ids"> <item>0</item> <item>-1</item> <item>7</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="data_network_type_name_default"
+---------------------------------------------------------------------------------------
+ <string-array name="data_network_type_name_default"> <item></item> <item>G</item> <item>E</item> <item>3G</item> <item>H</item> <item>H+</item> <item>4G</item> <item>4G+</item> <item></item> <item>LTE</item> <item>5G</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="animator_duration_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="animator_duration_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="app_process_limit_values"
+---------------------------------------------------------------------------------------
+ <string-array name="app_process_limit_values"> <item>-1</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_bits_per_sample_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_bits_per_sample_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_channel_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_channel_mode_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_ldac_playback_quality_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values"> <item>1000</item> <item>1001</item> <item>1002</item> <item>1003</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_sample_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_sample_rate_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> <item>8</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_values"> <item>1000000</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> <item>8</item> <item>9</item> <item>10</item> <item>11</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bt_hci_snoop_log_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bt_hci_snoop_log_values"> <item>disabled</item> <item>filtered</item> <item>full</item> <item>snoopheadersfiltered</item> <item>mediapktsfiltered</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="debug_hw_overdraw_values"
+---------------------------------------------------------------------------------------
+ <string-array name="debug_hw_overdraw_values"> <item>false</item> <item>show</item> <item>show_deuteranomaly</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="enable_opengl_traces_values"
+---------------------------------------------------------------------------------------
+ <string-array name="enable_opengl_traces_values"> <item>0</item> <item>1</item> <item>systrace</item> <item>error</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>never</item> <item>drm-only</item> <item>always</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_button_values"
+---------------------------------------------------------------------------------------
+ <string-array name="nav_bar_button_values"> <item>clipboard</item> <item>key</item> <item>menu_ime</item> <item>space</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_layouts_values"
+---------------------------------------------------------------------------------------
+ <string-array name="nav_bar_layouts_values"> <item>default</item> <item>left;back,home,recent;right</item> <item>left,back,home,recent,right;space;space</item> <item>space;space;left,back,home,recent,right</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,secure</item> <item>1280x720/213</item> <item>1280x720/213,secure</item> <item>1920x1080/320</item> <item>1920x1080/320,secure</item> <item>3840x2160/320</item> <item>3840x2160/320,secure</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,secure</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="select_logd_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logd_size_values"> <item>32768</item> <item>65536</item> <item>262144</item> <item>1048576</item> <item>4194304</item> <item>16777216</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item></item> <item>all</item> <item>default,security,kernel</item> <item>kernel</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>hide</item> <item>region</item> <item>highlight</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="simulate_color_space_values"
+---------------------------------------------------------------------------------------
+ <string-array name="simulate_color_space_values"> <item>-1</item> <item>0</item> <item>2</item> <item>1</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="track_frame_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="track_frame_time_values"> <item>false</item> <item>visual_bars</item> <item>true</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="transition_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="transition_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="usb_configuration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="usb_configuration_values"> <item>none</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="window_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="window_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="animator_duration_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="animator_duration_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="app_process_limit_values"
+---------------------------------------------------------------------------------------
+ <string-array name="app_process_limit_values"> <item>-1</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_bits_per_sample_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_bits_per_sample_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_channel_mode_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_channel_mode_values"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_ldac_playback_quality_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values"> <item>1000</item> <item>1001</item> <item>1002</item> <item>1003</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_sample_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_sample_rate_values"> <item>0</item> <item>1</item> <item>2</item> <item>4</item> <item>8</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_a2dp_codec_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_a2dp_codec_values"> <item>1000000</item> <item>0</item> <item>1</item> <item>2</item> <item>3</item> <item>4</item> <item>5</item> <item>6</item> <item>7</item> <item>8</item> <item>9</item> <item>10</item> <item>11</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bluetooth_avrcp_version_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bluetooth_avrcp_version_values"> <item>avrcp14</item> <item>avrcp13</item> <item>avrcp15</item> <item>avrcp16</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="bt_hci_snoop_log_values"
+---------------------------------------------------------------------------------------
+ <string-array name="bt_hci_snoop_log_values"> <item>disabled</item> <item>filtered</item> <item>full</item> <item>snoopheadersfiltered</item> <item>mediapktsfiltered</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="debug_hw_overdraw_values"
+---------------------------------------------------------------------------------------
+ <string-array name="debug_hw_overdraw_values"> <item>false</item> <item>show</item> <item>show_deuteranomaly</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="enable_opengl_traces_values"
+---------------------------------------------------------------------------------------
+ <string-array name="enable_opengl_traces_values"> <item>0</item> <item>1</item> <item>systrace</item> <item>error</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="hdcp_checking_values"
+---------------------------------------------------------------------------------------
+ <string-array name="hdcp_checking_values"> <item>never</item> <item>drm-only</item> <item>always</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_button_values"
+---------------------------------------------------------------------------------------
+ <string-array name="nav_bar_button_values"> <item>clipboard</item> <item>key</item> <item>menu_ime</item> <item>space</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_layouts_values"
+---------------------------------------------------------------------------------------
+ <string-array name="nav_bar_layouts_values"> <item>default</item> <item>left;back,home,recent;right</item> <item>left,back,home,recent,right;space;space</item> <item>space;space;left,back,home,recent,right</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="overlay_display_devices_values"
+---------------------------------------------------------------------------------------
+ <string-array name="overlay_display_devices_values"> <item></item> <item>720x480/142</item> <item>720x480/142,secure</item> <item>1280x720/213</item> <item>1280x720/213,secure</item> <item>1920x1080/320</item> <item>1920x1080/320,secure</item> <item>3840x2160/320</item> <item>3840x2160/320,secure</item> <item>1920x1080/320|3840x2160/640</item> <item>1920x1080/320|3840x2160/640,secure</item> <item>1280x720/213;1920x1080/320</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="select_logd_size_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logd_size_values"> <item>32768</item> <item>65536</item> <item>262144</item> <item>1048576</item> <item>4194304</item> <item>16777216</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="select_logpersist_values"
+---------------------------------------------------------------------------------------
+ <string-array name="select_logpersist_values"> <item></item> <item>all</item> <item>default,security,kernel</item> <item>kernel</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="show_non_rect_clip_values"
+---------------------------------------------------------------------------------------
+ <string-array name="show_non_rect_clip_values"> <item>hide</item> <item>region</item> <item>highlight</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="simulate_color_space_values"
+---------------------------------------------------------------------------------------
+ <string-array name="simulate_color_space_values"> <item>-1</item> <item>0</item> <item>2</item> <item>1</item> <item>3</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="track_frame_time_values"
+---------------------------------------------------------------------------------------
+ <string-array name="track_frame_time_values"> <item>false</item> <item>visual_bars</item> <item>true</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="transition_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="transition_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="tts_rate_values"
+---------------------------------------------------------------------------------------
+ <string-array name="tts_rate_values"> <item>60</item> <item>80</item> <item>100</item> <item>150</item> <item>200</item> <item>250</item> <item>300</item> <item>350</item> <item>400</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="usb_configuration_values"
+---------------------------------------------------------------------------------------
+ <string-array name="usb_configuration_values"> <item>none</item> <item>mtp</item> <item>ptp</item> <item>rndis</item> <item>audio_source</item> <item>midi</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="window_animation_scale_values"
+---------------------------------------------------------------------------------------
+ <string-array name="window_animation_scale_values"> <item>0</item> <item>.5</item> <item>1</item> <item>1.5</item> <item>2</item> <item>5</item> <item>10</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="config_cameraLaunchGestureVibePattern"
+---------------------------------------------------------------------------------------
+ <integer-array name="config_cameraLaunchGestureVibePattern"> <item>0</item> <item>400</item> </integer-array>
 
 
 ---------------------------------------------------------------------------------------
@@ -641,9 +2273,75 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Controls</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
 ---------------------------------------------------------------------------------------
  <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,freeformhang,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="com_facebook_tooltip_default"
+---------------------------------------------------------------------------------------
+ <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_content"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_content">FileDownloader is running.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_filedownloader_notification_title"
+---------------------------------------------------------------------------------------
+ <string name="default_filedownloader_notification_title">FileDownloader</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="default_web_client_id"
+---------------------------------------------------------------------------------------
+ <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_default_music_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_default_music_text">Auto</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item3_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item3_default_text">Emotions</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item4_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item4_default_text">Sunrise</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item5_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item5_default_text">Memories</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="galleryplus_gallery_video_item6_default_text"
+---------------------------------------------------------------------------------------
+ <string name="galleryplus_gallery_video_item6_default_text">Joy</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="MiuiVideoGlobal.apk" xml="" name="gcm_defaultSenderId"
+---------------------------------------------------------------------------------------
+ <string name="gcm_defaultSenderId">144285974528</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -725,6 +2423,18 @@ folder="all" application="MiuiVideoGlobal.apk" xml="" name="t_lv_subtitle_paddin
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="default_google_message_promo_content"
+---------------------------------------------------------------------------------------
+ <string name="default_google_message_promo_content">"You've set Messages by Google as your default messaging app. Tap \"Open\" to start texting."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Mms.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Slide down to open private folder</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="rcs_pref_default_sending_method"
 ---------------------------------------------------------------------------------------
  <string name="rcs_pref_default_sending_method">Lähettämisen oletusmuoto</string>
@@ -740,6 +2450,12 @@ folder="all" application="Mms.apk" xml="" name="rcs_pref_picture_message_default
 folder="all" application="Mms.apk" xml="" name="rcs_pref_video_message_default_quality"
 ---------------------------------------------------------------------------------------
  <string name="rcs_pref_video_message_default_quality">Videon pakkausasetukset</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Notes.apk" xml="" name="private_entry_default"
+---------------------------------------------------------------------------------------
+ <string name="private_entry_default">Pull down to open private folder</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -779,6 +2495,72 @@ folder="all" application="PaymentService.apk" xml="" name="mibi_prepaid_picker_t
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money"
+---------------------------------------------------------------------------------------
+ <string name="mibi_recharge_value_money">Purchase CNY %s worth of Mi Coins</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_recharge_value_money_special_unit"
+---------------------------------------------------------------------------------------
+ <string name="mibi_recharge_value_money_special_unit">Purchase %1$s %2$s worth of Mi Coins</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value">%1$s Mi Coins</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_redeemed"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_redeemed">%1$s Mi Coins redeemed</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PaymentService.apk" xml="" name="mibi_unit_value_remained"
+---------------------------------------------------------------------------------------
+ <string name="mibi_unit_value_remained">%1$s Mi Coins remained</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel"
+---------------------------------------------------------------------------------------
+ <string name="flybird_default_channel">默认付款方式</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_default_channel_main"
+---------------------------------------------------------------------------------------
+ <string name="flybird_default_channel_main">默认付款方式</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_setting_use_default"
+---------------------------------------------------------------------------------------
+ <string name="flybird_setting_use_default">默认使用</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="mini_error_title_default"
+---------------------------------------------------------------------------------------
+ <string name="mini_error_title_default">提示</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="time_default"
+---------------------------------------------------------------------------------------
+ <string name="time_default">—:—</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="upgrade_log_default"
+---------------------------------------------------------------------------------------
+ <string name="upgrade_log_default">"1. Improved performance. 2. Fixed bugs."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PersonalAssistant.apk" xml="" name="display_temperature_default"
 ---------------------------------------------------------------------------------------
  <string name="display_temperature_default">--℃</string>
@@ -815,6 +2597,24 @@ folder="all" application="PersonalAssistant.apk" xml="" name="setting_didi_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="PersonalAssistant.apk" xml="" name="flybird_nopwd_value_label"
+---------------------------------------------------------------------------------------
+ <string name="flybird_nopwd_value_label">免密金额</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="PrintSpooler.apk" xml="" name="mediasize_default"
+---------------------------------------------------------------------------------------
+ <string name="mediasize_default">ISO_A4</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_mint"
+---------------------------------------------------------------------------------------
+ <string name="terms_of_use_lable_default_input_method_mint">" You must agree to Mint Keyboard Privacy Policy before using this feature."</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_facemoji"
 ---------------------------------------------------------------------------------------
  <string name="terms_of_use_lable_default_input_method_facemoji">" Sinun täytyy hyväksyä Facemoji:n Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>
@@ -824,6 +2624,168 @@ folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default
 folder="all" application="Provision.apk" xml="" name="terms_of_use_lable_default_input_method_kika"
 ---------------------------------------------------------------------------------------
  <string name="terms_of_use_lable_default_input_method_kika">" Sinun täytyy hyväksyä Kika:n Tietosuojakäytäntö ennen tämän ominaisuuden käyttämistä."</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_default"
+---------------------------------------------------------------------------------------
+ <string name="gb_gpu_resolution_default">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_arrow_right_babubus"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_arrow_right_babubus">宝宝巴士</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_arrow_right_default"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_arrow_right_default">经典桌面</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_confirm"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_confirm">确定</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_desc"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_desc">选择宝贝喜欢的默认桌面</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_msg"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_msg">选择儿童空间桌面显示内容和方式</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_progress"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_progress">已下载%1$s%%</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="parent_center_default_home_title"
+---------------------------------------------------------------------------------------
+ <string name="parent_center_default_home_title">默认桌面设置</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_desc"
+---------------------------------------------------------------------------------------
+ <string name="password_change_value_preference_desc">初始空间锁屏密码将会用于退出儿童空间时进行验证</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityAdd.apk" xml="" name="password_change_value_preference_title"
+---------------------------------------------------------------------------------------
+ <string name="password_change_value_preference_title">修改密码</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_memory_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_memory_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="operate_memory_entryValues"
+---------------------------------------------------------------------------------------
+ <string-array name="operate_memory_entryValues"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="lock_mode_value"
+---------------------------------------------------------------------------------------
+ <string-array name="lock_mode_value"> <item>1</item> <item>0</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="pc_choice_dialog_battery_style_values"
+---------------------------------------------------------------------------------------
+ <integer-array name="pc_choice_dialog_battery_style_values"> <item>0</item> <item>1</item> <item>2</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="priority_storage_value"
+---------------------------------------------------------------------------------------
+ <string-array name="priority_storage_value"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="st_antispam_handle_methods_value"
+---------------------------------------------------------------------------------------
+ <string-array name="st_antispam_handle_methods_value"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="st_antispam_handle_methods_value_intl"
+---------------------------------------------------------------------------------------
+ <string-array name="st_antispam_handle_methods_value_intl"> <item>0</item> <item>1</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="st_antispam_notification_show_types_value"
+---------------------------------------------------------------------------------------
+ <string-array name="st_antispam_notification_show_types_value"> <item>0</item> <item>1</item> <item>2</item> </string-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="pc_choice_dialog_battery_style_values"
+---------------------------------------------------------------------------------------
+ <integer-array name="pc_choice_dialog_battery_style_values"> <item>0</item> <item>1</item> <item>2</item> </integer-array>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">More features</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_signature_default"
+---------------------------------------------------------------------------------------
+ <string name="ew_signature_default">成都高新减灾研究所 大陆地震预警中心</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_camera_title">Share without metadata by default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_subtitle"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_subtitle">Remove location info from shared photos</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_location_title"
+---------------------------------------------------------------------------------------
+ <string name="first_settings_default_location_title">Share without location info by default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="lucky_alarm_count_down_default"
+---------------------------------------------------------------------------------------
+ <string name="lucky_alarm_count_down_default">0:00:00</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -872,6 +2834,30 @@ folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragmen
 folder="all" application="SecurityCenter.apk" xml="" name="traffic_setting_fragment_default"
 ---------------------------------------------------------------------------------------
  <string name="traffic_setting_fragment_default">Valitse</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_1"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_1">" (Vibration in high-rise buildings)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_2"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_2">" (Vibration)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_3"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_3">" (Strong vibration)"</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="ew_settings_choose_level_value_4"
+---------------------------------------------------------------------------------------
+ <string name="ew_settings_choose_level_value_4">" (Severe vibration)"</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -935,9 +2921,69 @@ folder="all" application="SecurityCoreAdd.apk" xml="" name="xspace_default_setti
 
 
 ---------------------------------------------------------------------------------------
-folder="all" application="Settings.apk" xml="" name="default_vol_stream_entries"
+folder="all" application="Settings.apk" xml="" name="accessibility_summary_default_combination"
 ---------------------------------------------------------------------------------------
- <string-array name="default_vol_stream_entries"> <item>Soittoääni</item> <item>Media</item> </string-array>
+ <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="account_dashboard_default_summary"
+---------------------------------------------------------------------------------------
+ <string name="account_dashboard_default_summary">No accounts added</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_keyboard"
+---------------------------------------------------------------------------------------
+ <string name="default_keyboard">Default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="help_uri_default"
+---------------------------------------------------------------------------------------
+ <string name="help_uri_default" />
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_browser"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_browser">default, default browser</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_links"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_links">default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="keywords_default_payment_app"
+---------------------------------------------------------------------------------------
+ <string name="keywords_default_payment_app">payment, default</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_info"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_info">When another device is connected and your phone is unlocked, these settings will be applied. Only connect to trusted devices.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="usb_default_label"
+---------------------------------------------------------------------------------------
+ <string name="usb_default_label">Default USB configuration</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="wifi_badging_thresholds_default"
+---------------------------------------------------------------------------------------
+ <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1175,6 +3221,18 @@ folder="all" application="Settings.apk" xml="" name="zen_mode_custom_behavior_su
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_none"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_none">None</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="smart_home_value_unknown"
+---------------------------------------------------------------------------------------
+ <string name="smart_home_value_unknown">Unknown</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="tether_limit_value_custom"
 ---------------------------------------------------------------------------------------
  <string name="tether_limit_value_custom">Mukautettu</string>
@@ -1259,6 +3317,42 @@ folder="all" application="Telecom.apk" xml="" name="preference_summary_default_c
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="kddi_sim_lock_status_default_code"
+---------------------------------------------------------------------------------------
+ <string name="kddi_sim_lock_status_default_code">-</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data">Data card</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_data_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_data_description">Data SIM %d</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice">Default for calls</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="msim_setting_default_voice_description"
+---------------------------------------------------------------------------------------
+ <string name="msim_setting_default_voice_description">SIM %d for calls</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TeleService.apk" xml="" name="preference_summary_default_combination"
+---------------------------------------------------------------------------------------
+ <string name="preference_summary_default_combination">%1$s / %2$s</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Yhdistetty automaattisesti verkon arviointipalvelun kautta</string>
@@ -1298,6 +3392,12 @@ folder="all" application="TeleService.apk" xml="" name="msim_select_default_time
 folder="all" application="TeleService.apk" xml="" name="clh_callFailed_invalid_transaction_identifier_value_txt"
 ---------------------------------------------------------------------------------------
  <string name="clh_callFailed_invalid_transaction_identifier_value_txt">Soittaminen epäonnistui. Virhekoodi 81.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="TouchAssistant.apk" xml="" name="edge_mode_default_title"
+---------------------------------------------------------------------------------------
+ <string name="edge_mode_default_title">Default</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1682,6 +3782,42 @@ folder="all" application="Updater.apk" xml="" name="default_filedownloader_notif
 folder="all" application="Updater.apk" xml="" name="default_filedownloader_notification_title"
 ---------------------------------------------------------------------------------------
  <string name="default_filedownloader_notification_title">FileDownloader</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="default_web_client_id"
+---------------------------------------------------------------------------------------
+ <string name="default_web_client_id">555345638765-9lct5s57ied6eqd72cf7drf6baqta1o6.apps.googleusercontent.com</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="gcm_defaultSenderId"
+---------------------------------------------------------------------------------------
+ <string name="gcm_defaultSenderId">555345638765</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="news_load_more_default"
+---------------------------------------------------------------------------------------
+ <string name="news_load_more_default">上拉刷新</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="settings_atmospheric_pressure_default"
+---------------------------------------------------------------------------------------
+ <string name="settings_atmospheric_pressure_default">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="temperature_unit_default"
+---------------------------------------------------------------------------------------
+ <string name="temperature_unit_default">0</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Weather.apk" xml="" name="wind_power_unit_default"
+---------------------------------------------------------------------------------------
+ <string name="wind_power_unit_default">0</string>
 
 
 ---------------------------------------------------------------------------------------

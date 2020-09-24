@@ -13127,6 +13127,12 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="accessibility_quick_set
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite_default_title"
+---------------------------------------------------------------------------------------
+ <string name="controls_favorite_default_title">Ovládanie</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Mms.apk" xml="" name="private_entry_default"
 ---------------------------------------------------------------------------------------
  <string name="private_entry_default">Potiahnite nižšie pre otvorenie súkromnej zložky</string>

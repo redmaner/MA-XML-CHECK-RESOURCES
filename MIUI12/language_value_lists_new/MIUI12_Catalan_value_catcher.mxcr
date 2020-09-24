@@ -22,6 +22,7 @@ all Calendar.apk strings.xml miuix_search_recommendation_default_title
 all Calendar.apk strings.xml preferences_alarms_default_event
 all Calendar.apk strings.xml pull_refresh_events_default
 all Calendar.apk strings.xml work_day_default_banner_title
+all Calendar.apk strings.xml trust_certificate_validity_period_value
 all Cit.apk strings.xml cit_tool_mbn_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_no_default_notfiy
 all Cit.apk strings.xml cit_tool_mbn_recovery_default
@@ -73,6 +74,8 @@ all Health.apk strings.xml tips_default
 all Health.apk strings.xml value_error_correct
 all ManagedProvisioning.apk strings.xml car_ui_alert_dialog_default_button
 all ManagedProvisioning.apk strings.xml car_ui_toolbar_default_search_hint
+all MiDrive.apk strings.xml cloud_storage_default_title
+all MiDrive.apk strings.xml exception_default
 all MiGalleryLockscreen.apk strings.xml system_default
 all MiSettings.apk strings.xml restore_default
 all MiSettings.apk strings.xml hsv_space_color_value
@@ -169,6 +172,7 @@ all MiuiVideoGlobal.apk strings.xml plus_poster_reset_default
 all MiuiVideoGlobal.apk strings.xml plus_sort_type_default
 all MiuiVideoGlobal.apk strings.xml subtitle_padding_default_hint
 all MiuiVideoGlobal.apk strings.xml t_lv_subtitle_padding_default_hint
+all Mms.apk strings.xml default_google_message_promo_content
 all Mms.apk strings.xml private_entry_default
 all Mms.apk strings.xml rcs_pref_default_sending_method
 all Mms.apk strings.xml rcs_pref_picture_message_default_quality
@@ -203,11 +207,16 @@ all SecurityCenter.apk strings.xml app_manager_default_close_summary
 all SecurityCenter.apk strings.xml app_manager_default_open_summary
 all SecurityCenter.apk strings.xml app_manager_default_open_title
 all SecurityCenter.apk strings.xml app_manager_defaults_setting
+all SecurityCenter.apk strings.xml bottom_func_guide_default_text
 all SecurityCenter.apk strings.xml first_settings_default_camera_title
 all SecurityCenter.apk strings.xml first_settings_default_location_subtitle
 all SecurityCenter.apk strings.xml first_settings_default_location_title
 all SecurityCenter.apk strings.xml traffic_setting_fragment_default
 all SecurityCenter.apk strings.xml daily_card_setting_fragment_daily_card_brand_value
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_1
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_2
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_3
+all SecurityCenter.apk strings.xml ew_settings_choose_level_value_4
 all SecurityCoreAdd.apk strings.xml space_des_default
 all SecurityCoreAdd.apk strings.xml space_name_default
 all SecurityCoreAdd.apk strings.xml xspace_default_app_summary
@@ -272,6 +281,8 @@ all Settings.apk strings.xml usb_default_info
 all Settings.apk strings.xml usb_default_label
 all Settings.apk strings.xml wallpaper_settings_summary_default
 all Settings.apk strings.xml zen_mode_custom_behavior_summary_default
+all Settings.apk strings.xml smart_home_value_none
+all Settings.apk strings.xml smart_home_value_unknown
 all Settings.apk strings.xml tether_limit_value_custom
 all SoundPicker.apk strings.xml alarm_sound_default
 all SoundPicker.apk strings.xml notification_sound_default

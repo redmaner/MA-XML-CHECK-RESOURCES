@@ -821,6 +821,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Mais funcionalidades</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
  <string name="first_settings_default_camera_title">Partilhar sem metadados por defeito</string>

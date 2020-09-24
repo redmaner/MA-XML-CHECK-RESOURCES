@@ -1703,6 +1703,12 @@ folder="all" application="SecurityAdd.apk" xml="" name="gb_gpu_resolution_defaul
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Weitere Funktionen</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="ad_btn_default_text"
 ---------------------------------------------------------------------------------------
  <string name="ad_btn_default_text">Mehr erfahren</string>

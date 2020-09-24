@@ -1710,6 +1710,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Više značajki</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="cpu_usage_app_bg_restrict_default"
 ---------------------------------------------------------------------------------------
  <string name="cpu_usage_app_bg_restrict_default">Autom. (preporučeno)</string>
