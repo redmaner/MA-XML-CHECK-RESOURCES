@@ -857,6 +857,30 @@ folder="all" application="FileExplorer.apk" xml="" name="category_default_number
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_cache_type"
+---------------------------------------------------------------------------------------
+ <string name="default_cache_type">Дані</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_change_log"
+---------------------------------------------------------------------------------------
+ <string name="default_change_log">Оновіть програму, щоб спробувати нові функції.</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_empty_des"
+---------------------------------------------------------------------------------------
+ <string name="default_empty_des">Порожньо</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="FileExplorer.apk" xml="" name="default_error_des"
+---------------------------------------------------------------------------------------
+ <string name="default_error_des">Інтернет недоступний</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="FileExplorer.apk" xml="" name="default_prize_text"
 ---------------------------------------------------------------------------------------
  <string name="default_prize_text">Це мій приз!</string>
@@ -878,24 +902,6 @@ folder="all" application="FileExplorer.apk" xml="" name="msg_page_video_default_
 folder="all" application="FileExplorer.apk" xml="" name="user_desc_default_tip"
 ---------------------------------------------------------------------------------------
  <string name="user_desc_default_tip">Авторизуйтеся, щоб отримати бали та призи.</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_cache_type"
----------------------------------------------------------------------------------------
- <string name="default_cache_type">Дані</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_empty_des"
----------------------------------------------------------------------------------------
- <string name="default_empty_des">Порожньо</string>
-
-
----------------------------------------------------------------------------------------
-folder="all" application="FileExplorer.apk" xml="" name="default_error_des"
----------------------------------------------------------------------------------------
- <string name="default_error_des">Інтернет недоступний</string>
 
 
 ---------------------------------------------------------------------------------------

@@ -139,13 +139,14 @@ all EngineerMode.apk strings.xml sensor_ps_calibration_max_value
 all EngineerMode.apk strings.xml lte_error_set_invalid_value
 all EngineerMode.apk strings.xml lte_error_get_invalid_value
 all FileExplorer.apk strings.xml category_default_number_text
+all FileExplorer.apk strings.xml default_cache_type
+all FileExplorer.apk strings.xml default_change_log
+all FileExplorer.apk strings.xml default_empty_des
+all FileExplorer.apk strings.xml default_error_des
 all FileExplorer.apk strings.xml default_prize_text
 all FileExplorer.apk strings.xml default_user_desc
 all FileExplorer.apk strings.xml msg_page_video_default_title
 all FileExplorer.apk strings.xml user_desc_default_tip
-all FileExplorer.apk strings.xml default_cache_type
-all FileExplorer.apk strings.xml default_empty_des
-all FileExplorer.apk strings.xml default_error_des
 all FindDevice.apk strings.xml default_debt_msg_words
 all FM.apk arrays.xml sleep_duration_values_seconds
 all FM.apk strings.xml default_audio

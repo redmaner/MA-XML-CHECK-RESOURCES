@@ -2173,19 +2173,19 @@ folder="all" application="TeleService.apk" xml="" name="connected_via_network_sc
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_domain_address"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_domain_address">&lt;Nesetat&gt;</string>
+ <string name="default_preference_summary_domain_address">&lt;Nesetat></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_password"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_password">&lt;Nesetat&gt;</string>
+ <string name="default_preference_summary_password">&lt;Nesetat></string>
 
 
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="default_preference_summary_username"
 ---------------------------------------------------------------------------------------
- <string name="default_preference_summary_username">&lt;Nesetat&gt;</string>
+ <string name="default_preference_summary_username">&lt;Nesetat></string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2209,7 +2209,7 @@ folder="all" application="TeleService.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
 folder="all" application="TeleService.apk" xml="" name="msim_select_default_time_left"
 ---------------------------------------------------------------------------------------
- <string name="msim_select_default_time_left">(%ds)</string>
+ <string name="msim_select_default_time_left">(%d s)</string>
 
 
 ---------------------------------------------------------------------------------------

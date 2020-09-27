@@ -581,6 +581,12 @@ folder="all" application="MiSettings.apk" xml="" name="hsv_space_color_value"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiShare.apk" xml="" name="default_device_name"
+---------------------------------------------------------------------------------------
+ <string name="default_device_name">Unbekanntes Gerät</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiAccessibility.apk" xml="" name="preference_value_create_shortcut"
 ---------------------------------------------------------------------------------------
  <string name="preference_value_create_shortcut">Erstellen</string>

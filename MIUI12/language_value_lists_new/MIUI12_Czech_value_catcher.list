@@ -13661,6 +13661,12 @@ folder="all" application="NotificationCenter.apk" xml="" name="default_list_type
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="NQNfcNci.apk" xml="" name="default_pay_app_removed"
+---------------------------------------------------------------------------------------
+ <string name="default_pay_app_removed">Your preferred service for tap &amp; pay was removed. Choose another?</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="PackageInstaller.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
  <string name="launch_defaults_some">Some defaults set</string>
