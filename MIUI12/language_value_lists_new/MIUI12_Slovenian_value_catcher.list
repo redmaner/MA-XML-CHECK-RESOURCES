@@ -1865,6 +1865,12 @@ folder="all" application="Settings.apk" xml="" name="paper_color_values"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="accessibility_autoclick_default_title"
+---------------------------------------------------------------------------------------
+ <string name="accessibility_autoclick_default_title">Izklopljeno</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="accessibility_timeout_default"
 ---------------------------------------------------------------------------------------
  <string name="accessibility_timeout_default">Privzeto</string>
@@ -1895,6 +1901,12 @@ folder="all" application="Settings.apk" xml="" name="auto_brightness_summary_def
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">Samodejno vzpostavljena povezava preko ponudnika ocenjevanja omrežij</string>
@@ -1919,6 +1931,12 @@ folder="all" application="Settings.apk" xml="" name="default_contacts_app_title"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="default_digital_assistant_title"
+---------------------------------------------------------------------------------------
+ <string name="default_digital_assistant_title">Privzeta apl. digital. asistenta</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_calls"
 ---------------------------------------------------------------------------------------
  <string name="default_for_calls">Privzeto za klice</string>
@@ -1927,7 +1945,7 @@ folder="all" application="Settings.apk" xml="" name="default_for_calls"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_calls_and_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_calls_and_sms">Privzeto za klice in SMS-je</string>
+ <string name="default_for_calls_and_sms">Privzeto za klice in SMS-e</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1939,7 +1957,7 @@ folder="all" application="Settings.apk" xml="" name="default_for_mobile_data"
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="default_for_sms"
 ---------------------------------------------------------------------------------------
- <string name="default_for_sms">Privzeto za SMS-je</string>
+ <string name="default_for_sms">Privzeto za SMS-e</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -2027,6 +2045,12 @@ folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="graphics_driver_app_preference_default"
+---------------------------------------------------------------------------------------
+ <string name="graphics_driver_app_preference_default">Privzeto</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="importance_default"
 ---------------------------------------------------------------------------------------
  <string name="importance_default">Privzeto</string>
@@ -2069,6 +2093,12 @@ folder="all" application="Settings.apk" xml="" name="modify_default_browser_mess
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="nfc_payment_update_default_label"
+---------------------------------------------------------------------------------------
+ <string name="nfc_payment_update_default_label">Posodobite privzeto aplikacijo za plačilo</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="notifi_importance_default"
 ---------------------------------------------------------------------------------------
  <string name="notifi_importance_default">Predvajaj zvok.</string>
@@ -2099,6 +2129,18 @@ folder="all" application="Settings.apk" xml="" name="overlay_option_device_defau
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_disabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_disabled_title">Privzeto onemogočene spremembe</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="platform_compat_default_enabled_title"
+---------------------------------------------------------------------------------------
+ <string name="platform_compat_default_enabled_title">Privzeto omogočene spremembe</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="preference_summary_default_combination"
 ---------------------------------------------------------------------------------------
  <string name="preference_summary_default_combination">%1$s / %2$s</string>
@@ -2114,6 +2156,12 @@ folder="all" application="Settings.apk" xml="" name="reset_default_apn_failed"
 folder="all" application="Settings.apk" xml="" name="slider_vocie_online_default"
 ---------------------------------------------------------------------------------------
  <string name="slider_vocie_online_default">Nič</string>
+
+
+---------------------------------------------------------------------------------------
+folder="all" application="Settings.apk" xml="" name="system_default_app_subtext"
+---------------------------------------------------------------------------------------
+ <string name="system_default_app_subtext">Sistemsko privzeto</string>
 
 
 ---------------------------------------------------------------------------------------

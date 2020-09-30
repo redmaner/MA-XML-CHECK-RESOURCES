@@ -559,7 +559,7 @@ folder="all" application="framework-res.apk" xml="" name="default_audio_route_na
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="default_browser"
 ---------------------------------------------------------------------------------------
- <string name="default_browser"/>
+ <string name="default_browser" />
 
 
 ---------------------------------------------------------------------------------------
@@ -583,7 +583,7 @@ folder="all" application="framework-res.apk" xml="" name="etws_primary_default_m
 ---------------------------------------------------------------------------------------
 folder="all" application="framework-res.apk" xml="" name="etws_primary_default_message_others"
 ---------------------------------------------------------------------------------------
- <string name="etws_primary_default_message_others"/>
+ <string name="etws_primary_default_message_others" />
 
 
 ---------------------------------------------------------------------------------------
@@ -1291,7 +1291,7 @@ folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="controls_favorite
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUIPlugin.apk" xml="" name="quick_settings_tiles_default"
 ---------------------------------------------------------------------------------------
- <string name="quick_settings_tiles_default">celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,personalizat(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),personalizat(com.miui.mishare.connectivity/.tile.MiShareTileService),mod energie,freeformhang,personalizat(com.miui.screenrecorder/.service.QuickService),vibrație,hotspot,sincronizare,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),butoane ecran,putere wireless,nfc,editare</string>
+ <string name="quick_settings_tiles_default">vowifi1,vowifi2,celulă,wi-fi,lanternă,mut,captură de ecran,bt,iluminare automată,avion,blocare ecran,gps,rotire,scaner,mod hârtie,noapte,mod silențios,economisire acumulator,ultra economisire acumulator,personalizat(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),personalizat(com.milink.service/com.milink.ui.service.MiLinkTileService),personalizat(com.miui.mishare.connectivity/.tile.MiShareTileService),mod energie,freeformhang,personalizat(com.miui.screenrecorder/.service.QuickService),vibrație,hotspot,sincronizare,personalizat(com.google.android.gms/.nearby.sharing.SharingTileService),butoane ecran,putere wireless,nfc,editare</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1631,6 +1631,12 @@ folder="all" application="SecurityCenter.apk" xml="" name="app_manager_defaults_
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="SecurityCenter.apk" xml="" name="bottom_func_guide_default_text"
+---------------------------------------------------------------------------------------
+ <string name="bottom_func_guide_default_text">Mai multe caracteristici</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="SecurityCenter.apk" xml="" name="first_settings_default_camera_title"
 ---------------------------------------------------------------------------------------
  <string name="first_settings_default_camera_title">Partajați în mod implicit fără metadate</string>
@@ -1939,7 +1945,7 @@ folder="all" application="Settings.apk" xml="" name="game_driver_app_preference_
 ---------------------------------------------------------------------------------------
 folder="all" application="Settings.apk" xml="" name="help_uri_default"
 ---------------------------------------------------------------------------------------
- <string name="help_uri_default"/>
+ <string name="help_uri_default" />
 
 
 ---------------------------------------------------------------------------------------

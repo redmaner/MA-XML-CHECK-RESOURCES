@@ -337,7 +337,7 @@ folder="all" application="Email.apk" xml="" name="default_signature_2"
 ---------------------------------------------------------------------------------------
 folder="all" application="Email.apk" xml="" name="file_default_save_path_title"
 ---------------------------------------------------------------------------------------
- <string name="file_default_save_path_title">첨부파일의 기본 위치</string>
+ <string name="file_default_save_path_title">첨부 파일의 기본 위치</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1013,6 +1013,12 @@ folder="all" application="MiuiScanner.apk" xml="" name="language_value_swedish"
 
 
 ---------------------------------------------------------------------------------------
+folder="all" application="MiuiSystemUI.apk" xml="" name="cached_apps_freezer_device_default"
+---------------------------------------------------------------------------------------
+ <string name="cached_apps_freezer_device_default">기기 기본값</string>
+
+
+---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="connected_via_network_scorer_default"
 ---------------------------------------------------------------------------------------
  <string name="connected_via_network_scorer_default">네트워크 등급 제공자를 통해 자동 연결됨</string>
@@ -1045,7 +1051,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="launch_defaults_some"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="lock_screen_magazine_default_content"
 ---------------------------------------------------------------------------------------
- <string name="lock_screen_magazine_default_content">매일 배달되는 새로운 이미지</string>
+ <string name="lock_screen_magazine_default_content">매일 달라지는 새로운 이미지</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1063,7 +1069,7 @@ folder="all" application="MiuiSystemUI.apk" xml="" name="nav_bar_default"
 ---------------------------------------------------------------------------------------
 folder="all" application="MiuiSystemUI.apk" xml="" name="notification_default_channel_desc"
 ---------------------------------------------------------------------------------------
- <string name="notification_default_channel_desc">이 앱은 알림 카테고리가 없습니다.</string>
+ <string name="notification_default_channel_desc">이 앱에는 알림 카테고리가 없습니다.</string>
 
 
 ---------------------------------------------------------------------------------------
@@ -1862,7 +1868,7 @@ folder="all" application="SecurityCenter.apk" xml="" name="first_settings_defaul
 folder="all" application="SecurityCenter.apk" xml="" name="tc_diagnostic_fragment_default"
 ---------------------------------------------------------------------------------------
  <string name="tc_diagnostic_fragment_default">진단에 대해서
-1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다.
+1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요됩니다.
 2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다.</string>
 
 
