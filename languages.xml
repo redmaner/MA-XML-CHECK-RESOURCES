@@ -7,6 +7,7 @@
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MIUI-XML-13-CZECH" git="git@github.com:MIUICzech-Slovak/MIUI-XML-13-CZECH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="French" iso="fr" url="https://github.com/pmspr4100/MA-XML-13-FRENCH" git="git@github.com:pmspr4100/MA-XML-13-FRENCH.git" branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="German" iso="de" url="https://github.com/berlinux2016/MIUI13" git="git@github.com:berlinux2016/MIUI13.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="13" name="Italian" iso="it" url="https://github.com/BIOLorenz/Xiaomi.eu-MIUI_v13-Italian" git="git@github.com:BIOLorenz/Xiaomi.eu-MIUI_v13-Italian.git" branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Korean" iso="ko" url="https://github.com/cjhyuky/MA-XML-MIUI13-KOREAN" git="git@github.com:cjhyuky/MA-XML-MIUI13-KOREAN.git" branch="master"/>
 	<language check="check_all" fix="none" miui="13" name="Polish" iso="pl" url="https://bitbucket.org/kacskrz/xml_miui-v13"  git="git@bitbucket.org:kacskrz/xml_miui-v13.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MIUI-XML-13-PORTUGUESE" git="git@github.com:KcNirvana/MIUI-XML-13-PORTUGUESE.git" branch="main"/>
@@ -47,7 +48,6 @@
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Greek" iso="el" url="ingbrzy/MA-XML-10-GREEK-Global" git="git@github.com:ingbrzy/MA-XML-10-GREEK-Global.git" branch="master"/>	
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Hebrew" iso="iw" url="https://github.com/ingbrzy/MA-XML-10-HEBREW-Global" git="git@github.com:ingbrzy/MA-XML-10-HEBREW-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Hungarian" iso="hu" url="https://github.com/ingbrzy/MA-XML-10-HUNGARIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-HUNGARIAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="13" name="Italian" iso="it" url="https://github.com/ingbrzy/MA-XML-13-ITALIAN-Global" git="git@github.com:ingbrzy/MA-XML-13-ITALIAN-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Japanese" iso="ja" url="https://github.com/ingbrzy/MA-XML-13-JAPANESE-Global" git="git@github.com:ingbrzy/MA-XML-13-JAPANESE-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Norwegian" iso="nb" url="https://github.com/ingbrzy/MA-XML-10-NORWEGIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-NORWEGIAN-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Persian" iso="fa-rIR" url="https://github.com/ingbrzy/MA-XML-12-PERSIAN-Global" git="git@github.com:ingbrzy/MA-XML-12-PERSIAN-Global.git" branch="master"/>
