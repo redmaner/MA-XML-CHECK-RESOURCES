@@ -124,6 +124,8 @@
 	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="sdcard_select_default_path"/>
 	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="wifi_tether_configure_ssid_default_for_cmcc"/>
 	<item folder="all" application="mediatek-res.apk" file="strings.xml" name="wt_default_wallpaper_name"/>
+	<item folder="all" application="MiFitness.apk" file="arrays.xml" name="device_settings_face_fun"/>
+	<item folder="all" application="MiFitness.apk" file="arrays.xml" name="face_fun"/>
 	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="alarm_value"/>
 	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="media_value"/>
 	<item folder="all" application="MiTagApp.apk" file="strings.xml" name="notification_value"/>
