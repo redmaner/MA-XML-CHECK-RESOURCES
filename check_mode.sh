@@ -4,7 +4,6 @@
 check_basic () {
 		max_proces; xml_check_parser &
 		max_proces; xml_check_doubles &
-		max_proces; xml_check_apostrophe &
 		max_proces; xml_check_values &
 		max_proces; xml_check_plus &
 		max_proces; xml_check_variables &      
@@ -14,7 +13,6 @@ check_basic () {
 check_all () {
 		max_proces; xml_check_parser &
 		max_proces; xml_check_doubles &
-		max_proces; xml_check_apostrophe &
 		max_proces; xml_check_values &
 		max_proces; xml_check_plus &
 		max_proces; xml_check_variables &
@@ -24,7 +22,6 @@ check_all () {
 
 check_all_fix () {
 		max_proces; xml_check_parser &
-		max_proces; xml_check_apostrophe &
 		max_proces; xml_check_values &
 		max_proces; xml_check_plus &
 		max_proces; xml_check_variables &
