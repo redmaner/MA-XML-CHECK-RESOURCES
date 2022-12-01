@@ -2,6 +2,7 @@
 <languages>
 
 	<!-- MIUI14 repo's - Alfabetical order-->
+	<language check="check_all" fix="fix_untranslateable" miui="14" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/RicardoGuariento/MIUI-XML-14-BRAZILIAN" git="git@github.com:RicardoGuariento/MIUI-XML-14-BRAZILIAN.git"  branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="14" name="Belorussian" iso="be" url="https://github.com/BusnjukAn/MA-XML-14-BELORUSSIAN" git="git@github.com:BusnjukAn/MA-XML-14-BELORUSSIAN.git" branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="14" name="Croatian" iso="hr" url="https://github.com/MASVA/MIUI-14-XML-CROATIAN" git="git@github.com:MASVA/MIUI-14-XML-CROATIAN.git" branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="14" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MIUI-XML-14-CZECH" git="git@github.com:MIUICzech-Slovak/MIUI-XML-14-CZECH.git" branch="master"/>
