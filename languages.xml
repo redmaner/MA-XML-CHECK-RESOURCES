@@ -16,6 +16,7 @@
 	<language check="check_all" fix="fix_untranslateable" miui="14" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MIUI-XML-14-SLOVAK" git="git@github.com:MIUICzech-Slovak/MIUI-XML-14-SLOVAK.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="14" name="Slovenian" iso="sl" url="https://github.com/bostjan2016/MIUI-14_SLOVENIAN" git="git@github.com:bostjan2016/MIUI-14_SLOVENIAN.git" branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="14" name="Spanish" iso="es" url="https://github.com/deivids84/MA-XML-14-SPANISH" git="git@github.com:deivids84/MA-XML-14-SPANISH.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="14" name="Vietnamese" iso="vi" url="https://github.com/butinhi/MIUI-14-XML-Vietnamese" git="git@github.com:butinhi/MIUI-14-XML-Vietnamese.git" branch="master"/>
 	
 	<!-- MIUI13 repo's - Alfabetical order-->
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/RicardoGuariento/MIUI-XML-13-BRAZILIAN" git="git@github.com:RicardoGuariento/MIUI-XML-13-BRAZILIAN.git"  branch="main"/>
@@ -35,10 +36,8 @@
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Spanish" iso="es" url="https://github.com/deivids84/MA-XML-13-SPANISH" git="git@github.com:deivids84/MA-XML-13-SPANISH.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Turkish" iso="tr" url="https://github.com/suat074/MA-XML-13-TURKISH" git="git@github.com:suat074/MA-XML-13-TURKISH.git" branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Ukrainian" iso="uk" url="https://github.com/Andrex2287/MIUI-13-UKRAINIAN" git="git@github.com:Andrex2287/MIUI-13-UKRAINIAN.git" branch="master"/>
-	<language check="check_all" fix="none" miui="13" name="Vietnamese" iso="vi" url="https://github.com/Belmont-Gabriel/MIUI-12-XML-Vietnamese" git="git@github.com:Belmont-Gabriel/MIUI-12-XML-Vietnamese.git" branch="master"/>
 	
 	<!-- MIUI Global repo's - Alfabetical order-->
-	
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Arabic" iso="ar" url="https://github.com/ingbrzy/MA-XML-10-ARABIC-Global" git="git@github.com:ingbrzy/MA-XML-10-ARABIC-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Belorussian" iso="be" url="https://github.com/ingbrzy/MA-XML-10-BELORUSSIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-BELORUSSIAN-Global.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="13" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-10-BULGARIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-BULGARIAN-Global.git" branch="master"/>
