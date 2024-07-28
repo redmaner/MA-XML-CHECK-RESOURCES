@@ -20,44 +20,10 @@
 	<language check="check_all" fix="fix_untranslateable" miui="15" name="Spanish" iso="es" url="https://github.com/DqrKnzx/HyperOS-XML-1.0-SPANISH" git="git@github.com:DqrKnzx/HyperOS-XML-1.0-SPANISH.git" branch="master"/>
 	
 	
-	<!-- MIUI14 repo's - Alfabetical order-->
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/RicardoGuariento/MIUI-XML-14-BRAZILIAN" git="git@github.com:RicardoGuariento/MIUI-XML-14-BRAZILIAN.git"  branch="main"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Belorussian" iso="be" url="https://github.com/BusnjukAn/MA-XML-14-BELORUSSIAN" git="git@github.com:BusnjukAn/MA-XML-14-BELORUSSIAN.git" branch="main"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Catalan" iso="ca" url="https://github.com/deivids84/MA-XML-14-CATALAN" git="git@github.com:deivids84/MA-XML-14-CATALAN.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Croatian" iso="hr" url="https://github.com/MASVA/MIUI-14-XML-CROATIAN" git="git@github.com:MASVA/MIUI-14-XML-CROATIAN.git" branch="main"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/MIUI-XML-14-CZECH" git="git@github.com:MIUICzech-Slovak/MIUI-XML-14-CZECH.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="French" iso="fr" url="https://github.com/pmspr4100/MA-XML-14-FRENCH" git="git@github.com:pmspr4100/MA-XML-14-FRENCH.git" branch="main"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="German" iso="de" url="https://github.com/berlinux2016/MIUI14" git="git@github.com:berlinux2016/MIUI14.git" branch="master"/>
-	<language check="check_all" fix="none" miui="14" name="Polish" iso="pl" url="https://github.com/kacskrz/xiaomi.eu_PL_V14"  git="git@github.com:kacskrz/xiaomi.eu_PL_V14.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Portuguese" iso="pt-rPT" url="https://github.com/KcNirvana/MIUI-XML-14-PORTUGUESE" git="git@github.com:KcNirvana/MIUI-XML-14-PORTUGUESE.git" branch="main"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Romanian" iso="ro" url="https://github.com/ashtefan/Romanian_MIUI_14"  git="git@github.com:ashtefan/Romanian_MIUI_14.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Russian" iso="ru" url="https://github.com/ingbrzy/MA-XML-14-RUSSIAN" git="git@github.com:ingbrzy/MA-XML-14-RUSSIAN.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/MIUI-XML-14-SLOVAK" git="git@github.com:MIUICzech-Slovak/MIUI-XML-14-SLOVAK.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Slovenian" iso="sl" url="https://github.com/bostjan2016/MIUI-14_SLOVENIAN" git="git@github.com:bostjan2016/MIUI-14_SLOVENIAN.git" branch="main"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Spanish" iso="es" url="https://github.com/deivids84/MA-XML-14-SPANISH" git="git@github.com:deivids84/MA-XML-14-SPANISH.git" branch="master"/>
+	<!-- MIUI14 repo -->
 	<language check="check_all" fix="fix_untranslateable" miui="14" name="Vietnamese" iso="vi" url="https://github.com/butinhi/MIUI-14-XML-Vietnamese" git="git@github.com:butinhi/MIUI-14-XML-Vietnamese.git" branch="master"/>
 	
-	<!-- MIUI Global repo's - Alfabetical order-->
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Arabic" iso="ar" url="https://github.com/ingbrzy/MA-XML-10-ARABIC-Global" git="git@github.com:ingbrzy/MA-XML-10-ARABIC-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Belorussian" iso="be" url="https://github.com/ingbrzy/MA-XML-10-BELORUSSIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-BELORUSSIAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Bulgarian" iso="bg" url="https://github.com/ingbrzy/MA-XML-10-BULGARIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-BULGARIAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Burmese" iso="my" url="https://github.com/ingbrzy/MA-XML-10-BURMESE-Global" git="git@github.com:ingbrzy/MA-XML-10-BURMESE-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Danish" iso="da" url="https://github.com/ingbrzy/MA-XML-10-DANISH-Global" git="git@github.com:ingbrzy/MA-XML-10-DANISH-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Dutch" iso="nl" url="https://github.com/ingbrzy/MA-XML-11-DUTCH-Global" git="git@github.com:ingbrzy/MA-XML-11-DUTCH-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Finnish" iso="fi" url="https://github.com/ingbrzy/MA-XML-12-FINNISH-Global" git="git@github.com:ingbrzy/MA-XML-12-FINNISH-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Greek" iso="el" url="https://github.com/ingbrzy/MA-XML-10-GREEK-Global" git="git@github.com:ingbrzy/MA-XML-10-GREEK-Global.git" branch="master"/>	
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Hebrew" iso="iw" url="https://github.com/ingbrzy/MA-XML-10-HEBREW-Global" git="git@github.com:ingbrzy/MA-XML-10-HEBREW-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="15" name="Italian" iso="it" url="https://github.com/ingbrzy/MA-XML-13-ITALIAN-Global" git="git@github.com:ingbrzy/MA-XML-13-ITALIAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Hungarian" iso="hu" url="https://github.com/ingbrzy/MA-XML-10-HUNGARIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-HUNGARIAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Japanese" iso="ja" url="https://github.com/ingbrzy/MA-XML-13-JAPANESE-Global" git="git@github.com:ingbrzy/MA-XML-13-JAPANESE-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="15" name="Korean" iso="ko" url="https://github.com/ingbrzy/HyperOS-XML-1.0-KOREAN-Global" git="git@github.com:ingbrzy/HyperOS-XML-1.0-KOREAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Lithuanian" iso="lt" url="https://github.com/ingbrzy/MA-XML-14-LITHUANIAN-Global" git="git@github.com:ingbrzy/MA-XML-14-LITHUANIAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Norwegian" iso="nb" url="https://github.com/ingbrzy/MA-XML-10-NORWEGIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-NORWEGIAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Persian" iso="fa-rIR" url="https://github.com/ingbrzy/MA-XML-12-PERSIAN-Global" git="git@github.com:ingbrzy/MA-XML-12-PERSIAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Serbian" iso="sr" url="https://github.com/ingbrzy/MA-XML-10-SERBIAN-Global" git="git@github.com:ingbrzy/MA-XML-10-SERBIAN-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Swedish" iso="sv" url="https://github.com/ingbrzy/MA-XML-10-SWEDISH-Global" git="git@github.com:ingbrzy/MA-XML-10-SWEDISH-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="14" name="Thai" iso="th" url="https://github.com/ingbrzy/MA-XML-10-THAI-Global" git="git@github.com:ingbrzy/MA-XML-10-THAI-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="15" name="Turkish" iso="tr" url="https://github.com/ingbrzy/HyperOS-XML-1.0-TURKISH-Global" git="git@github.com:ingbrzy/HyperOS-XML-1.0-TURKISH-Global.git" branch="master"/>
-	<language check="check_all" fix="fix_untranslateable" miui="15" name="Ukrainian" iso="uk" url="https://github.com/ingbrzy/HyperOS-XML-1.0-UKRAINIAN-Global" git="git@github.com:ingbrzy/HyperOS-XML-1.0-UKRAINIAN-Global.git" branch="master"/>
-	
+	<!-- MIUI Global repo -->
+	<language check="check_all" fix="fix_untranslateable" miui="15" name="Global" url="https://github.com/ingbrzy/Xiaomi.eu-HyperOS-1.0-XML-Global" git="git@github.com:ingbrzy/Xiaomi.eu-HyperOS-1.0-XML-Global.git" branch="master"/>
+
 </languages>
