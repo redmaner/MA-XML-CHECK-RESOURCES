@@ -1,7 +1,15 @@
 <?xml version="1.0"?>
 <languages>
 
-	<!-- HyperOS (MIUI15) repo's - Alfabetical order-->
+	<!-- HyperOS2.0 (MIUI16) repo's - Alfabetical order-->
+	<language check="check_all" fix="fix_untranslateable" miui="16" name="Azerbaijani" iso="az" url="https://github.com/shahinf27/HyperOS-XML-2.0-AZERBAIJANI" git="git@github.com:shahinf27/HyperOS-XML-2.0-AZERBAIJANI.git"  branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="16" name="Croatian" iso="hr" url="https://github.com/MASVA/HyperOS-2.0-XML-CROATIAN-TRANSLATION" git="git@github.com:MASVA/HyperOS-2.0-XML-CROATIAN-TRANSLATION.git" branch="main"/>	
+	<language check="check_all" fix="fix_untranslateable" miui="16" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/HyperOS-XML-2.0-CZECH" git="git@github.com:MIUICzech-Slovak/HyperOS-XML-2.0-CZECH.git" branch="master"/>
+	<language check="check_all" fix="fix_untranslateable" miui="16" name="German" iso="de" url="https://github.com/berlinux2016/HyperOS-2.0" git="git@github.com:berlinux2016/HyperOS-2.0.git" branch="master"/>	
+	<language check="check_all" fix="fix_untranslateable" miui="16" name="Slovak" iso="sk" url="https://github.com/MIUICzech-Slovak/HyperOS-XML-2.0-SLOVAK" git="git@github.com:MIUICzech-Slovak/HyperOS-XML-2.0-SLOVAK.git" branch="master"/>	
+	<language check="check_all" fix="none" miui="16" name="Polish" iso="pl" url="https://github.com/kacskrz/xiaomi.eu_PL_HyperOS2.0"  git="git@github.com:kacskrz/xiaomi.eu_PL_HyperOS2.0.git" branch="master"/>	
+		
+	<!-- HyperOS1.0 (MIUI15) repo's - Alfabetical order-->
 	<language check="check_all" fix="fix_untranslateable" miui="15" name="Azerbaijani" iso="az" url="https://github.com/shahinf27/HyperOS-XML-1.0-AZERBAIJANI" git="git@github.com:shahinf27/HyperOS-XML-1.0-AZERBAIJANI.git"  branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="15" name="Brazilian-Portuguese" iso="pt-rBR" url="https://github.com/RicardoGuariento/HyperOS-XML-15-BRAZILIAN" git="git@github.com:RicardoGuariento/HyperOS-XML-15-BRAZILIAN.git"  branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="15" name="Belorussian" iso="be" url="https://github.com/BusnjukAn/HyperOS-XML-1.0-BELORUSSIAN" git="git@github.com:BusnjukAn/HyperOS-XML-1.0-BELORUSSIAN.git" branch="main"/>

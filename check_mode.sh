@@ -17,7 +17,7 @@ check_all () {
 		max_proces; xml_check_plus &
 		max_proces; xml_check_variables &
 		max_proces; xml_check_formatted_false &
-        max_proces; xml_check_untranslateable &
+        	max_proces; xml_check_untranslateable &
 }     
 
 check_all_fix () {
