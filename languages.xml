@@ -13,7 +13,7 @@
 	<!-- HyperOS1.0 (MIUI15) repo's - Alfabetical order-->
 	<language check="check_all" fix="fix_untranslateable" miui="15" name="Azerbaijani" iso="az" url="https://github.com/shahinf27/HyperOS-XML-1.0-AZERBAIJANI" git="git@github.com:shahinf27/HyperOS-XML-1.0-AZERBAIJANI.git"  branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="15" name="Portuguese-Brazil" iso="pt-rBR" url="https://github.com/RicardoGuariento/HyperOS-XML-15-BRAZILIAN" git="git@github.com:RicardoGuariento/HyperOS-XML-15-BRAZILIAN.git"  branch="main"/>
-	<language check="check_all" fix="fix_untranslateable" miui="15" name="Belorussian" iso="be" url="https://github.com/BusnjukAn/HyperOS-XML-1.0-BELORUSSIAN" git="git@github.com:BusnjukAn/HyperOS-XML-1.0-BELORUSSIAN.git" branch="main"/>
+	<language check="check_all" fix="none" miui="15" name="Belorussian" iso="be" url="https://github.com/BusnjukAn/HyperOS-XML-1.0-BELORUSSIAN" git="git@github.com:BusnjukAn/HyperOS-XML-1.0-BELORUSSIAN.git" branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="15" name="Catalan" iso="ca" url="https://github.com/deivids84/HyperOS-XML-1.0-CATALAN" git="git@github.com:deivids84/HyperOS-XML-1.0-CATALAN.git" branch="master"/>
 	<language check="check_all" fix="fix_untranslateable" miui="15" name="Croatian" iso="hr" url="https://github.com/MASVA/HyperOS-1.0-XML-CROATIAN-TRANSLATION" git="git@github.com:MASVA/HyperOS-1.0-XML-CROATIAN-TRANSLATION.git" branch="main"/>	
 	<language check="check_all" fix="fix_untranslateable" miui="15" name="Czech" iso="cs" url="https://github.com/MIUICzech-Slovak/HyperOS-XML-15-CZECH" git="git@github.com:MIUICzech-Slovak/HyperOS-XML-15-CZECH.git" branch="master"/>
