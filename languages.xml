@@ -2,6 +2,12 @@
 <languages>
 
 	<!-- HyperOS2.0 (MIUI16) repo's - Alfabetical order-->
+	<language check="check_all" fix="none" miui="17" name="Azerbaijani" iso="az" url="https://github.com/shahinf27/HyperOS-XML-3.0-AZERBAIJANI" git="git@github.com:shahinf27/HyperOS-XML-3.0-AZERBAIJANI.git"  branch="main"/>	
+	<language check="check_all" fix="fix_untranslateable" miui="17" name="Croatian" iso="hr" url="https://github.com/MASVA/HyperOS-3.0-XML-CROATIAN-TRANSLATION" git="git@github.com:MASVA/HyperOS-3.0-XML-CROATIAN-TRANSLATION.git" branch="main"/>		
+	<language check="check_all" fix="none" miui="17" name="Polish" iso="pl" url="https://github.com/kacskrz/xiaomi.eu_PL_HyperOS3.0"  git="git@github.com:kacskrz/xiaomi.eu_PL_HyperOS3.0.git" branch="master"/>	
+	<language check="check_all" fix="fix_untranslateable" miui="17" name="Portuguese-Brazil" iso="pt-rBR" url="https://github.com/EduardoRGCM/HyperOS-XML-3.0-BRAZILIAN" git="git@github.com:EduardoRGCM/HyperOS-XML-3.0-BRAZILIAN.git"  branch="main"/>	
+	
+	<!-- HyperOS2.0 (MIUI16) repo's - Alfabetical order-->
 	<language check="check_all" fix="none" miui="16" name="Azerbaijani" iso="az" url="https://github.com/shahinf27/HyperOS-XML-2.0-AZERBAIJANI" git="git@github.com:shahinf27/HyperOS-XML-2.0-AZERBAIJANI.git"  branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="16" name="Portuguese-Brazil" iso="pt-rBR" url="https://github.com/EduardoRGCM/HyperOS-XML-2.0-BRAZILIAN" git="git@github.com:EduardoRGCM/HyperOS-XML-2.0-BRAZILIAN.git"  branch="main"/>
 	<language check="check_all" fix="fix_untranslateable" miui="16" name="Croatian" iso="hr" url="https://github.com/MASVA/HyperOS-2.0-XML-CROATIAN-TRANSLATION" git="git@github.com:MASVA/HyperOS-2.0-XML-CROATIAN-TRANSLATION.git" branch="main"/>	
